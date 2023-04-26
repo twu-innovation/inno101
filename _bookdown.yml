@@ -1,6 +1,6 @@
-book_filename: "template"
+book_filename: "inno101"
 language:
   ui:
-    chapter_name: "Unit "
-delete_merged_file: true
+    chapter_name: "Action "
+delete_merged_file: false
 output_dir: "docs"

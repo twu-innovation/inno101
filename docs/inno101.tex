@@ -1,0 +1,264 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\usepackage{tcolorbox}
+
+
+\newtcolorbox{blackbox}{
+  colback=black,
+  coltext=white,
+  colframe=black,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{bonus}{
+  colback=blue!15,
+  colframe=blue!15,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{reflect}{
+  colback=green!5,
+  colframe=green!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{assessment}{
+  colback=blue!5,
+  colframe=blue!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{progress}{
+  colback=purple!10,
+  colframe=purple!10,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{video}{
+  colback=yellow!5,
+  colframe=yellow!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{caution}{
+  colback=red!5,
+  colframe=red!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{feedback}{
+  colback=black!5,
+  colframe=black!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Innovation 101},
+  pdfauthor={Colin Madland},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Innovation 101}
+\author{Colin Madland}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{welcome}{%
+\chapter*{Welcome}\label{welcome}}
+\addcontentsline{toc}{chapter}{Welcome}
+
+\emph{Insert the course description here.}
+
+\begin{feedback}
+\textbf{Tips for Instructors:} Consider this description as a hook to
+get students interested in your course. Describe the big ideas of your
+course, summarize what students will learn, explain why it matters.
+\textbf{\emph{Note that if there are any changes to a course
+description, these need to be approved by Senate.}}
+\end{feedback}
+
+\hypertarget{how-to-navigate-this-book}{%
+\subsection*{How To Navigate This Book}\label{how-to-navigate-this-book}}
+\addcontentsline{toc}{subsection}{How To Navigate This Book}
+
+To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
+\includegraphics{assets/course-intro/menu.png}
+
+The faint left and right arrows at the sides of each page (or bottom of the page if it's narrow enough) allow you to step to the next/previous section. Here's what they look like:
+\includegraphics{assets/course-intro/left_arrow.png} \includegraphics{assets/course-intro/right_arrow.png}
+
+You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at \href{mailto:elearning@twu.ca}{\nolinkurl{elearning@twu.ca}}
+
+\hypertarget{course-units}{%
+\subsection*{Course Units}\label{course-units}}
+\addcontentsline{toc}{subsection}{Course Units}
+
+This course is organized into 10 units. Each unit of the course will provide you with the following information:
+
+\begin{itemize}
+\tightlist
+\item
+  A general overview of the key concepts that will be addressed during the unit.\\
+\item
+  Specific learning outcomes and topics for the unit.\\
+\item
+  Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.\\
+\item
+  The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.
+\end{itemize}
+
+\begin{caution}
+Note that assessments, including assignments and discussion posts will
+be submitted in Moodle. See the Assessment tab in Moodle for the
+assignment dropboxes.
+\end{caution}
+
+\hypertarget{course-activities}{%
+\subsection*{Course Activities}\label{course-activities}}
+\addcontentsline{toc}{subsection}{Course Activities}
+
+Below is some key information on features you will see throughout the course.~
+
+\begin{reflect}
+\textbf{\emph{Learning Activity}}\\
+This box will prompt you to engage in course concepts, often by viewing
+resources and reflecting on your experience and/or learning. Most
+learning activities are ungraded and are designed to help prepare you
+for the assessment in this course.
+\end{reflect}
+
+\begin{assessment}
+\textbf{\emph{Assessment}}\\
+This box will signify an assignment or discussion post you will submit
+in Moodle. Note that these demonstrate your understanding of the course
+learning outcomes. Be sure to review the grading rubrics for each
+assignment.
+\end{assessment}
+
+\begin{progress}
+\textbf{\emph{Checking Your Learning}}\\
+This box is for checking your understanding, to make sure you are ready
+for what follows.
+\end{progress}
+
+\begin{feedback}
+\textbf{\emph{Note}}\\
+This box signifies Tips for Instructors. Please delete these before you
+share this course book with your students!
+\end{feedback}
+
+\hypertarget{title}{%
+\chapter{Title}\label{title}}
+
+\hypertarget{title-1}{%
+\chapter{Title}\label{title-1}}
+
+\hypertarget{title-2}{%
+\chapter{Title}\label{title-2}}
+
+\hypertarget{title-3}{%
+\chapter{Title}\label{title-3}}
+
+\hypertarget{title-4}{%
+\chapter{Title}\label{title-4}}
+
+\hypertarget{title-5}{%
+\chapter{Title}\label{title-5}}
+
+\hypertarget{title-6}{%
+\chapter{Title}\label{title-6}}
+
+\hypertarget{title-7}{%
+\chapter{Title}\label{title-7}}
+
+\hypertarget{references}{%
+\chapter*{References}\label{references}}
+\addcontentsline{toc}{chapter}{References}
+
+The following are key references used in this course. \textbf{\emph{Check with your course syllabus for required readings.}}
+
+  \bibliography{book.bib}
+
+\end{document}

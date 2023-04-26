@@ -7,7 +7,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Template</a></li>
       after: |
-        <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/twu-innovation/inno101" target="blank">Published with bookdown</a></li>
   download: ["pdf"]
 bookdown::pdf_book:
   includes:

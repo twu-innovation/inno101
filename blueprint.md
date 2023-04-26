@@ -1,4 +1,4 @@
-# Blueprint for ...
+# Blueprint for INNO101
 
 - Moodle Master site: https://learn.twu.ca/course/...  
 - Bookdown site: https://....github.io/...   
@@ -8,7 +8,11 @@ Begin the design process by identifying 1-2 ideas and a few essential questions 
 
 ### Big Idea #1
 
+Digital technologies have impacted almost every area of modern life, including learning, playing, and working.
 
+> I'd like to put together a proposal for a course (INNO101/501, in my head) called something similar to "Learning with Technology" that leads learners on a path of discovery about the types of activities that they will need to succeed in tech-mediated learning for life, and helps them discover and revise workflows using tools that they have access to. The basic structure would follow principles of personal knowledge management (finding, gathering, sorting, filtering, summarizing, connecting, creating & sharing knowledge), personal domain building with web tools (publishing, curating, presenting), and personal network building (bridging, building, connecting people). Along the way, the verbs above are enabled in tools and categories of tools that can enhance efficiency and productivity without costing privacy and data (MSOffice [but only because it's still necessary], WordPress, Zotero, Obsidian, git, scite.ai, litmaps.ai...)
+
+> I'm becoming more convinced that the appropriate response to ChatGPT-esque tools right now is to focus more on process and building evaluative judgement over product. While AI can certainly produce artifacts that look like the preliminary stages of writing a paper (brainstorming ideas, outlines, drafts, etc), I don't think it has the ability to create connected knowledge maps...
 ### Big Idea #2
 
 
@@ -33,6 +37,13 @@ What are the big problems in your field? How does your field intersect with cult
 
 Enter your course description here (use the official TWU course description from the syllabus).
 
+<!--
+EDCI 136
+Learning in an Open and Connected World
+Credits
+1.5
+Introduces concepts and practices in internet-enabled learning environments. Examines how digital, networked and open access technologies can enrich learning and the learning of others in an interconnected world in which learners locate, curate and disseminate knowledge. Learners develop portfolios and lifelong access to learning networks that contribute to their professional practice in legal, safe, consensual and ethical ways, based on their understanding of intellectual property and their rights, responsibilities and opportunities.
+-->
 
 
 ## Course Learning Outcomes

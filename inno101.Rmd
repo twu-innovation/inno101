@@ -71,3 +71,45 @@ This box is for checking your understanding, to make sure you are ready for what
 ***Note***  
 This box signifies Tips for Instructors.  Please delete these before you share this course book with your students!
 ```
+
+<!--chapter:end:index.Rmd-->
+
+# Title
+
+<!--chapter:end:02-u1.Rmd-->
+
+# Title
+
+<!--chapter:end:03-u2.Rmd-->
+
+# Title
+
+<!--chapter:end:04-u3.Rmd-->
+
+# Title
+
+<!--chapter:end:05-u4.Rmd-->
+
+# Title
+
+<!--chapter:end:06-u5.Rmd-->
+
+# Title
+
+<!--chapter:end:07-u6.Rmd-->
+
+# Title
+
+<!--chapter:end:08-u7.Rmd-->
+
+# Title
+
+<!--chapter:end:09-u8.Rmd-->
+
+# References {-}
+
+The following are key references used in this course.  ***Check with your course syllabus for required readings.***
+
+
+<!--chapter:end:99-references.Rmd-->
+
