@@ -1,0 +1,73 @@
+---
+title: "[Course Name & #]"
+author: "Name"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+url: https://ma-lead.github.io/ldrs664
+biblio-style: apalike
+---
+
+
+
+# Welcome {-}
+
+*Insert the course description here.*
+
+```{block, type='feedback'}
+**Tips for Instructors:**
+Consider this description as a hook to get students interested in your course. Describe the big ideas of your course, summarize what students will learn, explain why it matters.
+***Note that if there are any changes to a course description, these need to be approved by Senate.***
+```
+
+### How To Navigate This Book {-}
+
+To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
+```{r, echo=F, fig.cap="Top menu bar", fig.show="hold", results='asis'}
+knitr::include_graphics("assets/course-intro/menu.png")
+```
+
+The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
+```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
+knitr::include_graphics("assets/course-intro/left_arrow.png")
+knitr::include_graphics("assets/course-intro/right_arrow.png")
+```
+
+You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at elearning@twu.ca
+
+### Course Units{-}
+
+This course is organized into 10 units. Each unit of the course will provide you with the following information:
+
+- A general overview of the key concepts that will be addressed during the unit.  
+- Specific learning outcomes and topics for the unit.  
+- Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.  
+- The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.  
+
+```{block, type='caution'}
+Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
+```
+
+### Course Activities{-}
+
+Below is some key information on features you will see throughout the course. 
+
+```{block, type='reflect'}
+***Learning Activity***  
+This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
+```
+
+```{block, type='assessment'}
+***Assessment***  
+This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
+```
+
+```{block, type='progress'}
+***Checking Your Learning***  
+This box is for checking your understanding, to make sure you are ready for what follows.
+```
+
+```{block, type='feedback'}
+***Note***  
+This box signifies Tips for Instructors.  Please delete these before you share this course book with your students!
+```

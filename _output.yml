@@ -1,0 +1,18 @@
+bookdown::gitbook:
+  css: https://twuonline.github.io/course-materials/bookdown_styles.css
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: true
+      before: |
+        <li><a href="./">Template</a></li>
+      after: |
+        <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
+  download: ["pdf"]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default

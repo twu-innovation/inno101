@@ -1,0 +1,6 @@
+book_filename: "template"
+language:
+  ui:
+    chapter_name: "Unit "
+delete_merged_file: true
+output_dir: "docs"

@@ -1,0 +1,100 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/* svg images should be 24x24 pixels */
+/* icons from remixicon.com */
+
+/* Styling for all custom environments: */
+div.bonus, div.reflect, div.assessment, div.progress, div.video, div.caution, div.feedback{
+  padding: 1em;
+  margin: 0.5em;
+  position:relative;
+  border-radius: 5px;
+  color: black;
+}
+
+
+
+div.bonus:before,
+div.reflect:before,
+div.assessment:before,
+div.progress:before,
+div.video:before,
+div.caution:before,
+div.feedback:before{
+    left:0.5em;
+    position:absolute;
+    top:0.1em;
+    font-weight:bold;
+    font-style:italic;
+    font-size: 1.5em;
+}
+
+
+/* Style hyperlinks */
+.book .book-body .page-wrapper .page-inner .normal div.bonus a:link,
+.book .book-body .page-wrapper .page-inner .normal div.reflect a:link,
+.book .book-body .page-wrapper .page-inner .normal div.assessment a:link,
+.book .book-body .page-wrapper .page-inner .normal div.progress a:link,
+.book .book-body .page-wrapper .page-inner .normal div.video a:link,
+.book .book-body .page-wrapper .page-inner .normal div.caution a:link,
+.book .book-body .page-wrapper .page-inner .normal div.feedback a:link{
+  text-decoration: underline;
+  font-weight: bold;
+  color: black;
+}
+
+
+/* Styling unique to each environment: */
+div.bonus{background: #71c7ec;}
+
+div.reflect{background: #e7f4e4;}
+
+div.assessment{background: #deedff;}
+
+div.progress{background: #e7f4e4;}
+
+div.video{background: #f9e0b4;}
+
+div.caution{background: #eeeded;}
+
+div.feedback{background: #d6d7d9;}
+
+.blackbox {
+  padding: 1em;
+  background: black;
+  color: white;
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
+
+/* Special Styling */
+h2 {
+  border-bottom: 3px solid;  
+}
+
+.blockhead {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.prote {
+  font-size: 124%;
+  color: yellow;
+  background-color: red;
+}
