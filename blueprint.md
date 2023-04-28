@@ -1,22 +1,23 @@
 # Blueprint for INNO101
 
-- Moodle Master site: https://learn.twu.ca/course/...  
-- Bookdown site: https://....github.io/...   
+- Moodle Master site: <https://learn.twu.ca/course/>...  
+- Bookdown site: <https://....github.io/>...
 
 ## Big Ideas
+
 Begin the design process by identifying 1-2 ideas and a few essential questions that will serve as the narrative frame or the “hook” for your course. You might think of a big idea as a subtitle or unifying theme for your course.
 
 ### Big Idea #1
 
-Digital technologies have impacted almost every area of modern life, including learning, playing, and working.
+Digital technologies have impacted almost every area of modern life, including learning, playing, and working. It will be important for graduates of TWU to be able to use digital technologies in ethical ways to enhance their ability to fully participate as leaders in a digitally saturated society.
 
 > I'd like to put together a proposal for a course (INNO101/501, in my head) called something similar to "Learning with Technology" that leads learners on a path of discovery about the types of activities that they will need to succeed in tech-mediated learning for life, and helps them discover and revise workflows using tools that they have access to. The basic structure would follow principles of personal knowledge management (finding, gathering, sorting, filtering, summarizing, connecting, creating & sharing knowledge), personal domain building with web tools (publishing, curating, presenting), and personal network building (bridging, building, connecting people). Along the way, the verbs above are enabled in tools and categories of tools that can enhance efficiency and productivity without costing privacy and data (MSOffice [but only because it's still necessary], WordPress, Zotero, Obsidian, git, scite.ai, litmaps.ai...)
 
 > I'm becoming more convinced that the appropriate response to ChatGPT-esque tools right now is to focus more on process and building evaluative judgement over product. While AI can certainly produce artifacts that look like the preliminary stages of writing a paper (brainstorming ideas, outlines, drafts, etc), I don't think it has the ability to create connected knowledge maps...
+>
 ### Big Idea #2
 
-
-
+In our digital society, 'information' is extremely abundant. It is no longer possible to 'learn' everything that there is to know about any given topic. Instead, digitally savvy learners must learn how to find, use, and transform information into useful knowledge and skills, and there are many digital tools to assist in that process.
 
 ## Essential Questions
 
@@ -24,19 +25,19 @@ What are the big problems in your field? How does your field intersect with cult
 
 ### Essential Question #1
 
+Technology is often seen as an 'add-on' for learning. How can learners integrate technology into their workflow to support knowledge building rather than mere presentation?
 
 ### Essential Question #2
 
+How can learners ensure their privacy and data are protected when they use technology? What responsibilities do technology users have?
 
 ### Essential Question #3
 
-
-
+How can learners take control of their web presence and curate their public persona?
 
 ## Course Description
 
-Enter your course description here (use the official TWU course description from the syllabus).
-
+Introduces theories and competencies related to thriving in a digital world. Explores how learners are situated in 'the digital' throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
 <!--
 EDCI 136
 Learning in an Open and Connected World
@@ -45,19 +46,26 @@ Credits
 Introduces concepts and practices in internet-enabled learning environments. Examines how digital, networked and open access technologies can enrich learning and the learning of others in an interconnected world in which learners locate, curate and disseminate knowledge. Learners develop portfolios and lifelong access to learning networks that contribute to their professional practice in legal, safe, consensual and ethical ways, based on their understanding of intellectual property and their rights, responsibilities and opportunities.
 -->
 
-
 ## Course Learning Outcomes
 
+<!--
 A course learning outcome is a statement of what a learner in your course will know, be able to do, or value after successfully completing your course. It is important to write outcomes using verbs that encourage appropriate engagement with the cognitive or physical skills required of the subject matter of the course. For example, if your course takes a critical view of a particular topic, the verbs in your learning outcomes need to align with that perspective and they need to be at an appropriate cognitive level  (e.g., criticize, deconstruct, argue, defend, synthesize), as opposed to being aimed at different cognitive skills or at a lower level (e.g., remember, understand, recall, identify). Keep in mind that an outcome is not the same thing as an activity during your course, rather, it is a desired state of being in the world after the course.
 
 ### Considerations
-- Encourage higher-order thinking where possible   
+
+- Encourage higher-order thinking where possible
 - Use Bloom’s Taxonomy verbs (Shabatura, 2014)
-- Write your outcomes in terms of what learners will be or be able to do after successfully completing the course 
+- Write your outcomes in terms of what learners will be or be able to do after successfully completing the course
   - e.g., “Learners will demonstrate the ability to use the discipline of sociology as a mode of inquiry deeply applicable to and engaged with education.”
   - e.g., "Learners will be nurses who are empathetic in their interactions with patients."
 - Align course learning outcomes with the TWU Undergraduate or Graduate Student Learning Outcomes
+-->
 
+Learners will demonstrate competency in the following areas:
+
+- evaluating digital tools and platforms based on ethical principles.
+- building and customizing technology-integrated workflows to enhance and enrich their learning journey
+- 
 | TWU Outcome | Course Outcome | Evidence of Learning |
 |  ---  |  ---  |  ---  |
 | Knowledge and its Application | [Separate each outcome with this wee little code: <br>] |       |
@@ -84,8 +92,7 @@ Critical to this process is ***feedback***. Upon completion of a formative learn
 
 The next step is to consider how learners will demonstrate their ability relative to the priority learning outcomes. Keep in mind that assessment must be grounded in the learning outcomes, not in particular tasks. A learner might demonstrate competence in a learning outcome in a number of different ways. Summative assessment is the process of collating all of the evidence gathered that demonstrates a learner's competence ***at the end of the course.*** If a learner demonstrates low competency early in the course but high competency at the end, then their end-of-course level should be considered, not the average of the two levels. Distilling the data from course activities into a single letter grade is a complex process that requires an interpretation of the data gathered during the course and during formalized tasks
 
-Consider how each learner's performance will be transformed into a component of their final grade by determining 3-4 summative assessment activities. Each activity will be composed of tasks which require learners to demonstrate their competency in one or more of the priority learning outcomes in alignment with the proficiency indicators determined in the previous step. A summative assessment does not have to be an exam, but can instead be a portfolio, a website, a video, a conversation, a research paper, a performance, an installation, a plan, an application. 
-
+Consider how each learner's performance will be transformed into a component of their final grade by determining 3-4 summative assessment activities. Each activity will be composed of tasks which require learners to demonstrate their competency in one or more of the priority learning outcomes in alignment with the proficiency indicators determined in the previous step. A summative assessment does not have to be an exam, but can instead be a portfolio, a website, a video, a conversation, a research paper, a performance, an installation, a plan, an application.
 
 |Course Outcome | Formative Activity | Summative Activity | Feedback Source (instructor, peers, self) |
 |  ---  |  ---  |  ---  |  ---  |
@@ -99,9 +106,6 @@ Consider how each learner's performance will be transformed into a component of 
 |       |       |       |       |
 
 Note: Since you are evaluating learning outcomes and not tasks, the final grade is determined based on a summary of how well the learner achieved the outcomes, not on an average or weighted average of scores on tasks.
-
-
-
 
 ## Unit Plans
 
@@ -118,14 +122,9 @@ Finally, determine the sequence of the course by aligning each outcome and its a
 |       |       |       |       |
 |       |       |       |       |
 
-
-
-
 ## Course Resources
 
-You may want to use this last section of the blueprint to brainstorm course resources.  Your Instructional Designer can direct you to Open Educational Resources to consider as they promote accessibility.  (e.g. Pressbooks directory, OER Collection) 
-
-
+You may want to use this last section of the blueprint to brainstorm course resources.  Your Instructional Designer can direct you to Open Educational Resources to consider as they promote accessibility.  (e.g. Pressbooks directory, OER Collection)
 
 | Unit | Resources |
 |  ---  |  ---  |
@@ -137,4 +136,3 @@ You may want to use this last section of the blueprint to brainstorm course reso
 |       |       |
 |       |       |
 |       |       |
-
