@@ -24,6 +24,7 @@ In our digital society, 'information' is extremely abundant. It is no longer pos
 
 What are the big problems in your field? How does your field intersect with culture? What are some common misconceptions?
 <!--(this seems like a 500 level question.  What about first year learners - or high school students?)-->
+edit
 
 ### Essential Question #1
 
