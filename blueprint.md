@@ -67,6 +67,54 @@ Learners will demonstrate competency in the following areas:
 
 - evaluating digital tools and platforms based on ethical principles.
 - building and customizing technology-integrated workflows to enhance and enrich their learning journey
+
+<!--
+LIDA 101: Digital literacies for online learning
+Learning Outcome
+Apply digital tools effectively to demonstrate learning literacies including advanced search strategies to identify and select relevant open access resources to research, analyse, produce and present information for tertiary education purposes.
+Objectives:
+Apply digital skills for establishing and maintaining a personal learning environment on the open web
+Outline the breadth of digital learning literacies for the 21st century
+Apply effective search strategies for both search engines and repositories to find relevant open access resources
+Apply skills for judging the legitimacy of open resources
+Apply frameworks for selecting appropriate resources to support learning
+Apply learning and academic literacies, including note-taking, preparing annotated bibliographies, paraphrasing and reflective learning skills
+Apply online skills for planning and writing an essay, including how to prepare a bibliography, how to cite sources online for academic purposes and how to maintain a bibliography
+Learning outcomes from main page
+{--Gain insights into--} Explore what digital and academic literacies mean for learning in a digital age.
+Develop digital skills to establish and maintain an online personal learning environment.
+Apply advanced online search strategies to locate {--open access--} resources in support of your learning.
+{--Learn how to e--}Evaluate the legitimacy, credibility and reliability of online resources for academic study.
+{--Learn how to u--}Use a range of digital tools and corresponding literacies to support tertiary learning in a digital age.
+Apply your digital and academic literacies to publish an academic essay on a topic of your choice.
+
+LIDA 102: Digital citizenship
+{--Gain an understanding of --}Explore the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment.
+{==Outline the rights and responsibilities of a digital citizen.==}{>><<}
+Expand your online learning network by adopting a proactive approach to improving your web presence to support and engage in learning in a digital age.
+Apply good online hygiene practices to ensure your privacy and security in digital environments.
+Evaluate a range of digital media, technologies and communities appropriate for supporting learning.
+Gain an understanding of the implications of digital technology for your future career.
+Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner.
+Develop a positive digital identity and digital footprint for learning
+
+LIDA 103: Open education, copyright and open licensing in a digital world Study, Strategize, Succeed
+Apply the critical skill of metacognition and explain your process for learning
+Apply study strategies and organizational skills
+Use systematic strategies to complete assignments successfully
+Use feedback to evaluate your learning
+Adopt a growth mindset as you plan the next phase of your learning
+
+
+
+LIDA 104: Critical media literacies and associated digital skills
+Define media literacy and what it means for learning in a digital age.
+Analyse online resources a recent press release from a critical media perspective.
+Analyse contemporary news considering how the medium and publisher influences the message.
+Apply web literacy skills for online fact-checking
+Apply skills in using digital media for creating a multimodal presentation to support learning 
+
+-->
 - 
 | TWU Outcome | Course Outcome | Evidence of Learning |
 |  ---  |  ---  |  ---  |
