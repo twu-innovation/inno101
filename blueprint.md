@@ -11,7 +11,8 @@ Begin the design process by identifying 1-2 ideas and a few essential questions 
 
 Digital technologies have impacted almost every area of modern life, including learning, playing, and working. It will be important for graduates of TWU to be able to use digital technologies in ethical ways to enhance their ability to fully participate as leaders in a digitally saturated society.
 
-> I'd like to put together a proposal for a course (INNO101/501, in my head) called something similar to "Learning with Technology" that leads learners on a path of discovery about the types of activities that they will need to succeed in tech-mediated learning for life, and helps them discover and revise workflows using tools that they have access to. The basic structure would follow principles of personal knowledge management (finding, gathering, sorting, filtering, summarizing, connecting, creating & sharing knowledge), personal domain building with web tools (publishing, curating, presenting), and personal network building (bridging, building, connecting people). Along the way, the verbs above are enabled in tools and categories of tools that can enhance efficiency and productivity without costing privacy and data (MSOffice [but only because it's still necessary], WordPress, Zotero, Obsidian, git, scite.ai, litmaps.ai...)
+> I'd like to put together a proposal for a course (INNO101/501, in my head) called something similar to "Learning with Technology" that leads learners on a path of discovery about the types of activities that they will need to succeed in tech-mediated learning for life, and helps them discover and revise workflows using tools that they have access to. The basic structure would follow principles of personal knowledge management (finding, gathering, sorting, filtering, summarizing, connecting, creating & sharing knowledge), personal domain building with web tools (publishing, curating, presenting), and personal network building (bridging, building, connecting people). Along the way, the verbs above are enabled in tools and categories of tools that can enhance efficiency and productivity without costing privacy and data (MSOffice [but only because it's still necessary], WordPress, Zotero, Obsidian, git, [scite.ai](https://scite.ai/), [litmaps](https://www.litmaps.com/).ai...)
+<!-- some comments...Yes to everything...although INNO101 may need to start with more basic tech.  Zotero, git, litmaps seem more advanced for research - 500 level. Scite doesn't look like it's free.-->
 
 > I'm becoming more convinced that the appropriate response to ChatGPT-esque tools right now is to focus more on process and building evaluative judgement over product. While AI can certainly produce artifacts that look like the preliminary stages of writing a paper (brainstorming ideas, outlines, drafts, etc), I don't think it has the ability to create connected knowledge maps...
 >
@@ -22,6 +23,7 @@ In our digital society, 'information' is extremely abundant. It is no longer pos
 ## Essential Questions
 
 What are the big problems in your field? How does your field intersect with culture? What are some common misconceptions?
+<!--(this seems like a 500 level question.  What about first year learners - or high school students?)-->
 
 ### Essential Question #1
 
