@@ -66,6 +66,7 @@ Learners will demonstrate competency in the following areas:
 
 - evaluating digital tools and platforms based on ethical principles.
 - building and customizing technology-integrated workflows to enhance and enrich their learning journey
+- apply digital literacy skills to critically evaluate online resources
 
 <!--
 LIDA 101: Digital literacies for online learning
@@ -125,7 +126,7 @@ In addition to course specific learning outcomes, the following are general skil
     - essays, annotated bibliographies, case studies, 
     - Reflective Journals
 3. Communication
-   - using various methods for different purposes: Discussion Forum, Video presentation, e-portfolio, live/zoom presentation, 
+   - using various methods for different purposes: Discussion Forum, Video presentation, e-portfolio, live/zoom presentation, interviews
    - 
 4. Collaboration
    - group work, group presentations, collaborative projects
