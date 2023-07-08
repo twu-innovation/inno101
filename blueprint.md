@@ -22,10 +22,7 @@ In our digital society, 'information' is extremely abundant. It is no longer pos
 
 ## Essential Questions
 
-What are the big problems in your field? How does your field intersect with culture? What are some common misconceptions?
-<!--(this seems like a 500 level question.  What about first year learners - or high school students?)-->
-edit
-Kelly test!
+What does it mean to use digital technologies in ethical ways?
 
 ### Essential Question #1
 
@@ -117,6 +114,31 @@ Apply web literacy skills for online fact-checking
 Apply skills in using digital media for creating a multimodal presentation to support learning 
 
 -->
+
+## GX Program Skills & Competencies
+In addition to course specific learning outcomes, the following are general skills and competencies GX students are expected to be proficient in as they complete their first 2 years of the program and prepare for their last two year of education at TWU Langley.
+
+1. Digital & Media Literacies
+   - use tools effectively and ethically, critically evaluate online resources, 
+   - 
+2. Academic Writing
+    - essays, annotated bibliographies, case studies, 
+    - Reflective Journals
+3. Communication
+   - using various methods for different purposes: Discussion Forum, Video presentation, e-portfolio, live/zoom presentation, 
+   - 
+4. Collaboration
+   - group work, group presentations, collaborative projects
+   - 
+5. Study Skills
+    - demonstrating process of learning, note-taking, evaluative judgement, metacognition
+    - 
+6. Critical Thinking
+   - reflection, application, analyzing
+
+@cmadland brainstorming skills (like we do for BA Lead program now). What other skills apply to our course & other GX courses?  This will help with assessment & activity types.
+
+## Mapping Outcomes & Skills
 - 
 | TWU Outcome | Course Outcome | Evidence of Learning |
 |  ---  |  ---  |  ---  |
