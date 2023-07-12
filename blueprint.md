@@ -60,14 +60,45 @@ A course learning outcome is a statement of what a learner in your course will k
   - e.g., “Learners will demonstrate the ability to use the discipline of sociology as a mode of inquiry deeply applicable to and engaged with education.”
   - e.g., "Learners will be nurses who are empathetic in their interactions with patients."
 - Align course learning outcomes with the TWU Undergraduate or Graduate Student Learning Outcomes
+commenting
+
 -->
+Colin here
 
 Learners will demonstrate competency in the following areas:
 
 - evaluating digital tools and platforms based on ethical principles.
 - building and customizing technology-integrated workflows to enhance and enrich their learning journey
 - apply digital literacy skills to critically evaluate online resources
+- technology enabled ways of knowing
 
+## Competencies
+
+Each competency is demonstrated in both public and private contexts.
+
+Technical Skills (digital literacies)
+- collaboration (leadership)
+- networking
+- privacy and safety
+  - sharing publicly
+  - maintaining privacy
+  
+
+Cognitive skills (academic literacies )
+- connecting ideas
+- managing overabundance of information; curating
+- evaluative judgement
+
+Ways of being in a digital world
+- ethics
+- identity
+- compassion
+
+## Tasks
+
+- Student fact-checker activity
+- 
+Hey there!
 <!--
 LIDA 101: Digital literacies for online learning
 Learning Outcome
