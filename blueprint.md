@@ -22,7 +22,7 @@ In our digital society, 'information' is extremely abundant. It is no longer pos
 
 ## Essential Questions
 
-What does it mean to use digital technologies in ethical ways?
+What does it mean to use digital technologies in ethical ways to learn, to know, to share?
 
 ### Essential Question #1
 
@@ -38,7 +38,7 @@ How can learners take control of their web presence and curate their public pers
 
 ## Course Description
 
-Introduces theories and competencies related to thriving in a digital world. Explores how learners are situated in 'the digital' throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
+Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in '*the digital*' throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
 <!--
 EDCI 136
 Learning in an Open and Connected World
@@ -65,32 +65,36 @@ commenting
 ## Learning Outcomes
 (https://www.twu.ca/about-us/liberal-arts-core/student-learning-outcomes)
 https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing
+-->
 
 After successfully completing the course, you will be able to:
 
-Knowledge and its application
-- 
-- apply digital literacy skills to critically evaluate online resources
-- evaluate digital tools and platforms based on ethical principles
-- Evaluate the legitimacy, credibility and reliability of online resources for academic study.
-- Evaluate a range of digital media, technologies and communities appropriate for supporting learning
-Develop digital skills to support learning in a digital age and establish and maintain an online personal learning environment
-- technology enabled ways of knowing
+### Knowledge and its application
+
+- Use systematic workflows to plan and complete assignments successfully  
+- apply digital literacy skills to Evaluate the legitimacy, credibility and reliability of online resources for academic study.
+- Develop skills to support learning in a digital age  
+- Establish and maintain {~~an online~>~~} a personal learning {~~environment~>~~} network
 
 
-Apply the critical skill of metacognition and explain your process for learning
-Apply study strategies and organizational skills
-Use systematic strategies to complete assignments successfully
+
+{--Apply study strategies and organizational skills
 Use feedback to evaluate your learning
 Adopt a growth mindset as you plan the next phase of your learning
+Apply the critical skill of metacognition and explain your process for learning
+ Evaluate a range of digital media, technologies, and communities appropriate for supporting learning
+ to critically evaluate online resources
+- evaluate digital tools and platforms based on ethical principles--}
 
 
-***Cognitive complexity***
+
+### Cognitive complexity
+
 - build and customize technology-integrated workflows to enhance and enrich your learning journey
-- find, record, archive, curate, distill, and connect articles, ideas, questions
-- practice evaluative judgement to demonstrate your process of learning in complex domains of knowledge
-- 
-- https://jarche.com/2014/02/the-seek-sense-share-framework/
+- Discover, curate, connect, and share knowledge with your communities
+- practice evaluative judgement to document your process of learning in complex domains of knowledge
+  
+https://jarche.com/2014/02/the-seek-sense-share-framework/
 https://openpagesweb.wordpress.com/2018/02/06/professional-development-how-we-seek-sense-share/
 
 skills, including critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy.
@@ -98,39 +102,47 @@ an ability to articulate various interdisciplinary and multi-disciplinary perspe
 an ability to respond with wisdom, humility and charity to questions, issues, and problems of the human condition.
 
 
-***Aesthetic Expression and Interpretation***
+### Aesthetic Expression and Interpretation
 - create a personalized narrative as a component of your digital footprint
 
 
+<!--
 {--- create and style a personal website using WordPress
 (related to: creative, performative, material and narrative forms of critical inquiry; intuitive, imaginative and interpretive methodologies; ways of knowing through which maker and receiver come to insight and understanding; collaborative and community–based interdisciplinary practices.)--}
 
+
 You will consider how to explore these questions by researching and gathering data, reviewing documents and artifacts, and experiencing aesthetic, written, archival, and scientific forms of information and experiences. You will synthesize your new learning to create possibilities, solutions, statistical analysis, written reports, and works of art. You will discuss, reflect, experience, and share your findings with others in the TWU community and beyond.
+-->
 
 
+### Inter-and Intra-Personal Wellness
 
-***Inter-and Intra-Personal Wellness***
 - manage personal boundaries with respect to online privacy and security
+
 (related to personal and social health; an appreciation of the role of community in wellness.)
 
 
-***Spiritual Formation***
+### Spiritual Formation
 
 - create inclusive digital communities which embody a sense of belonging and connection
 - encourage a Christ-like way of life characterized by love for and service to others.
 
 
-***Social Responsibility and Global Engagement***
-- develop personal and professional learning networks to ...share knowledge, collaborate, become engaged global citizens
+### Social Responsibility and Global Engagement
 
-Develop a positive digital identity and digital footprint for learning
+- develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+- 
+
+{--Develop a positive digital identity and digital footprint for learning
 Gain an understanding of the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment.
-Outline the rights and responsibilities of a digital citizen.
+Outline the rights and responsibilities of a digital citizen.--}
 
 
-***Leadership***
+### Leadership
 
-- develop personal and professional learning networks to share knowledge, collaborate, and become engaged global citizens for the good of the whole
+
+- develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+
 
 {--- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner.
 caring for people, integrity, trustworthiness, and serving the good of the whole
@@ -138,9 +150,8 @@ treating all as equal human beings.
 Such leaders often have strong internal ideas and values, and they are capable of motivating followers to act in ways that support the greater good rather than acting out of self-interest. 
 - (related to abilities and attitudes characterized by service, humility and integrity?)
 --}
-https://books.twu.ca/monograph/chapter/transformational-servant-leadership/
 
--->
+https://books.twu.ca/monograph/chapter/transformational-servant-leadership/
 
 
 Learners will demonstrate competency in the following areas:
@@ -174,8 +185,9 @@ Ways of being in a digital world
 ## Tasks
 
 - Student fact-checker activity
+- create and manage WordPress site
+- build obsidian vault
 - 
-Hey there!
 <!--
 LIDA 101: Digital literacies for online learning
 Learning Outcome
