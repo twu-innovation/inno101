@@ -62,13 +62,90 @@ A course learning outcome is a statement of what a learner in your course will k
 - Align course learning outcomes with the TWU Undergraduate or Graduate Student Learning Outcomes
 commenting
 
+## Learning Outcomes
+(https://www.twu.ca/about-us/liberal-arts-core/student-learning-outcomes)
+https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing
+
+After successfully completing the course, you will be able to:
+
+Knowledge and its application
+- 
+- apply digital literacy skills to critically evaluate online resources
+- evaluate digital tools and platforms based on ethical principles
+- Evaluate the legitimacy, credibility and reliability of online resources for academic study.
+- Evaluate a range of digital media, technologies and communities appropriate for supporting learning
+Develop digital skills to support learning in a digital age and establish and maintain an online personal learning environment
+- technology enabled ways of knowing
+
+
+Apply the critical skill of metacognition and explain your process for learning
+Apply study strategies and organizational skills
+Use systematic strategies to complete assignments successfully
+Use feedback to evaluate your learning
+Adopt a growth mindset as you plan the next phase of your learning
+
+
+***Cognitive complexity***
+- build and customize technology-integrated workflows to enhance and enrich your learning journey
+- find, record, archive, curate, distill, and connect articles, ideas, questions
+- practice evaluative judgement to demonstrate your process of learning in complex domains of knowledge
+- 
+- https://jarche.com/2014/02/the-seek-sense-share-framework/
+https://openpagesweb.wordpress.com/2018/02/06/professional-development-how-we-seek-sense-share/
+
+skills, including critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy.
+an ability to articulate various interdisciplinary and multi-disciplinary perspectives, integrating informed Christian perspectives.
+an ability to respond with wisdom, humility and charity to questions, issues, and problems of the human condition.
+
+
+***Aesthetic Expression and Interpretation***
+- create a personalized narrative as a component of your digital footprint
+
+
+{--- create and style a personal website using WordPress
+(related to: creative, performative, material and narrative forms of critical inquiry; intuitive, imaginative and interpretive methodologies; ways of knowing through which maker and receiver come to insight and understanding; collaborative and community–based interdisciplinary practices.)--}
+
+You will consider how to explore these questions by researching and gathering data, reviewing documents and artifacts, and experiencing aesthetic, written, archival, and scientific forms of information and experiences. You will synthesize your new learning to create possibilities, solutions, statistical analysis, written reports, and works of art. You will discuss, reflect, experience, and share your findings with others in the TWU community and beyond.
+
+
+
+***Inter-and Intra-Personal Wellness***
+- manage personal boundaries with respect to online privacy and security
+(related to personal and social health; an appreciation of the role of community in wellness.)
+
+
+***Spiritual Formation***
+
+- create inclusive digital communities which embody a sense of belonging and connection
+- encourage a Christ-like way of life characterized by love for and service to others.
+
+
+***Social Responsibility and Global Engagement***
+- develop personal and professional learning networks to ...share knowledge, collaborate, become engaged global citizens
+
+Develop a positive digital identity and digital footprint for learning
+Gain an understanding of the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment.
+Outline the rights and responsibilities of a digital citizen.
+
+
+***Leadership***
+
+- develop personal and professional learning networks to share knowledge, collaborate, and become engaged global citizens for the good of the whole
+
+{--- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner.
+caring for people, integrity, trustworthiness, and serving the good of the whole
+treating all as equal human beings.
+Such leaders often have strong internal ideas and values, and they are capable of motivating followers to act in ways that support the greater good rather than acting out of self-interest. 
+- (related to abilities and attitudes characterized by service, humility and integrity?)
+--}
+https://books.twu.ca/monograph/chapter/transformational-servant-leadership/
+
 -->
-Colin here
+
 
 Learners will demonstrate competency in the following areas:
 
 - evaluating digital tools and platforms based on ethical principles.
-- building and customizing technology-integrated workflows to enhance and enrich their learning journey
 - apply digital literacy skills to critically evaluate online resources
 - technology enabled ways of knowing
 
