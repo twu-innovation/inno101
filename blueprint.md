@@ -71,11 +71,12 @@ After successfully completing the course, you will be able to:
 
 ### Knowledge and its application
 
-- Use systematic workflows to plan and complete assignments successfully  
-- apply digital literacy skills to Evaluate the legitimacy, credibility and reliability of online resources for academic study.
-- Develop skills to support learning in a digital age  
+- build and customize technology-integrated workflows to enhance and enrich your learning journey
+- apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
+{~~- Develop skills to support learning in a digital age~>~~}  
 - Establish and maintain {~~an online~>~~} a personal learning {~~environment~>~~} network
-
+- Establish a personal learning network to facilitate knowledge-sharing with your communities
+Use a range of digital tools and corresponding literacies to support tertiary learning in a digital age.
 
 
 {--Apply study strategies and organizational skills
@@ -116,17 +117,27 @@ You will consider how to explore these questions by researching and gathering da
 
 
 ### Inter-and Intra-Personal Wellness
-
+- develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+  
+(Unit learning outcome?)
 - manage personal boundaries with respect to online privacy and security
 
 (related to personal and social health; an appreciation of the role of community in wellness.)
 
 
 ### Spiritual Formation
+(choose 1 outcome...focus on inclusive community & character building?)
 
-- create inclusive digital communities which embody a sense of belonging and connection
+- create inclusive digital communities which embody a sense of belonging, connection, mentorship and support.
+<!-- Note my cat pressed a key and something went wonky here...hoping it's nothing!  --->
+
+<!-- 
 - encourage a Christ-like way of life characterized by love for and service to others.
 
+(from LDRS 301) Demonstrate ways to motivate, mobilize, and develop others to accomplish a task or to think with creativity, vision, integrity and skill for the benefit of all concerned.
+
+editification...building each other up...encouragement, motivation, valuing others....
+--->
 
 ### Social Responsibility and Global Engagement
 
