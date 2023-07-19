@@ -65,14 +65,28 @@ commenting
 ## Learning Outcomes
 (https://www.twu.ca/about-us/liberal-arts-core/student-learning-outcomes)
 https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing
+
+@cmadland What do you think of these 7:
+1. Build and customize technology-integrated workflows to enhance and enrich your learning journey
+1. Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
+1. Practice evaluative judgment to document your process of learning in complex domains of knowledge
+1. Create a personalized narrative to document and express your learning process
+1. Evaluate digital tools, platforms, and interactions based on ethical principles
+1. Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+1. Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
+
+
+
+
 -->
 
 After successfully completing the course, you will be able to:
 
 ### Knowledge and its application
 
-- build and customize technology-integrated workflows to enhance and enrich your learning journey
-- apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
+- Build and customize technology-integrated workflows to enhance and enrich your learning journey
+- Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
+<!--
 {~~- Develop skills to support learning in a digital age~>~~}  
 - Establish and maintain {~~an online~>~~} a personal learning {~~environment~>~~} network
 - Establish a personal learning network to facilitate knowledge-sharing with your communities
@@ -86,26 +100,28 @@ Apply the critical skill of metacognition and explain your process for learning
  Evaluate a range of digital media, technologies, and communities appropriate for supporting learning
  to critically evaluate online resources
 - evaluate digital tools and platforms based on ethical principles--}
-
+--->
 
 
 ### Cognitive complexity
 
-- build and customize technology-integrated workflows to enhance and enrich your learning journey
+- Practice evaluative judgement to document your process of learning in complex domains of knowledge
+
+<!-- 
+
+- Build and customize technology-integrated workflows to enhance and enrich your learning journey
 - Discover, curate, connect, and share knowledge with your communities
-- practice evaluative judgement to document your process of learning in complex domains of knowledge
-  
+
 https://jarche.com/2014/02/the-seek-sense-share-framework/
 https://openpagesweb.wordpress.com/2018/02/06/professional-development-how-we-seek-sense-share/
 
 skills, including critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy.
 an ability to articulate various interdisciplinary and multi-disciplinary perspectives, integrating informed Christian perspectives.
 an ability to respond with wisdom, humility and charity to questions, issues, and problems of the human condition.
-
+--->
 
 ### Aesthetic Expression and Interpretation
-- create a personalized narrative as a component of your digital footprint
-
+- Create a personalized narrative as a component of your digital footprint
 
 <!--
 {--- create and style a personal website using WordPress
@@ -117,15 +133,21 @@ You will consider how to explore these questions by researching and gathering da
 
 
 ### Inter-and Intra-Personal Wellness
-- develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-  
+- Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+
+<!-- 
 (Unit learning outcome?)
 - manage personal boundaries with respect to online privacy and security
 
 (related to personal and social health; an appreciation of the role of community in wellness.)
-
+--->
 
 ### Spiritual Formation
+
+- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
+- Evaluate digital tools, platforms, and interactions based on ethical principles
+
+<!--
 (choose 1 outcome...focus on inclusive community & character building?)
 
 - create inclusive digital communities which embody a sense of belonging, connection, mentorship and support.
@@ -141,19 +163,19 @@ editification...building each other up...encouragement, motivation, valuing othe
 
 ### Social Responsibility and Global Engagement
 
-- develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-- 
+- Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+<!--
 
 {--Develop a positive digital identity and digital footprint for learning
 Gain an understanding of the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment.
 Outline the rights and responsibilities of a digital citizen.--}
-
+--->
 
 ### Leadership
 
 
 - develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-
+<!--
 
 {--- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner.
 caring for people, integrity, trustworthiness, and serving the good of the whole
@@ -170,7 +192,7 @@ Learners will demonstrate competency in the following areas:
 - evaluating digital tools and platforms based on ethical principles.
 - apply digital literacy skills to critically evaluate online resources
 - technology enabled ways of knowing
-
+--->
 ## Competencies
 
 Each competency is demonstrated in both public and private contexts.
