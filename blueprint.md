@@ -70,12 +70,10 @@ https://www.twu.ca/about-us/liberal-arts-core/core-ways-knowing
 1. Build and customize technology-integrated workflows to enhance and enrich your learning journey
 1. Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
 1. Practice evaluative judgment to document your process of learning in complex domains of knowledge
-1. Create a personalized narrative to document and express your learning process
+1. Create a personalized narrative as a component of your digital footprint
 1. Evaluate digital tools, platforms, and interactions based on ethical principles
 1. Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 1. Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
-
-
 
 
 -->

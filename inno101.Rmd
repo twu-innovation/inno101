@@ -76,6 +76,8 @@ This box signifies Tips for Instructors.  Please delete these before you share t
 
 # Title
 
+This is text <abbr title="This is the definition of the word <b>this is emphasized</b>">Word To define</abbr> this is more text
+
 <!--chapter:end:02-u1.Rmd-->
 
 # Title
