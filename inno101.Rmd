@@ -1,6 +1,7 @@
 ---
 title: "Innovation 101"
-author: "Colin Madland"
+author: "Course Developed by Colin Madland & Kelly Marjanovic"
+date: "Last updated `r format(Sys.time(), '%b %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -9,48 +10,66 @@ biblio-style: apalike
 ---
 
 
+#  Welcome {-}
 
-# Welcome {-}
 
-*Insert the course description here.*
+This is the course book for LDRS 101: Learning with Technology. This book is divided into 6 units of study to help you engage with the course learning outcomes and prepare for the course assessment.  
 
-```{block, type='feedback'}
-**Tips for Instructors:**
-Consider this description as a hook to get students interested in your course. Describe the big ideas of your course, summarize what students will learn, explain why it matters.
-***Note that if there are any changes to a course description, these need to be approved by Senate.***
-```
+On the page below you will find a summary of the course syllabus, as well as how to navigate this book.  Please also refer the schedule in Moodle, as well as the Assessment section in Moodle for instructions on assignments.
+
+If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
+
+> The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus, which you will find in Moodle. For information on how to navigate through this course on Moodle, see [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=8214).
+
+
+### Course Description  {-}
+
+Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in 'the digital' throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
+
+### Meet Your Instructors {-}
+
+[insert]
+
+
+## Course Notes {-}
 
 ### How To Navigate This Book {-}
 
-To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
+Take a moment to experiment with the controls in the toolbar at the top of the page. You can search this book for a word or phrase (for example, to look up a definition). To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, adjust the typeface, the font size, and the background colour to make the text easier to read. 
+
 ```{r, echo=F, fig.cap="Top menu bar", fig.show="hold", results='asis'}
+
 knitr::include_graphics("assets/course-intro/menu.png")
+
 ```
 
 The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
+
 ```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
+
 knitr::include_graphics("assets/course-intro/left_arrow.png")
 knitr::include_graphics("assets/course-intro/right_arrow.png")
 ```
 
-You can also download an offline copy of this books in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at elearning@twu.ca
+You can also download an offline copy of this books in a pdf format. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at [elearning@twu.ca](mailto:elearning@twu.ca)
+
 
 ### Course Units{-}
 
-This course is organized into 10 units. Each unit of the course will provide you with the following information:
+ This course is organized into 10 units. Each unit of the course will provide you with the following information:
 
-- A general overview of the key concepts that will be addressed during the unit.  
-- Specific learning outcomes and topics for the unit.  
-- Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.  
-- The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.  
+- A general overview of the key concepts that will be addressed during the unit.
+- Specific learning outcomes and topics for the unit.
+- Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.
+- The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.
 
-```{block, type='caution'}
-Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
-```
+ ```{block, type='caution'}
+ Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for assignment details and dropboxes.
+ ```
 
 ### Course Activities{-}
 
-Below is some key information on features you will see throughout the course. 
+Below is some key information on features you will see throughout the course. 
 
 ```{block, type='reflect'}
 ***Learning Activity***  
@@ -59,7 +78,7 @@ This box will prompt you to engage in course concepts, often by viewing resource
 
 ```{block, type='assessment'}
 ***Assessment***  
-This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
+This box will signify an assignment you will submit in Moodle.  Note that assignments demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
 ```
 
 ```{block, type='progress'}
@@ -69,7 +88,7 @@ This box is for checking your understanding, to make sure you are ready for what
 
 ```{block, type='feedback'}
 ***Note***  
-This box signifies Tips for Instructors.  Please delete these before you share this course book with your students!
+This box signifies key notes, important quotes, or case students. It may also warn you of possible problems or pitfalls you may encounter!
 ```
 
 <!--chapter:end:index.Rmd-->
