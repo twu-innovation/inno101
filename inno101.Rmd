@@ -93,7 +93,230 @@ This box signifies key notes, important quotes, or case students. It may also wa
 
 <!--chapter:end:index.Rmd-->
 
-# Title
+# Introduction to Digital Literacies for Online Learning
+
+## Overview {-}
+
+Welcome to Unit 1 of Learning with Technology! In this first unit, we begin the course by discussing...
+
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+1. Understanding the Digital
+2. Personal Learning Environments
+3. Online Identity for Learning
+4. Digital Literacies
+  
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe your engagement with digital technology
+- Apply digital tools to support learning in an academic environment
+- Explain what digital literacies mean for you in a tertiary education context
+- Examine your digital footprint
+- Build your professional online biography 
+- Examine privacy concerns related to various platforms and tools
+- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment.
+ 
+
+### Activity Checklist {-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Learning Activities</span>
+
+- Watch the introduction video on ...and read... 
+- Establish a personal learning environment by setting up your own course blog.
+- Ilustrate your engagement with digital technology through a photo or mind map.
+- Publish your first blog post, introducing yourself to course participants.	
+- Take the Self-Check Quiz on PLE. (ungraded)  
+- Audit your own digital footprint to find out what exists on the internet about you
+- Share what social media technologies you use to support learning and how you use them by posting in the community forum in Discourse.
+- Build or update your professional online biography and the “About” page of your academic /course website.                                                                                                                                                                                                                     	
+- Take the Self-Check Quiz on Online identity. (ungraded)                                                                                                                                                                                                                 	Knowledge test
+- Post in Discourse, sharing a comment about your learning on this course. 
+- Read an online article and annotate it using Hypothes.is.
+- Search, evaluate, select, annotate, tag, and share resource links
+- Post in the Discourse forum, reflecting on the reasons why digital literacy matters to you
+- Blog about your personal definition of digital literacies and the digital visitor / digital resident personal learning network (PLN) mapping exercise
+- Take the Self-Check Quiz on Digital literacies. (ungraded)  
+ 
+
+```
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment</span>
+
+- See the Assessment section in Moodle for assignment details and due dates.
+
+```
+
+
+
+### Resources {-}
+
+- All resources will be provided online in the unit.  
+
+
+## Understanding the Digital
+
+We begin Unit 1 with an introduction to ...  
+
+### Activity:  {-}
+
+```{block2, type='reflect'}
+
+Watch the video below to get an overview of ....  
+
+
+Next, read the article on...
+
+<span class="blockhead">Questions to Consider</span>
+
+After completing the activities above, answer the following questions:
+
+- Why is it important to acknowledge the work of Harriet Martineau, Dorothy E. Smith, Ibn Khaldun, Frantz Fanon, and W.E.B. Du Bois, in addition to the work of Max Weber, Karl Marx, and Émile Durkheim? Why is it especially important in sociology to consider all of these works?  
+- Discuss the importance of technology and science to sociology, both past and present. In what way is sociology important when we explore current issues around technology and science?  
+
+```
+
+### Activity: Reflective Journal {-}
+
+```{block2, type='reflect'}
+
+***Feel free to answer the questions above in your notes or Reflective Learning Journal***. 
+
+<span class="blockhead">Introduction to the Reflective Journaling</span>
+
+A reflective journal is simply a record of your thoughts. It is a reflection of the way you think and the manner in which you respond to your learning.  Journals can consist of traditional note taking, mind maps, pictures, stream-of-consciousness writing, recordings, quotes, sketches, or drawings: whatever you choose to include. Experiment and have fun. 
+The purpose of journaling is to make you an active participant in your learning experiences as you engage in the various activities throughout the course’s readings, activities, and discussions with your instructor and your fellow students. Reflecting upon these learning events will help you gain a deeper understanding of the course materials and help integrate your learning into applied practice in your everyday life and work. 
+Throughout the course, we will remind you to write in your journal, as we want to be sure you are actively learning the material. To assist you, we have provided you with questions you can ask yourself in order to get your creative energies flowing. Reflective journaling is an activity you can and should complete on a regular or daily basis, even outside of our scheduled course activities. 
+
+<details>
+<summary>**Common Questions Used for Reflective Journaling** - Click to expand</summary> 
+
+- In your view, what were the most important points in the readings, videoclips, or discussions with your peers?  
+- What information did you already know?  
+- What new knowledge, ideas, or perspectives have you gained?  
+- What information was easy to remember or learn? Why?  
+- What concepts did you find more difficult? Why?  
+- How can you apply this knowledge to your work or current experience?  
+- How has this knowledge helped you to make sense of your current or previous experience?  
+- Has your understanding of a personal or work-related situation changed after studying these concepts?  
+- Did you agree or disagree with any of the material? If yes, how did you react and why?  
+- If you could have the opportunity to engage in further learning, what would it be?  
+- What further questions would like to ask the author of your readings?  
+- What other articles, books or discussions would be of interest?  
+
+*For any journal assignments in your courses, please refer to the specific questions and/or grading 
+criteria to help you in your writing.* 
+
+</details>
+<br />
+
+**Note:** The learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.
+
+```
+
+## Personal Learning Environments 
+
+...
+
+### Activity: ... {-}
+
+```{block2, type='reflect'}
+
+...
+
+<span class="blockhead">Questions to Consider</span>
+
+After watching the video, consider the following:
+
+- ...
+
+```
+
+
+
+## Online Identity for Learning 
+
+...
+
+### Activity: ... {-}
+
+```{block2, type='reflect'}
+
+...
+
+<span class="blockhead">Questions to Consider</span>
+
+After watching the video, consider the following:
+
+- ...
+
+```
+
+
+
+## Digital Literacies
+
+...
+
+### Activity: ... {-}
+
+```{block2, type='reflect'}
+
+...
+
+<span class="blockhead">Questions to Consider</span>
+
+After watching the video, consider the following:
+
+- ...
+
+```
+
+
+
+## Summary {-}
+
+In this first unit, you have had the opportunity to learn about ...
+
+
+
+## Assessment {-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Quizzes 1 & 2</span>
+
+After completing this unit, including the learning activities, you are asked to complete ...
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, check that you are able to:
+
+- Describe your engagement with digital technology
+- Apply digital tools to support learning in an academic environment
+- Explain what digital literacies mean for you in a tertiary education context
+- Examine your digital footprint
+- Build your professional online biography 
+- Examine privacy concerns related to various platforms and tools
+- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment.
+ 
+
+```
 
 This is text <abbr title="This is the definition of the word <b>this is emphasized</b>">Word To define</abbr> this is more text
 

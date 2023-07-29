@@ -1,5 +1,10 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
+introduction-to-digital-literacies-for-online-learning
+understanding-the-digital
+personal-learning-environments
+online-identity-for-learning
+digital-literacies
 title
 title-1
 title-2
@@ -7,4 +12,3 @@ title-3
 title-4
 title-5
 title-6
-title-7
