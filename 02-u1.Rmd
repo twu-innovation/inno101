@@ -21,12 +21,13 @@ When you have completed this unit, you should be able to:
 
 - Describe your engagement with digital technology
 - Apply digital tools to support learning in an academic environment
-- Explain what digital literacies mean for you in a tertiary education context
+- Explain what digital literacies mean for you in an academic and professional context
 - Examine your digital footprint
 - Build your professional online biography 
 - Examine privacy concerns related to various platforms and tools
-- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment.
+- Describe how to protect yourself and others in the digital environment.
  
+
 
 ### Activity Checklist {-}
 
@@ -38,20 +39,20 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Watch the introduction video on ...and read... 
 - Establish a personal learning environment by setting up your own course blog.
-- Ilustrate your engagement with digital technology through a photo or mind map.
+- Ilustrate your engagement with digital technology through a mind map.
 - Publish your first blog post, introducing yourself to course participants.	
 - Audit your own digital footprint to find out what exists on the internet about you
 - Share what social media technologies you use to support learning and how you use them by posting in the community forum in Discourse.
-- Build or update your professional online biography and the “About” page of your academic /course website.                                                                                                                                                                                                                     	
-- Take the Self-Check Quiz on Online identity. (ungraded)                                                                                                                                                                                                                 	Knowledge test
+- Build or update your professional online biography and the “About” page of your academic / course website.                                                                                                                                                                                                              	
 - Post in Discourse, sharing a comment about your learning on this course. 
 - Read an online article and annotate it using Hypothes.is.
-- Search, evaluate, select, annotate, tag, and share resource links
+- Search, evaluate, select, annotate, tag, and share resource links.
 - Post in the Discourse forum, reflecting on the reasons why digital literacy matters to you
 - Blog about your personal definition of digital literacies and the digital visitor / digital resident personal learning network (PLN) mapping exercise
-- Take the Self-Check Quiz on Digital literacies. (ungraded)  
+- Take the Self-Check Quiz on Unit 1 concepts. (ungraded)  
  
-<-- take out #3 - photo - and replace with mind map instructions.  take out self-check quizzes? -->
+**Note:** The learning activities in this course are designed to prepare you for the graded assigments in this course.  
+You are strongly encouraged to complete them.
 
 
 ```
@@ -88,8 +89,7 @@ Next, read the article on...
 
 After completing the activities above, answer the following questions:
 
-- Why is it important to acknowledge the work of Harriet Martineau, Dorothy E. Smith, Ibn Khaldun, Frantz Fanon, and W.E.B. Du Bois, in addition to the work of Max Weber, Karl Marx, and Émile Durkheim? Why is it especially important in sociology to consider all of these works?  
-- Discuss the importance of technology and science to sociology, both past and present. In what way is sociology important when we explore current issues around technology and science?  
+- Why is it important to ...  
 
 ```
 
@@ -127,7 +127,6 @@ criteria to help you in your writing.*
 </details>
 <br />
 
-**Note:** The learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.
 
 ```
 
@@ -201,7 +200,7 @@ As this is a course focusing on digital literacies, you are asked to establish
 a course blog, as this will improve your skills and enable you to network 
 with your peers.   
 
-We reccommend using WordPress, as it is supported by TWU.
+We recommend using WordPress, as it is supported by TWU.
 
 Follow the steps below to set up your blog.
 
@@ -236,7 +235,7 @@ Click on “save draft” (so you can review before publishing live on the web).
 
 1. Review your draft post and, when you’re happy with what you’ve written, click on the “Publish post” button.
 
-1. Add a category or tag for your post using the course tag: LiDA101
+1. Add a category or tag for your post using the course tag: LDRS101
 
 1. Post in the LDRS 101 Discourse forum to let your peers know the web address of your blog and ask them to post a comment. This will give you the opportunity to experience how comments function on your blog and to test if they are working properly.
 
@@ -245,7 +244,7 @@ Click on “save draft” (so you can review before publishing live on the web).
 
 ## Online Identity for Learning 
 
-
+add intro paragraph
 
 [Your digital footprint matters](https://www.internetsociety.org/learning/digital-footprints/), published by the Internet Society.
 
@@ -263,7 +262,13 @@ Watch this short CBS This Morning interview with Julia:
 
 ```{block2, type='reflect'}
 
-digital footprint audit
+In this activity you will audit your own digital footprint in order to find out what exists on the internet about you, and reflect on what you want your online identity to be.  Follow the steps below to begin.
+
+1. Conduct a Google search of your own name (using an incognito or private window in Chrome or Firefox). Search for your first name and surname without parenthesis (for example: snow white) and then with parenthesis (for example: “snow white”). Explore the results of your search.
+1. Conduct a Google search of your name with the name of current and previous employers.
+1. Conduct a Google search of your name with the name of previous schools you attended.
+1. Expand your search to include social media sites, for example: “snow white” twitter; “snow white” facebook; “snow white” youtube etc.
+1. Note any interesting or surprising findings.
 
 <span class="blockhead">Questions to Consider</span>
 
@@ -275,27 +280,33 @@ After watching the video, consider the following:
 
 
 
-### Activity: Digital Footprint Audit {-}
+### Activity: Blog: My Digital Footprint {-}
 
 ```{block2, type='reflect'}
 
-digital footprint audit
+Prepare and publish a short blog post of about 250 to 300 words focusing on what you hope to achieve with your online digital identity for learning. Your post can include:
 
-<span class="blockhead">Questions to Consider</span>
+1. Optional reflection: You may want to include a reflection(s) on the outcomes of your footprint audit. Remember that your blog post is public, so only share what you are comfortable sharing with the world. You don’t need to be specific; for example, you can generalise: I am satisfied with my digital footprint because … or I would like to improve my digital footprint for learning because …
 
-After watching the video, consider the following:
+1. Professional versus private: Consider how you want to separate your “private” online identity from your professional and / or learning identity. If you already maintain an online presence (existing blog, twitter and/or facebook accounts) think about how you will separate professional / learning posts from private and social life interactions online. For example, maintaining a separate course or learning blog is one way to achieve this distinction. Will you link your personal online identities (e.g.an existing Twitter username or Facebook account) with your learning blog? Will you link your professional online identity (e.g. published online biography on your employer’s web site) with your learning blog?
 
-- ...
+1. Objectives: List a few objectives for developing or improving your online identity.
+
+1. Remember to add a category or tag to your post using the course tag: LDRS101 (This is needed to harvest links to posts from registered course blogs for the course feed.)
+
+Remember: You are in charge of what you post online and deciding what you would like to share for your digital identity for the purposes of this course. Don’t share high risk personal details like physical address, date of birth, name of first pet etc., which may make it easier for identity thieves to appear more credible. If unsure, consult online resources for internet safety; for example Netsafe New Zealand. (replace resource)
+
+!! Note that we will cover online identity in more depth in Unit 5.
 
 ```
-
-
 
 
 
 ## Digital Literacies
 
-...
+In this unit we've started discussing 'the digital'; you have started a blog (part of your PLN), and you've examined your own digital identity.  In our final topic, we want to begin to define digital literacies, and continue to build digital skills.
+
+
 
 ### Activity: ... {-}
 
