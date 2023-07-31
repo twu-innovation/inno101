@@ -304,23 +304,158 @@ Remember: You are in charge of what you post online and deciding what you would 
 
 ## Digital Literacies
 
-In this unit we've started discussing 'the digital'; you have started a blog (part of your PLN), and you've examined your own digital identity.  In our final topic, we want to begin to define digital literacies, and continue to build digital skills.
+In this unit we've started discussing 'the digital', you have started a blog (part of your PLN), and you've examined your own digital identity.  In our final topic, we want to begin to define digital literacies, and continue to build digital skills.
 
+So, what is digital literacy?  In the next activity, you will start to unpack this term and prepare your own initial definition of digital literacy.
 
-
-### Activity: ... {-}
+### Activity: Definining Digital Literacy {-}
 
 ```{block2, type='reflect'}
 
+Purpose: Search for definitions of digital literacy and digital skills on the web to identify the difference.
+
+1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy) – Is this a good description?
+1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03) hashtag on Twitter – Did you find any valuable links to defining digital literacy?
+1. Conduct a Google search for “digital literacy.” Select a few definitions you like and record the urls, for example by adding these to your browser bookmarks.
+1. Conduct a Google search for “digital skills.” Select one or two definitions you like and record the urls.
+1. Conduct a Google search for “digital fluency” Select one or two definitions.
+1. What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?
+1. Read: [What is digital literacy?](http://pomo.com.au/blog/digital-literacy/) published by POMO – Is this a reliable source?
+1. How would you rate the academic quality of the definitions you found (e.g. low / high quality)?
+1. What did you discover? Share your thoughts and experiences by posting on the LDRS101 Discourse channel.  For example:
+
+- The major difference between digital skills and literacies is …
+- I didn’t realise that …
+- For me, digital literacy means …”
+
+Note: Your comment will be displayed in the course feed.
+
 ...
 
-<span class="blockhead">Questions to Consider</span>
 
-After watching the video, consider the following:
+“Saying that any digital tool teaches us digital literacies is like saying a pen or a keyboard teaches us writing.”
+—Maha Bali
+@Bali_Maha
 
-- ...
+
+"Digital literacies are not solely about technical proficiency but about the issues, norms, and habits of mind surrounding technologies used for a particular purpose.”
+—Doug Belshaw, Educational researcher
+
+
+
+### Activity: Digital skills versus literacies {-}
+
+```{block2, type='reflect'}
+
+In this activity, we will review an article on the difference between digital skills and digital literacies using Hypothes.is – an online social annotation technology.
+
+
+Purpose
+Read an online article and annotate it using Hypothes.is.
+
+Tasks
+
+1. Read the Hypothes.is “Quick start guide for students”
+1. Create an account on Hypothes.is. Here is the registration link
+We recommend that you use the Chrome browser (download here) and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: How to use Hypothes.is on mobile devices.
+1. Read the following article: Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both
+1. Activate the annotations after logging in to Hypothes.is and click on the search icon () and enter the course code (LiDA101) to filter posts for this course from the public feed.
+1. Annotate or reply to posts by visiting the annotation page (You will need to be logged into the Hypothes.is site to post.)
+1. Remember to tag your posts using the course code: LDRS101 (The course tag is required to harvest posts for the course feed.)
 
 ```
+
+
+
+### Activity: Researching a definition {-}
+
+```{block2, type='reflect'}
+
+
+This course is facilitated and enabled by resources that learners can access on the Internet. This involves the ability to search, evaluate, and select resources to support your learning. A key feature of a PLE is the ability to share useful and valuable information with your peers.
+
+In this activity, you will complete your first resource bank activity, where you are invited to search for additional resources to help you refine and develop your own definition of digital literacies, and to reflect on how this differs from definitions for digital skills. The resource bank activity builds on your initial search on the previous page by inviting you to share links to valuable resources you source on the Internet. The resource bank provides the technology to share these resources with our LDRS 101 learning community.
+
+The resource bank for this course is hosted on ...(Obsidian? Evernote? Moodle wiki? Google doc?) is an open source social bookmarking application which enables users to share and annotate links to resources they find on the web. It uses a tag system to group resources according to different topics. The tag system helps users to locate links to resources on the site using the same tag.
+
+The purpose of this activity is to find and select online definitions for digital literacies and digital skills, and to record and share these links using the OERu resource bank. This activity is designed to give you the opportunity to familiarise yourself with our shared resource bank, which is hosted on the bookmarks.oeru.org site. Note the format of the resource bank activity; in particular, scroll down to the footnote area at the bottom of this activity to see the required and recommended tags.
+
+Tasks
+
+**Search**
+1. Conduct a general Google search to find a few definitions for digital literacies and digital skills (narrow your search to three or four resources you find valuable for both concepts.)
+**Select**
+1. Select the best resource link for each concept – think about why you chose these links.
+**Create an account on bookmarks**
+1. Click on the register link on bookmarks.oeru.org
+1. The code you need for the anti-spam question is contained in the instructions for Session 1.
+1. For additional help in using bookmarks, consult the support site.
+**Record, annotate and tag your bookmarks**
+1. Log in to bookmarks.oeru.org and click on the “Add” link to record your best resource link describing digital literacies, and your best resource link for describing digital skills.
+1. Remember to add the required tags and suggested tags (see below in the footnote area).
+- Notes about tags: Tags should be lowercase without spaces. When adding more than one tag, these should be separated using commas. The lida101a2-1 refers to the first activity of the second learning pathway of the lida101 course.
+- Important: Remember to make your bookmark public (this is located next to the privacy section in the edit window when adding a bookmark).
+1. Include a short description summarising the link, including why you recommend the resource.
+**Explore the bookmark tags for digital literacy and digital skills**
+1. Click on the “Tags” link located at the top of the page at bookmarks.oeru.org.
+1. Search for resources tagged: digital literacy, or with the activity number: lida101a2-1 (Note, remember to select “all bookmarks” so that your search is not restricted to your own bookmarks.)
+1. Explore a few bookmarks which have been submitted by fellow learners. If you find a resource you like, vote for the resource by clicking on the “thumbs-up” graphic. Click on the “copy” link to add useful bookmarks to your personal bookmark account on bookmarks.oeru.org
+1. Search for resources tagged: digital skills (Remember to select “all bookmarks”).
+1. Explore a few bookmarks which have been submitted by fellow learners, and vote for those that you find useful.
+
+
+```
+
+
+
+
+### Activity: Forum – Why digital literacy matters {-}
+
+```{block2, type='reflect'}
+
+A key component of digital literacy and networked learning relates to the ability to engage meaningfully in online learning communities.
+
+This learning activity will provide you with the opportunity to familiarise yourself with the Moodle discussion boards that are common in TWU online learning discussions.
+
+
+Purpose of discussion activity:
+To reflect on the reasons why digital literacy matters to you, and to demonstrate your digital skills using a discussion forum.
+
+TWU online courses often use Moodle discussion forums as the main discussion platform for learners to engage in course conversations asyncrhonously. 
+
+- info re oeru forums - replace with Discourse?
+This is a community managed platform using the open source Discourse software. The system awards badges for a range of activities. Authentic activity increases the user’s trust levels which will enable more software features for participants as your trust levels increase over time. Therefore it’s a good time to get started in earning your first badges and improving your trust levels early in the course.
+
+Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
+https://www.youtube.com/watch?v=p2k3C-iB88w&t=3s
+update video?
+
+Steps
+
+1. Log in to forums.oeru.org (Sign up to register a new account if your don’t already have one.)
+1. Complete your profile page (Click on your user icon on the top right-hand side of your screen and select the settings cog ().)
+1. Spend a few minutes to explore the badges you can earn on the discourse platform. (Click on the badge for details.) By the end of this learning pathway you should have attained the following badges:
+- Autobiographer
+- First-like
+- First mention
+- First quote
+1. Post a contribution to the discussion on digital literacies and why they are important for you
+1. Remember to post one or two replies to interesting contributions (You should also “like” good contributions, use @username when replying, and if appropriate quote a reply when responding.)
+
+
+```
+
+
+
+
+### Activity: Researching a definition {-}
+
+```{block2, type='reflect'}
+
+
+
+```
+
 
 
 
