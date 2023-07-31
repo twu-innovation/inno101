@@ -5,7 +5,6 @@
 
 ## Big Ideas
 
-Begin the design process by identifying 1-2 ideas and a few essential questions that will serve as the narrative frame or the “hook” for your course. You might think of a big idea as a subtitle or unifying theme for your course.
 
 ### Big Idea #1
 
@@ -84,22 +83,6 @@ After successfully completing the course, you will be able to:
 
 - Build and customize technology-integrated workflows to enhance and enrich your learning journey
 - Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
-<!--
-{~~- Develop skills to support learning in a digital age~>~~}  
-- Establish and maintain {~~an online~>~~} a personal learning {~~environment~>~~} network
-- Establish a personal learning network to facilitate knowledge-sharing with your communities
-Use a range of digital tools and corresponding literacies to support tertiary learning in a digital age.
-
-
-{--Apply study strategies and organizational skills
-Use feedback to evaluate your learning
-Adopt a growth mindset as you plan the next phase of your learning
-Apply the critical skill of metacognition and explain your process for learning
- Evaluate a range of digital media, technologies, and communities appropriate for supporting learning
- to critically evaluate online resources
-- evaluate digital tools and platforms based on ethical principles--}
---->
-
 
 ### Cognitive complexity
 
@@ -107,90 +90,35 @@ Apply the critical skill of metacognition and explain your process for learning
 
 <!-- 
 
-- Build and customize technology-integrated workflows to enhance and enrich your learning journey
-- Discover, curate, connect, and share knowledge with your communities
-
 https://jarche.com/2014/02/the-seek-sense-share-framework/
 https://openpagesweb.wordpress.com/2018/02/06/professional-development-how-we-seek-sense-share/
 
-skills, including critical and creative thinking, quantitative and qualitative reasoning, communication, research, and information literacy.
-an ability to articulate various interdisciplinary and multi-disciplinary perspectives, integrating informed Christian perspectives.
-an ability to respond with wisdom, humility and charity to questions, issues, and problems of the human condition.
 --->
 
 ### Aesthetic Expression and Interpretation
 - Create a personalized narrative as a component of your digital footprint
 
-<!--
-{--- create and style a personal website using WordPress
-(related to: creative, performative, material and narrative forms of critical inquiry; intuitive, imaginative and interpretive methodologies; ways of knowing through which maker and receiver come to insight and understanding; collaborative and community–based interdisciplinary practices.)--}
-
-
-You will consider how to explore these questions by researching and gathering data, reviewing documents and artifacts, and experiencing aesthetic, written, archival, and scientific forms of information and experiences. You will synthesize your new learning to create possibilities, solutions, statistical analysis, written reports, and works of art. You will discuss, reflect, experience, and share your findings with others in the TWU community and beyond.
--->
-
-
 ### Inter-and Intra-Personal Wellness
 - Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-
-<!-- 
-(Unit learning outcome?)
-- manage personal boundaries with respect to online privacy and security
-
-(related to personal and social health; an appreciation of the role of community in wellness.)
---->
 
 ### Spiritual Formation
 
 - Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 - Evaluate digital tools, platforms, and interactions based on ethical principles
 
-<!--
-(choose 1 outcome...focus on inclusive community & character building?)
-
-- create inclusive digital communities which embody a sense of belonging, connection, mentorship and support.
-<!-- Note my cat pressed a key and something went wonky here...hoping it's nothing!  --->
-
-<!-- 
-- encourage a Christ-like way of life characterized by love for and service to others.
-
-(from LDRS 301) Demonstrate ways to motivate, mobilize, and develop others to accomplish a task or to think with creativity, vision, integrity and skill for the benefit of all concerned.
-
-editification...building each other up...encouragement, motivation, valuing others....
---->
-
 ### Social Responsibility and Global Engagement
 
 - Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-<!--
-
-{--Develop a positive digital identity and digital footprint for learning
-Gain an understanding of the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment.
-Outline the rights and responsibilities of a digital citizen.--}
---->
 
 ### Leadership
 
 
 - develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+
 <!--
-
-{--- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner.
-caring for people, integrity, trustworthiness, and serving the good of the whole
-treating all as equal human beings.
-Such leaders often have strong internal ideas and values, and they are capable of motivating followers to act in ways that support the greater good rather than acting out of self-interest. 
-- (related to abilities and attitudes characterized by service, humility and integrity?)
---}
-
 https://books.twu.ca/monograph/chapter/transformational-servant-leadership/
+-->
 
-
-Learners will demonstrate competency in the following areas:
-
-- evaluating digital tools and platforms based on ethical principles.
-- apply digital literacy skills to critically evaluate online resources
-- technology enabled ways of knowing
---->
 ## Competencies
 
 Each competency is demonstrated in both public and private contexts.
@@ -219,53 +147,6 @@ Ways of being in a digital world
 - create and manage WordPress site
 - build obsidian vault
 - 
-<!--
-LIDA 101: Digital literacies for online learning
-Learning Outcome
-Apply digital tools effectively to demonstrate learning literacies including advanced search strategies to identify and select relevant open access resources to research, analyse, produce and present information for tertiary education purposes.
-Objectives:
-Apply digital skills for establishing and maintaining a personal learning environment on the open web
-Outline the breadth of digital learning literacies for the 21st century
-Apply effective search strategies for both search engines and repositories to find relevant open access resources
-Apply skills for judging the legitimacy of open resources
-Apply frameworks for selecting appropriate resources to support learning
-Apply learning and academic literacies, including note-taking, preparing annotated bibliographies, paraphrasing and reflective learning skills
-Apply online skills for planning and writing an essay, including how to prepare a bibliography, how to cite sources online for academic purposes and how to maintain a bibliography
-Learning outcomes from main page
-{--Gain insights into--} Explore what digital and academic literacies mean for learning in a digital age.
-Develop digital skills to establish and maintain an online personal learning environment.
-Apply advanced online search strategies to locate {--open access--} resources in support of your learning.
-{--Learn how to e--}Evaluate the legitimacy, credibility and reliability of online resources for academic study.
-{--Learn how to u--}Use a range of digital tools and corresponding literacies to support tertiary learning in a digital age.
-Apply your digital and academic literacies to publish an academic essay on a topic of your choice.
-
-LIDA 102: Digital citizenship
-{--Gain an understanding of --}Explore the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment.
-{==Outline the rights and responsibilities of a digital citizen.==}{>><<}
-Expand your online learning network by adopting a proactive approach to improving your web presence to support and engage in learning in a digital age.
-Apply good online hygiene practices to ensure your privacy and security in digital environments.
-Evaluate a range of digital media, technologies and communities appropriate for supporting learning.
-Gain an understanding of the implications of digital technology for your future career.
-Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner.
-Develop a positive digital identity and digital footprint for learning
-
-LIDA 103: Open education, copyright and open licensing in a digital world Study, Strategize, Succeed
-Apply the critical skill of metacognition and explain your process for learning
-Apply study strategies and organizational skills
-Use systematic strategies to complete assignments successfully
-Use feedback to evaluate your learning
-Adopt a growth mindset as you plan the next phase of your learning
-
-
-
-LIDA 104: Critical media literacies and associated digital skills
-Define media literacy and what it means for learning in a digital age.
-Analyse online resources a recent press release from a critical media perspective.
-Analyse contemporary news considering how the medium and publisher influences the message.
-Apply web literacy skills for online fact-checking
-Apply skills in using digital media for creating a multimodal presentation to support learning 
-
--->
 
 ## GX Program Skills & Competencies
 In addition to course specific learning outcomes, the following are general skills and competencies GX students are expected to be proficient in as they complete their first 2 years of the program and prepare for their last two year of education at TWU Langley.
@@ -290,39 +171,19 @@ In addition to course specific learning outcomes, the following are general skil
 
 @cmadland brainstorming skills (like we do for BA Lead program now). What other skills apply to our course & other GX courses?  This will help with assessment & activity types.
 
-## Mapping Outcomes & Skills
-- 
-| TWU Outcome | Course Outcome | Evidence of Learning |
-|  ---  |  ---  |  ---  |
-| Knowledge and its Application | [Separate each outcome with this wee little code: <br>] |       |
-| Cognitive Complexity |       |       |
-| Aesthetic Expression and Interpretation |       |       |
-| Inter- and Intra-Personal Wellness |       |       |
-| Spiritual Formation |       |       |
-| Social Responsibility and Global Engagement |       |       |
-| Leadership |       |       |
-
-Note: Clear success criteria must be provided. Instead of assessing the task, we assess the course learning outcomes demonstrated via the gathered evidence of learning. If you’re not sure of the categories for outcomes, or the artifacts for learning, feel free to jot down notes on learning outcomes below.
-
 ## Assessment
-
-Assessment is the process of gathering data about what learners know and can do, and then interpreting that data either to inform future teaching (formative assessment) or to determine a final grade based on the learner's performance (summative assessment). [You can read more about assessment here.](https://multi-access.twu.ca/assessment)
 
 ### Formative Assessment (Learning Activities; Assessment *for and as* Learning)
 
-The next step is to consider the flow of learning in the course. Learners are expected to demonstrate competence in each of the learning outcomes identified in the previous section and the activities of the course must serve that end. What is important to consider is the question 'What will learners ***DO*** in order to learn?'. Formative activites are those which promote advancement towards the learning outcomes and can include things like reading, writing, debating, applying, viewing, discussing, evaluating, calculating, observing...and so on. In addition to these activities, learners must be given opportunity to metacognitively consider their own learning processes as well as the processes of their peers. Formative activities are the ***process*** of learning where it is assumed that the learners are not currently competent, they are not the ***product*** of learning where learners demonstrate their competence. This means that formative activites are generally not considered for summative purposes, unless the learner is able to demonstrate competence relative to the outcome, in which case, the learner can be considered to have met the outcome.
 
-Critical to this process is ***feedback***. Upon completion of a formative learning activity, learners should know how they performed relative to the priority course outcome and specifically how they can close the gap between their actual performance and the expected performance. Faculty, likewise, should know what each learner needs to do to close the gap and they should also know how to differentiate future learning activities in order to address misconceptions. Sources of feedback can include the instructor, peers, family, industry standards, employers, certified professionals...
 
 ### Summative Assessment (Assessment *of* Learning)
 
-The next step is to consider how learners will demonstrate their ability relative to the priority learning outcomes. Keep in mind that assessment must be grounded in the learning outcomes, not in particular tasks. A learner might demonstrate competence in a learning outcome in a number of different ways. Summative assessment is the process of collating all of the evidence gathered that demonstrates a learner's competence ***at the end of the course.*** If a learner demonstrates low competency early in the course but high competency at the end, then their end-of-course level should be considered, not the average of the two levels. Distilling the data from course activities into a single letter grade is a complex process that requires an interpretation of the data gathered during the course and during formalized tasks
 
-Consider how each learner's performance will be transformed into a component of their final grade by determining 3-4 summative assessment activities. Each activity will be composed of tasks which require learners to demonstrate their competency in one or more of the priority learning outcomes in alignment with the proficiency indicators determined in the previous step. A summative assessment does not have to be an exam, but can instead be a portfolio, a website, a video, a conversation, a research paper, a performance, an installation, a plan, an application.
 
 |Course Outcome | Formative Activity | Summative Activity | Feedback Source (instructor, peers, self) |
 |  ---  |  ---  |  ---  |  ---  |
-|       |       |       |       |
+|1 |       |       |       |
 |       |       |       |       |
 |       |       |       |       |
 |       |       |       |       |
@@ -354,11 +215,55 @@ You may want to use this last section of the blueprint to brainstorm course reso
 
 | Unit | Resources |
 |  ---  |  ---  |
+|1 |Bower, M. (2019). Technology‐mediated learning theory. British Journal of Educational Technology, 50(3), 1035–1048. https://doi.org/10.1111/bjet.12771
+|
+|   |  Couros, A. (2010). Chapter 6—Developing Personal Learning Networks for Open and Social Learning. In G. Veletsianos (Ed.), Emerging technologies in distance education. AU Press. https://central.bac-lac.gc.ca/.item?id=9781897425770&op=epub&app=Library         |
+|       |   Eric Stoller—What is Digital Identity? (n.d.). University of Derby. https://www.youtube.com/watch?v=u0RryRbJza0    |
+|       |   Jawed, S., Mahboob, U., & Yasmeen, R. (2019). Digital professional identity: Dear Internet! Who am I? Education for Health, 32(1), 33. https://doi.org/10.4103/efh.EfH_232_17    |
+|       |    V&R mapping. (2014, September 18). David White. http://daveowhite.com/vandr/vr-mapping/   |
+|       |  Visitors and Residents. (n.d.). Retrieved December 23, 2021, from https://experimental.worldcat.org/vandrmapping/signIn     |
+|       |   VRAMappingInstructions.pdf. (n.d.). Retrieved December 23, 2021, from https://experimental.worldcat.org/vandrmapping/assets/documents/VRAMappingInstructions.pdf    |
 |       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
+
+### From EDCI338
+Boyd, D. (2012). Networked Privacy. Surveillance & Society, 10(3/4), 348–350. https://doi.org/10.24908/ss.v10i3/4.4529
+
+Clark, J., & Aufderheide, P. (2011). A New Vision for Public Media. In S. C. Jansen, J. Pooley, & L. Taub-Pervizpour (Eds.), Media and Social Justice (pp. 55–67). Palgrave Macmillan US. https://doi.org/10.1057/9780230119796_5
+
+
+
+Davos 2019—Press Conference The Value of Digital Identity for the Global Economy and Society. (n.d.). World Economic Forum. https://www.youtube.com/watch?v=1-V7lyxrOmw
+
+Del Giudice, M. (2014). From Information Society to Network Society: The Challenge. In M. Del Giudice, M. R. Della Peruta, & E. G. Carayannis (Eds.), Social Media and Emerging Economies (pp. 71–88). Springer International Publishing. https://doi.org/10.1007/978-3-319-02490-5_5
+
+Eric Stoller—What is Digital Identity? (n.d.). University of Derby. https://www.youtube.com/watch?v=u0RryRbJza0
+
+Gutierrez, K. (n.d.). What are Personal Learning Networks? Retrieved December 23, 2021, from https://www.shiftelearning.com/blog/personal-learning-networks
+
+Hirst, M. (2018). The Political Economy of Fake News. In Navigating Social Journalism: A Handbook for Media Literacy and Citizen Journalism (1st ed.). Routledge. https://doi.org/10.4324/9781315401263
+
+Jawed, S., Mahboob, U., & Yasmeen, R. (2019). Digital professional identity: Dear Internet! Who am I? Education for Health, 32(1), 33. https://doi.org/10.4103/efh.EfH_232_17
+
+MILLER. (2021, June 6). Jody Vance—Media Voices. https://www.youtube.com/watch?v=E-NnpQJdl0A
+
+Moore, S., & Schnellert, L. (2017). One Without the Other: Stories of Unity Through Diversity and Inclusion. Portage & Main Press. https://ebookcentral-proquest-com.ezproxy.library.uvic.ca/lib/uvic/reader.action?docID=4832579&ppg=11
+
+Privacy and Surveillance Quiz. (n.d.). Digital Tattoo. Retrieved December 23, 2021, from https://digitaltattoo.ubc.ca/quizzes/privacy-and-surveillance/
+
+Qualman, E. (2012). Chapter Sixteen—Empower Others. In Digital leader: 5 simple keys to success and influence. McGraw-Hill.
+Rajagopal, K., Brinke, D. J., Bruggen, J. V., & Sloep, P. B. (2012). Understanding personal learning networks: Their structure, content and the networking skills needed to optimally use them. First Monday. https://doi.org/10.5210/fm.v17i1.3559
+
+Spracklen, K. (2015). Identity-Making and Social Media. In K. Spracklen, Digital Leisure, the Internet and Popular Culture (pp. 94–112). Palgrave Macmillan UK. https://doi.org/10.1057/9781137405876_6
+
+Trilling, B., & Fadel, C. (2013). Chapter 4—Digital Literacy Skills. In 21st century skills: Learning for life in our times. Jossey-Bass. https://learning-oreilly-com.ezproxy.library.uvic.ca/library/view/21st-century-skills/9780470475386/fade_9780470475386_oeb_c04_r1.html
+
+Visitors and Residents. (n.d.). Retrieved December 23, 2021, from https://experimental.worldcat.org/vandrmapping/signIn
+
+V&R mapping. (2014, September 18). David White. http://daveowhite.com/vandr/vr-mapping/
+
+VRAMappingInstructions.pdf. (n.d.). Retrieved December 23, 2021, from https://experimental.worldcat.org/vandrmapping/assets/documents/VRAMappingInstructions.pdf
+
+What is a Personal Learning Network (PLN)? (n.d.). FutureLearn. Retrieved December 23, 2021, from https://www.futurelearn.com/info/courses/learning-network-age/0/steps/24644
+
+Woods, B. (n.d.). Building your own PLN: seeking new insights and ideas? Expand your personal learning network. T+D, 67(11). Retrieved December 23, 2021, from https://go-gale-com.ezproxy.library.uvic.ca/ps/i.do?p=ITBC&u=uvictoria&id=GALE|A348998538&v=2.1&it=r&sid=summon
+
