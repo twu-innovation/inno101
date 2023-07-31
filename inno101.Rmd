@@ -428,6 +428,8 @@ Note: Your comment will be displayed in the course feed.
 ...
 
 
+### Digital skills versus literacies
+
 “Saying that any digital tool teaches us digital literacies is like saying a pen or a keyboard teaches us writing.”
 —Maha Bali
 @Bali_Maha
@@ -540,6 +542,96 @@ Steps
 
 ```
 
+### Assessment and scope of digital literacies
+
+Digital literacies for academic learning involves more than Facebook, Snapchat or Twitter and the associated technical skills in using these technologies. 
+
+As you explore the concept, you will find online resources which confuse digital skills with digital literacies. The activities which follow aim to provide an initial introduction to the wide range of digital literacies associated with academic learning. We will explore the concept of digital literacies in greater depth as we progress with the course. When exploring these online resources, we encourage you to differentiate between skills and literacies and to develop a critical disposition. Digtial literacies involve issues, norms, and habits of mind surrounding technologies used for a particular purpose. However, these literacies are closely related to technical proficiency in using a range of digital applications
+
+### Activity: Am I Digitally Literate? {-}
+
+```{block2, type='reflect'}
+
+Digital literacies encompasses a wide range of capabilities which extend beyond the digital skills associated with different technologies.
+
+1. Study the graphic depicting the Seven elements of digital literacies (scroll down the page to view the graphic). (replace)
+1. Jot down one or more technologies or tools you would recommend for each of the seven elements in the graphic and assess your competence in using each particular technology/tool (eg below average, average, above average and excellent).
+
+1. Next, use your searching skills to discover the range and scope of digital literacies (Don’t spend more than 15 to 20 minutes on the self-assessment activity).
+
+- Conduct a Google search using: “digital literacy self-assessment”
+- Choose a link to conduct a self-assessment of your digital literacy.
+Alternatively, you can:
+- Try the iTest developed by the University of Exeter or
+- Explore the What is digital literacy? page of the Digital Literacies Toolkit developed by the University of Southampton.
+
+Questions to consider
+
+- Did the self-assessment you chose focus on digital skills or digital literacies?
+- What did you learn from this exercise?
+- Share your thoughts by posting on Discourse:
+
+Note: Your comment will be displayed in the course feed.
+
+
+```
+
+
+
+
+
+
+### Activity: PLN mapping challenge {-}
+
+```{block2, type='reflect'}
+
+In this activity you will publish a blog post including your personal definition of digital literacies and complete the digital visitor / digital resident personal learning network (PLN) mapping exercise.
+
+1. Read the Digital Visitor and Resident article on Wikipedia
+1. Watch David White’s video on visitors and resident mapping
+
+1. Explore the visitors and residents map below (click on the image for a larger view).
+
+A Visitors & Residents map of online engagement.jpg
+
+Review one or two examples of the following digital visitor and resident maps created by learners. (Click on the image for a larger view and image attributions. Remember that your “back button” will take you back to this page or you can open the image links a new tab or window.)
+
+insert images from https://course.oeru.org/lida101/learning-pathways/introduction-to-digital-literacies/tasks-pln-mapping-challenge/
+
+1. Create your own Personal Learning Network (PLN) map. You can generate your PLN map using your preferred graphics software, slideshow software, or draw your map free hand and then take a photograph for posting on your blog. Institutional quadrants in this context refers to your professional environment and/or engagement in formal learning contexts. (Note that the final assessment requires your PLN map to be generated using digital tools, but for the purposes of this post you can use a hand drawn graphic as a draft before finalising this post for assessment.)
+1. Revisit your original definition of digital literacy and think about how you would like to refine and improve your first attempt.
+1. Prepare a revised definition of digital literacy and what digital literacy means for you.
+1. Complete today’s LiDA photo challenge and share your reflection and image on mastodon.oeru.org or Twitter. Remember to include the following two hashtags in the text of your tweet: #LiDA101 and #lida101photo
+1. Consider the digital literacies you would like personally to improve on this course based on the seven elements of digital literacies
+
+
+
+
+```
+
+
+
+
+
+### Activity: Blog: Digital Literacies for Online Learning {-}
+
+```{block2, type='reflect'}
+
+Publish a blog post responding to four requirements:
+
+Your personal definition of digital literacies justified from your reading of the literature (about 100 to 150 words)
+Describe what digital literacies mean for you in a sentence.
+Upload an image of your PLN map in your blog post.
+Summarise an action plan for improving your digital literacies. Identify the literacies you plan to improve including the reasons why and how you aim to achieve this.
+Ensure that your references are cited appropriately.
+Scan the course feed for blog posts and post a comment on two posts from your peers.
+Notes
+
+Remember to tag or label your post using the course code: LiDA101. (If you omit this step, we will not be able to harvest your post for the course feed.)
+
+```
+
+
 
 
 
@@ -550,7 +642,6 @@ Steps
 
 
 ```
-
 
 
 
