@@ -143,7 +143,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 - create a WordPress site at create.twu.ca
 
 ```
+<!--
+I'm wondering whether having this task first may be a bit overwhelming.  Could we introduce "the digital" - setting the stage for why these tools can benefit them? Do we need to introduce Zotero in this first unit?  We are introducing Obsidian, WP, Discourse, Hypothes.is...maybe save Zotero for Unit 2 on resource management?
 
+I think I'll list the tools on our blueprint in the topics section so we can confirm (https://docs.google.com/document/d/1pXFscdE_6w2Iu9X9icQcJnXIZa2rqdiQokxz-VNjVvA/edit)
+
+-->
 
 ```{block2, type='reflect'}
 
