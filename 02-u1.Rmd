@@ -39,20 +39,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```{block2, type='reflect'}
 
-- download and install Zotero
-    - find and add 3 articles related to one of your other courses
-- download and install Obsidian
+
+- download and install [Obsidian](https://obsidian.md)
 - download and open the course vault in Obsidian
     - activate the plugins that came with the Obsidian vault
-    - import data from the three articles you added to Zotero
 - create a WordPress site at create.twu.ca
 
 ```
 <!--
-I'm wondering whether having this task first may be a bit overwhelming.  Could we introduce "the digital" - setting the stage for why these tools can benefit them? Do we need to introduce Zotero in this first unit?  We are introducing Obsidian, WP, Discourse, Hypothes.is...maybe save Zotero for Unit 2 on resource management?
-
-I think I'll list the tools on our blueprint in the topics section so we can confirm (https://docs.google.com/document/d/1pXFscdE_6w2Iu9X9icQcJnXIZa2rqdiQokxz-VNjVvA/edit)
-
+//todo #1
 -->
 
 ```{block2, type='reflect'}
@@ -96,8 +91,21 @@ You are strongly encouraged to complete them.
 
 ## Understanding the Digital
 
-We begin Unit 1 with an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools
+We begin Unit 1 with an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. It is deeper than that, though, as the COVID-19 pandemic led to many jurisdictions relying on mobile phones for allowing people to confirm their vaccination status in order to access restaurants or other public venues in the midst of restrictions. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology. 
 
+Modern universities are also deeply impacted by *the digital*. Every system involved in higher education has been digitized in some manner. 
+
+- Fundraising depends on large databases of potential, active, and inactive donors, 
+- budgeting and accounting is accomplished using software, 
+- recruitment relies on customer relationship management (CRM) software, 
+- courses are designed and delivered digitally, 
+- course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE), 
+- assignments must often be created digitally (word processorsl, presentation software, video editors, website builders),
+- research data is gathered, stored, and analyzed digitally
+
+There are many other processes and procedures that rely on *the digital* in higher education, but the important thing for you to realize as you begin your higher education journey is that there are many tools that you will be required to learn and use throughout your journey. Some are more obvious, like word processors, presentation software, email, the library website, and LMSs, but some are less obvious and won't necessarily be taught specifically, other than in this course.
+
+Some of the digital tools we will introduce to you will help you build a *workflow* for you to manage the huge amount of information and resources that you will have to sort through to complete many of your assignments. You will learn to use AI to find resources
 ### Activity:  {-}
 
 ```{block2, type='reflect'}

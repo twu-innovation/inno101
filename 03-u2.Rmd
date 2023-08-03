@@ -1,1 +1,6 @@
 # Title
+
+## Activity Checklist {-}
+
+- download and install Zotero
+    - find and add all the articles and books listed in the 'Resources' section on the [welcome page of this book](https://twu-innovation.github.io/inno101).
