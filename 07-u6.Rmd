@@ -1,1 +1,159 @@
-# Title
+# Unit 6: Sharing your Knowledge
+
+
+## Overview {-}
+
+...
+
+
+### Topics {-}
+
+This unit is divided into the following topics:
+
+1. TWU Online Community
+2. Digital Practices in the Workplace
+3. Societal Issues and the Internet
+
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- ...
+- ...
+ 
+
+
+### Activity Checklist {-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Learning Activities</span>
+
+- ...
+- ...
+ 
+**Note:** The learning activities in this course are designed to prepare you for the graded assigments in this course.  
+You are strongly encouraged to complete them.
+
+
+```
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment</span>
+
+- See the Assessment section in Moodle for assignment details and due dates.
+
+```
+
+
+
+### Resources {-}
+
+- All resources will be provided online in the unit.  
+
+
+## Topic
+
+content
+
+<!--
+comment
+-->
+
+
+
+### Activity:  {-}
+
+```{block2, type='reflect'}
+
+Watch/read...
+
+<span class="blockhead">Questions to Consider</span>
+
+After completing the activities above, answer the following questions:
+
+- ...
+
+```
+
+## Topic
+
+content
+
+<!--
+comment
+-->
+
+
+
+### Activity:  {-}
+
+```{block2, type='reflect'}
+
+Watch/read...
+
+<span class="blockhead">Questions to Consider</span>
+
+After completing the activities above, answer the following questions:
+
+- ...
+
+```
+
+## Topic
+
+content
+
+<!--
+comment
+-->
+
+
+
+### Activity:  {-}
+
+```{block2, type='reflect'}
+
+Watch/read...
+
+<span class="blockhead">Questions to Consider</span>
+
+After completing the activities above, answer the following questions:
+
+- ...
+
+```
+
+
+## Summary {-}
+
+In this unit, you have had the opportunity to learn about ...
+
+
+
+## Assessment {-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Quizzes 1 & 2</span>
+
+After completing this unit, including the learning activities, you are asked to complete ...
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+Before you move on to the next unit, check that you are able to:
+
+- ...
+- ...
+ 
+
+```

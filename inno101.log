@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.28)  2 AUG 2023 07:49
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.28)  5 AUG 2023 20:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -877,64 +877,44 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 4.
-[3])
+[3] [4])
 \tf@toc=\write5
 \openout5 = `inno101.toc'.
 
-[4] [5
+[5] [6
 
-]
+] [7]
 File: assets/course-intro/menu.png Graphic file (type bmp)
 <assets/course-intro/menu.png>
 File: assets/course-intro/left_arrow.png Graphic file (type bmp)
 <assets/course-intro/left_arrow.png>
 File: assets/course-intro/right_arrow.png Graphic file (type bmp)
 <assets/course-intro/right_arrow.png>
-[6] [7] [8
+[8] [9] [10
 
 ]
 Chapter 1.
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 356--358
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 348--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--364
+Underfull \hbox (badness 10000) in paragraph at lines 354--356
 
  []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 10 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+\TU/lmr/m/n/10 12 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 442--444
-
+[12] [13]
+Overfull \hbox (61.42343pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 444--446
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--450
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--452
-
- []
-
-
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 452--454
 
  []
@@ -965,29 +945,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 462--464
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 464--466
 
-
-Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 12 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[12]
-Overfull \vbox (164.61128pt too high) has occurred while \output is active []
 
-[13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
 
-
-Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[14]
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--474
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [15]
-Overfull \vbox (374.32329pt too high) has occurred while \output is active []
+Overfull \vbox (164.61128pt too high) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
@@ -995,7 +981,7 @@ Overfull \hbox (61.42343pt too wide) has occurred while \output is active
  []
 
 [16]
-Underfull \vbox (badness 5637) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1006,14 +992,10 @@ Overfull \hbox (61.42343pt too wide) has occurred while \output is active
  []
 
 [18]
-
-Package natbib Warning: Citation `Bali_Maha' on page 19 undefined on input line 758.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (374.32329pt too high) has occurred while \output is active []
 
 [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5637) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
@@ -1024,7 +1006,11 @@ Overfull \hbox (61.42343pt too wide) has occurred while \output is active
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [21]
-Overfull \vbox (190.26329pt too high) has occurred while \output is active []
+
+Package natbib Warning: Citation `Bali_Maha' on page 22 undefined on input line 768.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
@@ -1032,14 +1018,10 @@ Overfull \hbox (61.42343pt too wide) has occurred while \output is active
  []
 
 [22]
-
-Package natbib Warning: Citation `username' on page 23 undefined on input line 887.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [23]
-Overfull \vbox (14.76329pt too high) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
@@ -1047,9 +1029,13 @@ Overfull \hbox (61.42343pt too wide) has occurred while \output is active
  []
 
 [24]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (190.26329pt too high) has occurred while \output is active []
 
 [25]
+
+Package natbib Warning: Citation `username' on page 26 undefined on input line 897.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1058,52 +1044,66 @@ Overfull \hbox (61.42343pt too wide) has occurred while \output is active
  []
 
 [26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (14.76329pt too high) has occurred while \output is active []
 
 [27]
-Underfull \vbox (badness 4872) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[28] [29]
+[28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 30 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[30
+[30]
+Underfull \vbox (badness 4872) has occurred while \output is active []
 
-]
+[31]
+Overfull \hbox (61.42343pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 32 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+ []
+
+[32]
 Chapter 2.
-[31] [32
+[33
 
-]
+] [34] [35] [36]
 Chapter 3.
-[33] [34
+[37
 
-]
+] [38] [39] [40]
 Chapter 4.
-[35] [36
+[41
 
-]
+] [42] [43] [44]
 Chapter 5.
-[37] [38
+[45
 
-]
+] [46] [47] [48]
 Chapter 6.
-[39] [40
+[49
 
-]
+] [50] [51] [52]
 Chapter 7.
-[41] [42
+[53
 
-]
+] [54] [55] [56]
 Chapter 8.
-[43] [44
+[57
 
-] (./inno101.bbl [45] [46
+] [58
+
+] (./inno101.bbl [59] [60
 
 ]
 
@@ -1113,21 +1113,21 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[47] (./inno101.aux)
+[61] (./inno101.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: 3F6E30AEE9B0184F0CA2D2BDE58376AA;2309.
+(rerunfilecheck)             Checksum: 3FFCC2CCE73B610839F6B9C3EC9CEE0B;7411.
  ) 
 Here is how much of TeX's memory you used:
- 26435 strings out of 477888
- 528388 string characters out of 5821336
+ 26567 strings out of 477888
+ 530440 string characters out of 5821336
  1930869 words of memory out of 5000000
- 46929 multiletter control sequences out of 15000+600000
+ 47061 multiletter control sequences out of 15000+600000
  564528 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,6n,120p,1212b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,6n,120p,1556b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on inno101.pdf (47 pages).
+Output written on inno101.pdf (61 pages).
