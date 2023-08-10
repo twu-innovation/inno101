@@ -2,17 +2,11 @@
 
 ## Overview {-}
 
-Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally-saturated society. It is our intent to provide you with opportunities to start your university career with an emerging set of skills and literacies related to digital tools for learning. There is so much that you will learn in your chosen discipline, and it is difficult to also learn how to use digital tools to help you learn while you are trying to study math, biology, history, or education. 
+Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally-saturated society. It is our intent to provide you with opportunities to start your university career with an emerging set of skills and literacies related to digital tools for learning. Within your academic pursuits, you will encounter a vast amount of information, and integrating digital tools into your learning journey might be difficult. Your chosen discipline will provide ample learning possibilities, and incorporating digital tools to enhance your learning may prove challenging. This course will give you a head start on using digital tools to build a workflow that will allow you to stay organized and to make your process of learning visible for yourself and your instructors. We will also lead you through readings and thoughts about your digital identity, privacy and security, and sharing your new knowledge in ethical ways.
 
 <!--
-suggesting other wording for this sentence...
-
-Within your academic pursuits, you will encounter a vast amount of information, and integrating digital tools into your learning journey might be difficult.
-
-Your chosen discipline will provide ample learning possibilities, and incorporating digital tools to enhance your learning may prove challenging.
+//todo #2
 -->
-
-This course will give you a head start on using digital tools to build a workflow that will allow you to stay organized and to make your process of learning visible for yourself and your instructors. We will also lead you through readings and thoughts about your digital identity, privacy and security, and sharing your new knowledge in ethical ways.
 
 There will be two primary branches of the course and the tools that we will show you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your 'ownership' over your work.
 
