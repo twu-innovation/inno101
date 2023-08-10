@@ -18,9 +18,10 @@ This unit is divided into the following topics:
 
 1. Getting set up
 2. Understanding the Digital
-3. Personal Learning Networks
-4. Online Identity for Learning
-5. Digital Literacies
+3. Digital Literacies
+//todo #3 4. Personal Learning Networks
+5. Online Identity for Learning
+
   
 
 ### Learning Outcomes {-}
@@ -95,28 +96,10 @@ You are strongly encouraged to complete them.
 
 ## Understanding the Digital
 
-We begin Unit 1 with an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. It is deeper than that, though, as the COVID-19 pandemic led to many jurisdictions relying on mobile phones for allowing people to confirm their vaccination status in order to access restaurants or other public venues in the midst of restrictions. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology. 
-
-<!--
-suggesting to revise Covid sentence for various reasons...
-If the focus is on what we use our phones for...
-
-Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, and health and fitness management.
-
-
--->
-
+We begin Unit 1 with an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. It is deeper than that, though, as the COVID-19 pandemic led to many jurisdictions relying on mobile phones for allowing people to confirm their vaccination status in order to access restaurants or other public venues in the midst of restrictions creating barriers for those who don't have mobile phones. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology. 
 
 Modern universities are also deeply impacted by *the digital*. Every system involved in higher education has been digitized in some manner, including recruitment, accounting, and fundraising.  As you begin your university career, here are some digital systems you will likely encounter: 
 
-<!--
-suggest to delete these 3 and focus on student services...
-- Fundraising depends on large databases of potential, active, and inactive donors, 
-- budgeting and accounting is accomplished using software, 
-- recruitment relies on customer relationship management (CRM) software, 
-
-
--->
 - courses are designed and sometimes delivered digitally, 
 - course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE) (e.g. Moodle), 
 - assignments must often be created digitally (word processorsl, presentation software, video editors, website builders),
@@ -143,6 +126,15 @@ After completing the activities above, answer the following questions:
 - Why is it important to ...  
 
 ```
+
+## Digital Literacies
+
+::: {.definition name="Digital Literacy" #diglit}
+Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. [@digitallearningadvisorycommitteePostSecondaryDigitalLearning2022]
+:::
+
+Literacy, as we commonly understand it, is the ability to understand the meaning of texts. It is more than just being able to 'read'. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
+
 
 ### Activity: Reflective Journal {-}
 

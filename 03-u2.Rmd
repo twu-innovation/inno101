@@ -5,6 +5,7 @@
 
 ...
 
+See \@ref(def:diglit)
 
 ### Topics {-}
 

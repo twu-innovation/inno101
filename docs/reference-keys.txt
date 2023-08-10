@@ -2,9 +2,10 @@ fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 introduction-to-digital-literacies-for-online-learning
 understanding-the-digital
+digital-literacies
 personal-learning-environments
 online-identity-for-learning
-digital-literacies
+digital-literacies-1
 digital-skills-versus-literacies
 assessment-and-scope-of-digital-literacies
 unit-2-discovering-and-curating-resources
