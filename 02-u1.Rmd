@@ -129,7 +129,8 @@ After completing the activities above, answer the following questions:
 
 ## Digital Literacies
 
-::: {.definition name="Digital Literacy" #diglit}
+
+> ::: {.definition name="Digital Literacy" #diglit}
 Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. [@digitallearningadvisorycommitteePostSecondaryDigitalLearning2022]
 :::
 

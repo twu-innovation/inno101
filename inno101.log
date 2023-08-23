@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  23 AUG 2023 13:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  23 AUG 2023 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1129,12 +1129,7 @@ S FOR ONLINE LEARNING
 [12]
 
 Package natbib Warning: Citation `digitallearningadvisorycommitteePostSecondary
-DigitalLearning2022' on page 13 undefined on input line 454.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--477
-
- []
+DigitalLearning2022' on page 13 undefined on input line 455.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 477--479
@@ -1187,7 +1182,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 495--497
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 497--499
+
+ []
+
+
+Underfull \vbox (badness 5288) has occurred while \output is active []
 
 [13]
 Overfull \vbox (139.61128pt too high) has occurred while \output is active []
@@ -1213,7 +1213,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [17]
 
 Package natbib Warning: Citation `Bali_Maha' on page 18 undefined on input line
- 791.
+ 793.
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
@@ -1239,7 +1239,7 @@ Overfull \vbox (185.26329pt too high) has occurred while \output is active []
 [21]
 
 Package natbib Warning: Citation `username' on page 22 undefined on input line 
-920.
+922.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1330,7 +1330,7 @@ Package natbib Warning: There were undefined citations.
 Here is how much of TeX's memory you used:
  27354 strings out of 476919
  525382 string characters out of 5821841
- 995984 words of memory out of 5000000
+ 994984 words of memory out of 5000000
  46878 multiletter control sequences out of 15000+600000
  409905 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
