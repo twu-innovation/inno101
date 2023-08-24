@@ -19,8 +19,8 @@ This unit is divided into the following topics:
 1. Getting set up
 2. Understanding the Digital
 3. Digital Literacies
-//todo #3 4. Personal Learning Networks
-5. Online Identity for Learning
+//todo #3 
+5. Digital Identity for Learning
 
   
 
@@ -43,12 +43,13 @@ When you have completed this unit, you should be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
-
+During this unit you will:
 
 - download and install [Obsidian](https://obsidian.md)
 - download and open the course vault in Obsidian
     - activate the plugins that came with the Obsidian vault
-- create a WordPress site at create.twu.ca
+
+You will be directed to complete these activities as they come.
 
 ```
 <!--

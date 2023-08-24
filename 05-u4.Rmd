@@ -10,8 +10,8 @@
 
 This unit is divided into the following topics:
 
-1. Sense-making through Hyperlinks
-2. Sense-making through Taxonomies
+
+3. Personal Learning Networks //todo #4
  
 
 ### Learning Outcomes {-}

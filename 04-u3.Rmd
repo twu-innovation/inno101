@@ -10,9 +10,11 @@
 
 This unit is divided into the following topics:
 
-1. Note-Taking
-2. Concept Maps
-3. Digital Tools to Support Learning
+1. Sense-making through Hyperlinks
+2. Sense-making through Taxonomies
+3. Note-Taking
+4. Concept Maps
+5. Digital Tools to Support Learning
   
 
 ### Learning Outcomes {-}
