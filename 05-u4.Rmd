@@ -11,7 +11,13 @@
 This unit is divided into the following topics:
 
 
-3. Personal Learning Networks //todo #4
+3. Personal Learning Networks 
+4. Wordpress
+5. Building the Web
+
+<!--
+//todo #4
+-->
  
 
 ### Learning Outcomes {-}

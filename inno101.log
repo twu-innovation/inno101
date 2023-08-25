@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  23 AUG 2023 13:40
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  25 AUG 2023 10:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1099,95 +1099,79 @@ File: assets/course-intro/right_arrow.png Graphic file (type bmp)
 ]
 Chapter 1.
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 362--364
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 368--370
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 10 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
 S FOR ONLINE LEARNING
  []
 
-[10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[10] [11]
 
-[11]
+Package natbib Warning: Citation `digitallearningadvisorycommitteePostSecondary
+DigitalLearning2022' on page 12 undefined on input line 410.
+
+
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 12 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
 S FOR ONLINE LEARNING
  []
 
 [12]
-
-Package natbib Warning: Citation `digitallearningadvisorycommitteePostSecondary
-DigitalLearning2022' on page 13 undefined on input line 455.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--479
+Underfull \hbox (badness 10000) in paragraph at lines 434--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--481
+Underfull \hbox (badness 10000) in paragraph at lines 436--438
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--483
+Underfull \hbox (badness 10000) in paragraph at lines 438--440
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 483--485
+Underfull \hbox (badness 10000) in paragraph at lines 440--442
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--487
+Underfull \hbox (badness 10000) in paragraph at lines 442--444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 487--489
+Underfull \hbox (badness 10000) in paragraph at lines 444--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--491
+Underfull \hbox (badness 10000) in paragraph at lines 446--448
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--493
+Underfull \hbox (badness 10000) in paragraph at lines 448--450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--495
+Underfull \hbox (badness 10000) in paragraph at lines 450--452
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--497
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--499
+Underfull \hbox (badness 10000) in paragraph at lines 454--456
 
  []
 
 
-Underfull \vbox (badness 5288) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [13]
 Overfull \vbox (139.61128pt too high) has occurred while \output is active []
@@ -1213,7 +1197,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [17]
 
 Package natbib Warning: Citation `Bali_Maha' on page 18 undefined on input line
- 793.
+ 750.
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
@@ -1239,7 +1223,7 @@ Overfull \vbox (185.26329pt too high) has occurred while \output is active []
 [21]
 
 Package natbib Warning: Citation `username' on page 22 undefined on input line 
-922.
+879.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1279,15 +1263,12 @@ Chapter 2.
 
 ]
 Chapter 3.
-
-Underfull \vbox (badness 1400) has occurred while \output is active []
-
 [31] [32] [33] [34
 
 ]
 Chapter 4.
 
-Underfull \vbox (badness 2351) has occurred while \output is active []
+Underfull \vbox (badness 1400) has occurred while \output is active []
 
 [35] [36] [37] [38
 
@@ -1328,12 +1309,12 @@ Package natbib Warning: There were undefined citations.
 
 [55] (./inno101.aux) ) 
 Here is how much of TeX's memory you used:
- 27354 strings out of 476919
- 525382 string characters out of 5821841
- 994984 words of memory out of 5000000
- 46878 multiletter control sequences out of 15000+600000
+ 27353 strings out of 476919
+ 525350 string characters out of 5821841
+ 994964 words of memory out of 5000000
+ 46877 multiletter control sequences out of 15000+600000
  409905 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,6n,122p,1561b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,6n,122p,1579b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on inno101.pdf (55 pages).
