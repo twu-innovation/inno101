@@ -3,8 +3,6 @@ fig:unnamed-chunk-2
 introduction-to-digital-literacies-for-online-learning
 understanding-the-digital
 digital-literacies
-personal-learning-environments
-online-identity-for-learning
 digital-literacies-1
 digital-skills-versus-literacies
 assessment-and-scope-of-digital-literacies
@@ -17,6 +15,8 @@ topic-3
 topic-4
 topic-5
 unit-4-building-a-network-of-ideas
+personal-learning-environments
+online-identity-for-learning
 topic-6
 topic-7
 topic-8
@@ -28,8 +28,3 @@ unit-6-sharing-your-knowledge
 topic-12
 topic-13
 topic-14
-unit-template
-topic-15
-topic-16
-topic-17
-title
