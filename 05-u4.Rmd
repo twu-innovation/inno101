@@ -2,10 +2,11 @@
 
 ## Overview {-}
 
-In the first three units of this course, you have been introduced to digital literacies, applying various tools to take notes, organize resources, and make connections between course concepts. You have started to build a workflow to enrich your learning journey, and have applied the critical skill of metacognition to explain your process for learning. 
-In the second half of the course, you will continue to build your digital skills and practice evaluative judgement to  document your process of learning.  We will shift our focus from buiding your private collection of ideas, to sharing your learning in a more public forum.  Note that you will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your ‘ownership’ over your work, as well as address privacy concerns.
-In this unit, you will have the opportunity to set up a blog, explore your own digital footprint, and evaluate digital tools.  
+Welcome to Unit 4! In the previous units, you've been introduced to the world of digital literacies and how to use various tools for organizing and connecting ideas. You have started to build a workflow to help you learn more effectively, and have applied the critical skill of metacognition to explain your process for learning. 
 
+Now, let's delve into the next phase of our learning journey.
+
+In the second half of the course, you will continue to build your digital skills and use critical thinking to record your learning process. Our attention will move from creating a personal collection of ideas to presenting your learning in a more open platform. Remember, you decide how public you want to be. We'll also consider why sharing knowledge is important and explore user-friendly ways to do so while still maintaining your control over your work and handling privacy matters. During this unit, you'll get the chance to create a blog, discover your digital footprint, and assess various digital tools.
 
 ### Topics {-}
 
@@ -14,7 +15,7 @@ This unit is divided into the following topics:
 
 1. Personal Learning Environments 
 1. My Digital Footprint
-1. Building the Web
+1. Evaluating Digital Tools
 
 <!--
 //todo #4
@@ -26,7 +27,7 @@ This unit is divided into the following topics:
 When you have completed this unit, you should be able to:
 
 - Create a personalized narrative to document and express your learning process
-- Examine your digital footprint and build your professional online biography 
+- Examine your digital footprint and develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.
 - Evaluate digital tools, platforms, and interactions based on ethical principles
 - Critically evaluate the affordances and restraints of digital tools and platforms
 - Identify the digital skills needed in your field of study
@@ -39,8 +40,6 @@ Course Learning Outcomes related to this unit:
 - Practice evaluative judgment to document your process of learning in complex domains of knowledge
 - Create a personalized narrative to document and express your learning process
 - Evaluate digital tools, platforms, and interactions based on ethical principles
-- Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 -->
 
 
@@ -53,8 +52,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Learning Activities</span>
 
-- ...
-- ...
+- Create a new blog on WordPress and personalise your blog site.
+- Document and share your learning experience by posting a blog entry.
  
 **Note:** The learning activities in this course are designed to prepare you for the graded assigments in this course.  You are strongly encouraged to complete them.
 
@@ -79,17 +78,30 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ## Personal Learning Environments 
 
-The primary purpose of this topic is to enable you to set up your course blog, which will form the hub of your Personal Learning Environment (PLE). Blog posts are a useful way of reflecting on your learning and a means to network with your peers. It also provides our learning community with a way to see how you are getting on and to help where we can. The purpose of a PLE is to put the learner at the centre of the online learning environment, which will be enabled by establishing a personal blog for this course. Using a course blog:
+The primary purpose of this topic is to enable you to set up your course blog, which will form the hub of your Personal Learning Environment (PLE). Blog posts are a useful way of reflecting on your learning and a means to network with your peers. It also provides our TWU learning community with a way to see how you are engaging with the course and to help where we can. The purpose of a PLE is to put the learner at the centre of the online learning environment, which will be enabled by establishing a personal blog for this course. 
+
+So what is a Personal Learning Environment?
+
+> 'Personal Learning Environments are systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services.' [PLE Wiki](https://edutechwiki.unige.ch/en/Personal_learning_environment)
+
+ A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#)) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction).
+
+What elements of the two definitions resonate with you?  How do you manage you own learning? What are your learning goals? How do you organize your daily interations and influx of information?
+
+In this first activity, you will gain first hand experience in using blog technology for publishing your own course site. You will “declare” yourself online using your PLE (as an alternative to posting an introduction in a closed course forum typically used in a conventional e-Learning course). Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations.  By using a platform such as Wordpress, you can retain the contents of your posts, as well as the comments of your peers.  In an LMS (Learning Management System) such as Moodle, you may lose access to what you have posted in discussions, and more importantly, conversations with your peers.  As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
+
+
+Using a course blog:
 
 You will retain control of your data and learning outputs generated during this online course, even after the course is completed.
 You get to choose:
 
-- The blog service you would like to use, although we recommend WordPress as it is supported by TWU.
+- The blog service you would like to use, although **we recommend WordPress as it is supported by TWU**.
 - Whether to accept comments on your blog from your peers
-- Whether to register your blog for the aggregated course feed so that any posts tagged with the course code (LiDA101) will be harvested for the feed.
+- Whether to register your blog for the aggregated course feed so that any posts tagged with the course code (LDRS101) will be harvested for the feed.
 
 
-A key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the Internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time in setting up your personal digital learning environment. In this course, you will also use social media technologies to interact with fellow students. The advantage is that you will control and retain access to all the content and learning artefacts you create during this course, even after its conclusion. Please remember that your course blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of your employer, colleagues and friends. In short, don’t say anything that you would not want to read on the Internet.
+A key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the Internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time in setting up your personal digital learning environment. The advantage of a WordPress blog is that you will control and retain access to all the content and learning artefacts you create during this course, even after its conclusion. Please remember that your course blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of your employer, colleagues and friends. In short, don’t say anything that you would not want to read on the Internet.
 
 
 ### Activity: ... {-}
