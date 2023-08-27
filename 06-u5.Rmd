@@ -82,7 +82,8 @@ comment
 
 ```{block2, type='reflect'}
 
-Watch/read...
+- [Why you need a Personal Learning Network by Education Technology Solutions](https://educationtechnologysolutions.com/2014/07/why-you-need-a-personal-learning-network/).
+
 
 <span class="blockhead">Questions to Consider</span>
 

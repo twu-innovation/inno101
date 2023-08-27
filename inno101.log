@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  26 AUG 2023 22:16
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  26 AUG 2023 23:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1072,12 +1072,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [41]
-Overfull \vbox (374.32329pt too high) has occurred while \output is active []
+Overfull \vbox (690.3233pt too high) has occurred while \output is active []
 
-[42]
-Underfull \vbox (badness 5637) has occurred while \output is active []
-
-[43] [44] [45] [46]
+[42] [43] [44] [45] [46]
 Chapter 5.
 [47
 
@@ -1099,15 +1096,15 @@ Package natbib Warning: There were undefined citations.
 
 [57] (./inno101.aux)
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: B70CF9517002C7533A26E87F23550BA3;6621.
+(rerunfilecheck)             Checksum: C29B8628C32B84C91BA617301B3170B6;6621.
  ) 
 Here is how much of TeX's memory you used:
- 26753 strings out of 478683
- 533982 string characters out of 5847396
- 1864012 words of memory out of 5000000
- 46447 multiletter control sequences out of 15000+600000
+ 26754 strings out of 478683
+ 534012 string characters out of 5847396
+ 1872012 words of memory out of 5000000
+ 46448 multiletter control sequences out of 15000+600000
  518746 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,6n,121p,1574b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,121p,1574b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on inno101.pdf (57 pages).

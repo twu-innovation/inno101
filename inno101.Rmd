@@ -973,23 +973,23 @@ So what is a Personal Learning Environment?
 What elements of the two definitions resonate with you?  How do you manage your own learning? How do you organize your daily interations and influx of information? How do you share your learning with others? What are your learning goals? 
 
 
-### Activity: ... {-}
+### Activity: What is a PLE? {-}
 
 ```{block2, type='reflect'}
 
-Before you start building your PLN, read the following articles:
+Before you start building your PLN, read the following article: 
 - [“7 Things you should know about personal learning environments"](assets/u4/U4_7-things-you-should-know-about-PLNs.pdf)
-- [Why you need a Personal Learning Network by Education Technology Solutions](https://educationtechnologysolutions.com/2014/07/why-you-need-a-personal-learning-network/).
+
 
 <span class="blockhead">Questions to Consider</span>
 
-After reading the articles, consider the following:
+After reading the article, consider the following:
 
 - How do PLNs promote authentic, student-centred learning?
-- What are the benefits of a PLN?  How would creating this network benefit you?
-- What tools do you currently use as part of your learning network?
+- What are the benefits of a PLN?  How would it benefit you?
+- What tools do you currently use as part of your learning environment?
 
-Finally, consider the approach taken at TWU as it supports inquiry-rich learning.  As you watch the short video below, think about how you could use your PLN to enrich your learning at TWU.
+Finally, consider the approach taken at TWU as it supports inquiry-rich learning.  As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
 
 [Watch: *Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank”}
 
@@ -1001,10 +1001,7 @@ Finally, consider the approach taken at TWU as it supports inquiry-rich learning
 
 ```
 
-
-
-
-## Starting a Course Blog {-}
+## Building a Course Blog {-}
 
 In the next activity, you will gain first hand experience in using blog technology for publishing your own course site. You will “declare” yourself online using your PLE (as an alternative to posting an introduction in a closed course forum typically used in a conventional online course). Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations.  By using a platform such as Wordpress, you can retain the contents of your posts, as well as the comments of your peers.  In an LMS (Learning Management System) such as Moodle, you may lose access to what you have posted in discussions, and more importantly, conversations with your peers.  As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
 
@@ -1019,31 +1016,65 @@ You get to choose:
 A key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the Internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time in setting up your personal digital learning environment. Please remember that your course blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of others. In short, don’t say anything that you would not want to read on the Internet.
 
 
-### Activity: Setting up your course blog {-}
+### Activity: Setting Up Your Course Blog {-}
 
 ```{block2, type='reflect'}
 
 As this is a course focusing on digital literacies, you are asked to establish a course blog, as this will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU.
 
-Follow the steps below to set up your blog.
+> We are here to help you create your site, so do not hesitate to ask for technical support. Below you will find a number of resources, but if you get stuck, please reach out on Discourse, or email elearning@twu.ca
 
-1. Register an account and create a free blog on WordPress.com.
-1. Determine the difference between the dashboard used for editing and the published view of your blog. (It is important to know the difference because, when you register your blog for the course feed, you must use the url for the public view of your blog).
+To get started on creating your site we suggest the following steps:
+
+<details>
+<summary>**1. Sign up to create a website.**</summary>
+
+Go to **create.twu.ca** to sign up for your free WordPress site. Please read all the prompts and instructions carefully!
+When you have activated your site (look for a notification to your TWU email), then you are ready to create.  
+
+ </details>
+
+<details>
+<summary>**2. Explore your dashboard.**</summary>
+
+The dashboard is the initial area you see when you log in to TWU Create. It’s the center for your site management and where you create content. From the Dashboard you can navigate to content, settings, themes, plugins, and more.
+
+When logged in to TWU Create, you will always have access to an **admin menu** visible on your sites. From the menu item that is the name of the blog (second from left), you can find the link to the dashboard. While in the dashboard, the same menu can be used to return to the front view of your site.
+
+Determine the difference between the dashboard used for editing and the published view of your blog. (It is important to know the difference because, when you register your blog for the course feed, you must use the url for the public view of your blog).
 - Do you know how to open the published (public view) of your blog in a new window?
 - Have you added a browser bookmark to your dashboard and public version of your blog?
 
-1. Complete your personal details for display on the “About” page of your blog.
-- Can you see the updates on your “about” page in the published view of your blog?
+**Help Tips:** When you are in the site administration area of your site, you can get tips on what you are doing by clicking the “Help” menu on the top-right corner. Click on "Help" and read through the Overview describing the elements of the dashboard.
 
-1. Review and customise your blog settings from the dashboard according to your preferences.
+insert - Animation showing location of WordPress help tab - from https://create.twu.ca/eportfolios/wordpress/ 
+
+ </details>
+
+
+<details>
+<summary>**3. Review your settings.**</summary>
+
+Review and customise your blog settings from the dashboard according to your preferences. Start by **changing your Site Title** under Settings>General. You need to hit the “Save” button to save your changes. (More information about General Settings here.)
 - We recommend that you enable categories and tags on your blog.
 - Consider whether you want to moderate all comments or, in the case of WordPress, you can also enable previously approved posters to post comments without moderation. Conduct a web search on “moderating blog comments” to find out more about the pros and cons on the flow of information when moderating comments.
 
-1. Visit the appearance option on your dashboard and personalise your blog by:
+Visit the appearance option on your dashboard and **personalise your blog** by:
 - Changing: your theme, header image, background colours and/or image
 - Add at least one widget to your blog — remember “less is more“. One or two of the following are functional choices: Archives, recent posts, categories or category cloud, and blogs I follow.
 
-1. Draft a blog post, reflecting on your experience of this e-Learning activity on creating a blog.
+ </details>
+
+<details>
+<summary>**4. Add a page & a post.**</summary>
+
+To add a new Page or Post, click the Pages or Posts menu option and then click the Add New link underneath.  Another way is to hover your cursor over Pages or Posts and click the Add new link in the fly-out menu.
+
+**Edit a Page:** Complete your personal details for display on the “About” page of your blog.
+- Can you see the updates on your “about” page in the published view of your blog?
+
+
+**Edit a Blog Post:**  Reflect on your experience of this activity on creating a blog.
 Click on “save draft” (so you can review before publishing live on the web). Your reflection could for example:
 - Introduce yourself and reflect on what you would like to achieve by maintaining a blog to support your learning
 - Reflect on what you thought of the activity; Was it easy or hard?
@@ -1051,19 +1082,57 @@ Click on “save draft” (so you can review before publishing live on the web).
 - Provide tips for future learners who will be completing this activity. If you were to set up a new blog again, what would you do differently?
 - Add anything your readers may find interesting or useful.
 
-1. Choose a photo to add to your blog post. 
-- Be sure you have permission to upload the photo.  We sugest using an open licence site, such as pixabay or...
+ </details>
+
+<details>
+<summary>**5. Add media.**</summary>
+
+**Choose a photo** to add to your blog post. 
+- Be sure you have permission to upload the photo.  We sugest using an open licence site, such as [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), or [Flickr](https://www.flickr.com/search/?text=pho&license=2%2C3%2C4%2C5%2C6%2C9)
 - Alternatively, upload your own photo, take a selfie or ask someone to take a photo of you working on this blog post challenge.
 - Optional: Record a short video introduction and embed this in your blog post.
 
-1. Review your draft post and, when you’re happy with what you’ve written, click on the “Publish post” button.
 
-1. Add a category or tag for your post using the course tag: LDRS101
+ </details>
 
-1. Post in the LDRS 101 Discourse forum to let your peers know the web address of your blog and ask them to post a comment. This will give you the opportunity to experience how comments function on your blog and to test if they are working properly.
+
+<details>
+<summary>**6. Publish!**</summary>
+
+Review your draft post and, when you’re happy with what you’ve written, click on the **“Publish post”** button.
+
+ </details>
+
+<details>
+<summary>**7. Share your blog**</summary>
+
+Add a **category** or **tag** for your post using the course tag: LDRS101
+
+Post in the **LDRS 101 Discourse forum** to let your peers know the web address of your blog and ask them to post a comment. This will give you the opportunity to experience how comments function on your blog and to test if they are working properly.
+
+ </details>
+
+
+<details>
+<summary>**Additional Customizations**</summary>
+
+When you’re ready to start customizing your blog and putting content in, check out some tutorials available to you:
+
+Beginner’s guide for WordPress by WPBeginner
+
+Learn WordPress website by WordPress
+
+Digital Tattoo Project at UBC – learn digital literacy skills. Check out the menu sections and consider looking at the publish section.
+
+> If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email elearning@twu.ca
+
+
+ </details>
+
 
 ```
 
+Congratulations!!  You created your PLE for TWU!
 
 ## Online Identity for Learning 
 
@@ -1328,7 +1397,8 @@ comment
 
 ```{block2, type='reflect'}
 
-Watch/read...
+- [Why you need a Personal Learning Network by Education Technology Solutions](https://educationtechnologysolutions.com/2014/07/why-you-need-a-personal-learning-network/).
+
 
 <span class="blockhead">Questions to Consider</span>
 
