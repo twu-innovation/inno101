@@ -2,7 +2,7 @@
 
 ## Overview {-}
 
-Welcome to Unit 4! In the previous units, you've been introduced to the world of digital literacies and how to use various tools for organizing and connecting ideas. You have started to build a workflow to help you learn more effectively, and have applied the critical skill of metacognition to explain your process for learning. 
+Welcome to Unit 4!  In previous units, you've been introduced to the world of digital literacies and how to use various tools for organizing and connecting ideas. You have started to build a workflow to help you learn more effectively, and have applied the critical skill of metacognition to explain your process for learning. 
 
 Now, let's delve into the next phase of our learning journey.
 
@@ -27,11 +27,11 @@ This unit is divided into the following topics:
 When you have completed this unit, you should be able to:
 
 - Create a personalized narrative to document and express your learning process
-- Examine your digital footprint and develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.
+- Examine your digital footprint and develop a positive digital online identity
 - Evaluate digital tools, platforms, and interactions based on ethical principles
 - Critically evaluate the affordances and restraints of digital tools and platforms
 - Identify the digital skills needed in your field of study
-- describe how to protect yourself, other students and colleagues, to stay safe in the digital environment.
+- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment.
 - Practice evaluative judgment to document your process of learning in complex domains of knowledge
 
 <!--
@@ -84,49 +84,55 @@ So what is a Personal Learning Environment?
 
 > 'Personal Learning Environments are systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services.' [PLE Wiki](https://edutechwiki.unige.ch/en/Personal_learning_environment)
 
- A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#)) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction).
+> A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#)) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction).
 
-What elements of the two definitions resonate with you?  How do you manage you own learning? What are your learning goals? How do you organize your daily interations and influx of information?
-
-In this first activity, you will gain first hand experience in using blog technology for publishing your own course site. You will “declare” yourself online using your PLE (as an alternative to posting an introduction in a closed course forum typically used in a conventional e-Learning course). Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations.  By using a platform such as Wordpress, you can retain the contents of your posts, as well as the comments of your peers.  In an LMS (Learning Management System) such as Moodle, you may lose access to what you have posted in discussions, and more importantly, conversations with your peers.  As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
-
-
-Using a course blog:
-
-You will retain control of your data and learning outputs generated during this online course, even after the course is completed.
-You get to choose:
-
-- The blog service you would like to use, although **we recommend WordPress as it is supported by TWU**.
-- Whether to accept comments on your blog from your peers
-- Whether to register your blog for the aggregated course feed so that any posts tagged with the course code (LDRS101) will be harvested for the feed.
-
-
-A key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the Internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time in setting up your personal digital learning environment. The advantage of a WordPress blog is that you will control and retain access to all the content and learning artefacts you create during this course, even after its conclusion. Please remember that your course blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of your employer, colleagues and friends. In short, don’t say anything that you would not want to read on the Internet.
+What elements of the two definitions resonate with you?  How do you manage your own learning? How do you organize your daily interations and influx of information? How do you share your learning with others? What are your learning goals? 
 
 
 ### Activity: ... {-}
 
 ```{block2, type='reflect'}
 
-Download and read [“7 Things you should know about personal learning environments"](https://library.educause.edu/resources/2009/5/7-things-you-should-know-about-personal-learning-environments).
-Read [Why you need a Personal Learning Network by Education Technology Solutions](https://educationtechnologysolutions.com/2014/07/why-you-need-a-personal-learning-network/).
-
-<!-- update to more recent articles?  -->
-
+Before you start building your PLN, read the following articles:
+- [“7 Things you should know about personal learning environments"](assets/u4/U4_7-things-you-should-know-about-PLNs.pdf)
+- [Why you need a Personal Learning Network by Education Technology Solutions](https://educationtechnologysolutions.com/2014/07/why-you-need-a-personal-learning-network/).
 
 <span class="blockhead">Questions to Consider</span>
 
-After watching the video, consider the following:
+After reading the articles, consider the following:
 
-- ...
+- How do PLNs promote authentic, student-centred learning?
+- What are the benefits of a PLN?  How would creating this network benefit you?
+- What tools do you currently use as part of your learning network?
+
+Finally, consider the approach taken at TWU as it supports inquiry-rich learning.  As you watch the short video below, think about how you could use your PLN to enrich your learning at TWU.
+
+[Watch: *Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank”}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SCa9Nt3X1vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
 
 ```
 
 
 
 
+## Starting a Course Blog {-}
+
+In the next activity, you will gain first hand experience in using blog technology for publishing your own course site. You will “declare” yourself online using your PLE (as an alternative to posting an introduction in a closed course forum typically used in a conventional online course). Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations.  By using a platform such as Wordpress, you can retain the contents of your posts, as well as the comments of your peers.  In an LMS (Learning Management System) such as Moodle, you may lose access to what you have posted in discussions, and more importantly, conversations with your peers.  As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
+
+You will retain control of your data and learning outputs generated during this online course, even after the course is completed.
+You get to choose:
+
+- The blog service you would like to use, although **we recommend WordPress as it is supported by TWU**. 
+- Whether to accept comments on your blog from your peers
+- Whether to register your blog for the aggregated course feed so that any posts tagged with the course code (LDRS101) will be harvested for the feed.
 
 
+A key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the Internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time in setting up your personal digital learning environment. Please remember that your course blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of others. In short, don’t say anything that you would not want to read on the Internet.
 
 
 ### Activity: Setting up your course blog {-}

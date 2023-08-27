@@ -56,6 +56,18 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Image
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
+or
+![alt text](assets/u#/image.format)
+
+### Video
+[Watch: *Video Title*](Video Link){target="_blank”}
+
+<div class ="video-container">
+
+<!-- embedded content goes here -->
+
+</div>
+
 
 ## Extended Syntax
 
