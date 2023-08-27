@@ -556,7 +556,7 @@ This is text <abbr title="This is the definition of the word <b>this is emphasiz
 
 <!--chapter:end:02-u1.Rmd-->
 
-# Unit 2: Discovering and Curating Resources 
+# Discovering and Curating Resources 
 
 
 ## Overview {-}
@@ -718,7 +718,7 @@ Before you move on to the next unit, check that you are able to:
 
 <!--chapter:end:03-u2.Rmd-->
 
-# Unit 3: Connecting Ideas for Learning
+# Connecting Ideas for Learning
 
 
 ## Overview {-}
@@ -882,7 +882,7 @@ Before you move on to the next unit, check that you are able to:
 
 <!--chapter:end:04-u3.Rmd-->
 
-# Unit 4: Building a Network of Ideas
+# Building a Network of Ideas
 
 ## Overview {-}
 
@@ -1238,7 +1238,7 @@ Before you move on to the next unit, check that you are able to:
 
 <!--chapter:end:05-u4.Rmd-->
 
-# Unit 5: Building a Network of People
+# Building a Network of People
 
 
 ## Overview {-}
@@ -1411,7 +1411,7 @@ Before you move on to the next unit, check that you are able to:
 
 <!--chapter:end:06-u5.Rmd-->
 
-# Unit 6: Sharing your Knowledge
+# Sharing your Knowledge
 
 
 ## Overview {-}

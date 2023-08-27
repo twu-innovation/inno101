@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  26 AUG 2023 00:16
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  26 AUG 2023 21:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1096,11 +1096,11 @@ Package natbib Warning: There were undefined citations.
 
 [57] (./inno101.aux)
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: CB9C9BA0D304AAA78BD95A4CC61F6D6D;6677.
+(rerunfilecheck)             Checksum: 7B081A875A61F2DF0414F00D9B4BF432;6447.
  ) 
 Here is how much of TeX's memory you used:
  26753 strings out of 478683
- 534012 string characters out of 5847396
+ 533977 string characters out of 5847396
  1864012 words of memory out of 5000000
  46447 multiletter control sequences out of 15000+600000
  518746 words of font info for 86 fonts, out of 8000000 for 9000

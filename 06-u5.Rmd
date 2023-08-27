@@ -1,4 +1,4 @@
-# Unit 5: Building a Network of People
+# Building a Network of People
 
 
 ## Overview {-}
