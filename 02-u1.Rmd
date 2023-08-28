@@ -146,16 +146,26 @@ One way to start thinking about digital literacy is to create a map of the apps 
 
 Obsidian is a free and open source note-taking and mind-mapping app.
 
-1. Go to [obsidian.md](https://obsidian.md){target="_blank"} and click 'Get Obsidian for...'. The site will detect which system you are using and will give you the correct link. I use macOS, so the button below is customized for my system.
-
-![Screenshot ot obsidian.md](digital-literacy/obsidian.png)
-
-2. Follow the instructions to install Obsidian on your computer.
+1. Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
     - It is recommended that you use a computer, rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
-
+    - You do NOT need to purchase any upgrades such as **Obsidian Sync** or **Obsidian Publish**.
+2. Work through the **Getting Started** section of the Obsidian help pages starting with **[Create a vault](https://help.obsidian.md/Getting+started/Create+a+vault)**.
+    - When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
+3. It is recommended that you [use one of the sync services listed here](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices) so that your files are backed up.   
 
 ```
 
+Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/c/ldrs101/10) or talk your your instructor or facilitator for help with this.
+
+To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Download the Starter Vault</span>
+
+1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip)
+    - This will download a file called `ldrs101-vault-main.zip` to your computer.
+```
 <!--
 ***Feel free to answer the questions above in your notes or Reflective Learning Journal***. 
 
