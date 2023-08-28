@@ -133,13 +133,30 @@ Digital literacy is a person’s knowledge, skills, and abilities for using digi
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to 'read'. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
 
-One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*.
+One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*. To complete this activity, you will need to do a little bit of setup, as follows.
+
+
 
 
 ### Activity {-}
 
 ```{block2, type='reflect'}
 
+<span class="blockhead">Install Obsidian</span>
+
+Obsidian is a free and open source note-taking and mind-mapping app.
+
+1. Go to [obsidian.md](https://obsidian.md){target="_blank"} and click 'Get Obsidian for...'. The site will detect which system you are using and will give you the correct link. I use macOS, so the button below is customized for my system.
+
+![Screenshot ot obsidian.md](digital-literacy/obsidian.png)
+
+2. Follow the instructions to install Obsidian on your computer.
+    - It is recommended that you use a computer, rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
+
+
+```
+
+<!--
 ***Feel free to answer the questions above in your notes or Reflective Learning Journal***. 
 
 <span class="blockhead">Introduction to the Reflective Journaling</span>
