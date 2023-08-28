@@ -6,7 +6,7 @@ Welcome to Unit 4!  In previous units, you've been introduced to the world of di
 
 Now, let's delve into the next phase of our learning journey.
 
-In the second half of the course, you will continue to build your digital skills and use critical thinking to record your learning process. Our attention will move from creating a personal collection of ideas to presenting your learning in a more open platform. Remember, you decide how public you want to be. We'll also consider why sharing knowledge is important and explore user-friendly ways to do so while still maintaining your control over your work and handling privacy matters. During this unit, you'll get the chance to create a blog, discover your digital footprint, and assess various digital tools.
+In the second half of the course, you will continue to build your digital skills and use critical thinking to record your learning process. Our attention will move from creating a personal collection of ideas to presenting your learning in a more open platform. Note that you wil decide how public you want to be. We'll also consider why sharing knowledge is important and explore user-friendly ways to do so while still maintaining your control over your work and handling privacy matters. During this unit, you'll get the chance to create a blog, discover your digital footprint, and assess various digital tools.
 
 ### Topics {-}
 
@@ -14,8 +14,9 @@ This unit is divided into the following topics:
 
 
 1. Personal Learning Environments 
-1. My Digital Footprint
-1. Evaluating Digital Tools
+2. Building a Course Blog
+3. My Digital Footprint
+4. Evaluating Digital Tools
 
 <!--
 //todo #4
@@ -86,14 +87,15 @@ So what is a Personal Learning Environment?
 
 > A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#)) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction).
 
-What elements of the two definitions resonate with you?  How do you manage your own learning? How do you organize your daily interations and influx of information? How do you share your learning with others? What are your learning goals? 
+What elements of the two definitions resonate with you?  How do you organize your daily interations and influx of information? How do you share your learning with others? What are your learning goals? 
 
 
 ### Activity: What is a PLE? {-}
 
 ```{block2, type='reflect'}
 
-Before you start building your PLN, read the following article: 
+Before you start building your PLE, read the following article:  
+
 - [“7 Things you should know about personal learning environments"](assets/u4/U4_7-things-you-should-know-about-PLNs.pdf)
 
 
@@ -101,8 +103,8 @@ Before you start building your PLN, read the following article:
 
 After reading the article, consider the following:
 
-- How do PLNs promote authentic, student-centred learning?
-- What are the benefits of a PLN?  How would it benefit you?
+- How do PLEs promote authentic, student-centred learning?
+- What are the benefits of a PLE?  How would it benefit you?
 - What tools do you currently use as part of your learning environment?
 
 Finally, consider the approach taken at TWU as it supports inquiry-rich learning.  As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
@@ -136,30 +138,50 @@ A key teaching philosophy of this course is to embed the acquisition of new digi
 
 ```{block2, type='reflect'}
 
-As this is a course focusing on digital literacies, you are asked to establish a course blog, as this will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU.
+As this is a course focusing on digital literacies, you are asked to establish a course blog, as this will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems out there because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
+
+Watch the following video tutorial on how to create a website using WordPress. This video provides you with an overview of all the necessary steps. Do not worry if you start to feel overwhelmed — we will break these steps down for you one by one in the learning activities in this course.
+
+
+<div class ="video-container">
+
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/f45737c6-fc7b-4c6e-a13f-f656c808ea06?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe>
+
+
+</div>
+
 
 > We are here to help you create your site, so do not hesitate to ask for technical support. Below you will find a number of resources, but if you get stuck, please reach out on Discourse, or email elearning@twu.ca
 
 To get started on creating your site we suggest the following steps:
 
 <details>
-<summary>**1. Sign up to create a website.**</summary>
+<summary>**1. Sign up to create a website**</summary>
 
-Go to **create.twu.ca** to sign up for your free WordPress site. Please read all the prompts and instructions carefully!
-When you have activated your site (look for a notification to your TWU email), then you are ready to create.  
+Go to **[create.twu.ca](https://create.twu.ca/)** to sign up for your free WordPress site. *Please read all the prompts and instructions carefully!*
+Be sure to read the Privacy Statement carefully before clicking “I Agree.” The information provided gives you excellent guidance regarding digital citizenship, privacy, and how to build a professional digital persona.
+
+You will be prompted to **create a domain name**, which is your website’s address on the Internet. Often this is referred to as a URL (Uniform Resource Locator). This is what your users will type in their browsers to reach your site. Make sure that you choose a domain name that is related to you, easy to pronounce and spell, and easy to remember. Once you have done that, we suggest you write all this information somewhere you can access it easily – just in case. 
+
+You will also be asked to **select a theme** for your website. You are free to choose any template you wish. TWU Spark, TWU Hope, and TWU Spartans portfolio are simple to set up and provide easy navigation.
+
+When you choose your theme, your new site will come with a simple menu and instructions for portfolio and website creation. 
+
+When you have activated your site (look for a notification in your TWU email), then you are ready to create.  
 
  </details>
 
 <details>
-<summary>**2. Explore your dashboard.**</summary>
+<summary>**2. Explore your dashboard**</summary>
 
-The dashboard is the initial area you see when you log in to TWU Create. It’s the center for your site management and where you create content. From the Dashboard you can navigate to content, settings, themes, plugins, and more.
+The dashboard is the initial area you see when you log in to TWU Create. It’s the centre for your site management and where you create content. From the Dashboard you can navigate to content, settings, themes, plugins, and more.
 
 When logged in to TWU Create, you will always have access to an **admin menu** visible on your sites. From the menu item that is the name of the blog (second from left), you can find the link to the dashboard. While in the dashboard, the same menu can be used to return to the front view of your site.
 
-Determine the difference between the dashboard used for editing and the published view of your blog. (It is important to know the difference because, when you register your blog for the course feed, you must use the url for the public view of your blog).
-- Do you know how to open the published (public view) of your blog in a new window?
-- Have you added a browser bookmark to your dashboard and public version of your blog?
+Determine the difference between the dashboard used for editing and the published view of your blog. (It is important to know the difference because, when you register your blog for the course feed, you must use the url for the public view of your blog).  
+*Progress check:*  
+- Do you know how to open the published (public view) of your blog in a new window?  
+- Have you added a browser bookmark to your dashboard and public version of your blog?  
 
 **Help Tips:** When you are in the site administration area of your site, you can get tips on what you are doing by clicking the “Help” menu on the top-right corner. Click on "Help" and read through the Overview describing the elements of the dashboard.
 
@@ -169,51 +191,103 @@ insert - Animation showing location of WordPress help tab - from https://create.
 
 
 <details>
-<summary>**3. Review your settings.**</summary>
+<summary>**3. Review your settings**</summary>
 
-Review and customise your blog settings from the dashboard according to your preferences. Start by **changing your Site Title** under Settings>General. You need to hit the “Save” button to save your changes. (More information about General Settings here.)
-- We recommend that you enable categories and tags on your blog.
-- Consider whether you want to moderate all comments or, in the case of WordPress, you can also enable previously approved posters to post comments without moderation. Conduct a web search on “moderating blog comments” to find out more about the pros and cons on the flow of information when moderating comments.
+Review and customise your blog settings from the dashboard according to your preferences. 
 
-Visit the appearance option on your dashboard and **personalise your blog** by:
-- Changing: your theme, header image, background colours and/or image
-- Add at least one widget to your blog — remember “less is more“. One or two of the following are functional choices: Archives, recent posts, categories or category cloud, and blogs I follow.
+- We recommend that you enable **categories** and **tags** on your blog.  
+- Consider whether you want to moderate all comments or, in the case of WordPress, you can also enable previously approved posters to post comments without moderation. Conduct a web search on “moderating blog comments” to find out more about the pros and cons on the flow of information when moderating comments.  
+**Set up Comments Settings (Optional)**  
+WordPress comes with a built-in comment system allowing your users to leave comments on your posts. This comment system is great for user engagement, but it can also be targeted by spammers as well. If you don't want comments on your posts, then ensure that the 'Allow comments' box is unchecked at the bottom of the editor page.  
+
+If you do want comments, but want to manage the spam, you’ll need to enable comment moderation on your website.
+
+Visit Settings » Discussions page and scroll down to ‘Before a comment appears’ section. Check the box next to ‘Comment must be manually approved’ option.
+
+</details>
+
+<details>
+<summary>**4. Personalise your blog**</summary>  
+Visit the appearance option on your dashboard and personalise your blog by:   
+- Changing: your theme, header image, background colours and/or image  
+- Add at least one widget to your blog — remember “less is more“. One or two of the following are functional choices: Archives, recent posts, categories or category cloud, and blogs I follow.  
+
+You need to hit the **“Save”** button to save your changes.
 
  </details>
 
 <details>
-<summary>**4. Add a page & a post.**</summary>
+<summary>**5. Add a page & a post**</summary>
+
+Pages and posts are where the content is housed on WordPress. The biggest difference between the two is that posts are timestamped, whereas pages are timeless.
+
+**Pages** are for static content. They do not need a publish date. Use pages you want your visitors to always be able to see that content in that spot, no matter when they visit.
+
+**Posts** are for timely content. They have a publish date, and they are displayed with the newest content at the top (reverse chronological order) of your site’s blog page. Older posts can “fall off” the blog page (the content is still kept, but no longer visible). Posts are what you should think of when you hear the term “blog post.” Usually posts have a comment section, and this is where viewers can write a comment in response to your post. This may be a handy way to receive feedback from your peers. Also, you can categorize or tag your posts, which is useful to help readers locate posts on your blog.
+
 
 To add a new Page or Post, click the Pages or Posts menu option and then click the Add New link underneath.  Another way is to hover your cursor over Pages or Posts and click the Add new link in the fly-out menu.
 
-**Edit a Page:** Complete your personal details for display on the “About” page of your blog.
-- Can you see the updates on your “about” page in the published view of your blog?
+***BLOG CHALLENGE!***
+**Edit a Page:** Complete your personal details for display on the “About” page of your blog.  
+- *Progress check:* Can you see the updates on your “about” page in the published view of your blog?
 
 
 **Edit a Blog Post:**  Reflect on your experience of this activity on creating a blog.
-Click on “save draft” (so you can review before publishing live on the web). Your reflection could for example:
-- Introduce yourself and reflect on what you would like to achieve by maintaining a blog to support your learning
-- Reflect on what you thought of the activity; Was it easy or hard?
-- Share links to any additional resources you found useful in completing the tasks.
-- Provide tips for future learners who will be completing this activity. If you were to set up a new blog again, what would you do differently?
-- Add anything your readers may find interesting or useful.
+Click on “save draft” (so you can review before publishing live on the web). Your reflection could for example:  
+- Introduce yourself and reflect on what you would like to achieve by maintaining a blog to support your learning  
+- Reflect on what you thought of the activity; Was it easy or hard?  
+- Share links to any additional resources you found useful in completing the tasks.  
+- Provide tips for future learners who will be completing this activity. If you were to set up a new blog again, what would you do differently?  
+- Add anything your readers may find interesting or useful.  
 
  </details>
 
 <details>
-<summary>**5. Add media.**</summary>
+<summary>**6. Add media**</summary>
 
-**Choose a photo** to add to your blog post. 
-- Be sure you have permission to upload the photo.  We sugest using an open licence site, such as [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), or [Flickr](https://www.flickr.com/search/?text=pho&license=2%2C3%2C4%2C5%2C6%2C9)
-- Alternatively, upload your own photo, take a selfie or ask someone to take a photo of you working on this blog post challenge.
-- Optional: Record a short video introduction and embed this in your blog post.
+Using different types of media to represent your artifacts is a great way to make your portfolio dynamic and keep your audience engaged. Text-heavy pages can get cumbersome regardless of how you arrange it. Media can help with breaking up content or replacing text all together. Consider how you can “show what you know” rather than just simply telling. Media can also be an alternative to simply hyperlinking all your artifacts. Instead of sending your audience off to another site or tab, media can be embedded (see [Media Library](https://create.twu.ca/eportfolios/wordpress/media-library/)) to keep your audience contained to your page.
 
+The Media Library on your WordPress site houses the media you upload to your site. WordPress supports a variety of media types such as images, audio, video, and documents. We do suggest that you host your video files in your TWU Microsoft Stream account for optimal playability. Other types of media are typically uploaded and inserted into the text editor when writing a post or page.
+
+***BLOG PHOTO CHALLENGE!***
+
+**Choose a photo** to add to your blog post.   
+- Be sure you have permission to upload the photo.  We suggest using an open licence site, such as [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), or [Flickr](https://www.flickr.com/search/?text=pho&license=2%2C3%2C4%2C5%2C6%2C9).  
+- Alternatively, upload your own photo, take a selfie or ask someone to take a photo of you working on this blog post challenge.  
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W89wPcVU60c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9admKGpM3A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+***BLOG VIDEO CHALLENGE!*** (Optional)
+
+You may find as you continue the course that you want to share videos you find on the web, or perhaps even your own!  
+
+If you're up for the challenge, consider recording a short video introduction and embed this in your blog post.
+
+Here is a tutorial on how to add a Youtube video or embed one of your own videos to your blog:
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3hCMpnok2Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
 
  </details>
 
-
 <details>
-<summary>**6. Publish!**</summary>
+<summary>**7. Publish!**</summary>
 
 Review your draft post and, when you’re happy with what you’ve written, click on the **“Publish post”** button.
 
@@ -234,21 +308,25 @@ Post in the **LDRS 101 Discourse forum** to let your peers know the web address 
 
 When you’re ready to start customizing your blog and putting content in, check out some tutorials available to you:
 
-Beginner’s guide for WordPress by WPBeginner
+- [TWU's Wordpress Support Page](https://www.twu.ca/academics/academic-professional-support/online-learning-resources/wordpress)
 
-Learn WordPress website by WordPress
+- TWU's Wordpress Video Tutorials - new sharepoint address?
 
-Digital Tattoo Project at UBC – learn digital literacy skills. Check out the menu sections and consider looking at the publish section.
+- [Beginner’s guide for WordPress](https://www.wpbeginner.com/start-here/) by WPBeginner
 
-> If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email elearning@twu.ca
+- [WordPress Tutorials](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/) from University of Victoria
 
 
  </details>
 
 
+> If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email elearning@twu.ca
+
+
 ```
 
 Congratulations!!  You created your PLE for TWU!
+
 
 ## Online Identity for Learning 
 
@@ -263,6 +341,9 @@ https://www.youtube.com/watch?v=Ro_LlRg8rGg&t=1s - Four Reasons to Care About Yo
 Julia Angwin, author of “Dragnet Nation: A Quest for Privacy, Security, and Freedom in a World of Relentless Surveillance” attempted to erase her digital footprint. 
 Watch this short CBS This Morning interview with Julia:
 
+
+
+https://digitaltattoo.ubc.ca/
 
 ...
 
