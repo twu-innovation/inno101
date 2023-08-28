@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -127,7 +130,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={Leadership 101},
   pdfauthor={Course Developed by Colin Madland \& Kelly Marjanovic},
@@ -410,51 +413,72 @@ Head over to \href{https://twu.discourse.group}{the Learning Hub}, which is an a
 
 Literacy, as we commonly understand it, is the ability to \emph{understand} the meaning of texts. It is more than just being able to `read'. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools \emph{ethically}, to \emph{access, interpret, evaluate, create, construct, and communicate} information and knowledge.
 
-One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a \emph{Visitors and Residents Diagram}.
+One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a \emph{Visitors and Residents Diagram}. To complete this activity, you will need to do a little bit of setup, as follows.
 
 \hypertarget{activity-1}{%
 \subsection*{Activity}\label{activity-1}}
 \addcontentsline{toc}{subsection}{Activity}
 
 \begin{reflect}
-\textbf{\emph{Feel free to answer the questions above in your notes or Reflective Learning Journal}}.
+{Install Obsidian}
 
-{Introduction to the Reflective Journaling}
+Obsidian is a free and open source note-taking and mind-mapping app.
 
-A reflective journal is simply a record of your thoughts. It is a reflection of the way you think and the manner in which you respond to your learning. Journals can consist of traditional note taking, mind maps, pictures, stream-of-consciousness writing, recordings, quotes, sketches, or drawings: whatever you choose to include. Experiment and have fun. The purpose of journaling is to make you an active participant in your learning experiences as you engage in the various activities throughout the course's readings, activities, and discussions with your instructor and your fellow students. Reflecting upon these learning events will help you gain a deeper understanding of the course materials and help integrate your learning into applied practice in your everyday life and work. Throughout the course, we will remind you to write in your journal, as we want to be sure you are actively learning the material. To assist you, we have provided you with questions you can ask yourself in order to get your creative energies flowing. Reflective journaling is an activity you can and should complete on a regular or daily basis, even outside of our scheduled course activities.
-
-\textbf{Common Questions Used for Reflective Journaling} - Click to expand
-
-\begin{itemize}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  In your view, what were the most important points in the readings, videoclips, or discussions with your peers?\\
-\item
-  What information did you already know?\\
-\item
-  What new knowledge, ideas, or perspectives have you gained?\\
-\item
-  What information was easy to remember or learn? Why?\\
-\item
-  What concepts did you find more difficult? Why?\\
-\item
-  How can you apply this knowledge to your work or current experience?\\
-\item
-  How has this knowledge helped you to make sense of your current or previous experience?\\
-\item
-  Has your understanding of a personal or work-related situation changed after studying these concepts?\\
-\item
-  Did you agree or disagree with any of the material? If yes, how did you react and why?\\
-\item
-  If you could have the opportunity to engage in further learning, what would it be?\\
-\item
-  What further questions would like to ask the author of your readings?\\
-\item
-  What other articles, books or discussions would be of interest?
-\end{itemize}
+  Go to \href{https://obsidian.md/download}{obsidian.md} and \href{https://help.obsidian.md/Getting+started/Download+and+install+Obsidian}{follow these instructions to install Obsidian on your computer.}
 
-\emph{For any journal assignments in your courses, please refer to the specific questions and/or grading
-criteria to help you in your writing.}
+  \begin{itemize}
+  \tightlist
+  \item
+    It is recommended that you use a computer, rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
+  \item
+    You do NOT need to purchase any upgrades such as \textbf{Obsidian Sync} or \textbf{Obsidian Publish}.
+  \end{itemize}
+\item
+  Work through the \textbf{Getting Started} section of the Obsidian help pages starting with \textbf{\href{https://help.obsidian.md/Getting+started/Create+a+vault}{Create a vault}}.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    When you create the vault in this step, we recommend that you name it \textbf{TWU} or something similar. Later, you can create as many vaults as you would like.
+  \end{itemize}
+\item
+  It is recommended that you \href{https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices}{use one of the sync services listed here} so that your files are backed up.
+\end{enumerate}
+\end{reflect}
+
+Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than \emph{the cloud}, which is just another way of saying \emph{someone else's computer}. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. \href{https://twu.discourse.group/c/ldrs101/10}{Please check the Learning Hub} or talk your your instructor or facilitator for help with this.
+
+To give you a head start, we have created a \textbf{starter vault} for you to download and use. Follow the instructions below to access the starter vault.
+
+\begin{reflect}
+{Download the Starter Vault}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \href{https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip}{Click this link to download the vault.}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This will download a file called \texttt{ldrs101-vault-main.zip} to your computer.
+  \end{itemize}
+\item
+  Move the file to your \texttt{Documents} folder.
+\item
+  Unzip or extract the contents of the file.
+\item
+  Rename the folder to \texttt{ldrs101}.
+\item
+  Open the \textbf{Obsidian} app and click the \texttt{Open\ another\ vault} icon in the bottom left corner.
+\end{enumerate}
+
+\includegraphics{assets/digital-literacy/obsidian2.png}
 \end{reflect}
 
 \hypertarget{digital-literacies-1}{%

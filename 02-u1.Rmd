@@ -165,6 +165,13 @@ To give you a head start, we have created a **starter vault** for you to downloa
 
 1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip)
     - This will download a file called `ldrs101-vault-main.zip` to your computer.
+2. Move the file to your `Documents` folder.
+3. Unzip or extract the contents of the file.
+4. Rename the folder to `ldrs101`.
+5. Open the **Obsidian** app and click the `Open another vault` icon in the bottom left corner.
+
+![screenshot of the 'open another vault' button](assets/digital-literacy/obsidian2.png)
+
 ```
 <!--
 ***Feel free to answer the questions above in your notes or Reflective Learning Journal***. 
