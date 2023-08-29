@@ -340,22 +340,73 @@ Congratulations!!  You created your PLE for TWU!
 
 ## Online Identity for Learning 
 
-add intro paragraph
-
-[Your digital footprint matters](https://www.internetsociety.org/learning/digital-footprints/), published by the Internet Society.
-
-https://www.youtube.com/watch?v=Ro_LlRg8rGg&t=1s - Four Reasons to Care About Your Digital Footprint
+Now that you have started your course blog and introduced yourself online, let's examine your existing online identity.  If your future employers were to perform a google search for your name, what would they find?  What would you want them to find?  As we examing online identities in this topic, we will ask you to consider how you can improve your digital identity in support of your online learning, as well as future employment prospects.
 
 
+### Activity: What is A Digital Identity? {-}
 
-Julia Angwin, author of “Dragnet Nation: A Quest for Privacy, Security, and Freedom in a World of Relentless Surveillance” attempted to erase her digital footprint. 
-Watch this short CBS This Morning interview with Julia:
+```{block2, type='reflect'}
+
+In the following video, Professor Chris Hankin of Imperial College, London highlights three challenges associated with digital identity in today’s online world:
+
+- the blurring of online and offline identity;  
+- the blurring of public and private identity;  
+- social pluralism and feelings of group membership for minorities.  
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0x0diwgmAzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+<span class="blockhead">Questions to Consider</span>
+
+Consider the following issues and share your thoughts by posting a comment on Discourse:
+
+For learners, the most important issue of digital identity is …  
+For employers, the most important issue of digital identity is …  
+For employees, the most important issue of digital identity is …  
+
+```
+
+#### Defining Online Identity {-}
+
+After considering the significance of your digital identity, let's clarify some key terms.
+
+We need to distinguish between the technical and human elements of online identity. In this course, we are more interested in the human side of online identity, but in part, this is determined by how technology automates the process of building your digital footprint.
+
+>**Internet identity**, also online identity or internet persona is a social identity that an Internet user establishes in online communities and websites. It can also be considered as an actively constructed presentation of oneself. Although some people choose to use their real names online, some Internet users prefer to be anonymous, identifying themselves by means of pseudonyms, which reveal varying amounts of personally identifiable information. An online identity may even be determined by a user’s relationship to a certain social group they are a part of online. Some can even be deceptive about their identity ([Wikipedia](https://en.wikipedia.org/wiki/Online_identity):Online).
+
+>A **digital identity** is information on an entity used by computer systems to represent an external agent. That agent may be a person, organisation, application, or device. ISO/IEC 24760-1 defines identity as “set of attributes related to an entity” ([Wikipedia](https://en.wikipedia.org/wiki/Digital_identity): Online).
 
 
+### Activity: Who am I Online? {-}
 
-https://digitaltattoo.ubc.ca/
+```{block2, type='reflect'}
 
-...
+Read the following papers:
+
+- [An Overview of Identity](https://www.internetsociety.org/resources/doc/2011/understanding-online-identity-overview-identity/).
+- [Who am I Online? Understanding the Meaning of Online Contexts for Identity Development](https://link.springer.com/article/10.1007/s40894-016-0025-0)
+
+<span class="blockhead">Questions to Consider</span>
+Consider the following questions:
+
+- How does your real-world identity differ from your online identity?  
+- What factors inhibit or support the sharing of information in building an online identity?  
+- What is the value of an online identity for tertiary learning?  
+
+Next, watch the following video, [Four Reasons to Care About Your Digital Footprint](https://www.youtube.com/watch?v=Ro_LlRg8rGg)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ro_LlRg8rGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Anther great (optional) resource to check out is UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/).
+```
+
 
 ### Activity: Digital Footprint Audit {-}
 
@@ -368,15 +419,6 @@ In this activity you will audit your own digital footprint in order to find out 
 1. Conduct a Google search of your name with the name of previous schools you attended.
 1. Expand your search to include social media sites, for example: “snow white” twitter; “snow white” facebook; “snow white” youtube etc.
 1. Note any interesting or surprising findings.
-
-<span class="blockhead">Questions to Consider</span>
-
-After watching the video, consider the following:
-
-- ...
-
-```
-
 
 
 ### Activity: Blog: My Digital Footprint {-}
@@ -401,7 +443,23 @@ Remember: You are in charge of what you post online and deciding what you would 
 
 ## Topic
 
-content
+
+
+<!--
+Bringing it Home!
+
+Connect - where students have been - what their online idenity is/was/want to be = and what tools they've used/are using/want to use.  
+What do you want to do online?  What do you want to learn? What are your goals?  
+
+Inquiry-based.
+Practicing evaluative judgment 
+
+
+Course Learning Outcomes related to this unit: 
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge
+- Create a personalized narrative to document and express your learning process
+- Evaluate digital tools, platforms, and interactions based on ethical principles
+-->
 
 <!--
 comment
