@@ -119,7 +119,7 @@ Finally, consider the approach taken at TWU as it supports inquiry-rich learning
 
 ```
 
-## Building a Course Blog {-}
+## Building a Course Blog
 
 In the next activity, you will gain first hand experience in using blog technology for publishing your own course site. You will “declare” yourself online using your PLE (as an alternative to posting an introduction in a closed course forum typically used in a conventional online course). Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations.  By using a platform such as Wordpress, you can retain the contents of your posts, as well as the comments of your peers.  In an LMS (Learning Management System) such as Moodle, you may lose access to what you have posted in discussions, and more importantly, conversations with your peers.  As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
 
@@ -195,8 +195,15 @@ insert - Animation showing location of WordPress help tab - from https://create.
 
 Review and customise your blog settings from the dashboard according to your preferences. 
 
-- We recommend that you enable **categories** and **tags** on your blog.  
-- Consider whether you want to moderate all comments or, in the case of WordPress, you can also enable previously approved posters to post comments without moderation. Conduct a web search on “moderating blog comments” to find out more about the pros and cons on the flow of information when moderating comments.  
+-   
+**Enable Categories and Tags**
+We recommend that you enable **categories** and **tags** on your blog.  
+**Categories** are best used for broad groupings of topics. For example, if you’re creating a site that reviews pop culture, you might use categories such as Books, Film, and TV.
+
+**Tags** are more specific keywords that you want to use to associate related content. For example, if you were creating a site that reviews pop culture, you might want to use tags such as science fiction, horror, and action adventure.
+
+You can combine the two! For our review site example, you might be reviewing a romantic comedy. You can assign the broader category Film to the post, then give it some more specific tags such as romantic comedy, or even use the name of the actors and director as tags. People who view that post could use the tags to find related posts around that topic.
+
 **Set up Comments Settings (Optional)**  
 WordPress comes with a built-in comment system allowing your users to leave comments on your posts. This comment system is great for user engagement, but it can also be targeted by spammers as well. If you don't want comments on your posts, then ensure that the 'Allow comments' box is unchecked at the bottom of the editor page.  
 
@@ -209,8 +216,8 @@ Visit Settings » Discussions page and scroll down to ‘Before a comment appear
 <details>
 <summary>**4. Personalise your blog**</summary>  
 Visit the appearance option on your dashboard and personalise your blog by:   
-- Changing: your theme, header image, background colours and/or image  
-- Add at least one widget to your blog — remember “less is more“. One or two of the following are functional choices: Archives, recent posts, categories or category cloud, and blogs I follow.  
+- Changing your theme, header image, background colours and/or image  
+- Add at least one widget to your blog.  Remember —  “less is more“. One or two of the following are functional choices: Archives, recent posts, categories or category cloud, and blogs I follow.  
 
 You need to hit the **“Save”** button to save your changes.
 
@@ -228,7 +235,8 @@ Pages and posts are where the content is housed on WordPress. The biggest differ
 
 To add a new Page or Post, click the Pages or Posts menu option and then click the Add New link underneath.  Another way is to hover your cursor over Pages or Posts and click the Add new link in the fly-out menu.
 
-***BLOG CHALLENGE!***
+***BLOG CHALLENGE!***  
+
 **Edit a Page:** Complete your personal details for display on the “About” page of your blog.  
 - *Progress check:* Can you see the updates on your “about” page in the published view of your blog?
 
@@ -311,6 +319,8 @@ When you’re ready to start customizing your blog and putting content in, check
 - [TWU's Wordpress Support Page](https://www.twu.ca/academics/academic-professional-support/online-learning-resources/wordpress)
 
 - TWU's Wordpress Video Tutorials - new sharepoint address?
+
+- [WordPress Support Website](https://wordpress.com/support/)
 
 - [Beginner’s guide for WordPress](https://www.wpbeginner.com/start-here/) by WPBeginner
 

@@ -16,6 +16,7 @@ topic-4
 topic-5
 building-a-network-of-ideas
 personal-learning-environments
+building-a-course-blog
 online-identity-for-learning
 topic-6
 topic-7
