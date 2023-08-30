@@ -18,12 +18,12 @@ building-a-network-of-ideas
 personal-learning-environments
 building-a-course-blog
 online-identity-for-learning
-topic-6
+evaluating-online-tools
 building-a-network-of-people
+topic-6
 topic-7
 topic-8
-topic-9
 sharing-your-knowledge
+topic-9
 topic-10
 topic-11
-topic-12

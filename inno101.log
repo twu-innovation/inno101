@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  29 AUG 2023 21:56
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  29 AUG 2023 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1002,32 +1002,29 @@ Chapter 3.
 Chapter 4.
 [35
 
-] [36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[37] [38]
+] [36] [37] [38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [39]
 Overfull \vbox (1820.3233pt too high) has occurred while \output is active []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1535--1537
+Underfull \hbox (badness 10000) in paragraph at lines 1539--1541
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1537--1539
+Underfull \hbox (badness 10000) in paragraph at lines 1541--1543
 
  []
 
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1594
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1592
+Underfull \hbox (badness 10000) in paragraph at lines 1594--1596
 
  []
 
@@ -1043,17 +1040,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [44]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[45] [46]
+[45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[46] [47] [48
+
+]
 Chapter 5.
-[47
-
-] [48] [49] [50]
+[49] [50] [51] [52]
 Chapter 6.
-[51
+[53
 
-] [52] [53] [54] (./inno101.bbl [55
+] [54] [55] [56] (./inno101.bbl [57
 
-] [56
+] [58
 
 ]
 
@@ -1063,17 +1063,17 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[57] (./inno101.aux)
+[59] (./inno101.aux)
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: C1320BC800BB01C48AA1EEE973FFD7A6;6461.
+(rerunfilecheck)             Checksum: 45322D3F594B0BF8DEA7D94B76EC2D6C;6557.
  ) 
 Here is how much of TeX's memory you used:
  26769 strings out of 478683
- 534492 string characters out of 5847396
+ 534507 string characters out of 5847396
  1895012 words of memory out of 5000000
  46459 multiletter control sequences out of 15000+600000
  518754 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,6n,121p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on inno101.pdf (57 pages).
+Output written on inno101.pdf (59 pages).

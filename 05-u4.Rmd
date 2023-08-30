@@ -75,6 +75,10 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - All resources will be provided online in the unit.  
 
+**Resource Reminders**
+>*Be sure to add resources to your Zotero library you find relevant to your personal learning journey.*
+>*Reach out to your online community for support, and be sure to share resources and insights.* 
+
 
 
 ## Personal Learning Environments 
@@ -308,6 +312,7 @@ Add a **category** or **tag** for your post using the course tag: LDRS101
 
 Post in the **LDRS 101 Discourse forum** to let your peers know the web address of your blog and ask them to post a comment. This will give you the opportunity to experience how comments function on your blog and to test if they are working properly.
 
+
  </details>
 
 
@@ -443,9 +448,15 @@ Remember: You are in charge of what you post online and deciding what you would 
 
 ```
 
-## Topic
+## Evaluating Online Tools
+
+In this topic, we invite you to think critically about the tools you use online.  More than the obvious questions about whether the tool works well, is easy to navigate, etc., how do we evaluate digital tools, platforms, and interactions based on *ethical principles*?
+
+...
 
 
+Improve your skills in becoming a critical consumer of web tools
+Publish a critical product review for an online tool of your choice.
 
 <!--
 Bringing it Home!
@@ -473,7 +484,10 @@ comment
 
 ```{block2, type='reflect'}
 
-Watch/read...
+Read the following articles about ...
+
+[How to write a product review](https://www.wikihow.com/Write-a-Product-Review)
+[Terms of service. Didn’t read](https://tosdr.org/)
 
 <span class="blockhead">Questions to Consider</span>
 
@@ -489,7 +503,22 @@ After completing the activities above, answer the following questions:
 
 ```{block2, type='reflect'}
 
-Watch/read...
+
+In this challenge, you are invited to critically evaluate an online tool. Please select any online tool, or choose one from the list below.
+ 
+Examples of software as service
+
+- Blogging: Blogger, WordPress, Medium, Tumblr
+- File sharing: Dropbox, Nextcloud, MediaFire, Google Drive, SugarSync
+- Presentations: Haikudeck, Prezi, Google Slides, Slides (using Reveal.js)
+- Online collaboration: Basecamp, Slack, Rocket.chat, Hipchat
+- Video conferencing: jitsi, Anymeeting, Zoom, GoToMeeting
+- Feed aggregators: Feedly, Panada, NewsBlur, Inoreader, Feedreader.
+- Project management: Trello, Kanboard, Freedcamp, Asana, Notion, GitHub
+
+What tool did you select? Let us know by posting a comment on Discourse sharing the name of the tool you selected and why.
+
+Note: Your comment will be displayed in the course feed.
 
 <span class="blockhead">Questions to Consider</span>
 
@@ -512,25 +541,22 @@ In this unit, you have had the opportunity to learn about ...
 
 <span class="blockhead">Quizzes 1 & 2</span>
 
-After completing this unit, including the learning activities, you are asked to complete ...
+The learning activities in this unit were designed to support you as you build your *Digital Literacy Portfolio*.  
 
-In this challenge, you are invited to critically evaluate an online tool. Please select any online tool, or choose one from the list below.
- 
+Your portfolio will demonstrate how you apply digital tools to support your learning.  It measures the following course learning outcomes:  
+- Create a personalized narrative to document and express your learning process  
+- Evaluate digital tools, platforms, and interactions based on ethical principles  
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge  
 
-Examples of software as service
+**Performance Indicators**  
+*I can do the following:*  
+- Maintain a public personal blog as my elearning portfolio.  
+- Interact constructively with public online learning communities using forums and social media.  
+- Annotate and discuss web resources publicly in support of my learning.  
+- Share with my learning peer group recommendations for online resources that I have found to be useful.  
+- Use citation management software for my personal online resource library.  
 
-Blogging: Blogger, WordPress, Medium, Tumblr
-File sharing: Dropbox, Nextcloud, MediaFire, Google Drive, SugarSync
-Presentations: Haikudeck, Prezi, Google Slides, Slides (using Reveal.js)
-Online collaboration: Basecamp, Slack, Rocket.chat, Hipchat
-Video conferencing: jitsi, Anymeeting, Zoom, GoToMeeting
-Feed aggregators: Feedly, Panada, NewsBlur, Inoreader, Feedreader.
-Project management: Trello, Kanboard, Freedcamp, Asana
-What tool did you select? Let us know by posting a comment on WENotes sharing the name of the tool you selected and why.
-
-You must be logged in to post to WEnotes.
-
-Note: Your comment will be displayed in the course feed.
+See the Assessment section in Moodle for instructions, including the grading rubric.
 
 ```
 
