@@ -44,6 +44,14 @@ Course Learning Outcomes related to this unit:
 -->
 
 
+**Performance Indicators**  
+*I can do the following:*  
+- Maintain a public personal blog as my elearning portfolio.  
+- Interact constructively with public online learning communities using forums and social media.  
+- Annotate and discuss web resources publicly in support of my learning.  
+- Share with my learning peer group recommendations for online resources that I have found to be useful.  
+- Use citation management software for my personal online resource library.  
+
 ### Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
@@ -77,7 +85,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 **Resource Reminders**
 >*Be sure to add resources to your Zotero library you find relevant to your personal learning journey.*
->*Reach out to your online community for support, and be sure to share resources and insights.* 
+>*Your peers are a resource! Reach out to your online community for support, and be sure to share resources and insights.* 
 
 
 
@@ -385,7 +393,7 @@ We need to distinguish between the technical and human elements of online identi
 >A **digital identity** is information on an entity used by computer systems to represent an external agent. That agent may be a person, organisation, application, or device. ISO/IEC 24760-1 defines identity as “set of attributes related to an entity” ([Wikipedia](https://en.wikipedia.org/wiki/Digital_identity): Online).
 
 
-### Activity: Who am I Online? {-}
+### Activity: Who am I Online...and Why Should I Care? {-}
 
 ```{block2, type='reflect'}
 
@@ -395,13 +403,18 @@ Read the following papers:
 - [Who am I Online? Understanding the Meaning of Online Contexts for Identity Development](https://link.springer.com/article/10.1007/s40894-016-0025-0)
 
 <span class="blockhead">Questions to Consider</span>
+
 Consider the following questions:
 
 - How does your real-world identity differ from your online identity?  
 - What factors inhibit or support the sharing of information in building an online identity?  
-- What is the value of an online identity for tertiary learning?  
+- What is the value of an online identity for learning?  
 
-Next, watch the following video, [Four Reasons to Care About Your Digital Footprint](https://www.youtube.com/watch?v=Ro_LlRg8rGg)
+> Reminder: As you view online resources in this course, feel free to annotate and discuss web resources publicly in support of your learning. (Digital Tools: Hypothes.is, Discourse, WordPress, etc.)
+
+In addition to evaluating who you are online, ask yourself, "Why Should I Care?"
+
+First, watch the following video, [Four Reasons to Care About Your Digital Footprint](https://www.youtube.com/watch?v=Ro_LlRg8rGg)
 
 <div class ="video-container">
 
@@ -409,7 +422,12 @@ Next, watch the following video, [Four Reasons to Care About Your Digital Footpr
 
 </div>
 
-Another great (optional) resource to check out is UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/).
+Next, select from these resources to inform your views:
+
+- [Students turn to Internet to build online presence, showcase work](https://www.huffpost.com/entry/students-turn-to-internet_b_3518598), published on Huffingtonpost.
+- [Your Online Presence](https://help.open.ac.uk/your-online-presence) published by the Open University
+- [10 Ways to Build your Online Identity](https://www.careercast.com/career-news/10-ways-build-your-online-identity)
+- UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/)
 
 ```
 
@@ -445,6 +463,45 @@ Prepare and publish a short blog post of about 250 to 300 words focusing on what
 Remember: You are in charge of what you post online and deciding what you would like to share for your digital identity for the purposes of this course. Don’t share high risk personal details like physical address, date of birth, name of first pet etc., which may make it easier for identity thieves to appear more credible. If unsure, consult online resources for internet safety; for example Netsafe New Zealand. (replace resource)
 
 !! Note that we will cover online identity in more depth in Unit 5.
+
+```
+
+### Activity: Web Presence Challenge {-}
+
+```{block2, type='reflect'}
+
+In this challenge you are asked to build or update your professional online biography and the “About” page of your course blog. 
+
+1. Reflect on the following online personas, target audience and how this will impact on the style and voice of the communication medium.  
+| **Persona**  | **Primary audience**               |
+|--------------|------------------------------------|
+| Personal     | Friends and family                 |
+| Professional | Employers and professional network |
+| Academic     | Peer learning network              |
+
+
+2. Choose the most appropriate medium for each of your online personas, for example:  
+| **Persona**  | **Medium example**                    |
+|--------------|---------------------------------------|
+| Personal     | [Facebook](https://www.facebook.com/) |
+| Professional | [Linkedin](https://www.linkedin.com/) |
+| Academic     | Course blog or website                |
+
+
+3. Identify one or two professionals from your field of interest who maintain an active web presence and contribute regularly via social media. Explore their respective websites and professional listings as examples.  
+- Twitter is a good place to search for individuals using popular hashtags from your field or area of study, for example “#highereducation”  
+- Click through to their respective twitter user page. If they have a personal website listed on the user page, visit the site and review their “About” page.  
+- Visit their employer’s page and try to locate their biography on the employer’s website.  
+- Search for the user on Linkedin  
+- Compare the user information on these different sites. Observe how they link to social media accounts, and vary the style and content presented for the different personas.
+
+4. Create or update your professional profile on Linkedin. (Consult the help page for support.)  
+
+5. Create or update your “About” page on your course blog. You may prefer using a more informal style for this page aligned with your own personality and interests. Include links to your professional profile and respective links to social media that you use.
+
+6. Visit the profile pages of your active social media accounts. Update if necessary providing links back to your main page (for example, the “About” page on your course site).
+
+7. Think carefully about information you post publicly and keep a clear distinction between your personal online presence and your professional online persona. Review your privacy settings on your personal account(s).
 
 ```
 
@@ -539,7 +596,7 @@ In this unit, you have had the opportunity to learn about ...
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Quizzes 1 & 2</span>
+<span class="blockhead">Digital Literacy Portfolio</span>
 
 The learning activities in this unit were designed to support you as you build your *Digital Literacy Portfolio*.  
 
