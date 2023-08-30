@@ -111,10 +111,15 @@ During this first week, there will be both theoretical and practical work for yo
 
 This unit is divided into the following topics:
 
-2. Understanding the Digital
-3. Digital Literacies
-5. Digital Identity for Learning
-6. Starting your Workflow
+1. Understanding the Digital
+1. Digital Literacies
+1. Digital Identity for Learning
+1. Starting your Workflow
+
+<!--
+@cmadland I see you have digital identity here...does it overlap with Unit 4? https://twu-innovation.github.io/inno101/building-a-network-of-ideas.html#online-identity-for-learning
+
+-->
 
 
 <!--
@@ -133,7 +138,10 @@ When you have completed this unit, you should be able to:
 - Examine privacy concerns related to various platforms and tools
 - Describe how to protect yourself and others in the digital environment.
  
+<!--
+@cmadland these last 4 outcomes - we switch to unit 4, correct?
 
+-->
 
 ### Activity Checklist {-}
 
@@ -336,7 +344,7 @@ Purpose: Search for definitions of digital literacy and digital skills on the we
 
 Note: Your comment will be displayed in the course feed.
 
-...
+```
 
 
 ### Digital skills versus literacies
@@ -1325,7 +1333,8 @@ Next, watch the following video, [Four Reasons to Care About Your Digital Footpr
 
 </div>
 
-Anther great (optional) resource to check out is UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/).
+Another great (optional) resource to check out is UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/).
+
 ```
 
 
@@ -1341,6 +1350,7 @@ In this activity you will audit your own digital footprint in order to find out 
 1. Expand your search to include social media sites, for example: “snow white” twitter; “snow white” facebook; “snow white” youtube etc.
 1. Note any interesting or surprising findings.
 
+```
 
 ### Activity: Blog: My Digital Footprint {-}
 
@@ -1401,38 +1411,6 @@ After completing the activities above, answer the following questions:
 - ...
 
 ```
-
-## Topic
-
-content
-
-<!--
-comment
--->
-
-
-
-### Activity:  {-}
-
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
-
-## Topic
-
-content
-
-<!--
-comment
--->
 
 
 

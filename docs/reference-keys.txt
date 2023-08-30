@@ -19,13 +19,11 @@ personal-learning-environments
 building-a-course-blog
 online-identity-for-learning
 topic-6
+building-a-network-of-people
 topic-7
 topic-8
-building-a-network-of-people
 topic-9
+sharing-your-knowledge
 topic-10
 topic-11
-sharing-your-knowledge
 topic-12
-topic-13
-topic-14

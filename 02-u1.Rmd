@@ -16,10 +16,15 @@ During this first week, there will be both theoretical and practical work for yo
 
 This unit is divided into the following topics:
 
-2. Understanding the Digital
-3. Digital Literacies
-5. Digital Identity for Learning
-6. Starting your Workflow
+1. Understanding the Digital
+1. Digital Literacies
+1. Digital Identity for Learning
+1. Starting your Workflow
+
+<!--
+@cmadland I see you have digital identity here...does it overlap with Unit 4? https://twu-innovation.github.io/inno101/building-a-network-of-ideas.html#online-identity-for-learning
+
+-->
 
 
 <!--
@@ -38,7 +43,10 @@ When you have completed this unit, you should be able to:
 - Examine privacy concerns related to various platforms and tools
 - Describe how to protect yourself and others in the digital environment.
  
+<!--
+@cmadland these last 4 outcomes - we switch to unit 4, correct?
 
+-->
 
 ### Activity Checklist {-}
 
@@ -241,7 +249,7 @@ Purpose: Search for definitions of digital literacy and digital skills on the we
 
 Note: Your comment will be displayed in the course feed.
 
-...
+```
 
 
 ### Digital skills versus literacies

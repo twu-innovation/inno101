@@ -5,19 +5,16 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
+\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math} % this also loads fontspec
+  \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else
-  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -130,7 +127,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same}
+\urlstyle{same} % disable monospaced font for URLs
 \hypersetup{
   pdftitle={Leadership 101},
   pdfauthor={Course Developed by Colin Madland \& Kelly Marjanovic},
@@ -287,7 +284,6 @@ This unit is divided into the following topics:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{1}
 \tightlist
 \item
   Understanding the Digital
@@ -537,8 +533,7 @@ Purpose: Search for definitions of digital literacy and digital skills on the we
 \end{itemize}
 
 Note: Your comment will be displayed in the course feed.
-
-\ldots{}
+\end{reflect}
 
 \hypertarget{digital-skills-versus-literacies}{%
 \subsection{Digital skills versus literacies}\label{digital-skills-versus-literacies}}
@@ -553,7 +548,7 @@ Note: Your comment will be displayed in the course feed.
 \hypertarget{activity-digital-skills-versus-literacies}{%
 \subsection*{Activity: Digital skills versus literacies}\label{activity-digital-skills-versus-literacies}}
 \addcontentsline{toc}{subsection}{Activity: Digital skills versus literacies}
-\end{reflect}
+
 \begin{reflect}
 In this activity, we will review an article on the difference between digital skills and digital literacies using Hypothes.is -- an online social annotation technology.
 
@@ -1599,7 +1594,7 @@ Consider the following questions:
 
 Next, watch the following video, \href{https://www.youtube.com/watch?v=Ro_LlRg8rGg}{Four Reasons to Care About Your Digital Footprint}
 
-Anther great (optional) resource to check out is UBC's \href{https://digitaltattoo.ubc.ca/}{Digital Tattoo project}.
+Another great (optional) resource to check out is UBC's \href{https://digitaltattoo.ubc.ca/}{Digital Tattoo project}.
 \end{reflect}
 
 \hypertarget{activity-digital-footprint-audit}{%
@@ -1623,11 +1618,12 @@ In this activity you will audit your own digital footprint in order to find out 
 \item
   Note any interesting or surprising findings.
 \end{enumerate}
+\end{reflect}
 
 \hypertarget{activity-blog-my-digital-footprint}{%
 \subsection*{Activity: Blog: My Digital Footprint}\label{activity-blog-my-digital-footprint}}
 \addcontentsline{toc}{subsection}{Activity: Blog: My Digital Footprint}
-\end{reflect}
+
 \begin{reflect}
 Prepare and publish a short blog post of about 250 to 300 words focusing on what you hope to achieve with your online digital identity for learning. Your post can include:
 
@@ -1669,36 +1665,8 @@ After completing the activities above, answer the following questions:
 \end{itemize}
 \end{reflect}
 
-\hypertarget{topic-7}{%
-\section{Topic}\label{topic-7}}
-
-content
-
 \hypertarget{activity-9}{%
 \subsection*{Activity:}\label{activity-9}}
-\addcontentsline{toc}{subsection}{Activity:}
-
-\begin{reflect}
-Watch/read\ldots{}
-
-{Questions to Consider}
-
-After completing the activities above, answer the following questions:
-
-\begin{itemize}
-\tightlist
-\item
-  \ldots{}
-\end{itemize}
-\end{reflect}
-
-\hypertarget{topic-8}{%
-\section{Topic}\label{topic-8}}
-
-content
-
-\hypertarget{activity-10}{%
-\subsection*{Activity:}\label{activity-10}}
 \addcontentsline{toc}{subsection}{Activity:}
 
 \begin{reflect}
@@ -1845,13 +1813,13 @@ You are strongly encouraged to complete them.
   All resources will be provided online in the unit.
 \end{itemize}
 
-\hypertarget{topic-9}{%
-\section{Topic}\label{topic-9}}
+\hypertarget{topic-7}{%
+\section{Topic}\label{topic-7}}
 
 content
 
-\hypertarget{activity-11}{%
-\subsection*{Activity:}\label{activity-11}}
+\hypertarget{activity-10}{%
+\subsection*{Activity:}\label{activity-10}}
 \addcontentsline{toc}{subsection}{Activity:}
 
 \begin{reflect}
@@ -1872,13 +1840,13 @@ After completing the activities above, answer the following questions:
 \end{itemize}
 \end{reflect}
 
-\hypertarget{topic-10}{%
-\section{Topic}\label{topic-10}}
+\hypertarget{topic-8}{%
+\section{Topic}\label{topic-8}}
 
 content
 
-\hypertarget{activity-12}{%
-\subsection*{Activity:}\label{activity-12}}
+\hypertarget{activity-11}{%
+\subsection*{Activity:}\label{activity-11}}
 \addcontentsline{toc}{subsection}{Activity:}
 
 \begin{reflect}
@@ -1895,13 +1863,13 @@ After completing the activities above, answer the following questions:
 \end{itemize}
 \end{reflect}
 
-\hypertarget{topic-11}{%
-\section{Topic}\label{topic-11}}
+\hypertarget{topic-9}{%
+\section{Topic}\label{topic-9}}
 
 content
 
-\hypertarget{activity-13}{%
-\subsection*{Activity:}\label{activity-13}}
+\hypertarget{activity-12}{%
+\subsection*{Activity:}\label{activity-12}}
 \addcontentsline{toc}{subsection}{Activity:}
 
 \begin{reflect}
@@ -2031,8 +1999,31 @@ You are strongly encouraged to complete them.
   All resources will be provided online in the unit.
 \end{itemize}
 
-\hypertarget{topic-12}{%
-\section{Topic}\label{topic-12}}
+\hypertarget{topic-10}{%
+\section{Topic}\label{topic-10}}
+
+content
+
+\hypertarget{activity-13}{%
+\subsection*{Activity:}\label{activity-13}}
+\addcontentsline{toc}{subsection}{Activity:}
+
+\begin{reflect}
+Watch/read\ldots{}
+
+{Questions to Consider}
+
+After completing the activities above, answer the following questions:
+
+\begin{itemize}
+\tightlist
+\item
+  \ldots{}
+\end{itemize}
+\end{reflect}
+
+\hypertarget{topic-11}{%
+\section{Topic}\label{topic-11}}
 
 content
 
@@ -2054,36 +2045,13 @@ After completing the activities above, answer the following questions:
 \end{itemize}
 \end{reflect}
 
-\hypertarget{topic-13}{%
-\section{Topic}\label{topic-13}}
+\hypertarget{topic-12}{%
+\section{Topic}\label{topic-12}}
 
 content
 
 \hypertarget{activity-15}{%
 \subsection*{Activity:}\label{activity-15}}
-\addcontentsline{toc}{subsection}{Activity:}
-
-\begin{reflect}
-Watch/read\ldots{}
-
-{Questions to Consider}
-
-After completing the activities above, answer the following questions:
-
-\begin{itemize}
-\tightlist
-\item
-  \ldots{}
-\end{itemize}
-\end{reflect}
-
-\hypertarget{topic-14}{%
-\section{Topic}\label{topic-14}}
-
-content
-
-\hypertarget{activity-16}{%
-\subsection*{Activity:}\label{activity-16}}
 \addcontentsline{toc}{subsection}{Activity:}
 
 \begin{reflect}

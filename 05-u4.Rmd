@@ -404,7 +404,8 @@ Next, watch the following video, [Four Reasons to Care About Your Digital Footpr
 
 </div>
 
-Anther great (optional) resource to check out is UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/).
+Another great (optional) resource to check out is UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/).
+
 ```
 
 
@@ -420,6 +421,7 @@ In this activity you will audit your own digital footprint in order to find out 
 1. Expand your search to include social media sites, for example: “snow white” twitter; “snow white” facebook; “snow white” youtube etc.
 1. Note any interesting or surprising findings.
 
+```
 
 ### Activity: Blog: My Digital Footprint {-}
 
@@ -480,38 +482,6 @@ After completing the activities above, answer the following questions:
 - ...
 
 ```
-
-## Topic
-
-content
-
-<!--
-comment
--->
-
-
-
-### Activity:  {-}
-
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
-
-## Topic
-
-content
-
-<!--
-comment
--->
 
 
 
