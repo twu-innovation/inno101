@@ -172,6 +172,9 @@ To give you a head start, we have created a **starter vault** for you to downloa
 
 ![screenshot of the 'open another vault' button](assets/digital-literacy/obsidian2.png)
 
+6. Choose the `ldrs101` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
+
+
 ```
 <!--
 ***Feel free to answer the questions above in your notes or Reflective Learning Journal***. 
