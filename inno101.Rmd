@@ -113,7 +113,7 @@ This unit is divided into the following topics:
 
 1. Understanding the Digital
 1. Digital Literacies
-1. Digital Identity for Learning
+1. Digital Safety
 1. Starting your Workflow
 
 <!--
@@ -927,7 +927,7 @@ Before you move on to the next unit, check that you are able to:
 
 <!--chapter:end:04-u3.Rmd-->
 
-# Building a Network of Ideas
+# Building Your Online Presence
 
 ## Overview {-}
 
@@ -943,7 +943,7 @@ This unit is divided into the following topics:
 
 
 1. Personal Learning Environments 
-2. Building a Course Blog
+2. Building a Learning Blog
 3. My Digital Footprint
 4. Evaluating Digital Tools
 
@@ -972,14 +972,6 @@ Course Learning Outcomes related to this unit:
 - Evaluate digital tools, platforms, and interactions based on ethical principles
 -->
 
-
-**Performance Indicators**  
-*I can do the following:*  
-- Maintain a public personal blog as my elearning portfolio.  
-- Interact constructively with public online learning communities using forums and social media.  
-- Annotate and discuss web resources publicly in support of my learning.  
-- Share with my learning peer group recommendations for online resources that I have found to be useful.  
-- Use citation management software for my personal online resource library.  
 
 ### Activity Checklist {-}
 
@@ -1060,7 +1052,7 @@ Finally, consider the approach taken at TWU as it supports inquiry-rich learning
 
 ```
 
-## Building a Course Blog
+## Building a Learning Blog
 
 In the next activity, you will gain first hand experience in using blog technology for publishing your own course site. You will “declare” yourself online using your PLE (as an alternative to posting an introduction in a closed course forum typically used in a conventional online course). Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations.  By using a platform such as Wordpress, you can retain the contents of your posts, as well as the comments of your peers.  In an LMS (Learning Management System) such as Moodle, you may lose access to what you have posted in discussions, and more importantly, conversations with your peers.  As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
 
@@ -1280,56 +1272,41 @@ When you’re ready to start customizing your blog and putting content in, check
 Congratulations!!  You created your PLE for TWU!
 
 
-## Online Identity for Learning 
+## My Digital Footprint 
 
-Now that you have started your course blog and introduced yourself online, let's examine your existing online identity.  If your future employers were to perform a google search for your name, what would they find?  What would you want them to find?  As we examing online identities in this topic, we will ask you to consider how you can improve your digital identity in support of your online learning, as well as future employment prospects.
+Now that you have started your course blog and introduced yourself online, let's examine your existing online identity.  If your future employers were to perform a google search for your name, what would they find?  What would you want them to find?  As we examine online identities in this topic, we will ask you to consider how you can improve your digital identity in support of your online learning, as well as future employment prospects.
 
-
-### Activity: What is A Digital Identity? {-}
-
-```{block2, type='reflect'}
-
-In the following video, Professor Chris Hankin of Imperial College, London highlights three challenges associated with digital identity in today’s online world:
-
-- the blurring of online and offline identity;  
-- the blurring of public and private identity;  
-- social pluralism and feelings of group membership for minorities.  
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0x0diwgmAzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-<span class="blockhead">Questions to Consider</span>
-
-Consider the following issues and share your thoughts by posting a comment on Discourse:
-
-For learners, the most important issue of digital identity is …  
-For employers, the most important issue of digital identity is …  
-For employees, the most important issue of digital identity is …  
-
-```
-
-#### Defining Online Identity {-}
-
-After considering the significance of your digital identity, let's clarify some key terms.
+First, let's clarify some key terms.
 
 We need to distinguish between the technical and human elements of online identity. In this course, we are more interested in the human side of online identity, but in part, this is determined by how technology automates the process of building your digital footprint.
 
->**Internet identity**, also online identity or internet persona is a social identity that an Internet user establishes in online communities and websites. It can also be considered as an actively constructed presentation of oneself. Although some people choose to use their real names online, some Internet users prefer to be anonymous, identifying themselves by means of pseudonyms, which reveal varying amounts of personally identifiable information. An online identity may even be determined by a user’s relationship to a certain social group they are a part of online. Some can even be deceptive about their identity ([Wikipedia](https://en.wikipedia.org/wiki/Online_identity):Online).
+>**Digital identity** refers to the information utilized by computer systems to represent external entities, including a person, organization, application, or device. When used to describe an individual, it encompasses a person's compiled information and plays a crucial role in automating access to computer-based services, verifying identity online, and enabling computers to mediate relationships between entities. Digital identity for individuals is an aspect of a person's social identity and can also be referred to as online identity. ([Wikipedia](https://en.wikipedia.org/wiki/Digital_identity): Online).
 
->A **digital identity** is information on an entity used by computer systems to represent an external agent. That agent may be a person, organisation, application, or device. ISO/IEC 24760-1 defines identity as “set of attributes related to an entity” ([Wikipedia](https://en.wikipedia.org/wiki/Digital_identity): Online).
+>**Digital footprint** or digital shadow refers to one's unique set of traceable digital activities, actions, contributions, and communications manifested on the Internet or digital devices. Digital footprints can be classified as either passive or active. The former is composed of a user's web-browsing activity and information stored as cookies. The latter is often released deliberately by a user to share information on websites or social media. While the term usually applies to a person, a digital footprint can also refer to a business, organization or corporation. ([Wikipedia](https://en.wikipedia.org/wiki/Digital_footprint):Online).
 
+
+### Activity: What is a Digital Footprint? {-}
+
+```{block2, type='reflect'}
+
+Watch the following video and consider the steps you would take to control your digital footprint.
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dmQGq_FNBpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+```
 
 ### Activity: Who am I Online...and Why Should I Care? {-}
 
 ```{block2, type='reflect'}
 
-Read the following papers:
+Read the following articles:
 
-- [An Overview of Identity](https://www.internetsociety.org/resources/doc/2011/understanding-online-identity-overview-identity/).
-- [Who am I Online? Understanding the Meaning of Online Contexts for Identity Development](https://link.springer.com/article/10.1007/s40894-016-0025-0)
+- [Understanding your Online Identity](assets/u4/U4_Understanding-your-Online-Identity-An-Overview-of-Identity.pdf).
+- [How To Manage Your Digital Footprint: 20 Tips for Students](https://research.com/education/how-to-manage-digital-footprint)
 
 <span class="blockhead">Questions to Consider</span>
 
@@ -1357,6 +1334,15 @@ Next, select from these resources to inform your views:
 - [Your Online Presence](https://help.open.ac.uk/your-online-presence) published by the Open University
 - [10 Ways to Build your Online Identity](https://www.careercast.com/career-news/10-ways-build-your-online-identity)
 - UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/)
+
+Finally, consider how much someone could find out about you from your digital footprints.  Here's an interesting video that might cause you to reconsider what you post online.
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F7pYHN9iC9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
 
 ```
 
@@ -1395,13 +1381,14 @@ Remember: You are in charge of what you post online and deciding what you would 
 
 ```
 
-### Activity: Web Presence Challenge {-}
+### Activity: Blog: My Online Biography {-}
 
 ```{block2, type='reflect'}
 
 In this challenge you are asked to build or update your professional online biography and the “About” page of your course blog. 
 
 1. Reflect on the following online personas, target audience and how this will impact on the style and voice of the communication medium.  
+
 | **Persona**  | **Primary audience**               |
 |--------------|------------------------------------|
 | Personal     | Friends and family                 |
@@ -1409,7 +1396,7 @@ In this challenge you are asked to build or update your professional online biog
 | Academic     | Peer learning network              |
 
 
-2. Choose the most appropriate medium for each of your online personas, for example:  
+2. Choose the most appropriate medium for each of your online personas, for example:    
 | **Persona**  | **Medium example**                    |
 |--------------|---------------------------------------|
 | Personal     | [Facebook](https://www.facebook.com/) |
@@ -1471,6 +1458,12 @@ comment
 ```{block2, type='reflect'}
 
 Read the following articles about ...
+
+
+https://www.internetsociety.org/policybriefs/privacy/
+
+https://ethicaledtech.info/wiki/Meta:About
+
 
 [How to write a product review](https://www.wikihow.com/Write-a-Product-Review)
 [Terms of service. Didn’t read](https://tosdr.org/)
