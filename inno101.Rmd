@@ -1004,8 +1004,14 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - All resources will be provided online in the unit.  
 
-**Resource Reminders**
->*Be sure to add resources to your Zotero library you find relevant to your personal learning journey.*
+```{block, type='feedback'}
+***Resource Reminders***  
+>*Be sure to add resources to your Zotero library you find relevant to your personal learning journey.*  
+>*Your peers are a resource! Reach out to your online community for support, and be sure to share resources and insights.* 
+```
+
+**Resource Reminders**  
+>*Be sure to add resources to your Zotero library you find relevant to your personal learning journey.*  
 >*Your peers are a resource! Reach out to your online community for support, and be sure to share resources and insights.* 
 
 

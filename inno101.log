@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  30 AUG 2023 22:08
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  31 AUG 2023 09:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1009,12 +1009,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (1820.3233pt too high) has occurred while \output is active []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1571--1573
+Underfull \hbox (badness 10000) in paragraph at lines 1579--1581
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1573--1575
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1583
 
  []
 
@@ -1025,27 +1025,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 1686--1687
+Underfull \hbox (badness 10000) in paragraph at lines 1694--1695
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1692--1694
+Underfull \hbox (badness 10000) in paragraph at lines 1700--1702
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1694--1696
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1704
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1696--1698
+Underfull \hbox (badness 10000) in paragraph at lines 1704--1706
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1698--1700
+Underfull \hbox (badness 10000) in paragraph at lines 1706--1708
 
  []
 
@@ -1089,12 +1089,12 @@ Package rerunfilecheck Info: File `inno101.out' has not changed.
 (rerunfilecheck)             Checksum: 00A38B5A96E476CD43C599E82AD88E04;6531.
  ) 
 Here is how much of TeX's memory you used:
- 26771 strings out of 478683
- 534554 string characters out of 5847396
+ 26772 strings out of 478683
+ 534570 string characters out of 5847396
  1895012 words of memory out of 5000000
- 46461 multiletter control sequences out of 15000+600000
+ 46462 multiletter control sequences out of 15000+600000
  518754 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,6n,121p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,121p,1574b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on inno101.pdf (61 pages).
