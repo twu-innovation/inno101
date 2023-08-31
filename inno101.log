@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  31 AUG 2023 09:44
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  31 AUG 2023 10:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1009,12 +1009,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (1820.3233pt too high) has occurred while \output is active []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1579--1581
+Underfull \hbox (badness 10000) in paragraph at lines 1575--1577
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1581--1583
+Underfull \hbox (badness 10000) in paragraph at lines 1577--1579
 
  []
 
@@ -1025,7 +1025,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 1694--1695
+Underfull \hbox (badness 10000) in paragraph at lines 1692--1693
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1698--1700
 
  []
 
@@ -1041,11 +1046,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1702--1704
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1704--1706
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1706--1708
 
  []
 
@@ -1095,6 +1095,6 @@ Here is how much of TeX's memory you used:
  46462 multiletter control sequences out of 15000+600000
  518754 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,6n,121p,1574b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,121p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on inno101.pdf (61 pages).

@@ -1006,13 +1006,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```{block, type='feedback'}
 ***Resource Reminders***  
->*Be sure to add resources to your Zotero library you find relevant to your personal learning journey.*  
->*Your peers are a resource! Reach out to your online community for support, and be sure to share resources and insights.* 
+- Be sure to add resources to your *Zotero library* you find relevant to your personal learning journey.  
+- Your peers are a resource! Reach out to your online community for support, and be sure to share resources and insights.  
 ```
-
-**Resource Reminders**  
->*Be sure to add resources to your Zotero library you find relevant to your personal learning journey.*  
->*Your peers are a resource! Reach out to your online community for support, and be sure to share resources and insights.* 
 
 
 
@@ -1340,6 +1336,7 @@ Next, select from these resources to inform your views:
 - [Your Online Presence](https://help.open.ac.uk/your-online-presence) published by the Open University
 - [10 Ways to Build your Online Identity](https://www.careercast.com/career-news/10-ways-build-your-online-identity)
 - UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/)
+- [Policy Brief: Privacy](https://www.internetsociety.org/policybriefs/privacy/) from the Internet Society
 
 Finally, consider how much someone could find out about you from your digital footprints.  Here's an interesting video that might cause you to reconsider what you post online.
 
@@ -1375,7 +1372,7 @@ Prepare and publish a short blog post of about 250 to 300 words focusing on what
 
 1. Optional reflection: You may want to include a reflection(s) on the outcomes of your footprint audit. Remember that your blog post is public, so only share what you are comfortable sharing with the world. You don’t need to be specific; for example, you can generalise: I am satisfied with my digital footprint because … or I would like to improve my digital footprint for learning because …
 
-1. Professional versus private: Consider how you want to separate your “private” online identity from your professional and / or learning identity. If you already maintain an online presence (existing blog, twitter and/or facebook accounts) think about how you will separate professional / learning posts from private and social life interactions online. For example, maintaining a separate course or learning blog is one way to achieve this distinction. Will you link your personal online identities (e.g.an existing Twitter username or Facebook account) with your learning blog? Will you link your professional online identity (e.g. published online biography on your employer’s web site) with your learning blog?
+1. Professional versus private: Consider how you want to separate your “private” online identity from your professional and / or learning identity. If you already maintain an online presence (existing blog or social media accounts) think about how you will separate professional / learning posts from private and social life interactions online. For example, maintaining a separate course or learning blog is one way to achieve this distinction. Will you link your personal online identities (e.g.an existing Twitter username or Facebook account) with your learning blog? Will you link your professional online identity (e.g. published online biography on your employer’s web site) with your learning blog?
 
 1. Objectives: List a few objectives for developing or improving your online identity.
 
