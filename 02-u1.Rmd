@@ -18,6 +18,7 @@ This unit is divided into the following topics:
 
 1. Understanding the Digital
 1. Digital Literacies
+1. Digital Privacy and safety
 1. Digital Safety
 1. Starting your Workflow
 
