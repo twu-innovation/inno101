@@ -85,7 +85,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ## Personal Learning Environments 
 
-The primary purpose of this topic is to enable you to set up your course blog, which will form the hub of your Personal Learning Environment (PLE). Blog posts are a useful way of reflecting on your learning and a means to network with your peers. It also provides our TWU learning community with a way to see how you are engaging with the course and to help where we can. The purpose of a PLE is to put the learner at the centre of the online learning environment, which will be enabled by establishing a personal blog for this course. 
+The primary purpose of this topic is to enable you to set up your own Learning Blog, which will form the hub of your Personal Learning Environment (PLE). Blog posts are a useful way of reflecting on your learning and a means to network with your peers. It also provides our TWU learning community with a way to see how you are engaging with the course and to help where we can. The purpose of a PLE is to put the learner at the centre of the online learning environment, which will be enabled by establishing a personal blog for this course. 
 
 So what is a Personal Learning Environment?
 
@@ -127,7 +127,7 @@ Finally, consider the approach taken at TWU as it supports inquiry-rich learning
 
 ## Building a Learning Blog
 
-In the next activity, you will gain first hand experience in using blog technology for publishing your own course site. You will “declare” yourself online using your PLE (as an alternative to posting an introduction in a closed course forum typically used in a conventional online course). Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations.  By using a platform such as Wordpress, you can retain the contents of your posts, as well as the comments of your peers.  In an LMS (Learning Management System) such as Moodle, you may lose access to what you have posted in discussions, and more importantly, conversations with your peers.  As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
+In the next activity, you will gain first hand experience in using blog technology for publishing your own website. You will “declare” yourself online using your PLE (as an alternative to posting an introduction in a closed course forum typically used in a conventional online course). Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations.  By using a platform such as Wordpress, you can retain the contents of your posts, as well as the comments of your peers.  In an LMS (Learning Management System) such as Moodle, you may lose access to what you have posted in discussions, and more importantly, conversations with your peers.  As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
 
 You will retain control of your data and learning outputs generated during this online course, even after the course is completed.
 You get to choose:
@@ -137,14 +137,14 @@ You get to choose:
 - Whether to register your blog for the aggregated course feed so that any posts tagged with the course code (LDRS101) will be harvested for the feed.
 
 
-A key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the Internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time in setting up your personal digital learning environment. Please remember that your course blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of others. In short, don’t say anything that you would not want to read on the Internet.
+A key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the Internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time in setting up your personal digital learning environment. Please remember that your Learning Blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of others. In short, don’t say anything that you would not want to read on the Internet.
 
 
-### Activity: Setting Up Your Course Blog {-}
+### Activity: Setting Up Your Learning Blog {-}
 
 ```{block2, type='reflect'}
 
-As this is a course focusing on digital literacies, you are asked to establish a course blog, as this will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems out there because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
+As this is a course focusing on digital literacies, you are asked to establish a Learning Blog, as this will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems out there because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
 
 Watch the following video tutorial on how to create a website using WordPress. This video provides you with an overview of all the necessary steps. Do not worry if you start to feel overwhelmed — we will break these steps down for you one by one in the learning activities in this course.
 
@@ -347,7 +347,7 @@ Congratulations!!  You created your PLE for TWU!
 
 ## My Digital Footprint 
 
-Now that you have started your course blog and introduced yourself online, let's examine your existing online identity.  If your future employers were to perform a google search for your name, what would they find?  What would you want them to find?  As we examine online identities in this topic, we will ask you to consider how you can improve your digital identity in support of your online learning, as well as future employment prospects.
+Now that you have created your Learning Blog and introduced yourself online, let's take a closer look at the information about you available on the internet. Imagine if potential employers were to search for you online. What would they discover, and what would you prefer them to find? As we examine online identities in this topic, we will ask you to consider how you can improve your digital identity in support of your online learning, as well as future employment prospects.
 
 First, let's clarify some key terms.
 
@@ -441,90 +441,87 @@ In this activity you will audit your own digital footprint in order to find out 
 
 Prepare and publish a short blog post of about 250 to 300 words focusing on what you hope to achieve with your online digital identity for learning. Your post can include:
 
-1. Optional reflection: You may want to include a reflection(s) on the outcomes of your footprint audit. Remember that your blog post is public, so only share what you are comfortable sharing with the world. You don’t need to be specific; for example, you can generalise: I am satisfied with my digital footprint because … or I would like to improve my digital footprint for learning because …
+1. **Reflection**: Share your thoughts on the outcomes of your footprint audit. Remember that your blog post is public, so only share what you are comfortable sharing with the world. You don’t need to be specific; for example, you can generalise: "I am satisfied with my digital footprint because …" or "I would like to improve my digital footprint for learning because …"
 
-1. Professional versus private: Consider how you want to separate your “private” online identity from your professional and / or learning identity. If you already maintain an online presence (existing blog or social media accounts) think about how you will separate professional / learning posts from private and social life interactions online. For example, maintaining a separate course or learning blog is one way to achieve this distinction. Will you link your personal online identities (e.g.an existing Twitter username or Facebook account) with your learning blog? Will you link your professional online identity (e.g. published online biography on your employer’s web site) with your learning blog?
+1. **Professional versus private**: Consider how you want to separate your “private” online identity from your professional and / or learning identity. If you already maintain an online presence (existing blog or social media accounts) think about how you will separate professional / learning posts from private and social life interactions online. For example, maintaining a separate course or learning blog is one way to achieve this distinction. Will you link your personal online identities (e.g. an existing X (formerly Twitter) username or Facebook account) with your learning blog? Will you link your professional online identity (e.g. published online biography or resume) with your learning blog?
 
-1. Objectives: List a few objectives for developing or improving your online identity.
+1. **Objectives**: List a few objectives for developing or improving your online identity.
 
-1. Remember to add a category or tag to your post using the course tag: LDRS101 (This is needed to harvest links to posts from registered course blogs for the course feed.)
+1. **Tag**: Add a category or tag to your post using the course tag: LDRS101 (This is needed to harvest links to posts from registered blogs for the course feed.)
 
-Remember: You are in charge of what you post online and deciding what you would like to share for your digital identity for the purposes of this course. Don’t share high risk personal details like physical address, date of birth, name of first pet etc., which may make it easier for identity thieves to appear more credible. If unsure, consult online resources for internet safety; for example Netsafe New Zealand. (replace resource)
+**Remember**: You are in charge of what you post online and you decide what you would like to share for your digital identity for the purposes of this course. Don’t share high risk personal details like physical address, date of birth, name of first pet, etc., which may make it easier for identity thieves to appear more credible. If unsure, consult online resources for internet safety; for example [Get Cyber Safe](https://www.getcybersafe.gc.ca/en/secure-your-accounts/social-media) from the government of Canada.
 
-!! Note that we will cover online identity in more depth in Unit 5.
 
 ```
 
-### Activity: Blog: My Online Biography {-}
-
-```{block2, type='reflect'}
-
-In this challenge you are asked to build or update your professional online biography and the “About” page of your course blog. 
-
-1. Reflect on the following online personas, target audience and how this will impact on the style and voice of the communication medium.  
-
-| **Persona**  | **Primary audience**               |
-|--------------|------------------------------------|
-| Personal     | Friends and family                 |
-| Professional | Employers and professional network |
-| Academic     | Peer learning network              |
-
-
-2. Choose the most appropriate medium for each of your online personas, for example:    
-| **Persona**  | **Medium example**                    |
-|--------------|---------------------------------------|
-| Personal     | [Facebook](https://www.facebook.com/) |
-| Professional | [Linkedin](https://www.linkedin.com/) |
-| Academic     | Course blog or website                |
-
-
-3. Identify one or two professionals from your field of interest who maintain an active web presence and contribute regularly via social media. Explore their respective websites and professional listings as examples.  
-- Twitter is a good place to search for individuals using popular hashtags from your field or area of study, for example “#highereducation”  
-- Click through to their respective twitter user page. If they have a personal website listed on the user page, visit the site and review their “About” page.  
-- Visit their employer’s page and try to locate their biography on the employer’s website.  
-- Search for the user on Linkedin  
-- Compare the user information on these different sites. Observe how they link to social media accounts, and vary the style and content presented for the different personas.
-
-4. Create or update your professional profile on Linkedin. (Consult the help page for support.)  
-
-5. Create or update your “About” page on your course blog. You may prefer using a more informal style for this page aligned with your own personality and interests. Include links to your professional profile and respective links to social media that you use.
-
-6. Visit the profile pages of your active social media accounts. Update if necessary providing links back to your main page (for example, the “About” page on your course site).
-
-7. Think carefully about information you post publicly and keep a clear distinction between your personal online presence and your professional online persona. Review your privacy settings on your personal account(s).
-
-```
 
 ## Evaluating Online Tools
 
-In this topic, we invite you to think critically about the tools you use online.  More than the obvious questions about whether the tool works well, is easy to navigate, etc., how do we evaluate digital tools, platforms, and interactions based on *ethical principles*?
+So far in Unit 4, you have created a Learning Blog in WordPress, explored your social media platforms, and applied a range of other tools like Zotero, Hypothes.is, Discourse, Obsidian, and more. 
 
-...
+As we step into this new topic, we encourage you to engage in a critical examination of the online tools you use. Beyond the basic considerations of functionality and user-friendliness, we invite you to assess digital tools, platforms, and interactions through the lens of ethical principles.
+
+So how do we evaluate technology on ethical principles?  Here are some guiding questions from [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About):
+
+>**Guiding questions**
+>- Where does power lie, and where are we expected to place our trust?
+>- To whom is it accessible—for instance, in terms of usability and cost?
+>- Does it lock us into closed, commercial systems or invite us into open communities?
+>- Does it give us more control over the learning process, or does it cede that control?
+>- Does it respect and protect our privacy appropriately?
+>- Can we access, study, and modify the underlying code or design?
+>- Who owns the infrastructure and our usage data? Does it produce private profit or public commons?
+
+These crucial questions higlight the importance of privacy, data ownership, and accessibility.  What other questions would you ask to ensure a tech tool is ethical?  In the activity below, we will examine another perspective on ethics and technology.  This may tap into the foundational lens by which you approach many ethical issues, so take a moment to reflect on the following:
+
+- What role does technology play in my social, academic, and spiritual life?
+- What guidance does the Bible have on our use of technology today?
+- How will my use of technology support my social, academic, and spiritual goals? 
+  
+> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God." [TWU Vision Statement](https://www.twu.ca/about-us/commitments/mission-vision)
+
+
+
+### Activity: Digital Wisdom  {-}
+
+```{block2, type='reflect'}
+
+Read the following article in which the authors present "a framework that includes theological principles, cultural critiques, and formative practices that can help us — as both educators and learners — move from a position of digital naiveté toward one of digital wisdom". 
+
+- [A Framework for Digital Wisdom in Higher Education](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/)
+
+
+```
+
+
+
+### Activity: Selecting a Valuable Tool {-}
+
+```{block2, type='reflect'}
+
+As you select the tool you want to evaluate, consider your goals for improving your digital skills.  
+
+- What do you want to do online?  What do you want to learn? What skills are needed in your academic area and profession?
+
+
+
+```
+
+-   
+
 
 
 Improve your skills in becoming a critical consumer of web tools
 Publish a critical product review for an online tool of your choice.
 
 <!--
-Bringing it Home!
-
-Connect - where students have been - what their online idenity is/was/want to be = and what tools they've used/are using/want to use.  
-What do you want to do online?  What do you want to learn? What are your goals?  
-
 Inquiry-based.
-Practicing evaluative judgment 
-
 
 Course Learning Outcomes related to this unit: 
 - Practice evaluative judgment to document your process of learning in complex domains of knowledge
 - Create a personalized narrative to document and express your learning process
 - Evaluate digital tools, platforms, and interactions based on ethical principles
 -->
-
-<!--
-comment
--->
-
 
 
 ### Activity:  {-}

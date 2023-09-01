@@ -150,6 +150,49 @@ Please “Like”, share and reply to posts. These are forms of engagement and a
 
 
 
+### Activity: Blog: My Online Biography (Optional) {-}
+
+```{block2, type='reflect'}
+
+In this challenge you are asked to build or update your professional online biography and the “About” page of your course blog. 
+
+1. Reflect on the following online personas, target audience and how this will impact on the style and voice of the communication medium.  
+
+| **Persona**  | **Primary audience**               |
+|--------------|------------------------------------|
+| Personal     | Friends and family                 |
+| Professional | (Future) Employers and professional network |
+| Academic     | Peer learning network              |
+
+
+2. Choose the most appropriate medium for each of your online personas, for example:    
+
+| **Persona**  | **Medium example**                    |
+|--------------|---------------------------------------|
+| Personal     | [Facebook](https://www.facebook.com/) |
+| Professional | [Linkedin](https://www.linkedin.com/) |
+| Academic     | Learning blog or website                |
+
+
+3. Identify one or two professionals from your field of interest who maintain an active web presence and contribute regularly via social media. Explore their respective websites and professional listings as examples.  
+- X (formerly Twitter) is a good place to search for individuals using popular hashtags from your field or area of study, for example “#highereducation”.    
+- Click through to their respective X user page. If they have a personal website listed on the user page, visit the site and review their “About” page.  
+- Visit their employer’s page and try to locate their biography on the employer’s website.  
+- Search for the user on Linkedin  
+- Compare the user information on these different sites. Observe how they link to social media accounts, and vary the style and content presented for the different personas.
+
+4. Create or update your professional profile on Linkedin. 
+- Consult TWU's [Student Resources website](Student Resources
+) about LinkedIn.) TWU gives you access to LinkedIn Learning, which includes several great courses and videos, such as [Rock Your LinkedIn Profile](https://www.linkedin.com/learning/rock-your-linkedin-profile/connect-to-opportunity-with-linkedin?u=124451074). 
+
+5. Create or update your “About” page on your Learning Blog. You may prefer using a more informal style for this page aligned with your own personality and interests. Include links to your professional profile and respective links to social media that you use.
+
+6. Visit the profile pages of your active social media accounts. Update if necessary providing links back to your main page (for example, the “About” page on your website).
+
+7. Think carefully about information you post publicly and keep a clear distinction between your personal online presence and your professional online persona. Review your privacy settings on your personal account(s).
+
+```
+
 ### Activity:  {-}
 
 ```{block2, type='reflect'}
