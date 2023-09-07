@@ -57,7 +57,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 During this unit you will:
 
 - create a Visitors and Residents diagram
-- download and install [Obsidian](https://obsidian.md)
+- download and install [Obsidian](https://obsidian.md){target="_blank"}
 - download and open the course vault in Obsidian
     - activate the plugins that came with the Obsidian vault
 
@@ -158,13 +158,13 @@ Obsidian is a free and open source note-taking and mind-mapping app.
 1. Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
     - It is recommended that you use a computer, rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
     - You do NOT need to purchase any upgrades such as **Obsidian Sync** or **Obsidian Publish**.
-2. Work through the **Getting Started** section of the Obsidian help pages starting with **[Create a vault](https://help.obsidian.md/Getting+started/Create+a+vault)**.
+2. Work through the **Getting Started** section of the Obsidian help pages starting with **[Create a vault](https://help.obsidian.md/Getting+started/Create+a+vault){target="_blank"}**.
     - When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
-3. It is recommended that you [use one of the sync services listed here](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices) so that your files are backed up.   
+3. It is recommended that you [use one of the sync services listed here](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices){target="_blank"} so that your files are backed up.   
 
 ```
 
-Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/c/ldrs101/10) or talk your your instructor or facilitator for help with this.
+Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/c/ldrs101/10){target="_blank"} or talk your your instructor or facilitator for help with this.
 
 To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
 
@@ -172,7 +172,7 @@ To give you a head start, we have created a **starter vault** for you to downloa
 
 <span class="blockhead">Download the Starter Vault</span>
 
-1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip)
+1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip){target="_blank"}
     - This will download a file called `ldrs101-vault-main.zip` to your computer.
 2. Move the file to your `Documents` folder.
 3. Unzip or extract the contents of the file.
@@ -234,13 +234,13 @@ So, what is digital literacy?  In the next activity, you will start to unpack th
 
 Purpose: Search for definitions of digital literacy and digital skills on the web to identify the difference.
 
-1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy) – Is this a good description?
-1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03) hashtag on Twitter – Did you find any valuable links to defining digital literacy?
+1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} – Is this a good description?
+1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03){target="_blank"} hashtag on X (Twitter) – Did you find any valuable links to defining digital literacy?
 1. Conduct a Google search for “digital literacy.” Select a few definitions you like and record the urls, for example by adding these to your browser bookmarks.
 1. Conduct a Google search for “digital skills.” Select one or two definitions you like and record the urls.
 1. Conduct a Google search for “digital fluency” Select one or two definitions.
 1. What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?
-1. Read: [What is digital literacy?](http://pomo.com.au/blog/digital-literacy/) published by POMO – Is this a reliable source?
+1. Read: [What is digital literacy?](http://pomo.com.au/blog/digital-literacy/){target="_blank"} published by POMO – Is this a reliable source?
 1. How would you rate the academic quality of the definitions you found (e.g. low / high quality)?
 1. What did you discover? Share your thoughts and experiences by posting on the LDRS101 Discourse channel.  For example:
 
@@ -421,7 +421,7 @@ A Visitors & Residents map of online engagement.jpg
 
 Review one or two examples of the following digital visitor and resident maps created by learners. (Click on the image for a larger view and image attributions. Remember that your “back button” will take you back to this page or you can open the image links a new tab or window.)
 
-insert images from https://course.oeru.org/lida101/learning-pathways/introduction-to-digital-literacies/tasks-pln-mapping-challenge/
+insert images from https://course.oeru.org/lida101/learning-pathways/introduction-to-digital-literacies/tasks-pln-mapping-challenge/{target="_blank"}
 
 1. Create your own Personal Learning Network (PLN) map. You can generate your PLN map using your preferred graphics software, slideshow software, or draw your map free hand and then take a photograph for posting on your blog. Institutional quadrants in this context refers to your professional environment and/or engagement in formal learning contexts. (Note that the final assessment requires your PLN map to be generated using digital tools, but for the purposes of this post you can use a hand drawn graphic as a draft before finalising this post for assessment.)
 1. Revisit your original definition of digital literacy and think about how you would like to refine and improve your first attempt.

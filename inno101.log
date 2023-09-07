@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  5 SEP 2023 22:09
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  6 SEP 2023 22:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -984,6 +984,16 @@ Overfull \hbox (61.42343pt too wide) has occurred while \output is active
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [23]
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+[]\TU/lmr/m/n/10 insert images from []$[][][][][] [] [] [] [][][][][][] [] [][][][] [] [][][] [] [][][][][][][] [] [][][][][][][][] [][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
+[][][][][][][][] [] [][][][][][][][][][][][] [][] [][] [][] [][][][][][][] [][] [][][][][][][][][][] [] [][][][][] [][] [][][] [][] [][][][][][][] [][]
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1042,6 +1052,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [45] [46]
+Underfull \hbox (badness 10000) in paragraph at lines 1707--1710
+\TU/lmr/m/n/10 - [Privacy policy([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 1707--1710
+[][][][][][][][]$[]\TU/lmr/m/n/10 ){target=“_blank”} from the Internet Society - []Ethical
+ []
+
+
 Underfull \vbox (badness 5622) has occurred while \output is active []
 
 [47]

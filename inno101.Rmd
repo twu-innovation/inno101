@@ -152,7 +152,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 During this unit you will:
 
 - create a Visitors and Residents diagram
-- download and install [Obsidian](https://obsidian.md)
+- download and install [Obsidian](https://obsidian.md){target="_blank"}
 - download and open the course vault in Obsidian
     - activate the plugins that came with the Obsidian vault
 
@@ -253,13 +253,13 @@ Obsidian is a free and open source note-taking and mind-mapping app.
 1. Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
     - It is recommended that you use a computer, rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
     - You do NOT need to purchase any upgrades such as **Obsidian Sync** or **Obsidian Publish**.
-2. Work through the **Getting Started** section of the Obsidian help pages starting with **[Create a vault](https://help.obsidian.md/Getting+started/Create+a+vault)**.
+2. Work through the **Getting Started** section of the Obsidian help pages starting with **[Create a vault](https://help.obsidian.md/Getting+started/Create+a+vault){target="_blank"}**.
     - When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
-3. It is recommended that you [use one of the sync services listed here](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices) so that your files are backed up.   
+3. It is recommended that you [use one of the sync services listed here](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices){target="_blank"} so that your files are backed up.   
 
 ```
 
-Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/c/ldrs101/10) or talk your your instructor or facilitator for help with this.
+Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/c/ldrs101/10){target="_blank"} or talk your your instructor or facilitator for help with this.
 
 To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
 
@@ -267,7 +267,7 @@ To give you a head start, we have created a **starter vault** for you to downloa
 
 <span class="blockhead">Download the Starter Vault</span>
 
-1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip)
+1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip){target="_blank"}
     - This will download a file called `ldrs101-vault-main.zip` to your computer.
 2. Move the file to your `Documents` folder.
 3. Unzip or extract the contents of the file.
@@ -329,13 +329,13 @@ So, what is digital literacy?  In the next activity, you will start to unpack th
 
 Purpose: Search for definitions of digital literacy and digital skills on the web to identify the difference.
 
-1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy) – Is this a good description?
-1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03) hashtag on Twitter – Did you find any valuable links to defining digital literacy?
+1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} – Is this a good description?
+1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03){target="_blank"} hashtag on X (Twitter) – Did you find any valuable links to defining digital literacy?
 1. Conduct a Google search for “digital literacy.” Select a few definitions you like and record the urls, for example by adding these to your browser bookmarks.
 1. Conduct a Google search for “digital skills.” Select one or two definitions you like and record the urls.
 1. Conduct a Google search for “digital fluency” Select one or two definitions.
 1. What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?
-1. Read: [What is digital literacy?](http://pomo.com.au/blog/digital-literacy/) published by POMO – Is this a reliable source?
+1. Read: [What is digital literacy?](http://pomo.com.au/blog/digital-literacy/){target="_blank"} published by POMO – Is this a reliable source?
 1. How would you rate the academic quality of the definitions you found (e.g. low / high quality)?
 1. What did you discover? Share your thoughts and experiences by posting on the LDRS101 Discourse channel.  For example:
 
@@ -516,7 +516,7 @@ A Visitors & Residents map of online engagement.jpg
 
 Review one or two examples of the following digital visitor and resident maps created by learners. (Click on the image for a larger view and image attributions. Remember that your “back button” will take you back to this page or you can open the image links a new tab or window.)
 
-insert images from https://course.oeru.org/lida101/learning-pathways/introduction-to-digital-literacies/tasks-pln-mapping-challenge/
+insert images from https://course.oeru.org/lida101/learning-pathways/introduction-to-digital-literacies/tasks-pln-mapping-challenge/{target="_blank"}
 
 1. Create your own Personal Learning Network (PLN) map. You can generate your PLN map using your preferred graphics software, slideshow software, or draw your map free hand and then take a photograph for posting on your blog. Institutional quadrants in this context refers to your professional environment and/or engagement in formal learning contexts. (Note that the final assessment requires your PLN map to be generated using digital tools, but for the purposes of this post you can use a hand drawn graphic as a draft before finalising this post for assessment.)
 1. Revisit your original definition of digital literacy and think about how you would like to refine and improve your first attempt.
@@ -1023,9 +1023,9 @@ The primary purpose of this topic is to enable you to set up your own Learning B
 
 So what is a Personal Learning Environment?
 
-> 'Personal Learning Environments are systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services.' [PLE Wiki](https://edutechwiki.unige.ch/en/Personal_learning_environment)
+> 'Personal Learning Environments are systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services.' [PLE Wiki](https://edutechwiki.unige.ch/en/Personal_learning_environment){target="_blank"}
 
-> A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#)) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction).
+> A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#){target="_blank"}) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction){target="_blank"}.
 
 What elements of the two definitions resonate with you?  How do you organize your daily interations and influx of information? How do you share your learning with others? What are your learning goals? 
 
@@ -1098,7 +1098,7 @@ To get started on creating your site we suggest the following steps:
 <details>
 <summary>**1. Sign up to create a website**</summary>
 
-Go to **[create.twu.ca](https://create.twu.ca/)** to sign up for your free WordPress site. *Please read all the prompts and instructions carefully!*
+Go to **[create.twu.ca](https://create.twu.ca/){target="_blank"}** to sign up for your free WordPress site. *Please read all the prompts and instructions carefully!*
 Be sure to read the Privacy Statement carefully before clicking “I Agree.” The information provided gives you excellent guidance regarding digital citizenship, privacy, and how to build a professional digital persona.
 
 You will be prompted to **create a domain name**, which is your website’s address on the Internet. Often this is referred to as a URL (Uniform Resource Locator). This is what your users will type in their browsers to reach your site. Make sure that you choose a domain name that is related to you, easy to pronounce and spell, and easy to remember. Once you have done that, we suggest you write all this information somewhere you can access it easily – just in case. 
@@ -1194,14 +1194,14 @@ Click on “save draft” (so you can review before publishing live on the web).
 <details>
 <summary>**6. Add media**</summary>
 
-Using different types of media to represent your artifacts is a great way to make your portfolio dynamic and keep your audience engaged. Text-heavy pages can get cumbersome regardless of how you arrange it. Media can help with breaking up content or replacing text all together. Consider how you can “show what you know” rather than just simply telling. Media can also be an alternative to simply hyperlinking all your artifacts. Instead of sending your audience off to another site or tab, media can be embedded (see [Media Library](https://create.twu.ca/eportfolios/wordpress/media-library/)) to keep your audience contained to your page.
+Using different types of media to represent your artifacts is a great way to make your portfolio dynamic and keep your audience engaged. Text-heavy pages can get cumbersome regardless of how you arrange it. Media can help with breaking up content or replacing text all together. Consider how you can “show what you know” rather than just simply telling. Media can also be an alternative to simply hyperlinking all your artifacts. Instead of sending your audience off to another site or tab, media can be embedded (see [Media Library](https://create.twu.ca/eportfolios/wordpress/media-library/){target="_blank"}) to keep your audience contained to your page.
 
 The Media Library on your WordPress site houses the media you upload to your site. WordPress supports a variety of media types such as images, audio, video, and documents. We do suggest that you host your video files in your TWU Microsoft Stream account for optimal playability. Other types of media are typically uploaded and inserted into the text editor when writing a post or page.
 
 ***BLOG PHOTO CHALLENGE!***
 
 **Choose a photo** to add to your blog post.   
-- Be sure you have permission to upload the photo.  We suggest using an open licence site, such as [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), or [Flickr](https://www.flickr.com/search/?text=pho&license=2%2C3%2C4%2C5%2C6%2C9).  
+- Be sure you have permission to upload the photo.  We suggest using an open licence site, such as [Pixabay](https://pixabay.com/){target="_blank"}, [Unsplash](https://unsplash.com/){target="_blank"}, [Pexels](https://www.pexels.com/){target="_blank"}, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){target="_blank"}, or [Flickr](https://www.flickr.com/search/?text=pho&license=2%2C3%2C4%2C5%2C6%2C9){target="_blank"}.  
 - Alternatively, upload your own photo, take a selfie or ask someone to take a photo of you working on this blog post challenge.  
 
 
@@ -1257,15 +1257,15 @@ Post in the **LDRS 101 Discourse forum** to let your peers know the web address 
 
 When you’re ready to start customizing your blog and putting content in, check out some tutorials available to you:
 
-- [TWU's Wordpress Support Page](https://www.twu.ca/academics/academic-professional-support/online-learning-resources/wordpress)
+- [TWU's Wordpress Support Page](https://www.twu.ca/academics/academic-professional-support/online-learning-resources/wordpress){target="_blank"}
 
 - TWU's Wordpress Video Tutorials - new sharepoint address?
 
-- [WordPress Support Website](https://wordpress.com/support/)
+- [WordPress Support Website](https://wordpress.com/support/){target="_blank"}
 
-- [Beginner’s guide for WordPress](https://www.wpbeginner.com/start-here/) by WPBeginner
+- [Beginner’s guide for WordPress](https://www.wpbeginner.com/start-here/){target="_blank"} by WPBeginner
 
-- [WordPress Tutorials](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/) from University of Victoria
+- [WordPress Tutorials](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/){target="_blank"} from University of Victoria
 
 
  </details>
@@ -1287,9 +1287,9 @@ First, let's clarify some key terms.
 
 We need to distinguish between the technical and human elements of online identity. In this course, we are more interested in the human side of online identity, but in part, this is determined by how technology automates the process of building your digital footprint.
 
->**Digital identity** refers to the information utilized by computer systems to represent external entities, including a person, organization, application, or device. When used to describe an individual, it encompasses a person's compiled information and plays a crucial role in automating access to computer-based services, verifying identity online, and enabling computers to mediate relationships between entities. Digital identity for individuals is an aspect of a person's social identity and can also be referred to as online identity. ([Wikipedia](https://en.wikipedia.org/wiki/Digital_identity): Online).
+>**Digital identity** refers to the information utilized by computer systems to represent external entities, including a person, organization, application, or device. When used to describe an individual, it encompasses a person's compiled information and plays a crucial role in automating access to computer-based services, verifying identity online, and enabling computers to mediate relationships between entities. Digital identity for individuals is an aspect of a person's social identity and can also be referred to as online identity. ([Wikipedia](https://en.wikipedia.org/wiki/Digital_identity){target="_blank"}: Online).
 
->**Digital footprint** or digital shadow refers to one's unique set of traceable digital activities, actions, contributions, and communications manifested on the Internet or digital devices. Digital footprints can be classified as either passive or active. The former is composed of a user's web-browsing activity and information stored as cookies. The latter is often released deliberately by a user to share information on websites or social media. While the term usually applies to a person, a digital footprint can also refer to a business, organization or corporation. ([Wikipedia](https://en.wikipedia.org/wiki/Digital_footprint):Online).
+>**Digital footprint** or digital shadow refers to one's unique set of traceable digital activities, actions, contributions, and communications manifested on the Internet or digital devices. Digital footprints can be classified as either passive or active. The former is composed of a user's web-browsing activity and information stored as cookies. The latter is often released deliberately by a user to share information on websites or social media. While the term usually applies to a person, a digital footprint can also refer to a business, organization or corporation. ([Wikipedia](https://en.wikipedia.org/wiki/Digital_footprint){target="_blank"}:Online).
 
 
 ### Activity: What is a Digital Footprint? {-}
@@ -1312,8 +1312,8 @@ Watch the following video and consider the steps you would take to control your 
 
 Read the following articles:
 
-- [Understanding your Online Identity](assets/u4/U4_Understanding-your-Online-Identity-An-Overview-of-Identity.pdf).
-- [How To Manage Your Digital Footprint: 20 Tips for Students](https://research.com/education/how-to-manage-digital-footprint)
+- [Understanding your Online Identity](assets/u4/U4_Understanding-your-Online-Identity-An-Overview-of-Identity.pdf){target="_blank"}.
+- [How To Manage Your Digital Footprint: 20 Tips for Students](https://research.com/education/how-to-manage-digital-footprint){target="_blank"}
 
 <span class="blockhead">Questions to Consider</span>
 
@@ -1327,7 +1327,7 @@ Consider the following questions:
 
 In addition to evaluating who you are online, ask yourself, "Why Should I Care?"
 
-First, watch the following video, [Four Reasons to Care About Your Digital Footprint](https://www.youtube.com/watch?v=Ro_LlRg8rGg)
+First, watch the following video, [Four Reasons to Care About Your Digital Footprint](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"}
 
 <div class ="video-container">
 
@@ -1338,10 +1338,10 @@ First, watch the following video, [Four Reasons to Care About Your Digital Footp
 Next, select from these resources to inform your views:
 
 - [Students turn to Internet to build online presence, showcase work](https://www.huffpost.com/entry/students-turn-to-internet_b_3518598), published on Huffingtonpost.
-- [Your Online Presence](https://help.open.ac.uk/your-online-presence) published by the Open University
-- [10 Ways to Build your Online Identity](https://www.careercast.com/career-news/10-ways-build-your-online-identity)
-- UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/)
-- [Policy Brief: Privacy](https://www.internetsociety.org/policybriefs/privacy/) from the Internet Society
+- [Your Online Presence](https://help.open.ac.uk/your-online-presence){target="_blank"} published by the Open University
+- [10 Ways to Build your Online Identity](https://www.careercast.com/career-news/10-ways-build-your-online-identity){target="_blank"}
+- UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/){target="_blank"}
+- [Policy Brief: Privacy](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} from the Internet Society
 
 Finally, consider how much someone could find out about you from your digital footprints.  Here's an interesting video that might cause you to reconsider what you post online.
 
@@ -1383,7 +1383,7 @@ Prepare and publish a short blog post of about 250 to 300 words focusing on what
 
 1. **Tag**: Add a category or tag to your post using the course tag: LDRS101 (This is needed to harvest links to posts from registered blogs for the course feed.)
 
-**Remember**: You are in charge of what you post online and you decide what you would like to share for your digital identity for the purposes of this course. Don’t share high risk personal details like physical address, date of birth, name of first pet, etc., which may make it easier for identity thieves to appear more credible. If unsure, consult online resources for internet safety; for example [Get Cyber Safe](https://www.getcybersafe.gc.ca/en/secure-your-accounts/social-media) from the government of Canada.
+**Remember**: You are in charge of what you post online and you decide what you would like to share for your digital identity for the purposes of this course. Don’t share high risk personal details like physical address, date of birth, name of first pet, etc., which may make it easier for identity thieves to appear more credible. If unsure, consult online resources for internet safety; for example [Get Cyber Safe](https://www.getcybersafe.gc.ca/en/secure-your-accounts/social-media){target="_blank"} from the government of Canada.
 
 
 ```
@@ -1395,7 +1395,7 @@ So far in Unit 4, you have created a Learning Blog in WordPress, explored your s
 
 As we step into this new topic, we encourage you to engage in a critical examination of the online tools you use or are interested in. Beyond the basic considerations of functionality and user-friendliness, we invite you to assess digital tools, platforms, and interactions through the lens of ethical principles.
 
-So how do we evaluate technology on ethical principles?  Here are some guiding questions from [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About):
+So how do we evaluate technology on ethical principles?  Here are some guiding questions from [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About){target="_blank"}:
 
 >**Guiding questions**  
 >- Where does power lie, and where are we expected to place our trust?  
@@ -1412,7 +1412,7 @@ These crucial questions highlight the importance of privacy, data ownership, and
 - What guidance does the Bible have on our use of technology today?
 - How will my use of technology support my social, academic, and spiritual goals? 
   
-> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God." [TWU Vision Statement](https://www.twu.ca/about-us/commitments/mission-vision)
+> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God." [TWU Vision Statement](https://www.twu.ca/about-us/commitments/mission-vision){target="_blank"}
 
 
 
@@ -1423,11 +1423,11 @@ These crucial questions highlight the importance of privacy, data ownership, and
 Read the following [Rubric for Digital Tool Evaluation](assets/u4/U4_Rubric-for-Digital-Tool-Evaluation.pdf).  Note there are a number of criteria, some that may not apply to the tool you choose to evaluate.  In this activity, create your own criteria for evalating digital tools.  Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you.
 
 To help you select your criteria, read the following:  
-- https://www.internetsociety.org/policybriefs/privacy/  
-- https://ethicaledtech.info/wiki/Meta:About  
+- [Privacy policy(https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} from the Internet Society
+- [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About){target="_blank"} 
 
 This next website might be a bit of an eye-opener.  You may want to browse through some common tech examples and see their score.  
-- [Terms of service. Didn’t read](https://tosdr.org/)
+- [Terms of service. Didn’t read](https://tosdr.org/){target="_blank"}
 
 
 ```
@@ -1448,7 +1448,7 @@ This activity will not only help you improve your skills in becoming a critical 
 Publish a critical product review for an online tool of your choice.
 
 
-[How to write a product review](https://www.wikihow.com/Write-a-Product-Review)
+[How to write a product review](https://www.wikihow.com/Write-a-Product-Review){target="_blank"}
  
 Examples of software as service
 
@@ -1479,7 +1479,7 @@ To wrap up this unit, we will examine another perspective on ethics and technolo
 - What guidance does the Bible have on our use of technology today?
 - How will my use of technology support my social, academic, and spiritual goals? 
   
-> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God." [TWU Vision Statement](https://www.twu.ca/about-us/commitments/mission-vision)
+> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God." [TWU Vision Statement](https://www.twu.ca/about-us/commitments/mission-vision){target="_blank"}
 
 
 
@@ -1489,7 +1489,7 @@ To wrap up this unit, we will examine another perspective on ethics and technolo
 
 Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives. 
 
-- [A Framework for Digital Wisdom in Higher Education](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/)
+- [A Framework for Digital Wisdom in Higher Education](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"}
 
 Here are some quotes that resonate with me.  Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.  
 
