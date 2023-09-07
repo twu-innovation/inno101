@@ -936,7 +936,7 @@ Welcome to Unit 4!  In previous units, you've been introduced to the world of di
 
 Now, let's delve into the next phase of our learning journey.
 
-In the second half of the course, you will continue to build your digital skills and use critical thinking to record your learning process. Our attention will move from creating a personal collection of ideas to presenting your learning in a more open platform. Note that you wil decide how public you want to be. We'll also consider why sharing knowledge is important and explore user-friendly ways to do so while still maintaining your control over your work and handling privacy matters. During this unit, you'll get the chance to create a blog, discover your digital footprint, and assess various digital tools.
+In the second half of the course, you will continue to build your digital skills and apply critical thinking to document your learning process. Our focus will shift from creating a personal collection of ideas to presenting your learning in a more open platform. It's important to emphasize that *you* will decide how public you want to be. We'll also consider why sharing knowledge is important and explore user-friendly ways to do so while still maintaining your control over your work and handling privacy matters. As you begin this unit, reflect on your personal and academic goals as they relate to digital literacy. Consider which digital tools you'd like to explore and contemplate how your skills and online contributions can not only benefit you but also make a positive impact on others.
 
 ### Topics {-}
 
@@ -983,7 +983,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Learning Activities</span>
 
-- Reflect on your Personal Learning Enviroment as you read the articles and watch the video in this activity.
+- Reflect on your Personal Learning Enviroment as you view the resources on PLEs.
 - Create a new blog on WordPress and personalise your blog site.
 - Conduct a Digital Footprint Audit
 - Document and share your learning experience by posting a blog entry.
@@ -1011,8 +1011,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```{block, type='feedback'}
 ***Resource Reminders***  
-- Be sure to add resources to your *Zotero library* you find relevant to your personal learning journey.  
-- Your peers are a resource! Reach out to your online community for support, and be sure to share resources and insights.  
+- Don't forget to add resources to your Zotero library that align with your individual learning path.
+- Remember, your fellow students are a valuable resource! Engage with your online community for assistance, and don't hesitate to exchange helpful resources and valuable insights.  
 ```
 
 
@@ -1406,15 +1406,7 @@ So how do we evaluate technology on ethical principles?  Here are some guiding q
 >- Can we access, study, and modify the underlying code or design?  
 >- Who owns the infrastructure and our usage data? Does it produce private profit or public commons?  
 
-These crucial questions highlight the importance of privacy, data ownership, and accessibility.  What other questions would you ask to ensure a tech tool is ethical?  In the activity below, we will examine another perspective on ethics and technology.  This may tap into the foundational lens by which you approach many ethical issues, so take a moment to reflect on the following:
-
-- What role does technology play in my social, academic, and spiritual life?
-- What guidance does the Bible have on our use of technology today?
-- How will my use of technology support my social, academic, and spiritual goals? 
-  
-> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God." [TWU Vision Statement](https://www.twu.ca/about-us/commitments/mission-vision){target="_blank"}
-
-
+These crucial questions highlight the importance of privacy, data ownership, and accessibility.  What other questions would you ask to ensure a tech tool is ethical? 
 
 ### Activity: What Are My Criteria?  {-}
 
@@ -1423,8 +1415,8 @@ These crucial questions highlight the importance of privacy, data ownership, and
 Read the following [Rubric for Digital Tool Evaluation](assets/u4/U4_Rubric-for-Digital-Tool-Evaluation.pdf).  Note there are a number of criteria, some that may not apply to the tool you choose to evaluate.  In this activity, create your own criteria for evalating digital tools.  Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you.
 
 To help you select your criteria, read the following:  
-- [Privacy policy(https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} from the Internet Society
-- [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About){target="_blank"} 
+- [Privacy policy](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} from the Internet Society  
+- [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About){target="_blank"}   
 
 This next website might be a bit of an eye-opener.  You may want to browse through some common tech examples and see their score.  
 - [Terms of service. Didn’t read](https://tosdr.org/){target="_blank"}
@@ -1479,10 +1471,6 @@ To wrap up this unit, we will examine another perspective on ethics and technolo
 - What guidance does the Bible have on our use of technology today?
 - How will my use of technology support my social, academic, and spiritual goals? 
   
-> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God." [TWU Vision Statement](https://www.twu.ca/about-us/commitments/mission-vision){target="_blank"}
-
-
-
 ### Activity: Digital Wisdom  {-}
 
 ```{block2, type='reflect'}
@@ -1495,11 +1483,7 @@ Here are some quotes that resonate with me.  Feel free to highlight your quotes 
 
 > "Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age." (para 1)
 
-> "Prensky’s conception of digital wisdom emphasizes the importance of technical mastery of digital technologies for all of us, so that each of us may thrive in a digital age, but his use of the word “wisdom” suggests that competence is not enough. Questions about how, or whether, our technologies are enabling us to live well are moral questions." (para 5)
-
 > "Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely—as we consider what technologies are doing to us and what we will do with them—is of utmost significance if we are committed to the cultivation of competence, character, and wisdom." (para 6)
-
-> "It is no longer possible, if indeed it ever was, to see technology as irrelevant to the theological meaning of humanity. One way or another, the transformations through technology are part of the larger cosmic drama of creation and redemption." (para 10)
 
 > "Scripture enables us look behind and beyond our and others’ online identities to see ourselves and others as embodied and relational beings made in the image of God." (para 21)
 
@@ -1510,11 +1494,14 @@ Here are some quotes that resonate with me.  Feel free to highlight your quotes 
 
 ## Summary {-}
 
-In this unit, you have had the opportunity to learn about your personal learning environment and start building your presence on the web using a blog.  You've examined your digital footprint and reflected on your online identity - what it is now, and where you want it to be.  You've also had an opportunity to evaluate digital tools and their ethical implications, and consider what tools will help you academically and personally.  Finally, we've presented the idea of digital wisdom.  As you continue with the last tow units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before your evaluate your own learning in this unit, consider TWU's mission statement and how it relates to you and what you can offer to serve others and glorify God. 
+In this unit, you have had the opportunity to learn about your personal learning environment and start building your presence on the web using a blog.  You've examined your digital footprint and reflected on your online identity - what it is now, and where you want it to be.  You've also had an opportunity to evaluate digital tools and their ethical implications, and consider what tools will help you academically and personally.  Finally, we've presented the idea of digital wisdom.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before your evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relates to you and what you can offer to serve others and glorify God.   
+
+
 
 > "The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life."
 
-
+> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God."   
+> [TWU Mission & Vision Statements](https://www.twu.ca/about-us/commitments/mission-vision){target="_blank"}
 
 ## Assessment {-}
 
