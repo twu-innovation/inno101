@@ -5,16 +5,19 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -127,7 +130,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={Leadership 101},
   pdfauthor={Course Developed by Colin Madland \& Kelly Marjanovic},
@@ -2017,14 +2020,15 @@ In this challenge you are asked to build or update your professional online biog
 \end{enumerate}
 
 \begin{longtable}[]{@{}ll@{}}
-\toprule()
+\toprule\noalign{}
 \textbf{Persona} & \textbf{Primary audience} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Personal & Friends and family \\
 Professional & (Future) Employers and professional network \\
 Academic & Peer learning network \\
-\bottomrule()
 \end{longtable}
 
 \begin{enumerate}
@@ -2036,14 +2040,15 @@ Academic & Peer learning network \\
 \end{enumerate}
 
 \begin{longtable}[]{@{}ll@{}}
-\toprule()
+\toprule\noalign{}
 \textbf{Persona} & \textbf{Medium example} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Personal & \href{https://www.facebook.com/}{Facebook} \\
 Professional & \href{https://www.linkedin.com/}{Linkedin} \\
 Academic & Learning blog or website \\
-\bottomrule()
 \end{longtable}
 
 \begin{enumerate}
