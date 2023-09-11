@@ -32,7 +32,7 @@ When you have completed this unit, you should be able to:
 - Evaluate digital tools, platforms, and interactions based on ethical principles
 - Critically evaluate the affordances and restraints of digital tools and platforms
 - Identify the digital skills needed in your field of study
-- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment.
+- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment
 - Practice evaluative judgment to document your process of learning in complex domains of knowledge
 
 <!--
@@ -81,7 +81,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```{block, type='feedback'}
 ***Resource Reminders***  
-- Don't forget to add resources to your Zotero library that align with your individual learning path.
+- Don't forget to add resources to your Zotero library that align with your individual learning path.  
 - Remember, your fellow students are a valuable resource! Engage with your online community for assistance, and don't hesitate to exchange helpful resources and valuable insights.  
 ```
 
@@ -482,7 +482,7 @@ These crucial questions highlight the importance of privacy, data ownership, and
 
 ```{block2, type='reflect'}
 
-Read the following [Rubric for Digital Tool Evaluation](assets/u4/U4_Rubric-for-Digital-Tool-Evaluation.pdf).  Note there are a number of criteria, some that may not apply to the tool you choose to evaluate.  In this activity, create your own criteria for evalating digital tools.  Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you.
+Read the following [Rubric for Digital Tool Evaluation](assets/u4/U4_Rubric-for-Digital-Tool-Evaluation.pdf).  Note there are a number of criteria, some that may not apply to the tool you choose to evaluate.  In this activity, create your own criteria for evaluating digital tools.  Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you.
 
 To help you select your criteria, read the following:  
 - [Privacy policy](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} from the Internet Society  
@@ -505,73 +505,28 @@ In this challenge, you are invited to critically evaluate an online tool. As you
 - What skills are needed in your academic area and profession?  
 - What tool would be helpful for you and your peers to know more about?
 
-This activity will not only help you improve your skills in becoming a critical consumer of web tools..
-...
-Publish a critical product review for an online tool of your choice.
-
-
-[How to write a product review](https://www.wikihow.com/Write-a-Product-Review){target="_blank"}
  
-Examples of software as service
+Examples of tools:
 
 Please select any online tool, or choose one from the list below.
-- Blogging: Blogger, WordPress, Medium, Tumblr
-- File sharing: Dropbox, Nextcloud, MediaFire, Google Drive, SugarSync
-- Presentations: Haikudeck, Prezi, Google Slides, Slides (using Reveal.js)
-- Online collaboration: Basecamp, Slack, Rocket.chat, Hipchat
-- Video conferencing: jitsi, Anymeeting, Zoom, GoToMeeting
-- Feed aggregators: Feedly, Panada, NewsBlur, Inoreader, Feedreader.
-- Project management: Trello, Kanboard, Freedcamp, Asana, Notion, GitHub
+- *Blogging*: Blogger, WordPress, Medium, Tumblr
+- *File sharing*: Dropbox, Nextcloud, MediaFire, Google Drive, SugarSync
+- *Presentations*: Haikudeck, Prezi, Google Slides, Slides (using Reveal.js)
+- *Online collaboration*: Basecamp, Slack, Rocket.chat, Hipchat
+- *Video conferencing*: jitsi, Anymeeting, Zoom, GoToMeeting, Microsoft Teams
+- *Feed aggregators*: Feedly, Panada, NewsBlur, Inoreader, Feedreader.
+- *Project management*: Trello, Kanboard, Freedcamp, Asana, Notion, GitHub
 
 What tool did you select? Let us know by posting a comment on Discourse sharing the name of the tool you selected and why.
 
-Note: Your comment will be displayed in the course feed.
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
 
 ```
 
-To wrap up this unit, we will examine another perspective on ethics and technology.  This may tap into the foundational lens by which you approach many ethical issues, so take a moment to reflect on the following:
-
-- What role does technology play in my social, academic, and spiritual life?
-- What guidance does the Bible have on our use of technology today?
-- How will my use of technology support my social, academic, and spiritual goals? 
-  
-### Activity: Digital Wisdom  {-}
-
-```{block2, type='reflect'}
-
-Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives. 
-
-- [A Framework for Digital Wisdom in Higher Education](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"}
-
-Here are some quotes that resonate with me.  Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.  
-
-> "Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age." (para 1)
-
-> "Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely—as we consider what technologies are doing to us and what we will do with them—is of utmost significance if we are committed to the cultivation of competence, character, and wisdom." (para 6)
-
-> "Scripture enables us look behind and beyond our and others’ online identities to see ourselves and others as embodied and relational beings made in the image of God." (para 21)
-
-> "Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations." (para 31)
-
-```
 
 
 ## Summary {-}
 
-In this unit, you have had the opportunity to learn about your personal learning environment and start building your presence on the web using a blog.  You've examined your digital footprint and reflected on your online identity - what it is now, and where you want it to be.  You've also had an opportunity to evaluate digital tools and their ethical implications, and consider what tools will help you academically and personally.  Finally, we've presented the idea of digital wisdom.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before your evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relates to you and what you can offer to serve others and glorify God.   
-
-
-
-> "The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life."
-
-> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God."   
-> [TWU Mission & Vision Statements](https://www.twu.ca/about-us/commitments/mission-vision){target="_blank"}
+In this unit, you have had the opportunity to learn about your personal learning environment and start building your presence on the web using a blog.  You've examined your digital footprint and reflected on your online identity - what it is now, and where you want it to be.  You've also had an opportunity to evaluate digital tools and their ethical implications, and consider what tools will help you academically and personally.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  
 
 ## Assessment {-}
 
@@ -579,7 +534,7 @@ In this unit, you have had the opportunity to learn about your personal learning
 
 <span class="blockhead">Digital Literacy Portfolio</span>
 
-The learning activities in this unit were designed to support you as you build your *Digital Literacy Portfolio*.  
+The learning activities in this unit are designed to support you as you build your *Digital Literacy Portfolio*.  
 
 Your portfolio will demonstrate how you apply digital tools to support your learning.  It measures the following course learning outcomes:  
 - Create a personalized narrative to document and express your learning process  
@@ -604,8 +559,13 @@ See the Assessment section in Moodle for instructions, including the grading rub
 
 Before you move on to the next unit, check that you are able to:
 
-- ...
-- ...
+- Create a personalized narrative to document and express your learning process
+- Examine your digital footprint and develop a positive digital online identity
+- Evaluate digital tools, platforms, and interactions based on ethical principles
+- Critically evaluate the affordances and restraints of digital tools and platforms
+- Identify the digital skills needed in your field of study
+- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge
  
 
 ```

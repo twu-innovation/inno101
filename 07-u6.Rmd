@@ -118,7 +118,64 @@ After completing the activities above, answer the following questions:
 
 ## Topic
 
-content
+Digital Rights Management
+In a digital world, you may not have the full ownership rights you expect, or are accustomed to receiving in the physical world, when you buy digital content, resources, and equipment. In this section we explore digital rights management, geoblocking, and other examples. We highlight the importance users have to study the terms of reference and licenses when using proprietary software and buying products that rely on digital technology.
+
+Mini Challenge Summary
+Summary: Explore and discuss the impact of digital rights management. Time: 30–45 minutes. Consult the suggested resources and participate in the digital rights management debate.
+
+John Deere 9530 c.jpg
+Digital Rights Management (DRM)
+Digital rights management (DRM) describes the practice of imposing technical restrictions (hardware or software) to restrict what users can do with the digital content or operation of their equipment. 
+
+Examples include:
+
+Film studios that embed software on their DVDs that restricts the number of copies a legal user can make to two.
+Computer games that restrict the number of devices on which the game can be installed requiring server authentication to keep track of the number of installations.
+e-Book publishers who restrict the ability to copy or print the materials.
+Reading
+Layton, J. (Jan. 3, 2006). How Digital Rights Management Works. Retrieved July 4, 2017. (Click on the next button to progress the sub-pages of the article.)
+Geoblocking
+Geoblocking is a form of DRM which restricts access to content based on geographical location; for example, restrictions associated with media rights for sport coverage or films in different parts of the world because copyright holders sell broadcast and distribution rights to different companies around the world. Frequently, prices for streamed services of the same content will differ from country to country.
+
+In another example, an individual who buys DVD films in one country and then emigrates to another country, may find that the playback of the legally purchased content is restricted by technology means in the new country of residence.
+
+Reading
+Geoblocking from Wikipedia;
+EU lawmakers Include Spotify and iTunes in Geoblocking Ban from Reuters.
+Case study - The Right to Repair
+Do farmers have the right to repair their own tractors? Not necessarily, for example, John Deere’s proprietary software used to operate the vehicle does not allow “owners” to repair systems themselves and in effect they only have an implied license for life to operate the vehicle.
+
+
+
+Readings
+Choose one or two of the following readings (feel free to annotate using Hypothes.is and remember to tag your posts using the course code: lida102):
+
+We Can’t Let John Deere Destroy the Very Idea of Ownership from Wired.
+Why American Farmers are Hacking their own Tractors from the Guardian
+A Right to Repair: Why Nebraska Farmers are Taking on John Deere and Apple from the Guardian.
+The Fight for the “Right to Repair” from Smithsonian.com.
+Outputs
+Digital Rights Management Debate
+Seeing both sides of a debate gives you the opportunity to better understand the issues. In this discussion, choose one of the questions listed below and post to the DRM debate. Your post should include:
+
+A sentence summarizing the issue.
+The most important reason, in your opinion, why DRM is appropriate in a digital world.
+The most important reason, in your opinion, why DRM is not appropriate in a digital world.
+Optional Questions to Consider
+Do you have personal experience of a DRM issue? Summarize the example and present both sides of the issue.
+Do you have personal experience of a geoblocking issue? Summarize the example and present both sides of the issue.
+Should owners of equipment have the right to repair? Summarize the example and present both sides of the issue.
+
+
+
+
+
+Societal Issues and the Internet
+Abstract crowd.jpg
+In this subunit, we introduce a number of societal issues and problematic online behaviors that have emerged in the digital world. Our list is not comprehensive and does not provide a thorough examination of the issues. Here, we encourage you to choose an issue for further investigation.
+
+You will choose one societal issue or antisocial behavior associated with the Internet that you would like to investigate further and publish as an editorial in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
 
 <!--
 comment
@@ -140,12 +197,46 @@ After completing the activities above, answer the following questions:
 
 ```
 
+To conclude our course, we will examine another perspective on ethics and technology.  This may tap into the foundational lens by which you approach many ethical issues, so take a moment to reflect on the following:
+
+- What role does technology play in my social, academic, and spiritual life?
+- What guidance does the Bible have on our use of technology today?
+- How will my use of technology support my social, academic, and spiritual goals? 
+  
+### Activity: Digital Wisdom  {-}
+
+```{block2, type='reflect'}
+
+Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives. 
+
+- [A Framework for Digital Wisdom in Higher Education](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"}
+
+Here are some quotes that resonate with me.  Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.  
+
+> "Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age." (para 1)
+
+> "Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely—as we consider what technologies are doing to us and what we will do with them—is of utmost significance if we are committed to the cultivation of competence, character, and wisdom." (para 6)
+
+> "Scripture enables us look behind and beyond our and others’ online identities to see ourselves and others as embodied and relational beings made in the image of God." (para 21)
+
+> "Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations." (para 31)
+
+```
+
+
 
 ## Summary {-}
 
 In this unit, you have had the opportunity to learn about ...
 
+Finally, we've presented the idea of digital wisdom.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before your evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relate to you and what you can offer to serve others and glorify God.   
 
+
+
+> "The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life."
+
+> "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God."   
+> [TWU Mission & Vision Statements](https://www.twu.ca/about-us/commitments/mission-vision){target="_blank"}
 
 ## Assessment {-}
 

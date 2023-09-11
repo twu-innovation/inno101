@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.28)  10 SEP 2023 00:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.28)  11 SEP 2023 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1035,12 +1035,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (1820.3233pt too high) has occurred while \output is active []
 
 [42]
-Underfull \hbox (badness 10000) in paragraph at lines 1588--1590
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1591
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1590--1592
+Underfull \hbox (badness 10000) in paragraph at lines 1591--1593
 
  []
 
@@ -1051,60 +1051,133 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [45] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 1714--1716
+Underfull \hbox (badness 10000) in paragraph at lines 1715--1717
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1716--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1717--1719
 
  []
 
 [47]
-Underfull \vbox (badness 5077) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[48] [49] [50] [51] [52
+[48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[49] [50]
+Chapter 5.
+[51
 
 ]
-Chapter 5.
-[53] [54] [55]
-Underfull \hbox (badness 10000) in paragraph at lines 2059--2060
+Underfull \vbox (badness 1112) has occurred while \output is active []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 1903--1905
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2065--2067
+Underfull \hbox (badness 10000) in paragraph at lines 1905--1907
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2067--2069
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1909
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2069--2071
+Underfull \hbox (badness 10000) in paragraph at lines 1909--1911
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2071--2073
+Underfull \hbox (badness 10000) in paragraph at lines 1911--1913
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[55]
+Overfull \vbox (0.19128pt too high) has occurred while \output is active []
+
 [56]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[57]
+Overfull \vbox (324.19128pt too high) has occurred while \output is active []
+
+[58] [59] [60] [61] [62]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[63]
+Overfull \vbox (132.20128pt too high) has occurred while \output is active []
+
+[64]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[65]
+Overfull \vbox (208.20128pt too high) has occurred while \output is active []
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 2307--2308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2313--2315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2315--2317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2317--2319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2319--2321
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[67]
 Overfull \vbox (262.55716pt too high) has occurred while \output is active []
 
-[57] [58] [59] [60
+[68]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[69]
+Overfull \vbox (97.41568pt too high) has occurred while \output is active []
+
+[70] [71] [72
 
 ]
 Chapter 6.
-[61] [62] [63] [64] (./inno101.bbl [65
+[73] [74] [75]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [66
+[76]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[77] [78] [79] [80
+
+] (./inno101.bbl [81] [82
 
 ]
 
@@ -1114,21 +1187,21 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[67] (./inno101.aux)
+[83] (./inno101.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: B8C4E86AE5CB3561E3AE18ABF9F75AD1;6531.
+(rerunfilecheck)             Checksum: 51C4B436BF1C2ACDAB546081692F613D;6883.
  ) 
 Here is how much of TeX's memory you used:
- 26639 strings out of 477888
- 531674 string characters out of 5821336
+ 26658 strings out of 477888
+ 532074 string characters out of 5821336
  1961869 words of memory out of 5000000
- 47129 multiletter control sequences out of 15000+600000
+ 47148 multiletter control sequences out of 15000+600000
  564536 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  90i,6n,120p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on inno101.pdf (67 pages).
+Output written on inno101.pdf (83 pages).
