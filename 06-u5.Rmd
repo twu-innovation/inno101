@@ -19,14 +19,15 @@ This unit is divided into the following topics:
 
 ### Learning Outcomes {-}
 
-When you have completed this unit, you should be able to:  
-- Discuss the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment.  
-- Outline the rights and responsibilities of a digital citizen.  
-- Apply good online hygiene practices to ensure your privacy and security in digital environments.
-- Evaluate a range of social media, technologies and communities appropriate for supporting learning.
-- Gain an understanding of the implications of digital technology for your future career.
-- Develop online learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner.
+When you have completed this unit, you should be able to: 
+
+- Discuss the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment  
+- Outline the rights and responsibilities of a digital citizen  
+- Apply good online hygiene practices to ensure your privacy and security in digital environments  
+- Evaluate a range of social media, technologies and communities appropriate for supporting learning  
+- Gain an understanding of the implications of digital technology for your future career  
+- Develop online learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens  
+- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner  
 
 
 
@@ -73,7 +74,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ## Digital Citizenship
 
-Before attempting to define digital citizenship let's consider the concept of citizenship in its own right. In its simplest form, citizenship refers to the rights, privileges and duties of being a national citizen. However, the concept of being a good citizen encompasses much more, particularly if you think about full engagement as a member of society.  
+Before attempting to define *digital citizenship*, let's consider the concept of citizenship in its own right. In its simplest form, citizenship refers to the rights, privileges and duties of being a national citizen. However, the concept of being a good citizen encompasses much more, particularly if you think about full engagement as a member of society.  
 
 >“Citizenship is a status that is bestowed on those who are full members of a community.”  
 >—T.H. Marshall
@@ -88,115 +89,84 @@ Before attempting to define digital citizenship let's consider the concept of ci
 
 If good citizenship means to fulfill your role as citizen, can you think of five things good citizens do? Consider the following questions:
 
-- In a digital world is loyalty to your country a necessary component of the definition of good citizenship?  
+- In a digital world, is loyalty to your country a necessary component of the definition of good citizenship?  
 - Is education a pre-requisite for good citizenship?  
 - In a digital world, what does it mean to be a global citizen? Read the Wikipedia article on [Global Citizenship Education](https://en.wikipedia.org/wiki/Global_citizenship_education) where learners engage in solving real world problems.  
 -  Has the concept of good citizenship changed over time? In what ways?  
 - Does citizenship require active community engagement? Read this post by Kristen Mattson, director of a high school library media center: [John Dewey Would Hate Your Digital Citizenship Curriculum](https://drkmattson.wordpress.com/2016/08/03/john-dewey-would-hate-your-digital-citizenship-curriculum/).  
-- Why has the concept digital been linked with citizenship or should we drop the word digital and just talk about good citizenship?  
+- Why has the concept *digital* been linked with *citizenship* or should we drop the word *digital* and just talk about *good citizenship*?  
+
+Write your thoughts in your Reflective Journal (using Obsidian or WordPress).
+
+Conclude by writing down a description of “digital citizenship” in your own words. (You will need this later for the assessment. It does not need to be a scholarly definition – just your personal thoughts on the concept.)
 
 ```
 
-
-
-### Activity: Reflecting on Digital Citizenship {-}
-
-```{block2, type='reflect'}
-
-
-Personal Description of Digital Citizenship
-Write down a description of “digital citizenship” in your own words. (You will need this later for the learning challenge for this pathway. It does not need to be a scholarly definition – just your personal thoughts on the concept.)
-Optional. If you like, If you like, please share your personal description of digital citizenship by posting a comment on the course forum. It will be interesting to see what members of our learning community think. For example: For me, digital citizenship is …
-
-
-
-An organising framework for thinking about digital citizenship
-Autumm Caines provides a useful framework for thinking about digital citizenship
-
-Digital identities that is who you are online including the identities of others (individuals and organisations). We will explore the concept of identify in more detail in the next learning pathway.
-Digital environments, specifically the tools and online spaces we use to interact with each other. (For example Facebook, Mastodon, Twitter, Blogs, Forums etc.).
-Interactions between these identities and environments.
-
-[Digital citizenship diagram](assets/u5/Digital_citizenship_Venn.png)
-Model for digital citizenship. Adapted from Caines (2017) What is DigCiz and Why I am Not Marina Abramovic: thoughts on theory and practice
-
-```
-
-
-
-
-## Defining Digital Citizenship  
+### Defining Digital Citizenship {-}
 
 Defining digital citizenship is not easy because it means different things to different people. It is also a concept which is debated among scholars researching the field.  
 
 If you conduct a general search for “digital citizenship” you will find many links referencing resources targeting the school-level, with a focus on safe, skilled and ethical use of online technology. While these aspects are important, for the purposes of this tertiary-level course, we need to explore the concept of digital citizenship in more detail.  
 
-Old and young technology.jpeg
 
-
-
-### Activity: ... {-}
+### Activity: Podcast on Digital Citizenship {-}
 
 ```{block2, type='reflect'}
 
-Podcast on Digital Citizenship
-
-The purpose of this podcast is to get a sense of the people dimension of digital citizenship.
+In this activity you will listen to a podcast that focuses on the people dimension of digital citizenship.
 
 Meet [Autumm Caines](http://autummcaines.com/), associate director of academic technology from the Center for Excellence in Learning and Teaching at Capital University in a podcast with Bonni Stachowiak.
 
 Listen to the first 15–20 minutes of this Teaching in HigherEd podcast on Digital citizenship. The podcast introduces aspects of digital citizenship and the learner experience in starting out with engagement with social media.
 
-Refined Definition of Digital Citizenship    
-Your outputs of this activity will be used in the learning challenge for this pathway.    
-- Read the introductory section of the Wikipedia article: [Digital citizen](https://en.wikipedia.org/wiki/Digital_citizen)  
-- Conduct a general search for “definition of digital citizen.” Choose the two best definitions and add these to the library of your citation management tool, or keep a record for citation purposes.  
-- Try and locate one recent scholarly definition for “digital citizen.” Record the reference for citation purposes. How recent is the reference?  
-- Revise your personal description of digital citizenship. Does your new definition differ from your initial description?  
 
 ```
 
-
-
-### Activity: ... {-}
+### Activity: Refined Definition of Digital Citizenship {-}
 
 ```{block2, type='reflect'}
 
+The purpose of this activity is to explore the elements of digital citizenship with particular emphasis on those relevant to your academic study.  
 
-Elements of Digital Citizenship  
-Mini Challenge Summary  
-Summary: Elements of digital citizenship for tertiary education. Linked to the digital citizenship learning challenge. Time: 30–35 minutes.   
+Read through the following resources in order to refine your own definition of what it means to be a Digital Citizen.
 
-Stimulus Resources  
-Twitter hashtags  
-#digitalcitizenship (Generic tag)  
-#digiciz (generally used by higher education and the academy)  
-#digicit (generally used by the school sector)  
-Nine elements of digital citizenship published by Mike Ribble  
-Purpose  
-The purpose of this mini challenge is to explore the elements of digital citizenship with particular emphasis on those relevant to tertiary study.  
+*Step 1: Online Search:*
+- Read the introductory section of the Wikipedia article: [Digital citizen](https://en.wikipedia.org/wiki/Digital_citizen)  
+- Conduct a general search for “definition of digital citizen.” Choose the two best definitions and add these to the library of your citation management tool (Hypothes.is / Zotero / Obsidian), or keep a record for citation purposes.  
+- Try and locate one recent scholarly definition for “digital citizen.” Record the reference for citation purposes. How recent is the reference?  
 
-Tasks  
-Explore the recent tweets using the following hashtags: #digitalcitizenship, #digiciz, and #digicit.  
-Compile a list of elements relating to the concept of digital citizenship.  
-Login to hypothes.is.  
-Read Nine elements of digital citizenship.  
-Feel free to add or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: #lida102 (This is needed to harvest posts for the course feed.)  
-Outputs  
-Generate a table listing the nine elements of digital citizenship and identify a practical example of the element for tertiary-level study: For example:  
+*Step 2: Social Media Search:*
+- Explore the recent tweets (on X or whichever social media app you prefer) using the following hashtags: #digitalcitizenship, #digiciz, and #digicit.  Compile a list of elements relating to the concept of digital citizenship.  
 
-Element	Tertiary-study example  
-Digital access	Students from low income countries may not have reliable or affordable access to the Internet.  
-Digital commerce  
-Digital communication  
-Digital literacy  
-Digital etiquette  
-Digital law  
-Digital rights and responsibilities  
-Digital health and wellness  
-Digital security  
+*Step 3: Read & Comment:*
+- Login to hypothes.is.  
+- Read [Nine elements of digital citizenship](https://www.digitalcitizenship.net/nine-elements.html) by Mike Ribble  
+- Feel free to add or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: #LDRS399 (This is needed to harvest posts for the course feed.)  
 
-Share a reflection on this mini challenge by posting a comment on course forums, for example:
+
+*Step 4: Apply the Elements*
+Generate a table listing the nine elements of digital citizenship and identify a practical example of the element for your academic study: For example:  
+
+| **Element**  | **Academic Study Example**               |
+|--------------|------------------------------------|
+| Digital access     | Students from low income countries may not have reliable or affordable access to the Internet.                 |
+| Digital commerce  |  |
+| Digital communication     |               |
+| Digital literacy     |                  |
+| Digital etiquette  |  |
+| Digital law      |              |
+| Digital rights and responsibilities     |                  |
+| Digital health and wellness |  |
+| Digital security       |               |
+	  
+  
+*Step 4: Define digital citizenship*
+After completing the steps above, revise your personal description of digital citizenship. Does your new definition differ from your initial description?  
+
+*Step 4: Share Your Insights!*
+Share a reflection on this activiy by posting either in your blog or on the Discourse forum.
+
+For example:
 
 I didn’t realize the <insert element> is part of digital citizenship because …  
 <insert element> is not particularly relevant for tertiary learners because …  
@@ -204,7 +174,16 @@ I didn’t realize the <insert element> is part of digital citizenship because �
 
 ```
 
-### Rights and Responsibilities
+
+
+![Digital citizenship diagram](assets/u5/Digital_citizenship_Venn.png)
+Model for digital citizenship. Adapted from Caines (2017) What is DigCiz and Why I am Not Marina Abramovic: thoughts on theory and practice
+
+```
+
+
+
+### Rights and Responsibilities {-}
 The concept of citizenship encompasses the rights and responsibilities of individuals. We need to consider what rights and responsibilities come with digital citizenship. In this mini challenge, we explore this topic with particular emphasis on the rights and responsibilities associated with learning in a digital age.
 
 Following the hype of massive open online courses (MOOC) and the New York Times declaring 2012 the “year of the MOOC,“ a small group of educators drafted “A Bill of Rights and Principles for Learning in a Digital Age.” This document forms the basis for a course discussion on the rights and responsibilities of digital citizens.
@@ -215,23 +194,6 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 
 ```{block2, type='reflect'}
 
-Mini Challenge Summary  
-Summary: Rights and responsibilities that come with learning in a digital age at tertiary level. Time 1 hour. Linked to the digital citizenship learning challenge  
- 
-Stimulus Resources  
-A Proposal for Rights and Responsibilities for Citizens in the Digital World[1].  
-Bill of Rights and Principles for Learning in a Digital Age  
-Udacity version of the Bill of Rights;  
-‘Bill of Rights’ Seeks to Protect Students’ Interests as Online Learning Rapidly Expands, from the Chronicle of Higher Education;  
-Critique of ‘Bill of Rights and Principles for Learning in the Digital Age’ from Inside Higher Ed;  
-Twitter designated hashtag for the conversation on the bill of rights: #learnersrights.  
-Note  
-Learners are invited to add or reply to annotations on the Hypothes.is when reading these documents. Remember to tag your posts using the course code: lida102  
-
-Purpose  
-The purpose of this mini challenge is to review and identify the primary rights and responsibilities for tertiary education learners in a digital age and to participate in a discussion of topical issues.  
-
-Tasks  
 Read A Proposal for Rights and Responsibilities for Citizens in the Digital World with particular reference to identifying rights and responsibilities appropriate for college-level online study. Note that the publication is almost a decade old. Is this list still relevant today? What would you amend or add to update this proposal.   
 Conduct a general search for rights and responsibilities of digital citizenship to assist in refining your own list for tertiary online study. Your search is likely to generate many results developed for the school sector, so you need to evaluate if these rights and responsibilities are appropriate for tertiary.  
 Udacity version of the bill of rights  

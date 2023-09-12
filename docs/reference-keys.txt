@@ -21,8 +21,6 @@ my-digital-footprint
 evaluating-online-tools
 building-a-network-of-people
 digital-citizenship
-defining-digital-citizenship
-rights-and-responsibilities
 digital-environments
 health-and-safety
 online-hygiene

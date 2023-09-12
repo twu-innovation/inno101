@@ -142,6 +142,44 @@ Digital literacy is a person’s knowledge, skills, and abilities for using digi
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to 'read'. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
 
+
+
+>“In today’s world, being literate requires much, much more than the traditional literacy of yesterday.”
+>—Rebecca Alber
+
+Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In this signpost you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
+
+### Activity {-}
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Reflection on the 21st century learner</span>
+
+The following video, published by the MacArthur Foundation, questions how digital media are changing the way young people learn, play, socialize, and participate in civic life. John Seely Brown a researcher with particular interests in radical innovation and digital culture suggests that today’s gaming oriented children want to be measured and feel that if they are not learning, it is not fun. How does this relate to how you feel about learning?
+
+Watch the video and think about:
+
+- What “literacy” skills have you acquired when compared to your parents?  
+- What “literacy” skills will be important for future learners in higher education?  
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c0xa98cy-Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Reflect on the following writing prompts:
+
+- My parents did not need to …  
+- A new literacy I acquired is the ability to …  
+- Higher education students of the future will need to …  
+- … is an important 21st century skill for future employment  
+
+You could jot down your responses in your notes, whatever form that may take (paper journal, word document, other app).  However, stay turned and we'll show you a tool we think will be a game changer in your academic studies!
+
+```
+
+
 One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*. To complete this activity, you will need to do a little bit of setup, as follows.
 
 
