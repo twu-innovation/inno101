@@ -1080,6 +1080,10 @@ A key teaching philosophy of this course is to embed the acquisition of new digi
 
 As this is a course focusing on digital literacies, you are asked to establish a Learning Blog, as this will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems out there because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
 
+<!--
+
+need to modify video
+
 Watch the following video tutorial on how to create a website using WordPress. This video provides you with an overview of all the necessary steps. Do not worry if you start to feel overwhelmed — we will break these steps down for you one by one in the learning activities in this course.
 
 
@@ -1089,6 +1093,8 @@ Watch the following video tutorial on how to create a website using WordPress. T
 
 
 </div>
+
+-->
 
 
 > We are here to help you create your site, so do not hesitate to ask for technical support. Below you will find a number of resources, but if you get stuck, please reach out on Discourse, or email elearning@twu.ca
@@ -1421,6 +1427,53 @@ To help you select your criteria, read the following:
 This next website might be a bit of an eye-opener.  You may want to browse through some common tech examples and see their score.  
 - [Terms of service. Didn’t read](https://tosdr.org/){target="_blank"}
 
+Finally, read the following questions and consider what you want to add to your rubric considering the context of the tool, the terms of service, and the purpose.
+
+<details>
+<summary>**Business Context**</summary>
+  
+- Who owns the tool?  
+- Who is the tool maker or CEO?  
+- What are their politics? Does that matter?  
+- What is the tool’s history?  
+- How do they market themselves?  
+- How does the company generate revenue?  
+- What is their market positioning / point of difference?  
+- Who are the competitors?  
+- What do others say about the product? Are these sources reliable?  
+
+</details>
+
+<details>
+<summary>**Terms of Service**</summary>
+- What are the terms of service? Are they easy to find?  
+- What personal data is required to use the tool (username, real names, email, date of birth etc)?  
+- Who owns the data?  
+- How is the data protected?  
+- Where is the data housed?  
+- What flexibility do users have to be anonymous?  
+- Does the tool support open licensing of user generated content?  
+- How is copyright infringement managed?  
+- How is user generated content distributed by the company? What license does the user give the company for distributing to third parties?  
+- Can users delete their accounts or leave the service?  
+- Can users export their data? What export formats are supported?  
+- How is personal information managed?  
+- Can information be shared with third parties, and if so under what conditions?  
+- Can the company terminate a users account? Under what conditions?  
+- How are the changes to the terms of service managed?  
+
+</details>
+
+<details>
+<summary>**Fit For Purpose**</summary>
+  
+- Is the tool suitable for the stated purpose?  
+- How does the design of the tool influence what users can do with the tool?  
+- Does the tool provide support resources and or help tutorials?  
+- Search the web to find out if others provide help and advice on using the tool (for example Youtube, blog posts etc.)  
+- What are the implications or opportunities of the tool to support learning in a digital age?  
+
+</details>
 
 ```
 
@@ -1429,25 +1482,47 @@ This next website might be a bit of an eye-opener.  You may want to browse throu
 
 ```{block2, type='reflect'}
 
-In this challenge, you are invited to critically evaluate an online tool. As you select the tool you want to evaluate, consider your goals for improving your digital skills.  
+In this challenge, you are invited to critically evaluate an online tool. 
+
+**Step 1: Set Your Goals**  
+As you select the tool you want to evaluate, consider your goals for improving your digital skills.  
 
 - What do you want to do or learn online?  
 - What skills are needed in your academic area and profession?  
 - What tool would be helpful for you and your peers to know more about?
 
- 
-Examples of tools:
+**Step 2: Choose a Tool**
+Examples of tools:  
 
-Please select any online tool, or choose one from the list below.
-- *Blogging*: Blogger, WordPress, Medium, Tumblr
-- *File sharing*: Dropbox, Nextcloud, MediaFire, Google Drive, SugarSync
-- *Presentations*: Haikudeck, Prezi, Google Slides, Slides (using Reveal.js)
-- *Online collaboration*: Basecamp, Slack, Rocket.chat, Hipchat
-- *Video conferencing*: jitsi, Anymeeting, Zoom, GoToMeeting, Microsoft Teams
-- *Feed aggregators*: Feedly, Panada, NewsBlur, Inoreader, Feedreader.
-- *Project management*: Trello, Kanboard, Freedcamp, Asana, Notion, GitHub
+Please select any online tool, or choose one from the list below.  
+- *Blogging*: Blogger, WordPress, Medium, Tumblr  
+- *File sharing*: Dropbox, Nextcloud, MediaFire, Google Drive, SugarSync  
+- *Presentations*: Haikudeck, Prezi, Google Slides, Slides (using Reveal.js)  
+- *Online collaboration*: Basecamp, Slack, Rocket.chat, Hipchat  
+- *Video conferencing*: jitsi, Anymeeting, Zoom, GoToMeeting, Microsoft Teams  
+- *Feed aggregators*: Feedly, Panada, NewsBlur, Inoreader, Feedreader.  
+- *Project management*: Trello, Kanboard, Freedcamp, Asana, Notion, GitHub  
 
-What tool did you select? Let us know by posting a comment on Discourse sharing the name of the tool you selected and why.
+**Step 3: Evaluate the Tool**
+Use your chosen rubric or guiding questions to complete your review 
+
+**Step 4: Share Your Insights!**
+Prepare a blog post (about 450 – 600 words) where you publish a critical review of your selected tool.
+
+Your blog post must:
+
+- State your intended purpose for the tool
+- Highlight strengths and weaknesses (Company reputation, software features, terms of service etc.)
+- Include hyperlinks to appropriate web pages
+- Include references using the APA style if required
+- Include if applicable a disclaimer or disclosure, that is whether you have any association with the company or tool that may impact on the review.
+- Include concluding recommendation(s)
+- Include a comment on whether the tool fit for your stated purpose?
+- Include a comment on whether the extent to which the tool would be useful for learning in a digital age?
+- Add a category or tag for your post using the course tag: LDRS399
+
+
+Optional: On Discourse, let us know what tool you selected and why. Share the link of your review blog.
 
 
 ```
