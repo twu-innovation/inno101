@@ -220,6 +220,7 @@ To give you a head start, we have created a **starter vault** for you to downloa
 ![screenshot of the 'open another vault' button](assets/digital-literacy/obsidian2.png)
 
 6. Choose the `ldrs101` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
+7. Once you are in the vault, feel free to take a look around. You will notice a `HOME` page, a `Tools` folder with some files in it, and a `VR Diagram Canvas`.
 
 
 ```
