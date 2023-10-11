@@ -184,7 +184,6 @@ When you have completed this unit, you should be able to:
 - Build your professional online biography 
 - Examine privacy concerns related to various platforms and tools
 - Describe how to protect yourself and others in the digital environment.
- 
 <!--
 @cmadland these last 4 outcomes - we switch to unit 4, correct?
 
@@ -1780,9 +1779,8 @@ When you have completed this unit, you should be able to:
 
 - Discuss the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the off-line environment  
 - Outline the rights and responsibilities of a digital citizen  
-- Apply good online hygiene practices to ensure your privacy and security in digital environments  
 - Evaluate a range of social media, technologies and communities appropriate for supporting learning  
-- Gain an understanding of the implications of digital technology for your future career  
+- Discuss how technology has changed business practices in your field of interest or career.  
 - Develop online learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens  
 - Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner  
 
@@ -1811,7 +1809,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Assessment</span>
 
 - **Digital Citizenship Blog**
-- **Digital Literacy Portfolio** 
+- **Digital Literacy Portfolio**   
 See the Assessment section in Moodle for assignment details and due dates.
 
 ```
@@ -1956,13 +1954,13 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 - [‘Bill of Rights’ Seeks to Protect Students’ Interests as Online Learning Rapidly Expands](https://www.chronicle.com/article/bill-of-rights-seeks-to-protect-students-interests-as-online-learning-rapidly-expands/), from the Chronicle of Higher Education.  
 - [Critique of ‘Bill of Rights and Principles for Learning in the Digital Age’](https://www.insidehighered.com/blogs/law-policy-and-it/critique-bill-rights-and-principles-learning-digital-age) from Inside Higher Ed.  
 
-Conduct a search through the TWU library for [Digital Rights and Responsibilities](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=digital+rights+and+responsibility&cli0=FT1&clv0=Y&type=0&searchMode=And&site=eds-live&scope=site)
+- Conduct a search through the TWU library for [Digital Rights and Responsibilities](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=digital+rights+and+responsibility&cli0=FT1&clv0=Y&type=0&searchMode=And&site=eds-live&scope=site)
 
-Remember to annotate and comment on the Hypothes.is and tag your contributions using the course code: #LDRS399  
+*Remember to annotate and comment on the Hypothes.is and tag your contributions using the course code: #LDRS101*
 
-2. **Blog:**  Prepare a table summarising the primary rights and responsibilities for university learning in a digital age.  
+2. **Blog:** Prepare a table summarising the primary rights and responsibilities for university learning in a digital age.  
 
-3. **Discuss:**Drawing on your knowledge and experience, please join the discussion on Discourse regarding rights and responsibilities for learning in a digital age at TWU. You can discuss the topical issues listed below, or add new ones to the forum. In each case, justify your position taking opposing views into account.  
+3. **Discuss:** Drawing on your knowledge and experience, please join the discussion on Discourse regarding rights and responsibilities for learning in a digital age at TWU. You can discuss the topical issues listed below, or add new ones to the forum. In each case, justify your position taking opposing views into account.  
 
 *Topical Issues*:
 
@@ -1973,7 +1971,7 @@ Remember to annotate and comment on the Hypothes.is and tag your contributions u
 - Should higher education institutions have the right to limit the time required for completing a course?  
 - Others?  
 
-We encourage learners to reply and “like” good posts. (Remember to tag your posts using the course code: LDRS101).  
+We encourage you to reply and “like” good posts on Discourse. (Remember to tag your posts using the course code: LDRS101).  
 
 ```
 
@@ -1985,7 +1983,7 @@ In the early years of the internet, there was a strong research interest in stud
 
 > Community boundaries are blurred to the extent that the Internet is nothing more than a conduit for communication. The Internet is now just another tool that we use to communicate within our various communities. The same as we use mail, telephone and even a car to keep in touch with our friends, family and colleagues. Our ‘real life communities’ are not mutually exclusive from our ‘online communities’ given that it all comes down to implied physical presence. (2013, June 27)
 
-So how do we join and contribute constructively to these digital communities? If you don’t have much experience with online communities, we enccourage you to participate in the course forums and become an active member of the TWU online learning family.
+So how do we join and contribute constructively to these digital communities? If you don’t have much experience with online communities, we enccourage you to participate in the course forums and become an active member of the TWU online learning community.
 
 
 
@@ -1998,7 +1996,14 @@ Online communities are varied and can be categorized by their purpose: social, a
 - Are you interested in the communities that relate to your chosen profession?  If so, do a quick search for online communities for a career that interests you (see example for businesses: [15 Best Online Community Platforms of 2023 (Ranked)](https://www.mightynetworks.com/resources/community-platforms).   
 - Do you want to engage with online communities that align with your personal interests? (e.g. sports, arts, politics, gardening, coding, etc.)  
 
-Write down your goals for joining an online community.
+Write down your goals for joining an online community. 
+
+Next, consider the networks you are currently a part of.  You may want to refer back to Unit 1 in which you created a [Personal Learning Network map](https://twu-innovation.github.io/inno101/introduction-to-digital-literacies-for-online-learning.html#activity-pln-mapping-challenge).  
+
+Now, with a focus on networking, create your own Social Map.  See the following example from [Brian Solis](https://www.briansolis.com/about/), a digital analyst, anthropologist and author. 
+
+<a title="Brian Solis Online - Social Map" href="https://flickr.com/photos/briansolis/2374839848"><img src="https://live.staticflickr.com/3134/2374839848_2769ef5f1a.jpg" alt="Brian Solis Online - Social Map" /></a><br /><small><a title="Brian Solis Online - Social Map" href="https://flickr.com/photos/briansolis/2374839848">Brian Solis Online - Social Map</a> flickr photo by <a href="https://flickr.com/people/briansolis">The Brian Solis</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a></small>
+
 
 ```
 
@@ -2008,18 +2013,45 @@ Write down your goals for joining an online community.
 
 ```{block2, type='reflect'}
 
- In this activity we will explore how social media can support online learning and implications for engagement and identity.  
+ In this activity we will explore how social media can support online learning and discuss the implications for engagement and identity.  
  
-Read: Using Social Media for Learning. A guide to Becoming Strategic from Sheffield Hallam University.  
-Explore: The Conversation Prism developed by Brian Solis.  
-Reflect on the social media technologies you use for learning and how this impacts on your digital footprint and online identity.
-Annotation - Learners on the Periphery  
-Read the following article and add or reply to annotations using Hypothes.is focusing on how the research might apply to your own behavior. Remember to tag your posts using the course code: lida102  
+1. **Read**: Choose from the following articles to 
+ - Using [Social Media for Learning](https://www.shu.ac.uk/digital-skills/personal/social-media-for-learning) from Sheffield Hallam University.     
 
-Honeychurch, S., Bozkurt, A., Singh, L., & Koutropoulos, A. (2017). Learners on the Periphery: Lurkers as Invisible Learners. European Journal of Open, Distance and E-Learning, 20(1).  
-Frameworks for Online Engagement  
-Read Derek Wenmouth’s blog post: Participation online – Four C’s. How does this apply to your own online engagement?  
-Watch the following video based on Ross Mayfield’s Power Law of Participation. Note how low threshold engagement on social media leaves a bread crumb (digital footprint) and generates a form of collective intelligence. Higher forms of engagement result in collaborative intelligence. Note that Cheryl Reynolds refers to Yammer in the video, but the framework also applies to other social media platforms.   While you watch the video, think about how you engage in different online communities.  
+2. **Explore**: [The Conversation Prism](https://www.briansolis.com/2008/08/introducing-conversation-prism-html/) developed by [Brian Solis](https://www.briansolis.com/about/).     
+
+
+<a title="This is the first rev of Conversation Prism (1.0). 3.0 is Now Available - www.theconversationprism.com" href="https://flickr.com/photos/briansolis/2735401175"><img src="https://live.staticflickr.com/3009/2735401175_fcdcd0da03.jpg" alt="This is the first rev of Conversation Prism (1.0). 3.0 is Now Available - www.theconversationprism.com" /></a><br /><small><a title="This is the first rev of Conversation Prism (1.0). 3.0 is Now Available - www.theconversationprism.com" href="https://flickr.com/photos/briansolis/2735401175">This is the first rev of Conversation Prism (1.0). 3.0 is Now Available - www.theconversationprism.com</a> flickr photo by <a href="https://flickr.com/people/briansolis">The Brian Solis</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a></small>
+
+
+<a title="Conversation Prism 4" href="https://flickr.com/photos/solucionafacil/11327713066"><img src="https://live.staticflickr.com/3706/11327713066_c661527cef.jpg" alt="Conversation Prism 4" /></a><br /><small><a title="Conversation Prism 4" href="https://flickr.com/photos/solucionafacil/11327713066">Conversation Prism 4</a> flickr photo by <a href="https://flickr.com/people/solucionafacil">SolucionaFacil.es</a> shared under a <a href="https://creativecommons.org/licenses/by-nd/2.0/">Creative Commons (BY-ND) license</a></small>
+
+
+3. **Reflect** on the social media technologies you use for learning and how this impacts on your digital footprint and online identity.  
+
+Feel free to annotate the articles you ready, or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: LDRS101.  
+
+
+
+```
+### Activity: Why Engage Online? {-}
+
+```{block2, type='reflect'}
+
+Next we're going to discuss the benefits of online engagement and reflect on how you engage in different online communities. 
+
+1. Read [The Potential of Collaborative Intelligence for Social Media and Online Communities](https://ts2.space/en/the-potential-of-collaborative-intelligence-for-social-media-and-online-communities/) by 
+   
+
+
+Watch [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Acc4zY1sQ0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
 
 
 
@@ -2053,7 +2085,6 @@ Consider the relationship between sharing learning online and your digital footp
 
 ---
 
-Annotation - Learners on the periphery
 
 Read: Using social media for learning. A guide to becoming strategic published by Sheffield Hallam University.  
 Explore: The conversation prism developed by Brian Solis.  
@@ -2245,6 +2276,7 @@ In this challenge you are asked to build or update your professional online biog
 
 Throughout history, there are technologies which have influenced change in society. Consider for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
 
+
 ### Activity: Annotation - Newspaper and music industry in a digital age  {-}
 
 ```{block2, type='reflect'}
@@ -2293,7 +2325,7 @@ What is your experience with AI?  Have you used an AI tool, such as Grammerly or
 In the next activity, we'll explore some of these questions and concerns.
 
 
-### Activity: How Can I Use AI? {-}
+### Activity: How Can I Use AI as a Student? {-}
 
 ```{block2, type='reflect'}
 
@@ -2309,13 +2341,9 @@ Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us
 
 Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies.  (e.g. University of Toronto's guidelines for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/)
 
-Switch your perspective to your chosen field.  How can AI benefit your industry?  Are there any concerns regarding how AI might be used?
+Here is one more article that discusses the pros and cons for English Learners using AI in their studies: [Perspectives of the Use of ChatGPT as a Tool for Online Education of English](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English)
 
-Share you thoughts on AI by posting a comment on Discourse, for example:
-
-- AI will …  
-- I was surprised that AI …  
-- In <insert business> AI will …  
+ 
 
 ```
 
@@ -2329,12 +2357,14 @@ In this section we consider the impact of automation on the future job market an
 
 
 
-### Activity: Impact of automation on the labour market {-}
+### Activity: Impact of Automation & AI in the Workplace {-}
+
+```{block2, type='reflect'}
 
 
-Watch [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+First, read [Collaborative Intelligence: Humans and AI Are Joining Forces](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces) from Harvard Business Review.
 
-
+Next, watch [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 
 <div class ="video-container">
 
@@ -2343,21 +2373,17 @@ Watch [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 </div>
 
 
+Finally, read [The Potential of Collaborative Intelligence for Social Media and Online Communities] by [Marcin Frąckiewicz](https://ts2.space/en/author/marcin/).
 
-### Activity:  {-}
+Consider your chosen field of study.  How can AI benefit your industry?  Are there any concerns regarding how AI might be used?
 
-```{block2, type='reflect'}
+Share you thoughts on AI by posting a comment on Discourse, for example:
 
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
+- AI will …  
+- I was surprised that AI …  
+- In <insert business> AI will …  
 
 ```
-
 
 
 

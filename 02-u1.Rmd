@@ -43,7 +43,6 @@ When you have completed this unit, you should be able to:
 - Build your professional online biography 
 - Examine privacy concerns related to various platforms and tools
 - Describe how to protect yourself and others in the digital environment.
- 
 <!--
 @cmadland these last 4 outcomes - we switch to unit 4, correct?
 
