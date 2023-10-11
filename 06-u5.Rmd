@@ -247,32 +247,12 @@ Write down your goals for joining an online community.
 
 
 
-Digital Practices in Academia and the Workplace  
-AI computer science.jpg  
-In this topic we consider how changes in technology will impact on digital practices in the workplace.
-
-Describe how like-minded professionals in your field of interest network online.
-Discuss how technology has changed business practices in your field of interest or career.
-List contemporary examples of artificial intelligence in the workplace.
-Review the potential impact of automation in your field of interest or career.
-List the implications for learning and skills development in your future career precipitated by changes in digital technology.
-
-### Activity: ... {-}
+### Activity: Identity, Social Media, and Learning {-}
 
 ```{block2, type='reflect'}
 
-Identity, Social Media, and Learning  
-Mini Challenge Summary  
-Summary: Explore how social media can support online learning and implications for engagement and identity. Time: 45 minutes.  
-
-Smart phone social media applications.jpg  
-Purpose  
-The purpose of this mini challenge is to:  
-
-Review social media technologies and how they can support or inhibit learning in a digital age.  
-Reflect on engagement in online communities.  
-Consider the relationship between sharing learning online and your digital footprint and online identity.  
-Social Media for Learning  
+ In this activity we will explore how social media can support online learning and implications for engagement and identity.  
+ 
 Read: Using Social Media for Learning. A guide to Becoming Strategic from Sheffield Hallam University.  
 Explore: The Conversation Prism developed by Brian Solis.  
 Reflect on the social media technologies you use for learning and how this impacts on your digital footprint and online identity.
@@ -358,6 +338,125 @@ Other?
 Please “Like”, share and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LiDA102.  
 
 ```
+
+
+
+## Digital Practices in Academia and the Workplace  
+
+In this topic we consider how changes in technology will impact on digital practices in the workplace.
+
+Describe how like-minded professionals in your field of interest network online.
+Discuss how technology has changed business practices in your field of interest or career.
+List contemporary examples of artificial intelligence in the workplace.
+Review the potential impact of automation in your field of interest or career.
+List the implications for learning and skills development in your future career precipitated by changes in digital technology.
+
+### Activity: The Future of Work (Optional) {-}
+
+
+```{block2, type='reflect'}
+
+In this short video signpost, [Ken Steele](http://eduvation.ca/bio/) from Eduvation speculates about the future of the labour market and the value of higher education in a digital age.
+
+Watch [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU)
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iY4UhfQefdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+What do you think? Share your thoughts by posting a comment on Discourse, for example:
+
+Higher ed is valuable because …
+- In a digital age …
+- I am confident that …
+- I am concerned about …
+
+```
+
+
+
+### Personal and Professional Identity {-}
+
+In short, digital citizenship is about being a person on the web. In the previous unit on building your online presence, we noted that individuals portray different personas online, for example personal, academic and professional.
+
+On the one hand, we need to be careful about what we post online because this can have a negative impact on future career prospects or current employment. We must also be cognisant of the different limitations that different careers place on what can be shared publicly and what needs to stay private. On the other hand, building a strong learning or professional network online is very powerful in staying up to date with new trends and establishing connections with your peers.
+
+In this section, we reflect on the balance between public and private in a digital world, recognising that this is going to be different for each person depending on their own environments and professional circumstances. We will also explore how like-minded professionals in your field of interest network online.
+
+
+> “The impact exercised by ICTs is due to at least four major transformations: the blurring of the distinction between reality and virtuality; the blurring of the distinction between human, machine and nature; the reversal from information scarcity to information abundance; and the shift from the primacy of stand-alone things, properties, and binary relations, to the primacy of interactions, processes and networks." —Luciano Floridi
+
+### Activity: Professional Online Identity and Digital Citizenship {-}
+
+```{block2, type='reflect'}
+
+In this activity we will explore professional online identity and networking in the field of your choice.  
+
+First, scan a few of the following resources:
+
+- [High court rules public servants can be sacked for political social media posts](https://www.theguardian.com/australia-news/2019/aug/07/high-court-rules-public-servants-can-be-sacked-for-political-social-media-posts), published by The Guardian.  
+- [‘Think of social media as a virtual resumé](https://www.cbc.ca/news/canada/saskatoon/experts-surprised-by-what-people-will-say-on-social-media-1.4176138),’ expert warns in light of health board resignation, published by CBC News.  
+- You can also search online using the terms "fired over tweet" or "social media firing cases".
+
+
+Next, watch this short video interview with Alec Couros, published by Teaching and Learning in South Australia. Alec summarises how educators are using twitter to connect professionally. 
+[Using Twitter effectively in education - with Alec Couros](https://www.youtube.com/watch?v=EqSCR3HU4eg)
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EqSCR3HU4eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+Finally, visit the LinkedIn help page on [finding and joining a LinkedIn group](https://www.linkedin.com/help/linkedin/answer/a544795).
+
+<span class="blockhead">Questions to Consider</span>
+
+After completing the activities above, answer the following questions:
+
+- How do like-minded professionals in your career or future career, field, discipline etc. network online (for example X, LinkEdIn groups, other websites?)? 
+- What hashtags, if any, are being used for conversations in your chosen field? 
+- What are the topical areas of discussion at the moment? 
+- How could your field of interest improve professional networking online? 
+- Do organisations in your field place restrictions on employees participating in social networks? (See for example [Corporate Social Media Policies: The Good, the Mediocre, and the Ugly](https://www.fastcompany.com/1668368/corporate-social-media-policies-good-mediocre-and-ugly), and [More Social Media Policies: LA Times, Harvard Law, Microsoft, and Cisco](https://www.fastcompany.com/1670530/more-social-media-policies-la-times-harvard-law-microsoft-and-cisco).) 
+
+```
+
+### Activity: Blog: Professional online identity and digital citizenship (Optional) {-}
+
+```{block2, type='reflect'}
+
+Prepare a short blog post (about 300 – 400 words) summarising your findings on professional online networking in your field of interest. Consider the following questions:
+
+- How do like-minded professionals in your field network online and what do they talk about?  
+- What does this mean for your online identity and being a digital citizen?  
+
+Remember to add a category or tag for your post using the course tag: LDRS101.
+
+```
+
+### Technology and Change {-}
+
+Throughout history, there are technologies which have influenced change in society. Consider for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
+
+### Activity: Annotation - Newspaper and music industry in a digital age (Optional) {-}
+
+```{block2, type='reflect'}
+
+The readings which follow take a retrospective look at the impact of the Internet on the newspaper and music industries.
+
+Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/) sharing personal insights and experiences. Remember to tag your posts using the course code: LiDA102. (Consult the OERu support site for help on using the Hypothes.is annotation tool.)
+
+Read Chapter 3 of Weller, M. (2011). The Digital Scholar: How Technology is Changing Academic Practice. Bloomsbury Publishing PLC. (Direct hypothes.is link.)
+Read: How streaming saved the music industry, published by the Guardian. (Direct hypothes.is link.)
+Read: The future of newspapers in the digital age, published by Julien Sueres. (Direct hypothes.is link.)
+
 
 ### Activity: Blog: My Online Biography (Optional) {-}
 
