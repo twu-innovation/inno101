@@ -22,9 +22,9 @@ my-digital-footprint
 evaluating-online-tools
 building-a-network-of-people
 digital-citizenship
+online-communities
 communities-of-practice
-topic-6
 sharing-your-knowledge
+topic-6
 topic-7
 topic-8
-topic-9

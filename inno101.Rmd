@@ -1723,7 +1723,8 @@ This unit is divided into the following topics:
 
 1. Digital Citizenship
 2. Online Communities
-2. Digital Practices in the Workplace
+3. Digital Practices in Academia & the Workplace
+4. Communities of Practice
 
   
 
@@ -1763,7 +1764,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Assessment</span>
 
-- See the Assessment section in Moodle for assignment details and due dates.
+- **Digital Citizenship Blog**
+- **Digital Literacy Portfolio** 
+See the Assessment section in Moodle for assignment details and due dates.
 
 ```
 
@@ -1830,6 +1833,10 @@ Meet [Autumm Caines](http://autummcaines.com/), associate director of academic t
 Listen to the first 15–20 minutes of this Teaching in HigherEd podcast on Digital citizenship. The podcast introduces aspects of digital citizenship and the learner experience in starting out with engagement with social media.
 
 
+<iframe title="Digital Citizenship" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.https://content.blubrry.com/teaching_in_higher_ed_faculty/tihe115.mp3"></iframe>
+
+
+
 ```
 
 ### Activity: Refined Definition of Digital Citizenship {-}
@@ -1840,21 +1847,21 @@ The purpose of this activity is to explore the elements of digital citizenship w
 
 Read through the following resources in order to refine your own definition of what it means to be a Digital Citizen.
 
-*Step 1: Online Search:*
+**Step 1: Online Search:**  
 - Read the introductory section of the Wikipedia article: [Digital citizen](https://en.wikipedia.org/wiki/Digital_citizen)  
 - Conduct a general search for “definition of digital citizen.” Choose the two best definitions and add these to the library of your citation management tool (Hypothes.is / Zotero / Obsidian), or keep a record for citation purposes.  
 - Try and locate one recent scholarly definition for “digital citizen.” Record the reference for citation purposes. How recent is the reference?  
 
-*Step 2: Social Media Search:*
+**Step 2: Social Media Search:** 
 - Explore the recent tweets (on X or whichever social media app you prefer) using the following hashtags: #digitalcitizenship, #digiciz, and #digicit.  Compile a list of elements relating to the concept of digital citizenship.  
 
-*Step 3: Read & Comment:*
+**Step 3: Read & Comment:** 
 - Login to hypothes.is.  
 - Read [Nine elements of digital citizenship](https://www.digitalcitizenship.net/nine-elements.html) by Mike Ribble  
-- Feel free to add or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: #LDRS399 (This is needed to harvest posts for the course feed.)  
+- Feel free to add or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: #LDRS101 (This is needed to harvest posts for the course feed.)  
 
 
-*Step 4: Apply the Elements*
+**Step 4: Apply the Elements** 
 Generate a table listing the nine elements of digital citizenship and identify a practical example of the element for your academic study: For example:  
 
 | **Element**  | **Academic Study Example**               |
@@ -1870,10 +1877,10 @@ Generate a table listing the nine elements of digital citizenship and identify a
 | Digital security       |               |
 	  
   
-*Step 4: Define digital citizenship*
+**Step 5: Define Digital Citizenship**
 After completing the steps above, revise your personal description of digital citizenship. Does your new definition differ from your initial description?  
 
-*Step 4: Share Your Insights!*
+**Step 6: Share Your Insights!**
 Share a reflection on this activiy by posting either in your blog or on the Discourse forum.
 
 For example:
@@ -1881,10 +1888,6 @@ For example:
 - I didn’t realize the ... is part of digital citizenship because …  
 - ... is not particularly relevant for university learners because …  
 - ... is particularly relevant for university learners because …  
-
-```
-
-
 
 ```
 
@@ -1901,7 +1904,7 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 
 ```{block2, type='reflect'}
 
-Conduct a general search for rights and responsibilities of digital citizenship to assist in refining your own list for university online study. Your search is likely to generate many results developed for the school sector, so you need to evaluate if these rights and responsibilities are appropriate for you.  
+1. **Search:** Conduct a general search for rights and responsibilities of digital citizenship to assist in refining your own list for university online study. Your search is likely to generate many results developed for the school sector, so you need to evaluate if these rights and responsibilities are appropriate for you.  
 
 - Udacity version of the bill of rights: [A Bill of Rights and Principles for Learning in the Digital Age](https://www.udacity.com/blog/2013/01/a-bill-of-rights-and-principles-for.html)
 - [‘Bill of Rights’ Seeks to Protect Students’ Interests as Online Learning Rapidly Expands](https://www.chronicle.com/article/bill-of-rights-seeks-to-protect-students-interests-as-online-learning-rapidly-expands/), from the Chronicle of Higher Education.  
@@ -1909,12 +1912,13 @@ Conduct a general search for rights and responsibilities of digital citizenship 
 
 Conduct a search through the TWU library for [Digital Rights and Responsibilities](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=digital+rights+and+responsibility&cli0=FT1&clv0=Y&type=0&searchMode=And&site=eds-live&scope=site)
 
-Prepare a table summarising the primary rights and responsibilities for university learning in a digital age.  
 Remember to annotate and comment on the Hypothes.is and tag your contributions using the course code: #LDRS399  
 
-Drawing on your knowledge and experience, please join the discussion on Discourse regarding rights and responsibilities for learning in a digital age at TWU. You can discuss the topical issues listed below, or add new ones to the forum. In each case, justify your position taking opposing views into account.  
+2. **Blog:**  Prepare a table summarising the primary rights and responsibilities for university learning in a digital age.  
 
-Topical Issues
+3. **Discuss:**Drawing on your knowledge and experience, please join the discussion on Discourse regarding rights and responsibilities for learning in a digital age at TWU. You can discuss the topical issues listed below, or add new ones to the forum. In each case, justify your position taking opposing views into account.  
+
+*Topical Issues*:
 
 - Should higher education institutions have the right to determine what software applications learners should use for their studies?  
 - Data generated by learners belongs to the learners, therefore should they have the right to access their data (for example forum discussion contributions) even after the course has completed?   
@@ -1923,13 +1927,11 @@ Topical Issues
 - Should higher education institutions have the right to limit the time required for completing a course?  
 - Others?  
 
-We encourage learners to reply and “like” good posts. (Remember to tag your posts using the course code: LDRS399).  
-
-  
+We encourage learners to reply and “like” good posts. (Remember to tag your posts using the course code: LDRS101).  
 
 ```
 
-### Online Communities {-}
+## Online Communities 
 
 In this section we explore the topic of online communities and how we can engage in social media to enhance our learning.
 
@@ -1945,31 +1947,26 @@ So how do we join and contribute constructively to these digital communities? If
 
 ```{block2, type='reflect'}
 
-Online communities are varied and can be categorized by their purpose: social, academic, professional, etc.  For this activity, we encourage you to consider what your purpose is in building an online community.
-- Do you want to connect with TWU peers internationally and in Canada?  Is your focus on academic support, or building personal relationships?
-- Are you interested in the communities that relate to your chosen profession?  If so, do a quick search for online communities for a career that interests you (see example for businesses: [15 Best Online Community Platforms of 2023 (Ranked)](https://www.mightynetworks.com/resources/community-platforms). 
-- Do you want to engage with online communities that align with your personal interests? (e.g. sports, arts, politics, gardening, coding, etc.)
+Online communities are varied and can be categorized by their purpose: social, academic, professional, etc.  For this activity, we encourage you to consider what your purpose is in building an online community.  
+- Do you want to connect with TWU peers internationally and in Canada?  Is your focus on academic support, or building personal relationships?  
+- Are you interested in the communities that relate to your chosen profession?  If so, do a quick search for online communities for a career that interests you (see example for businesses: [15 Best Online Community Platforms of 2023 (Ranked)](https://www.mightynetworks.com/resources/community-platforms).   
+- Do you want to engage with online communities that align with your personal interests? (e.g. sports, arts, politics, gardening, coding, etc.)  
 
 Write down your goals for joining an online community.
 
-### Communities of Practice
+```
 
 
 
-A community of practice (CoP) is a group of people who "share a concern or a passion for something they do and learn how to do it better as they interact regularly".[1] 
-
-
-https://cauce-aepuc.ca/networking/communities-of-practice.php#top
-		
-
-
-
-Digital Practices in the Workplace  
+Digital Practices in Academia and the Workplace  
 AI computer science.jpg  
-In this subunit, we consider how changes with technology will impact digital practices in the workplace.  
+In this topic we consider how changes in technology will impact on digital practices in the workplace.
 
-
-
+Describe how like-minded professionals in your field of interest network online.
+Discuss how technology has changed business practices in your field of interest or career.
+List contemporary examples of artificial intelligence in the workplace.
+Review the potential impact of automation in your field of interest or career.
+List the implications for learning and skills development in your future career precipitated by changes in digital technology.
 
 ### Activity: ... {-}
 
@@ -2130,29 +2127,63 @@ After completing the activities above, answer the following questions:
 
 ```
 
-## Topic
-
-content
-
-<!--
-comment
--->
 
 
 
-### Activity:  {-}
+## Communities of Practice
+
+In this unit, you have considered the learning networks you want to join, perhaps as a university student, or in your chosen profession. Our final topic for this unit centres around building a Community of Practice. 
+
+> A community of practice (CoP) is a group of people who "share a concern or a passion for something they do and learn how to do it better as they interact regularly". Wenger, 2014 
+
+Cognitive anthropologists Jean Lave and Etienne Wenger coined the term “community of practice” when studying apprenticeships as a learning model—the term referred to the community that acts as a living curriculum. Once the concept was articulated the researchers started to see communities everywhere, even when no formal apprenticeship system existed.
+
+The basic premise behind communities of practice is simple: we all learn in everyday life from the communities in which we find ourselves. Communities of practice are everywhere. Nearly everyone belongs to some community of practice, whether it is through our working colleagues or associates, our profession or trade, or our leisure interests, such as a book club. Wenger (2000) argues that a community of practice is different from a community of interest or a geographical community in that it involves a shared practice: ways of doing things that are shared to some significant extent among members.
+
+#### Characteristics of A Community of Practice {-}
+
+Wenger argues that there are three crucial characteristics of a community of practice:
+
+1. **Domain:** A common interest that connects and holds together the community;
+2. **Community:** A community is bound by the shared activities they pursue (for example, meetings, discussions) around their common domain;  
+3. **Practice:** Members of a community of practice are practitioners; what they do informs their participation in the community; and what they learn from the community affects what they do.
+
+Wenger (2000) has argued that although individuals learn through participation in a community of practice, more important is the generation of newer or deeper levels of knowledge through the sum of the group activity. If the community of practice is centered around business processes, for instance, this can be of considerable benefit to an organization. 
+
+#### Types of Communities of Practice {-}
+Today, communities of practices are increasingly being used to improve knowledge management and connect people within business, government, education, and other organizations.
+
+The design of the community will look different depending on the purpose and needs of the participants. There are four basic types of communities:
+
+1. **Helping Communities** provide a forum for community members to help each other with everyday work needs.
+
+2. **Best Practice Communities** develop and disseminate best practices, guidelines, and strategies for their members’ use.
+
+3. **Knowledge Stewarding Communities** organize, manage, and steward a body of knowledge from which community members can draw.
+
+4. **Innovation Communities** create breakthrough ideas, new knowledge, and new practices.
+
+As you reflect on digital practices in university and the workplace, consider how engaging in a Community of Practice could benefit you as a learner and in your future career.  
+
+
+### Activity: What Is a Community of Practice? {-}
 
 ```{block2, type='reflect'}
 
-Watch/read...
+Watch the video, [Communities of Practice (Etienne and Beverly Wenger-Trayner)](https://www.youtube.com/watch?v=SmqLyOLIjos)
 
-<span class="blockhead">Questions to Consider</span>
+<div class ="video-container">
 
-After completing the activities above, answer the following questions:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SmqLyOLIjos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-- ...
+</div>
+
+To learn more about the origins and theory of communities of practice, see [Introduction to communities of practice](http://wenger-trayner.com/introduction-to-communities-of-practice). 
+
+Feel free to discuss your topics of interest in TWU Discourse, or search online for CoPs that interest you.
 
 ```
+
 
 
 ## Summary {-}
@@ -2212,6 +2243,7 @@ Before you move on to the next unit, check that you are able to:
  
 
 ```
+
 
 <!--chapter:end:06-u5.Rmd-->
 
@@ -2483,6 +2515,12 @@ Before you move on to the next unit, check that you are able to:
 
 The following are key references used in this course.  ***Check with your course syllabus for required readings.***
 
+Wenger, E. (2014) [Communities of practice: a brief introduction](https://www.wenger-trayner.com/introduction-to-communities-of-practice/), accessed 10 October, 2023
+
+
+[Teaching in a Digital Age – Second Edition](https://pressbooks.bccampus.ca/teachinginadigitalagev2/) by A.W. (Tony) Bates is used under a CC BY-NC 4.0 Licence.
+
+https://www.communityofpractice.ca/background/what-is-a-community-of-practice/
 
 <!--chapter:end:99-references.Rmd-->
 
