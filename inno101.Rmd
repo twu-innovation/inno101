@@ -315,6 +315,7 @@ To give you a head start, we have created a **starter vault** for you to downloa
 ![screenshot of the 'open another vault' button](assets/digital-literacy/obsidian2.png)
 
 6. Choose the `ldrs101` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
+7. Once you are in the vault, feel free to take a look around. You will notice a `HOME` page, a `Tools` folder with some files in it, and a `VR Diagram Canvas`.
 
 
 ```
@@ -1067,7 +1068,7 @@ Welcome to Unit 4!  In previous units, you've been introduced to the world of di
 
 Now, let's delve into the next phase of our learning journey.
 
-In the second half of the course, you will continue to build your digital skills and apply critical thinking to document your learning process. Our focus will shift from creating a personal collection of ideas to presenting your learning in a more open platform. It's important to emphasize that *you* will decide how public you want to be. We'll also consider why sharing knowledge is important and explore user-friendly ways to do so while still maintaining your control over your work and handling privacy matters. As you begin this unit, reflect on your personal and academic goals as they relate to digital literacy. Consider which digital tools you'd like to explore and contemplate how your skills and online contributions can not only benefit you but also make a positive impact on others.
+In the second half of the course, you will continue to build your digital skills and apply critical thinking to document your learning process. Our focus will shift from creating a personal collection of ideas to presenting your learning in a more open platform. It's important to emphasize that *you* will decide how public you want to be. We'll also consider why sharing knowledge is important and explore user-friendly ways to do so while still maintaining your control over your work and handling privacy matters. As you begin this unit, reflect on your personal and academic goals as they relate to digital literacy. Consider which digital tools you'd like to explore and reflect on how your online contributions can not only benefit you, but also make a positive impact on others.
 
 ### Topics {-}
 
@@ -1130,7 +1131,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Assessment</span>
 
-- See the Assessment section in Moodle for assignment details and due dates.
+- **Digital Literacy Portfolio**. See the Assessment section in Moodle for assignment details and due dates.
 
 ```
 
@@ -1528,7 +1529,7 @@ Prepare and publish a short blog post of about 250 to 300 words focusing on what
 
 ## Evaluating Online Tools
 
-So far in Unit 4, you have created a Learning Blog in WordPress, explored your social media platforms, and applied a range of other tools like Zotero, Hypothes.is, Discourse, Obsidian, and more. 
+So far in Unit 4, you have created a Learning Blog in WordPress, explored your social media platforms, and used a range of other tools like Zotero, Hypothes.is, Discourse, Obsidian, and more. 
 
 As we step into this new topic, we encourage you to engage in a critical examination of the online tools you use or are interested in. Beyond the basic considerations of functionality and user-friendliness, we invite you to assess digital tools, platforms, and interactions through the lens of ethical principles.
 
@@ -1622,7 +1623,7 @@ As you select the tool you want to evaluate, consider your goals for improving y
 - What skills are needed in your academic area and profession?  
 - What tool would be helpful for you and your peers to know more about?
 
-**Step 2: Choose a Tool**
+**Step 2: Choose a Tool**  
 Examples of tools:  
 
 Please select any online tool, or choose one from the list below.  
@@ -1634,10 +1635,10 @@ Please select any online tool, or choose one from the list below.
 - *Feed aggregators*: Feedly, Panada, NewsBlur, Inoreader, Feedreader.  
 - *Project management*: Trello, Kanboard, Freedcamp, Asana, Notion, GitHub  
 
-**Step 3: Evaluate the Tool**
+**Step 3: Evaluate the Tool**  
 Use your chosen rubric or guiding questions to complete your review 
 
-**Step 4: Share Your Insights!**
+**Step 4: Share Your Insights!**  
 Prepare a blog post (about 450 – 600 words) where you publish a critical review of your selected tool.
 
 Your blog post must:
@@ -1650,7 +1651,7 @@ Your blog post must:
 - Include concluding recommendation(s)
 - Include a comment on whether the tool fit for your stated purpose?
 - Include a comment on whether the extent to which the tool would be useful for learning in a digital age?
-- Add a category or tag for your post using the course tag: LDRS399
+- Add a category or tag for your post using the course tag: LDRS101
 
 
 Optional: On Discourse, let us know what tool you selected and why. Share the link of your review blog.
@@ -1662,7 +1663,7 @@ Optional: On Discourse, let us know what tool you selected and why. Share the li
 
 ## Summary {-}
 
-In this unit, you have had the opportunity to learn about your personal learning environment and start building your presence on the web using a blog.  You've examined your digital footprint and reflected on your online identity - what it is now, and where you want it to be.  You've also had an opportunity to evaluate digital tools and their ethical implications, and consider what tools will help you academically and personally.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  
+In this unit, you have had the opportunity to learn about your personal learning environment and build your presence on the web using a blog.  You've examined your digital footprint and reflected on your online identity - what it is now, and where you want it to be.  You've also had an opportunity to evaluate digital tools and their ethical implications, and consider what tools will help you academically and personally.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  
 
 ## Assessment {-}
 
