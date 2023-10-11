@@ -90,3 +90,49 @@ This box is for checking your understanding, to make sure you are ready for what
 ***Note***  
 This box signifies key notes, important quotes, or case students. It may also warn you of possible problems or pitfalls you may encounter!
 ```
+
+### Course Technology{-}
+
+The following tools will be introduced in this course. Feel free to explore the links below, or wait until they are introduced in the particular unit in which the tool is required.
+
+#### Course Annotations{-}
+
+[Hypothes.is](https://web.hypothes.is/) is our annotation tool. With hypothes.is you can annotate web pages on the Internet as well as keeping private notes when using the highlight feature.
+
+Hypothes.is enables you to:
+
+- Select text to annotate.  
+- Add tags and post publicly or save privately.  - 
+Reply to or share any annotation.  
+- Link to notes or whole pages.  
+- Annotate together in groups.  
+- Collaborate privately with others.  
+- Search your notes.  
+- Explore all public annotations and profiles.  
+
+
+##### How to annotate a web-page {-}
+Four steps to annotating web pages using hypothes.is:
+
+Step 1: [Create an account](https://hypothes.is/signup) on the Hypothes.is website.
+Step 2: Add Hypothes.is to your browser. ([Install](https://web.hypothes.is/start/#) the add-on for Chrome or bookmarklet for other browsers).
+Step 3: Go to any web page, launch Hypothesis (using the Chrome add-on or browser bookmarklet) and log in using the account you created at Hypothes.is.
+Step 4: Highlight the text you want to annotate (see [how to highlight text](https://www.computerhope.com/issues/ch001669.htm) published by computerhope.com), click on the “Annotate” button which appears when you highlight the text, type your annotation and click “Post to Public”.
+The following video provides a brief overview of how to post an annotation. Watch [Hypothesis Web Annotations](https://www.youtube.com/watch?v=BFPYqXubTsE)
+
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFPYqXubTsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+
+##### Resources {-}
+Go to the [Get Started](https://web.hypothes.is/start/) page to sign up.
+- [Quick Start Guide for Students](https://web.hypothes.is/quick-start-guide-for-students/)
+- [Student resource guide](https://web.hypothes.is/student-resource-guide/)
+- [Annotating as a group](https://web.hypothes.is/help/annotating-with-groups/) (i.e. share annotations on a page or pages)
+If your course is using Hypothes.is to  instructions will be given in the course. Instructions on this can be found here

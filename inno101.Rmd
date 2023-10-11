@@ -91,6 +91,52 @@ This box is for checking your understanding, to make sure you are ready for what
 This box signifies key notes, important quotes, or case students. It may also warn you of possible problems or pitfalls you may encounter!
 ```
 
+### Course Technology{-}
+
+The following tools will be introduced in this course. Feel free to explore the links below, or wait until they are introduced in the particular unit in which the tool is required.
+
+#### Course Annotations{-}
+
+[Hypothes.is](https://web.hypothes.is/) is our annotation tool. With hypothes.is you can annotate web pages on the Internet as well as keeping private notes when using the highlight feature.
+
+Hypothes.is enables you to:
+
+- Select text to annotate.  
+- Add tags and post publicly or save privately.  - 
+Reply to or share any annotation.  
+- Link to notes or whole pages.  
+- Annotate together in groups.  
+- Collaborate privately with others.  
+- Search your notes.  
+- Explore all public annotations and profiles.  
+
+
+##### How to annotate a web-page {-}
+Four steps to annotating web pages using hypothes.is:
+
+Step 1: [Create an account](https://hypothes.is/signup) on the Hypothes.is website.
+Step 2: Add Hypothes.is to your browser. ([Install](https://web.hypothes.is/start/#) the add-on for Chrome or bookmarklet for other browsers).
+Step 3: Go to any web page, launch Hypothesis (using the Chrome add-on or browser bookmarklet) and log in using the account you created at Hypothes.is.
+Step 4: Highlight the text you want to annotate (see [how to highlight text](https://www.computerhope.com/issues/ch001669.htm) published by computerhope.com), click on the “Annotate” button which appears when you highlight the text, type your annotation and click “Post to Public”.
+The following video provides a brief overview of how to post an annotation. Watch [Hypothesis Web Annotations](https://www.youtube.com/watch?v=BFPYqXubTsE)
+
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFPYqXubTsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+
+##### Resources {-}
+Go to the [Get Started](https://web.hypothes.is/start/) page to sign up.
+- [Quick Start Guide for Students](https://web.hypothes.is/quick-start-guide-for-students/)
+- [Student resource guide](https://web.hypothes.is/student-resource-guide/)
+- [Annotating as a group](https://web.hypothes.is/help/annotating-with-groups/) (i.e. share annotations on a page or pages)
+If your course is using Hypothes.is to  instructions will be given in the course. Instructions on this can be found here
+
 <!--chapter:end:index.Rmd-->
 
 # Introduction to Digital Literacies for Online Learning
@@ -2152,23 +2198,6 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 
 ```
 
-### Technology and Change {-}
-
-Throughout history, there are technologies which have influenced change in society. Consider for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
-
-### Activity: Annotation - Newspaper and music industry in a digital age (Optional) {-}
-
-```{block2, type='reflect'}
-
-The readings which follow take a retrospective look at the impact of the Internet on the newspaper and music industries.
-
-Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/) sharing personal insights and experiences. Remember to tag your posts using the course code: LiDA102. (Consult the OERu support site for help on using the Hypothes.is annotation tool.)
-
-Read Chapter 3 of Weller, M. (2011). The Digital Scholar: How Technology is Changing Academic Practice. Bloomsbury Publishing PLC. (Direct hypothes.is link.)
-Read: How streaming saved the music industry, published by the Guardian. (Direct hypothes.is link.)
-Read: The future of newspapers in the digital age, published by Julien Sueres. (Direct hypothes.is link.)
-
-
 ### Activity: Blog: My Online Biography (Optional) {-}
 
 ```{block2, type='reflect'}
@@ -2211,6 +2240,109 @@ In this challenge you are asked to build or update your professional online biog
 7. Think carefully about information you post publicly and keep a clear distinction between your personal online presence and your professional online persona. Review your privacy settings on your personal account(s).
 
 ```
+
+### Technology and Change {-}
+
+Throughout history, there are technologies which have influenced change in society. Consider for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
+
+### Activity: Annotation - Newspaper and music industry in a digital age  {-}
+
+```{block2, type='reflect'}
+
+The readings which follow take a retrospective look at the impact of the Internet on the newspaper and music industries.
+
+Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/) sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS 101. 
+
+1. Read [Chapter 3](https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3) of Weller, M. (2011). [The Digital Scholar: How Technology is Changing Academic Practice](https://www.bloomsburycollections.com/monograph?docid=b-9781849666275). Bloomsbury Publishing PLC. (Direct [hypothes.is link](https://via.hypothes.is/https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3).)  
+2. Read: [How streaming saved the music industry](https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry), published by the Guardian. (Direct [hypothes.is link](https://via.hypothes.is/https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry).)  
+3. Read: [The future of newspapers in the digital age](https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312), published by Julien Sueres. (Direct [hypothes.is link](https://via.hypothes.is/https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312).)  
+
+```
+
+
+### Activity: Impact of digital technology on business {-}
+
+```{block2, type='reflect'}
+
+Join the discussion on the impact of digital technology on business:
+
+1. Choose any business or work environment (for example, your current career or future career)  
+2.  Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.  
+3. State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:  
+    - Has the example contributed to a fundamental change in the way things were done, or is this a minor change?  
+- Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.  
+
+Please “Like”, share and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LDRS101.
+
+```
+
+### Artificial intelligence {-}
+
+Artificial intelligence (AI) is predicted to have a significant impact on society and business. Examples include, autonomous cars, computers understanding human speech and machine learning. Consider for instance, that computer chess games available for commercial desktop machines have the ability to beat accomplished chess players including grand masters.  And of course, Chat GPT.  
+
+In this section we introduce a few interesting examples of artificial intelligence to provide a sense of how sophisticated these technologies are becoming.
+
+First, let's define AI:
+
+> "The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages" ([Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095426960))
+
+> "The capacity of a computer to perform operations analogous to learning and decision making in humans, as by an expert system, a program for CAD or CAM, or a program for the perception and recognition of shapes in computer vision systems" ([Dictionary.com](https://www.dictionary.com/browse/artificial-intelligence))
+
+What is your experience with AI?  Have you used an AI tool, such as Grammerly or ChatGPT? How has this technology affected you as a student, and what effect do you think it has/will have on your chosen profession?  
+
+In the next activity, we'll explore some of these questions and concerns.
+
+
+### Activity: How Can I Use AI? {-}
+
+```{block2, type='reflect'}
+
+First, do a quick search online for AI tools for university students. 
+Examples:
+- [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students)- [The 10 Best AI Tools to Help Students Learn Faster](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/))
+
+Intrigued? Do you find any tech tools that you might use to help you with understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, etc.?
+
+Do any of these capabilites concern you?  Do you think they concern your professors or fellow students? 
+
+Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud).
+
+Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies.  (e.g. University of Toronto's guidelines for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/)
+
+Switch your perspective to your chosen field.  How can AI benefit your industry?  Are there any concerns regarding how AI might be used?
+
+Share you thoughts on AI by posting a comment on Discourse, for example:
+
+- AI will …  
+- I was surprised that AI …  
+- In <insert business> AI will …  
+
+```
+
+### Jobs and automation {-}
+
+In this section we consider the impact of automation on the future job market and the implications for education and training.
+
+- Will robots replace humans?  
+- What jobs are most at risk of being replaced by robots?  
+- What are the implications for learning in a digital age?  
+
+
+
+### Activity: Impact of automation on the labour market {-}
+
+
+Watch [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Pq-S557XQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
 
 ### Activity:  {-}
 
