@@ -2381,7 +2381,7 @@ To test your knowledge of concepts associated with problematic behaviours online
 
 Next, take the [Spot the Troll](https://spotthetroll.org/) quiz developed by the Clemson University Media Forensics Hub which uses images of real social media content.
 
-How did you go with the quizzes? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
+How did you do with the quizzes? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
 
 
 ```
@@ -2449,17 +2449,127 @@ Net neutrality
 
 The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access, it was paramount to design the web as an open system without a central locus of control. However, on the Internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
 
+
+
 ### Activity: The meaning of net neutrality  {-}
 
 ```{block2, type='reflect'}
 
-https://www.youtube.com/watch?v=p90McT24Z6w
+Watch [Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p90McT24Z6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+This video was produced in 2015, where the big concern of net neutrality seemed to relate to companies controlling our access to information on the internet.  (Notice around the 2 minute mark where opposing political parties are supported/blamed for their view on the topic...without the video actually explaining the oppossing views.)
+
+Fast forward to 2023 where the concern is now government oversight in what information we see.
+
+This issue is highly controversial and politisized.  If you are interested in exploring the topic...which means encountering diverse views on the subject, read on!  As we learn with technology, we have to consider what information is available on the internet...and whether there are any restrictions on information that would help us as citizens make informed decisions.
+
+If interested, peruse the following resources.  Trigger alert!  These perspective range from liberal to conservative points of view. This course aims to promote critical thinking of what we consume and produce online. Refer back to the video [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o).  Will encountering an opposing point of view contribute to your understanding of an issue?
+
+Let's dig in to some points on net neutrality!
+
+<details>
+<summary>**title of article**</summary>
+
+
+</details>
+
+<details>
+<summary>**title of article**</summary>
+
+text
+
+</details>
+
+<details>
+<summary>**title of article**</summary>
+
+text
+
+</details>
+
+<details>
+<summary>**title of article**</summary>
+
+text
+
+
+</details>
+
+
+<details>
+<summary>**Atitle of article**</summary>
+
+text
+
+
+</details>
+
+
+
 
 ```
 
-### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+
+In addition to the challenges associated with net neutrality, think about how closed technologies can build walled gardens, for example:
+
+- The Apple iOS which is restricted to running pre-approved applications on the hardware purchased by the user.  
+- The Amazon Kindle line of e-readers intentionally designed to favour the Amazon commercial ecosystem.  
+- Video game consoles that typically require game developers to purchase a license to develop games for the platform frequently requiring approval from the platform prior to publishing the games.  
+
+
+- 
+
+```
+
+### Activity: Forum: Case Study  {-}
 
 ```{block2, type='reflect'}
+
+[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero) is an application for mobile devices and business agreements with a number of companies to provide access to selected internet services without incurring data charges targeting markets where internet access may be less affordable. Facebook Zero is part of internet.org set up by Facebook and the basic websites than can be accessed for free without data charges are determined by the initiative.
+
+Facebook Zero became controversial in some countries due to several issues such as net neutrality.[9] For instance, India's Telecom Regulatory Authority (TRAI) bans zero-rated services on account of "discriminatory tariffs for data services on the basis of content”.[13] A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a "little web that turns the user into a mostly passive consumer of mostly western corporate content”.[11]
+
+Canadian Application & Political Debate:
+
+[Bill C-18: The fallout over Google, Meta's plans to block news links in Canada](https://www.youtube.com/watch?v=W5YLvCEd1yE)
+
+
+[Debating Bill C-11—Internet Censorship for Canadians](https://www.youtube.com/watch?v=bmd4sASKFRw)
+
+
+
+
+search for "Canada's New Regulations for Podcasts"
+
+
+[Net Neutrality is BACK! FCC tries to take away internet freedom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY) from Redacted w Clayton Morris
+
+
+Poilievre: Warned about Justin Trudeau's online censorship law | Latest News | WION
+
+
+Resources
+
+internet.org by Facebook
+India bans Facebook’s basics app to support net neutrality
+Facebook’s Internet.org Isn’t Going Over Well in India
+Share your thoughts on net neutrality by posting a comment on WENotes, for example:
+
+Net neutrality is important because …
+Net neutrality can / can’t coexist with internet.org because …
+Free basics is a good thing because …
+Free basics is problematic because …
+You must be logged in to post to WEnotes.
+
+
+
 
 
 ```
