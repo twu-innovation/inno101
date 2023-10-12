@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.13)  11 OCT 2023 12:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.13)  11 OCT 2023 22:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1471,28 +1471,48 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (116.65329pt too high) has occurred while \output is active []
 
 [66]
+Underfull \hbox (badness 10000) in paragraph at lines 2447--2449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2449--2451
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [67]
+Underfull \hbox (badness 10000) in paragraph at lines 2488--2490
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [68]
-Underfull \hbox (badness 10000) in paragraph at lines 2520--2522
+Underfull \hbox (badness 10000) in paragraph at lines 2547--2548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2522--2524
+Underfull \hbox (badness 10000) in paragraph at lines 2553--2555
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2524--2526
+Underfull \hbox (badness 10000) in paragraph at lines 2555--2557
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2526--2528
+Underfull \hbox (badness 10000) in paragraph at lines 2557--2559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2559--2561
 
  []
 
@@ -1500,23 +1520,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2526--2528
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [69]
-Underfull \vbox (badness 3375) has occurred while \output is active []
+Overfull \vbox (261.95717pt too high) has occurred while \output is active []
 
 [70]
-Underfull \hbox (badness 10000) in paragraph at lines 2588--2590
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2590--2592
-
- []
-
-
-Underfull \vbox (badness 4217) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [71]
-Underfull \hbox (badness 10000) in paragraph at lines 2629--2631
+Underfull \hbox (badness 10000) in paragraph at lines 2651--2653
 
  []
 
@@ -1524,118 +1534,156 @@ Underfull \hbox (badness 10000) in paragraph at lines 2629--2631
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [72]
-Underfull \hbox (badness 10000) in paragraph at lines 2688--2689
+Underfull \hbox (badness 10000) in paragraph at lines 2689--2691
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2694--2696
+Underfull \hbox (badness 10000) in paragraph at lines 2691--2693
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2696--2698
+Underfull \hbox (badness 10000) in paragraph at lines 2693--2695
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2698--2700
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2700--2702
+Underfull \hbox (badness 10000) in paragraph at lines 2695--2697
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[73]
-Overfull \vbox (261.95717pt too high) has occurred while \output is active []
-
-[74]
-Underfull \hbox (badness 10000) in paragraph at lines 2750--2752
+[73] [74]
+Underfull \hbox (badness 10000) in paragraph at lines 2729--2731
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2752--2754
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2769--2771
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2771--2773
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2778--2779
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 2778--2780
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[75] [76]
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 2821--2823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2823--2825
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2840--2842
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 2842--2844
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2844--2846
+Underfull \hbox (badness 10000) in paragraph at lines 2844--2845
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2867--2869
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2869--2871
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2852
 
  []
 
 [77] [78]
-Underfull \hbox (badness 10000) in paragraph at lines 2900--2902
+Underfull \hbox (badness 10000) in paragraph at lines 2909--2911
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2911--2913
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2934--2936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2936--2938
 
  []
 
 [79]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 2980--2982
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2982--2984
+
+ []
 
 [80]
+Underfull \hbox (badness 10000) in paragraph at lines 3010--3012
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3012--3014
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3014--3016
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3016--3018
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[81]
+Overfull \vbox (8.21329pt too high) has occurred while \output is active []
+
+[82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[83]
 Overfull \vbox (97.41568pt too high) has occurred while \output is active []
 
-[81] [82]
-Chapter 6.
-[83
-
-] [84] [85]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[86]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[87] [88] [89] [90
+[84] [85] [86
 
 ]
-Underfull \hbox (badness 4242) in paragraph at lines 3301--3302
+Chapter 6.
+[87] [88] [89]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[90]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[91] [92] [93] [94
+
+]
+Underfull \hbox (badness 4242) in paragraph at lines 3384--3385
 []\TU/lmr/m/n/10 [Creating Communities of Practice]([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 3301--3302
+Underfull \hbox (badness 1755) in paragraph at lines 3384--3385
 [][][][][][][][][][] [] [][][][] [][] [][] [][] [] [][] [][][][][][][][][] [][] [][] [][] [][][][][][][][][]$[]\TU/lmr/m/n/10 ] from ERLC, a member of
  []
 
-(./inno101.bbl [91] [92
+(./inno101.bbl [95] [96
 
 ]
 
@@ -1645,21 +1693,21 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[93] (./inno101.aux)
+[97] (./inno101.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: 8A082BA671B3E47D0B596DF5F4BC7008;7085.
+(rerunfilecheck)             Checksum: 2884B1E48494E7371616AD572C39ABEE;7136.
  ) 
 Here is how much of TeX's memory you used:
- 26683 strings out of 477589
- 532935 string characters out of 5816274
+ 26688 strings out of 477589
+ 533114 string characters out of 5816274
  1962432 words of memory out of 5000000
- 47475 multiletter control sequences out of 15000+600000
+ 47480 multiletter control sequences out of 15000+600000
  564536 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  90i,9n,120p,1574b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on inno101.pdf (93 pages).
+Output written on inno101.pdf (97 pages).
