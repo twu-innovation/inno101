@@ -2386,6 +2386,7 @@ How did you go with the quizzes? Have you encountered any of these behaviours on
 
 ```
 
+
 ### Activity: The True Cost of Free Websites  {-}
 
 ```{block2, type='reflect'}
@@ -2439,6 +2440,78 @@ Consider the following issues:
 Remember to tag your posts using the course code: LDRS101
 
 ```
+
+Net neutrality
+
+“	The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.	”
+—Time Berners-Lee
+
+
+The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access, it was paramount to design the web as an open system without a central locus of control. However, on the Internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
+
+### Activity: The meaning of net neutrality  {-}
+
+```{block2, type='reflect'}
+
+https://www.youtube.com/watch?v=p90McT24Z6w
+
+```
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
 
 
 

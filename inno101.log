@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.13)  11 OCT 2023 22:27
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.13)  11 OCT 2023 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1655,17 +1655,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [81]
 Overfull \vbox (8.21329pt too high) has occurred while \output is active []
 
-[82]
+[82] [83]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[83]
+[84]
 Overfull \vbox (97.41568pt too high) has occurred while \output is active []
 
-[84] [85] [86
-
-]
+[85] [86]
 Chapter 6.
-[87] [88] [89]
+[87
+
+] [88] [89]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [90]
@@ -1674,12 +1674,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [91] [92] [93] [94
 
 ]
-Underfull \hbox (badness 4242) in paragraph at lines 3384--3385
+Underfull \hbox (badness 4242) in paragraph at lines 3448--3449
 []\TU/lmr/m/n/10 [Creating Communities of Practice]([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 3384--3385
+Underfull \hbox (badness 1755) in paragraph at lines 3448--3449
 [][][][][][][][][][] [] [][][][] [][] [][] [][] [] [][] [][][][][][][][][] [][] [][] [][] [][][][][][][][][]$[]\TU/lmr/m/n/10 ] from ERLC, a member of
  []
 
@@ -1699,13 +1699,13 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: 2884B1E48494E7371616AD572C39ABEE;7136.
+(rerunfilecheck)             Checksum: F3AF6C300807F17BCBA47227C642F912;7136.
  ) 
 Here is how much of TeX's memory you used:
- 26688 strings out of 477589
- 533114 string characters out of 5816274
+ 26704 strings out of 477589
+ 533681 string characters out of 5816274
  1962432 words of memory out of 5000000
- 47480 multiletter control sequences out of 15000+600000
+ 47496 multiletter control sequences out of 15000+600000
  564536 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  90i,9n,120p,1574b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
