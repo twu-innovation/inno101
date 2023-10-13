@@ -10,18 +10,24 @@
 
 This unit is divided into the following topics:
 
-1. TWU Online Community
+1. Learning with Technology at TWU 
 2. Digital Practices in the Workplace
 3. Societal Issues and the Internet
+4. Digital Wisdom
 
 
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
-- ...
-- ...
- 
+- Discuss how technology has changed business practices in your field of interest or career.  
+- Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens  
+- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner   
+
+
+Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+
+Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
 
 <!--
@@ -68,14 +74,163 @@ You are strongly encouraged to complete them.
 - All resources will be provided online in the unit.  
 
 
-## Topic
 
-content
 
 <!--
 comment
 -->
 
+
+## Learning with Technology at TWU {-}
+
+
+
+
+
+
+## Digital Practices in Academia and the Workplace  
+
+In this topic we consider how changes in technology have and will continue to impact digital practices in the workplace.  Pause and consider the following questions:
+
+- How do professionals in your field of interest network online?  
+- How has technology  changed business practices in your field of interest or career?
+- What are the implications for learning and skills development in your future career precipitated by changes in digital technology?
+
+### Activity: The Future of Work {-}
+
+```{block2, type='reflect'}
+
+In this short video, [Ken Steele](http://eduvation.ca/bio/) from Eduvation speculates about the future of the labour market and the value of higher education in a digital age.
+
+Watch [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU)
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iY4UhfQefdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+What do you think? Share your thoughts by posting a comment on Discourse, for example:
+
+Higher ed is valuable because …
+- In a digital age …
+- I am confident that …
+- I am concerned about …
+
+```
+
+
+### Technology and Change {-}
+
+Throughout history, there are technologies which have influenced change in society. Consider for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
+
+
+### Activity: Newspaper and Music Industry in a Digital Age  {-}
+
+```{block2, type='reflect'}
+
+The readings which follow take a retrospective look at the impact of the Internet on the newspaper and music industries.
+
+Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/) sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101. 
+
+1. Read [Chapter 3](https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3) of Weller, M. (2011). [The Digital Scholar: How Technology is Changing Academic Practice](https://www.bloomsburycollections.com/monograph?docid=b-9781849666275). Bloomsbury Publishing PLC. (Direct [hypothes.is link](https://via.hypothes.is/https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3).)  
+2. Read: [How streaming saved the music industry](https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry), published by the Guardian. (Direct [hypothes.is link](https://via.hypothes.is/https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry).)  
+3. Read: [The future of newspapers in the digital age](https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312), published by Julien Sueres. (Direct [hypothes.is link](https://via.hypothes.is/https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312).)  
+
+```
+
+
+### Activity: Impact of Digital Technology on Business {-}
+
+```{block2, type='reflect'}
+
+Join the discussion on the impact of digital technology on business:
+
+1. Choose any business or work environment (for example, your current career or future career)  
+2.  Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.  
+3. State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:  
+ - Has the example contributed to a fundamental change in the way things were done, or is this a minor change?  
+ - Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.  
+
+Please “Like”, share and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LDRS101.
+
+```
+
+### Artificial Intelligence {-}
+
+Artificial intelligence (AI) is predicted to have a significant impact on society and business. Examples include, autonomous cars, computers understanding human speech and machine learning. Consider for instance, that computer chess games available for commercial desktop machines have the ability to beat accomplished chess players including grand masters.  And of course, Chat GPT.  
+
+In this section we introduce a few interesting examples of artificial intelligence to provide a sense of how sophisticated these technologies are becoming.
+
+First, let's define AI:
+
+> "The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages" ([Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095426960))
+
+> "The capacity of a computer to perform operations analogous to learning and decision making in humans, as by an expert system, a program for CAD or CAM, or a program for the perception and recognition of shapes in computer vision systems" ([Dictionary.com](https://www.dictionary.com/browse/artificial-intelligence))
+
+What is your experience with AI?  Have you used an AI tool, such as Grammerly or ChatGPT? How has this technology affected you as a student, and what effect do you think it has/will have on your chosen profession?  
+
+In the next activity, we'll explore some of these questions and concerns.
+
+
+### Activity: How Can I Use AI as a Student? {-}
+
+```{block2, type='reflect'}
+
+First, do a quick search online for AI tools for university students. 
+Examples:
+- [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students)- [The 10 Best AI Tools to Help Students Learn Faster](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/))
+
+Intrigued? Do you find any tech tools that you might use to help you with understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, etc.?
+
+Do any of these capabilites concern you?  Do you think they concern your professors or fellow students? 
+
+Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud).
+
+Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies.  For example, the University of Toronto's guidelines for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/)
+
+Here is one more article that discusses the pros and cons for English Learners using AI in their studies: [Perspectives of the Use of ChatGPT as a Tool for Online Education of English](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English)
+
+ 
+
+```
+
+### Jobs and Automation {-}
+
+In this section we consider the impact of automation on the future job market and the implications for education and training. Consider:
+
+- Will robots replace humans?  
+- What jobs are most at risk of being replaced by robots?  
+- What are the implications for learning in a digital age?  
+
+
+### Activity: Impact of Automation & AI in the Workplace {-}
+
+```{block2, type='reflect'}
+
+First, read [Collaborative Intelligence: Humans and AI Are Joining Forces](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces) from Harvard Business Review.
+
+Next, watch [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Pq-S557XQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Finally, read [The Potential of Collaborative Intelligence for Social Media and Online Communities] by [Marcin Frąckiewicz](https://ts2.space/en/author/marcin/).
+
+Consider your chosen field of study.  How can AI benefit your industry?  Are there any concerns regarding how AI might be used?
+
+Share you thoughts on AI by posting a comment on Discourse, for example:
+
+- AI will …  
+- I was surprised that AI …  
+- In <insert business> AI will …  
+
+```
 
 
 ### Activity:  {-}
@@ -181,6 +336,267 @@ You will choose one societal issue or antisocial behavior associated with the In
 comment
 -->
 
+## Societal Issues and the Internet
+
+In the final topic of this unit we introduce a number of societal issues and problematic online behaviours which have emerged in the digital world.
+
+This is by no means a comprehensive list or a thorough examination of the respective issues. The selected issues are provided as a stimulus to help you choose an issue for further investigation.
+
+### Activity: Quiz: Problematic Online Behaviours  {-}
+
+```{block2, type='reflect'}
+
+To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click on the options to find out more about the concept.
+
+[insert H5P quiz]
+
+Next, take the [Spot the Troll](https://spotthetroll.org/) quiz developed by the Clemson University Media Forensics Hub which uses images of real social media content.
+
+How did you do with the quizzes? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
+
+
+```
+
+
+### Activity: The True Cost of Free Websites  {-}
+
+```{block2, type='reflect'}
+
+Watch this Matrix parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product. (Do you think this is a valid and reliable source for the topic?) [The Terrifying Cost of "Free” Websites | Adam Ruins Everything](https://www.youtube.com/watch?v=5pFX2P7JLwA)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5pFX2P7JLwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+Select one or more stimulus resources below:
+
+Read: [Stop Saying ‘If You’re Not Paying, You’re The Product’](https://www.techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product/)
+Read: Krutka, D.G., Smits, R.M., and Willhelm, T.A. (2021) [Don’t Be Evil: Should We Use Google in Schools?](https://link.springer.com/article/10.1007/s11528-021-00599-4) TechTrends. Association for Educational Communications & Technology.
+
+**Corporate sponsored scientific research** 
+
+- Read the Wikipedia article on [funding bias](https://en.wikipedia.org/wiki/Funding_bias)  
+- Read: Lundh, A., Krogsbøll, L. T., & Gøtzsche, P. C. (2012). [Sponsors’ participation in conduct and reporting of industry trials: a descriptive study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146). Trials, 13(1), 146.  
+- Read the Wikipedia article on [ad blocking](https://en.wikipedia.org/wiki/Ad_blocking)  
+
+After viewing this resources, what do you think the cost of free websites is?
+
+Please share your thoughts on Discourse and/or use Hypothes.is to annotate and share your comments.
+
+```
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+Read the following case study:
+
+The [OERu](https://oeru.org/) is a charitable organisation which provides open online courses for free, using open educational resources which any educational institution can adopt, modify and reuse. There are costs that need to be covered to sustain the OERu: for example, the assembly of open online courses, hosting of the server and software infrastructure, staff to coordinate and support the initiative. etc. The OERu does not generate any revenue from corporate services, by, for example, allowing advertising on the OERu course sites for a share of the advertising revenue. Moreover, the OERu does not sell or generate revenue from personal data learners provide by using these free learning services, therefore users are not the product of this service.   
+
+**Discussion**
+
+Join the discussion on philanthropy and corporate advertising. The key question is how can non-profit organisations sustain free educational services for those who can’t afford traditional education provision?
+
+Consider the following issues:
+
+- As a learner, how would you feel if the course materials included corporate advertising? If advertising were to be supported, how would you feel if the OERu course sites required you to switch off any ad-blockers before gaining access to the course materials?  
+- Is it appropriate for publicly funded institutions and charities working in education to generate revenue from corporate advertising to support and sustain free online services? What are the risks and opportunities?    
+- Should education institutions and educational charities accept significant corporate sponsorship in return for profiling proprietary products?  
+- The OERu has recommended that learners use free blogging services to share their learning outputs. Many of these services carry advertising. How do you feel about using these services – being the product rather than consumer? Would it be better for OERu to recommend that learners use a paid service without advertising? How would this impact on learners who do not have sufficient funds to afford maintaining a domain of their own?  
+- Other?  
+
+Remember to tag your posts using the course code: LDRS101
+
+```
+
+### Net Neutrality {-}
+
+“	The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.	”
+—Time Berners-Lee
+
+
+The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access, it was paramount to design the web as an open system without a central locus of control. However, on the Internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
+
+
+
+### Activity: The Meaning of Net Neutrality  {-}
+
+```{block2, type='reflect'}
+
+Watch [Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p90McT24Z6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+This video was produced in 2015, where the main concern of net neutrality seemed to relate to companies controlling our access to information on the internet.  Notice around the 2 minute mark where opposing political parties are supported/blamed for their view on the topic.)
+
+Fast forward to 2023 where the concern is now government oversight in what information we see.
+
+This issue is highly controversial and politisized.  If you are interested in exploring the topic...which means encountering diverse views on the subject, then read on!  As we learn with technology in this course and in life, we need to critically evaluate the information available on the internet and whether there are any restrictions on information that would help us as citizens to make informed decisions.
+
+If interested, peruse the following resources.  ***Trigger alert!***  These perspective range from liberal to conservative points of view. This course aims to promote critical thinking of what we consume and produce online. Refer back to the video [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o).  Will encountering an opposing point of view contribute to your understanding of an issue?
+
+Let's dig in to some points on net neutrality!
+
+<details>
+<summary>**Facebook Zero: Am Attempt to Bring Access to All?**</summary>
+
+Consider the following case study:
+
+"[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero) is an application for mobile devices and business agreements with a number of companies to provide access to selected internet services without incurring data charges targeting markets where internet access may be less affordable. Facebook Zero is part of internet.org set up by Facebook and the basic websites than can be accessed for free without data charges are determined by the initiative."
+
+...and then some criticism:
+
+"Facebook Zero became controversial in some countries due to several issues such as net neutrality.[9] For instance, India's Telecom Regulatory Authority (TRAI) bans zero-rated services on account of "discriminatory tariffs for data services on the basis of content”.[13] A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a "little web that turns the user into a mostly passive consumer of mostly western corporate content”.[11]"
+
+Is the Internet Neutral in Canada?  
+Search online for various views on this topic.  Here are a couple to get you started:  
+[Bill C-18: The fallout over Google, Meta's plans to block news links in Canada](https://www.youtube.com/watch?v=W5YLvCEd1yE)
+
+
+[Debating Bill C-11—Internet Censorship for Canadians](https://www.youtube.com/watch?v=bmd4sASKFRw)
+
+
+search for "Canada's New Regulations for Podcasts"
+
+Is the Internet Neutral in America?
+
+[Net Neutrality is BACK! FCC tries to take away internet freedom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY) from Redacted w Clayton Morris
+
+
+Poilievre: Warned about Justin Trudeau's online censorship law | Latest News | WION
+
+
+Is the Internet Neutral in Africa?
+
+[Who really wins from Facebook's 'free internet' plan for Africa?](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-internet-plan-for-africa/)
+
+
+
+In addition to the challenges associated with net neutrality, think about how closed technologies can build walled gardens, for example:
+
+- The Apple iOS which is restricted to running pre-approved applications on the hardware purchased by the user.  
+- The Amazon Kindle line of e-readers intentionally designed to favour the Amazon commercial ecosystem.  
+- Video game consoles that typically require game developers to purchase a license to develop games for the platform frequently requiring approval from the platform prior to publishing the games.  
+
+
+
+Resources
+
+internet.org by Facebook
+India bans Facebook’s basics app to support net neutrality
+Facebook’s Internet.org Isn’t Going Over Well in India
+
+
+Share your thoughts on net neutrality by posting a comment on Discourse, for example:
+
+Net neutrality is important because …
+Net neutrality can / can’t coexist with internet.org because …
+Free basics is a good thing because …
+Free basics is problematic because …
+You must be logged in to post to WEnotes.
+
+
+
+</details>
+
+<details>
+<summary>**title of article**</summary>
+
+text
+
+</details>
+
+<details>
+<summary>**title of article**</summary>
+
+text
+
+</details>
+
+<details>
+<summary>**title of article**</summary>
+
+text
+
+
+</details>
+
+
+<details>
+<summary>**Atitle of article**</summary>
+
+text
+
+
+</details>
+
+
+
+
+```
+
+
+- 
+
+```
+
+### Activity: Is there Net Neutrality Today?  {-}
+
+```{block2, type='reflect'}
+
+
+
+
+```
+
+
+### Activity: Forum: Philanthropy and corporate advertising  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity:   {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity:   {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity:   {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Activity:   {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
 
 
 ### Activity:  {-}
@@ -196,6 +612,8 @@ After completing the activities above, answer the following questions:
 - ...
 
 ```
+
+## Digital Wisdom
 
 To conclude our course, we will examine another perspective on ethics and technology.  This may tap into the foundational lens by which you approach many ethical issues, so take a moment to reflect on the following:
 
