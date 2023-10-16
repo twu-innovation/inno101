@@ -1883,11 +1883,11 @@ Meet [Autumm Caines](http://autummcaines.com/), associate director of academic t
 Listen to the first 15–20 minutes of this Teaching in HigherEd podcast on Digital citizenship. The podcast introduces aspects of digital citizenship and the learner experience in starting out with engagement with social media.
 
 
-<iframe title="Digital Citizenship" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.https://content.blubrry.com/teaching_in_higher_ed_faculty/tihe115.mp3"></iframe>
+Click the image below to visit the episode webpage.
 
-
-
+[![image](assets/u5/tihe115-1.jpg)](https://teachinginhighered.com/115)
 ```
+
 ### Guiding framework {-}
 
 Autumm Caines provides a useful framework for thinking about digital citizenship
