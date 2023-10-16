@@ -1,9 +1,9 @@
-# Sharing your Knowledge
+# Sharing Your Knowledge
 
 
 ## Overview {-}
 
-...
+Congratulations! You've made it to the final unit in our course, Learning with Technology.  
 
 
 ### Topics {-}
@@ -25,7 +25,6 @@ When you have completed this unit, you should be able to:
 - Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner   
 
 
-Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 
 Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
@@ -81,7 +80,7 @@ comment
 -->
 
 
-## Learning with Technology at TWU {-}
+## Learning with Technology at TWU 
 
 
 
@@ -612,7 +611,6 @@ After completing the activities above, answer the following questions:
 - ...
 
 ```
-
 ## Digital Wisdom
 
 To conclude our course, we will examine another perspective on ethics and technology.  This may tap into the foundational lens by which you approach many ethical issues, so take a moment to reflect on the following:
@@ -639,6 +637,17 @@ Here are some quotes that resonate with me.  Feel free to highlight your quotes 
 
 > "Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations." (para 31)
 
+**Questions to Consider:
+
+Answer the following questions in your personal journal:  
+
+- How can you, as a TWU student, flourish in this digital age?  
+- How do the tools you use shape you? How do you use them wisely?  
+- How should we view and relate to others online - in particular those whom we disagree with?   
+- How can you cultivate inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?  
+- And finally, how can we use technology in a way that aligns with our intentions and values?  
+ 
+
 ```
 
 
@@ -649,7 +658,12 @@ In this unit, you have had the opportunity to learn about ...
 
 Finally, we've presented the idea of digital wisdom.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before your evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relate to you and what you can offer to serve others and glorify God.   
 
+As you complete this course and continue on your learning journey we hope you have aquired skills that will prepare you for your academic studies and professional career.  
 
+... tools are more prepared for (and moticvated to) be an engaged digital global citizen.
+
+Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.  
+Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and 
 
 > "The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life."
 
