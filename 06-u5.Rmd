@@ -346,6 +346,7 @@ In this challenge you are asked to build or update your professional online biog
 ```
 
 
+
 ## Online Communities 
 
 In this section we explore the topic of online communities and how we can engage in social media to enhance our learning.
@@ -551,7 +552,6 @@ How might you connect, thrive, and serve through your connections and contributi
 
 What experiences have you had so far in connecting with your peers and getting to know the TWU community?  If you have not participated in the engagement opportunities presented in this course (Discourse, WordPress blog), take the time now to connect!
 
-Note that Foundations 101: The Liberal Arts Journey guides you in how to make meaningful connections at Trinity, including strengthening relationship skills and discovering ways one can serve and lead at TWU.  
 
 In your Reflective Journal (Obsidian) jot down your responses to the following questions:
 
@@ -577,9 +577,15 @@ In this unit, you have had the opportunity to learn about what it means to be a 
 
 After completing this unit, including the learning activities, you are asked to prepare a learning reflection based on the knowledge you have gained on the concept of digital citizenship. 
 
-This learning challenge is based on the learning activities in this unit. You are encouraged to complete this assignment on your blog.  Note that you can control the privacy settings of each post (e.g. so only your instructor can see it, or for the TWU community, or open access for all). 
+This learning challenge is based on the learning activities in Units 4 and 5. You are encouraged to complete this assignment on your blog.  Note that you can control the privacy settings of each post (e.g. so only your instructor can see it, or for the TWU community, or open access for all). 
 
 Prepare a learning reflection of about 500–600 words reflecting on the development of your understanding of digital citizenship.
+
+Task 1: Develop a positive online identity appropriate for a professional or formal learning community
+Task 2: Review a digital online tool, including considerations for security, privacy and learning in a digital age
+Task 3: Produce an editorial documenting a contemporary societal issue on the internet and its implications for interpersonal communications
+Task 4: Assess your learning as a reflective digital online learner
+
 
 In your Reflective post, provide the following:  
 - your personal description of digital citizenship;  
@@ -587,6 +593,8 @@ In your Reflective post, provide the following:
 - list of university-level study examples of the elements of digital citizenship;  
 - a summary of the primary rights and responsibilities for learning in a digital age;  
 
+
+(need to add more)
 To help you structure your writing, see the following video on [Reflective Writing](https://www.youtube.com/watch?v=SntBj0FIApw)
 
 
