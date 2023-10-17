@@ -1,19 +1,17 @@
 # Sharing Your Knowledge
 
-
 ## Overview {-}
 
 Congratulations! You've made it to the final unit in our course, Learning with Technology.  
-
 
 ### Topics {-}
 
 This unit is divided into the following topics:
 
-1. Learning with Technology at TWU 
-2. Digital Practices in the Workplace
-3. Societal Issues and the Internet
-4. Digital Wisdom
+1. Learning with Technology at TWU  
+2. Digital Practices in the Workplace  
+3. Societal Issues and the Internet  
+4. Digital Wisdom  
 
 
 ### Learning Outcomes {-}
@@ -22,9 +20,7 @@ When you have completed this unit, you should be able to:
 
 - Discuss how technology has changed business practices in your field of interest or career.  
 - Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens  
-- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner   
-
-
+- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner  
 
 Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
@@ -43,7 +39,6 @@ Course Learning Outcomes related to this unit:
 ### Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
 
 ```{block2, type='reflect'}
 
@@ -92,16 +87,16 @@ comment
 In this topic we consider how changes in technology have and will continue to impact digital practices in the workplace.  Pause and consider the following questions:
 
 - How do professionals in your field of interest network online?  
-- How has technology  changed business practices in your field of interest or career?
-- What are the implications for learning and skills development in your future career precipitated by changes in digital technology?
+- How has technology  changed business practices in your field of interest or career?  
+- What are the implications for learning and skills development in your future career precipitated by changes in digital technology?  
 
 ### Activity: The Future of Work {-}
 
 ```{block2, type='reflect'}
 
-In this short video, [Ken Steele](http://eduvation.ca/bio/) from Eduvation speculates about the future of the labour market and the value of higher education in a digital age.
+In this short video, [Ken Steele](http://eduvation.ca/bio/){target="_blank"} from Eduvation speculates about the future of the labour market and the value of higher education in a digital age.
 
-Watch [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU)
+Watch [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"}
 
 
 <div class ="video-container">
@@ -113,10 +108,10 @@ Watch [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://
 
 What do you think? Share your thoughts by posting a comment on Discourse, for example:
 
-Higher ed is valuable because …
-- In a digital age …
-- I am confident that …
-- I am concerned about …
+Higher ed is valuable because ...
+- In a digital age ...
+- I am confident that ...
+- I am concerned about ...
 
 ```
 
@@ -132,11 +127,11 @@ Throughout history, there are technologies which have influenced change in socie
 
 The readings which follow take a retrospective look at the impact of the Internet on the newspaper and music industries.
 
-Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/) sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101. 
+Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"} sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101. 
 
-1. Read [Chapter 3](https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3) of Weller, M. (2011). [The Digital Scholar: How Technology is Changing Academic Practice](https://www.bloomsburycollections.com/monograph?docid=b-9781849666275). Bloomsbury Publishing PLC. (Direct [hypothes.is link](https://via.hypothes.is/https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3).)  
-2. Read: [How streaming saved the music industry](https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry), published by the Guardian. (Direct [hypothes.is link](https://via.hypothes.is/https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry).)  
-3. Read: [The future of newspapers in the digital age](https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312), published by Julien Sueres. (Direct [hypothes.is link](https://via.hypothes.is/https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312).)  
+1. Read [Chapter 3](https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3){target="_blank"} of Weller, M. (2011). [The Digital Scholar: How Technology is Changing Academic Practice](https://www.bloomsburycollections.com/monograph?docid=b-9781849666275){target="_blank"}. Bloomsbury Publishing PLC. (Direct [hypothes.is link](https://via.hypothes.is/https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3){target="_blank"}.)  
+2. Read: [How streaming saved the music industry](https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry){target="_blank"}, published by the Guardian. (Direct [hypothes.is link](https://via.hypothes.is/https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry){target="_blank"}.)  
+3. Read: [The future of newspapers in the digital age](https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312){target="_blank"}, published by Julien Sueres. (Direct [hypothes.is link](https://via.hypothes.is/https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312){target="_blank"}.)  
 
 ```
 
@@ -150,8 +145,8 @@ Join the discussion on the impact of digital technology on business:
 1. Choose any business or work environment (for example, your current career or future career)  
 2.  Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.  
 3. State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:  
- - Has the example contributed to a fundamental change in the way things were done, or is this a minor change?  
- - Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.  
+   - Has the example contributed to a fundamental change in the way things were done, or is this a minor change?  
+   - Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.  
 
 Please “Like”, share and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LDRS101.
 
@@ -165,14 +160,13 @@ In this section we introduce a few interesting examples of artificial intelligen
 
 First, let's define AI:
 
-> "The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages" ([Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095426960))
+> "The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages" ([Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095426960){target="_blank"})
 
-> "The capacity of a computer to perform operations analogous to learning and decision making in humans, as by an expert system, a program for CAD or CAM, or a program for the perception and recognition of shapes in computer vision systems" ([Dictionary.com](https://www.dictionary.com/browse/artificial-intelligence))
+> "The capacity of a computer to perform operations analogous to learning and decision making in humans, as by an expert system, a program for CAD or CAM, or a program for the perception and recognition of shapes in computer vision systems" ([Dictionary.com](https://www.dictionary.com/browse/artificial-intelligence){target="_blank"})
 
 What is your experience with AI?  Have you used an AI tool, such as Grammerly or ChatGPT? How has this technology affected you as a student, and what effect do you think it has/will have on your chosen profession?  
 
 In the next activity, we'll explore some of these questions and concerns.
-
 
 ### Activity: How Can I Use AI as a Student? {-}
 
@@ -180,17 +174,18 @@ In the next activity, we'll explore some of these questions and concerns.
 
 First, do a quick search online for AI tools for university students. 
 Examples:
-- [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students)- [The 10 Best AI Tools to Help Students Learn Faster](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/))
+- [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"}  
+- [The 10 Best AI Tools to Help Students Learn Faster](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"}  
 
 Intrigued? Do you find any tech tools that you might use to help you with understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, etc.?
 
 Do any of these capabilites concern you?  Do you think they concern your professors or fellow students? 
 
-Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud).
+Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"}.
 
-Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies.  For example, the University of Toronto's guidelines for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/)
+Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies.  For example, the University of Toronto's guidelines for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"}
 
-Here is one more article that discusses the pros and cons for English Learners using AI in their studies: [Perspectives of the Use of ChatGPT as a Tool for Online Education of English](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English)
+Here is one more article that discusses the pros and cons for English Learners using AI in their studies: [Perspectives of the Use of ChatGPT as a Tool for Online Education of English](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English){target="_blank"}
 
  
 
@@ -204,14 +199,13 @@ In this section we consider the impact of automation on the future job market an
 - What jobs are most at risk of being replaced by robots?  
 - What are the implications for learning in a digital age?  
 
-
 ### Activity: Impact of Automation & AI in the Workplace {-}
 
 ```{block2, type='reflect'}
 
-First, read [Collaborative Intelligence: Humans and AI Are Joining Forces](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces) from Harvard Business Review.
+First, read [Collaborative Intelligence: Humans and AI Are Joining Forces](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} from Harvard Business Review.
 
-Next, watch [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+Next, watch [*Humans Need Not Apply*](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"}
 
 <div class ="video-container">
 
@@ -219,15 +213,15 @@ Next, watch [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 
 </div>
 
-Finally, read [The Potential of Collaborative Intelligence for Social Media and Online Communities] by [Marcin Frąckiewicz](https://ts2.space/en/author/marcin/).
+Finally, read [The Potential of Collaborative Intelligence for Social Media and Online Communities] by [Marcin Frąckiewicz](https://ts2.space/en/author/marcin/){target="_blank"}.
 
 Consider your chosen field of study.  How can AI benefit your industry?  Are there any concerns regarding how AI might be used?
 
 Share you thoughts on AI by posting a comment on Discourse, for example:
 
-- AI will …  
-- I was surprised that AI …  
-- In <insert business> AI will …  
+- AI will ...  
+- I was surprised that AI ...  
+- In <insert business> AI will ...  
 
 ```
 
@@ -272,61 +266,72 @@ After completing the activities above, answer the following questions:
 
 ## Topic
 
-Digital Rights Management
+**Digital Rights Management**
+
 In a digital world, you may not have the full ownership rights you expect, or are accustomed to receiving in the physical world, when you buy digital content, resources, and equipment. In this section we explore digital rights management, geoblocking, and other examples. We highlight the importance users have to study the terms of reference and licenses when using proprietary software and buying products that rely on digital technology.
 
-Mini Challenge Summary
-Summary: Explore and discuss the impact of digital rights management. Time: 30–45 minutes. Consult the suggested resources and participate in the digital rights management debate.
+**Mini Challenge Summary**
 
-John Deere 9530 c.jpg
-Digital Rights Management (DRM)
-Digital rights management (DRM) describes the practice of imposing technical restrictions (hardware or software) to restrict what users can do with the digital content or operation of their equipment. 
+**Summary:** Explore and discuss the impact of digital rights management. Time: 30–45 minutes. Consult the suggested resources and participate in the digital rights management debate.
 
-Examples include:
+<span class="prote">John Deere 9530 c.jpg</span>
 
-Film studios that embed software on their DVDs that restricts the number of copies a legal user can make to two.
-Computer games that restrict the number of devices on which the game can be installed requiring server authentication to keep track of the number of installations.
-e-Book publishers who restrict the ability to copy or print the materials.
-Reading
-Layton, J. (Jan. 3, 2006). How Digital Rights Management Works. Retrieved July 4, 2017. (Click on the next button to progress the sub-pages of the article.)
-Geoblocking
-Geoblocking is a form of DRM which restricts access to content based on geographical location; for example, restrictions associated with media rights for sport coverage or films in different parts of the world because copyright holders sell broadcast and distribution rights to different companies around the world. Frequently, prices for streamed services of the same content will differ from country to country.
+**Digital Rights Management (DRM):** Digital rights management (DRM) describes the practice of imposing technical restrictions (hardware or software) to restrict what users can do with the digital content or operation of their equipment. 
+
+**Examples include:**
+
+- Film studios that embed software on their DVDs that restricts the number of copies a legal user can make to two.  
+- Computer games that restrict the number of devices on which the game can be installed requiring server authentication to keep track of the number of installations.  
+- e-Book publishers who restrict the ability to copy or print the materials.
+
+**Reading**
+
+- Layton, J. (Jan. 3, 2006). How Digital Rights Management Works. Retrieved July 4, 2017. (Click on the next button to progress the sub-pages of the article.)
+
+**Geoblocking:** Geoblocking is a form of DRM which restricts access to content based on geographical location; for example, restrictions associated with media rights for sport coverage or films in different parts of the world because copyright holders sell broadcast and distribution rights to different companies around the world. Frequently, prices for streamed services of the same content will differ from country to country.
 
 In another example, an individual who buys DVD films in one country and then emigrates to another country, may find that the playback of the legally purchased content is restricted by technology means in the new country of residence.
 
-Reading
+**Reading**
+
 Geoblocking from Wikipedia;
+
 EU lawmakers Include Spotify and iTunes in Geoblocking Ban from Reuters.
+
 Case study - The Right to Repair
+
 Do farmers have the right to repair their own tractors? Not necessarily, for example, John Deere’s proprietary software used to operate the vehicle does not allow “owners” to repair systems themselves and in effect they only have an implied license for life to operate the vehicle.
 
+**Readings**
 
-
-Readings
 Choose one or two of the following readings (feel free to annotate using Hypothes.is and remember to tag your posts using the course code: lida102):
 
-We Can’t Let John Deere Destroy the Very Idea of Ownership from Wired.
-Why American Farmers are Hacking their own Tractors from the Guardian
-A Right to Repair: Why Nebraska Farmers are Taking on John Deere and Apple from the Guardian.
-The Fight for the “Right to Repair” from Smithsonian.com.
-Outputs
-Digital Rights Management Debate
-Seeing both sides of a debate gives you the opportunity to better understand the issues. In this discussion, choose one of the questions listed below and post to the DRM debate. Your post should include:
+- We Can’t Let John Deere Destroy the Very Idea of Ownership from Wired.
+- Why American Farmers are Hacking their own Tractors from the Guardian  
+- A Right to Repair: Why Nebraska Farmers are Taking on John Deere and Apple from the Guardian.  
+- The Fight for the “Right to Repair” from Smithsonian.com.  
+- Outputs  
 
-A sentence summarizing the issue.
-The most important reason, in your opinion, why DRM is appropriate in a digital world.
-The most important reason, in your opinion, why DRM is not appropriate in a digital world.
-Optional Questions to Consider
-Do you have personal experience of a DRM issue? Summarize the example and present both sides of the issue.
-Do you have personal experience of a geoblocking issue? Summarize the example and present both sides of the issue.
-Should owners of equipment have the right to repair? Summarize the example and present both sides of the issue.
+**Digital Rights Management Debate**
 
+- Seeing both sides of a debate gives you the opportunity to better understand the issues. In this discussion, choose one of  
 
+**the questions listed below and post to the DRM debate. Your post should include:**
 
+- A sentence summarizing the issue.  
+- The most important reason, in your opinion, why DRM is appropriate in a digital world.   
+- The most important reason, in your opinion, why DRM is not appropriate in a digital world.  
 
+<span class="blockhead">Questions to Consider (optional)</span>
 
-Societal Issues and the Internet
-Abstract crowd.jpg
+- Do you have personal experience of a DRM issue? Summarize the example and present both sides of the issue.  
+- Do you have personal experience of a geoblocking issue? Summarize the example and present both sides of the issue.  
+- Should owners of equipment have the right to repair? Summarize the example and present both sides of the issue.
+
+**Societal Issues and the Internet**
+
+<span class="prote">Abstract crowd.jpg</span>
+
 In this subunit, we introduce a number of societal issues and problematic online behaviors that have emerged in the digital world. Our list is not comprehensive and does not provide a thorough examination of the issues. Here, we encourage you to choose an issue for further investigation.
 
 You will choose one societal issue or antisocial behavior associated with the Internet that you would like to investigate further and publish as an editorial in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
@@ -347,13 +352,12 @@ This is by no means a comprehensive list or a thorough examination of the respec
 
 To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click on the options to find out more about the concept.
 
-<p>
-    <iframe scrolling="yes" src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=575" allowfullscreen="allowfullscreen" width="100%" height="1000" frameborder="0" title="INNO 101 Unit 6.5  Activity: Quiz: Problematic Online Behaviours"></iframe>
-</p>
+<iframe scrolling="yes" src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=575" allowfullscreen="allowfullscreen" width="100%" height="1000" frameborder="0" title="INNO 101 Unit 6.5  Activity: Quiz: Problematic Online Behaviours"></iframe>
+
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-Next, take the [Spot the Troll](https://spotthetroll.org/) quiz developed by the Clemson University Media Forensics Hub which uses images of real social media content.
+Next, take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz developed by the Clemson University Media Forensics Hub which uses images of real social media content.
 
 How did you do with the quizzes? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
 
@@ -365,7 +369,7 @@ How did you do with the quizzes? Have you encountered any of these behaviours on
 
 ```{block2, type='reflect'}
 
-Watch this Matrix parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product. (Do you think this is a valid and reliable source for the topic?) [The Terrifying Cost of "Free” Websites | Adam Ruins Everything](https://www.youtube.com/watch?v=5pFX2P7JLwA)
+Watch this Matrix parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product. (Do you think this is a valid and reliable source for the topic?) [The Terrifying Cost of "Free” Websites | Adam Ruins Everything](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"}
 
 <div class ="video-container">
 
@@ -374,16 +378,16 @@ Watch this Matrix parody, a comedy skit published by CollegeHumour, depicting th
 </div>
 
 
-Select one or more stimulus resources below:
+**Select one or more stimulus resources below:**
 
-Read: [Stop Saying ‘If You’re Not Paying, You’re The Product’](https://www.techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product/)
-Read: Krutka, D.G., Smits, R.M., and Willhelm, T.A. (2021) [Don’t Be Evil: Should We Use Google in Schools?](https://link.springer.com/article/10.1007/s11528-021-00599-4) TechTrends. Association for Educational Communications & Technology.
+Read: [Stop Saying ‘If You’re Not Paying, You’re The Product’](https://www.techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product/){target="_blank"}
+Read: Krutka, D.G., Smits, R.M., and Willhelm, T.A. (2021) [Don’t Be Evil: Should We Use Google in Schools?](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} TechTrends. Association for Educational Communications & Technology.
 
 **Corporate sponsored scientific research** 
 
-- Read the Wikipedia article on [funding bias](https://en.wikipedia.org/wiki/Funding_bias)  
-- Read: Lundh, A., Krogsbøll, L. T., & Gøtzsche, P. C. (2012). [Sponsors’ participation in conduct and reporting of industry trials: a descriptive study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146). Trials, 13(1), 146.  
-- Read the Wikipedia article on [ad blocking](https://en.wikipedia.org/wiki/Ad_blocking)  
+- Read the Wikipedia article on [funding bias](https://en.wikipedia.org/wiki/Funding_bias){target="_blank"}  
+- Read: Lundh, A., Krogsbøll, L. T., & Gøtzsche, P. C. (2012). [Sponsors’ participation in conduct and reporting of industry trials: a descriptive study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146){target="_blank"}. Trials, 13(1), 146.  
+- Read the Wikipedia article on [ad blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"}  
 
 After viewing this resources, what do you think the cost of free websites is?
 
@@ -397,7 +401,7 @@ Please share your thoughts on Discourse and/or use Hypothes.is to annotate and s
 
 Read the following case study:
 
-The [OERu](https://oeru.org/) is a charitable organisation which provides open online courses for free, using open educational resources which any educational institution can adopt, modify and reuse. There are costs that need to be covered to sustain the OERu: for example, the assembly of open online courses, hosting of the server and software infrastructure, staff to coordinate and support the initiative. etc. The OERu does not generate any revenue from corporate services, by, for example, allowing advertising on the OERu course sites for a share of the advertising revenue. Moreover, the OERu does not sell or generate revenue from personal data learners provide by using these free learning services, therefore users are not the product of this service.   
+The [OERu](https://oeru.org/){target="_blank"} is a charitable organisation which provides open online courses for free, using open educational resources which any educational institution can adopt, modify and reuse. There are costs that need to be covered to sustain the OERu: for example, the assembly of open online courses, hosting of the server and software infrastructure, staff to coordinate and support the initiative. etc. The OERu does not generate any revenue from corporate services, by, for example, allowing advertising on the OERu course sites for a share of the advertising revenue. Moreover, the OERu does not sell or generate revenue from personal data learners provide by using these free learning services, therefore users are not the product of this service.   
 
 **Discussion**
 
@@ -417,19 +421,18 @@ Remember to tag your posts using the course code: LDRS101
 
 ### Net Neutrality {-}
 
-“	The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.	”
-—Time Berners-Lee
-
+> *“The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.”*
+>
+>***— Time Berners-Lee***
 
 The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access, it was paramount to design the web as an open system without a central locus of control. However, on the Internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
-
 
 
 ### Activity: The Meaning of Net Neutrality  {-}
 
 ```{block2, type='reflect'}
 
-Watch [Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w)
+Watch [Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"}
 
 <div class ="video-container">
 
@@ -443,7 +446,7 @@ Fast forward to 2023 where the concern is now government oversight in what infor
 
 This issue is highly controversial and politisized.  If you are interested in exploring the topic...which means encountering diverse views on the subject, then read on!  As we learn with technology in this course and in life, we need to critically evaluate the information available on the internet and whether there are any restrictions on information that would help us as citizens to make informed decisions.
 
-If interested, peruse the following resources.  ***Trigger alert!***  These perspective range from liberal to conservative points of view. This course aims to promote critical thinking of what we consume and produce online. Refer back to the video [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o).  Will encountering an opposing point of view contribute to your understanding of an issue?
+If interested, peruse the following resources.  ***Trigger alert!***  These perspective range from liberal to conservative points of view. This course aims to promote critical thinking of what we consume and produce online. Refer back to the video [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"}.  Will encountering an opposing point of view contribute to your understanding of an issue?
 
 Let's dig in to some points on net neutrality!
 
@@ -452,18 +455,19 @@ Let's dig in to some points on net neutrality!
 
 Consider the following case study:
 
-"[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero) is an application for mobile devices and business agreements with a number of companies to provide access to selected internet services without incurring data charges targeting markets where internet access may be less affordable. Facebook Zero is part of internet.org set up by Facebook and the basic websites than can be accessed for free without data charges are determined by the initiative."
+"[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero){target="_blank"} is an application for mobile devices and business agreements with a number of companies to provide access to selected internet services without incurring data charges targeting markets where internet access may be less affordable. Facebook Zero is part of internet.org set up by Facebook and the basic websites than can be accessed for free without data charges are determined by the initiative."
 
 ...and then some criticism:
 
-"Facebook Zero became controversial in some countries due to several issues such as net neutrality.[9] For instance, India's Telecom Regulatory Authority (TRAI) bans zero-rated services on account of "discriminatory tariffs for data services on the basis of content”.[13] A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a "little web that turns the user into a mostly passive consumer of mostly western corporate content”.[11]"
+> "Facebook Zero became controversial in some countries due to several issues such as net neutrality.[9] For instance, India's Telecom Regulatory Authority (TRAI) bans zero-rated services on account of "discriminatory tariffs for data services on the basis of content”.[13] A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a "little web that turns the user into a mostly passive consumer of mostly western corporate content”.[11]"
 
 Is the Internet Neutral in Canada?  
+
 Search online for various views on this topic.  Here are a couple to get you started:  
 [Bill C-18: The fallout over Google, Meta's plans to block news links in Canada](https://www.youtube.com/watch?v=W5YLvCEd1yE)
 
 
-[Debating Bill C-11—Internet Censorship for Canadians](https://www.youtube.com/watch?v=bmd4sASKFRw)
+[Debating Bill C-11—Internet Censorship for Canadians](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"}
 
 
 search for "Canada's New Regulations for Podcasts"
@@ -478,7 +482,7 @@ Poilievre: Warned about Justin Trudeau's online censorship law | Latest News | W
 
 Is the Internet Neutral in Africa?
 
-[Who really wins from Facebook's 'free internet' plan for Africa?](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-internet-plan-for-africa/)
+[Who really wins from Facebook's 'free internet' plan for Africa?](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-internet-plan-for-africa/){target="_blank"}
 
 
 
@@ -492,17 +496,18 @@ In addition to the challenges associated with net neutrality, think about how cl
 
 Resources
 
-internet.org by Facebook
-India bans Facebook’s basics app to support net neutrality
-Facebook’s Internet.org Isn’t Going Over Well in India
+- internet.org by Facebook  
+- India bans Facebook’s basics app to support net neutrality  
+- Facebook’s Internet.org Isn’t Going Over Well in India  
 
 
 Share your thoughts on net neutrality by posting a comment on Discourse, for example:
 
-Net neutrality is important because …
-Net neutrality can / can’t coexist with internet.org because …
-Free basics is a good thing because …
-Free basics is problematic because …
+- Net neutrality is important because ...  
+- Net neutrality can / can’t coexist with internet.org because ...  
+- Free basics is a good thing because ...  
+- Free basics is problematic because ...  
+
 You must be logged in to post to WEnotes.
 
 
@@ -533,20 +538,13 @@ text
 
 
 <details>
-<summary>**Atitle of article**</summary>
+<summary>**title of article**</summary>
 
 text
 
 
 </details>
 
-
-
-
-```
-
-
-- 
 
 ```
 
@@ -615,13 +613,14 @@ After completing the activities above, answer the following questions:
 - ...
 
 ```
+
 ## Digital Wisdom
 
 To conclude our course, we will examine another perspective on ethics and technology.  This may tap into the foundational lens by which you approach many ethical issues, so take a moment to reflect on the following:
 
-- What role does technology play in my social, academic, and spiritual life?
-- What guidance does the Bible have on our use of technology today?
-- How will my use of technology support my social, academic, and spiritual goals? 
+- What role does technology play in my social, academic, and spiritual life?  
+- What guidance does the Bible have on our use of technology today?  
+- How will my use of technology support my social, academic, and spiritual goals?  
   
 ### Activity: Digital Wisdom  {-}
 
@@ -641,7 +640,7 @@ Here are some quotes that resonate with me.  Feel free to highlight your quotes 
 
 > "Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations." (para 31)
 
-**Questions to Consider:
+<span class="blockhead">Questions to Consider</span>
 
 Answer the following questions in your personal journal:  
 
@@ -660,7 +659,7 @@ Answer the following questions in your personal journal:
 
 In this unit, you have had the opportunity to learn about ...
 
-Finally, we've presented the idea of digital wisdom.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before your evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relate to you and what you can offer to serve others and glorify God.   
+Finally, we've presented the idea of digital wisdom.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before your evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relate to you and what you can offer to serve others and glorify God.
 
 As you complete this course and continue on your learning journey we hope you have aquired skills that will prepare you for your academic studies and professional career.  
 

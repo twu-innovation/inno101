@@ -11,8 +11,8 @@ See Definition \@ref(def:diglit)
 
 This unit is divided into the following topics:
 
-1. Finding & Selecting Resources
-2. Citation Management
+1. Finding & Selecting Resources  
+2. Citation Management  
   
 
 ### Learning Outcomes {-}

@@ -83,11 +83,9 @@ See the Assessment section in Moodle for assignment details and due dates.
 
 Before attempting to define *digital citizenship*, let's consider the concept of citizenship in its own right. In its simplest form, citizenship refers to the rights, privileges and duties of being a national citizen. However, the concept of being a good citizen encompasses much more, particularly if you think about full engagement as a member of society.  
 
->“Citizenship is a status that is bestowed on those who are full members of a community.”  
->—T.H. Marshall
-
-
-
+>*“Citizenship is a status that is bestowed on those who are full members of a community.”*  
+>
+>**-—T.H. Marshall**
 
 ### Activity: Reflecting on Digital Citizenship {-}
 
@@ -98,9 +96,9 @@ If good citizenship means to fulfill your role as citizen, can you think of five
 
 - In a digital world, is loyalty to your country a necessary component of the definition of good citizenship?  
 - Is education a pre-requisite for good citizenship?  
-- In a digital world, what does it mean to be a global citizen? Read the Wikipedia article on [Global Citizenship Education](https://en.wikipedia.org/wiki/Global_citizenship_education) where learners engage in solving real world problems.  
+- In a digital world, what does it mean to be a global citizen? Read the Wikipedia article on [Global Citizenship Education](https://en.wikipedia.org/wiki/Global_citizenship_education){target="_blank"} where learners engage in solving real world problems.  
 -  Has the concept of good citizenship changed over time? In what ways?  
-- Does citizenship require active community engagement? Read this post by Kristen Mattson, director of a high school library media center: [John Dewey Would Hate Your Digital Citizenship Curriculum](https://drkmattson.wordpress.com/2016/08/03/john-dewey-would-hate-your-digital-citizenship-curriculum/).  
+- Does citizenship require active community engagement? Read this post by Kristen Mattson, director of a high school library media center: [John Dewey Would Hate Your Digital Citizenship Curriculum](https://drkmattson.wordpress.com/2016/08/03/john-dewey-would-hate-your-digital-citizenship-curriculum/){target="_blank"}.  
 - Why has the concept *digital* been linked with *citizenship* or should we drop the word *digital* and just talk about *good citizenship*?  
 
 Write your thoughts in your Reflective Journal (using Obsidian or WordPress).
@@ -122,24 +120,21 @@ If you conduct a general search for “digital citizenship” you will find many
 
 In this activity you will listen to a podcast that focuses on the people dimension of digital citizenship.
 
-Meet [Autumm Caines](http://autummcaines.com/), associate director of academic technology from the Center for Excellence in Learning and Teaching at Capital University in a podcast with Bonni Stachowiak.
+Meet [Autumm Caines](http://autummcaines.com/){target="_blank"}, associate director of academic technology from the Center for Excellence in Learning and Teaching at Capital University in a podcast with Bonni Stachowiak.
 
 Listen to the first 15–20 minutes of this Teaching in HigherEd podcast on Digital citizenship. The podcast introduces aspects of digital citizenship and the learner experience in starting out with engagement with social media.
 
+[Listen: *Digital Citizenship - with Autumm Caines*](https://teachinginhighered.com/115){target="_blank"}
 
-Click the image below to visit the episode webpage.
-
-[![image](assets/u5/tihe115-1.jpg)](https://teachinginhighered.com/115)
 ```
 
 ### Guiding framework {-}
 
 Autumm Caines provides a useful framework for thinking about digital citizenship
 
-1. *Digital identities* that is who you are online including the identities of others (individuals and organisations).   
+1. *Digital identities* that is who you are online including the identities of others (individuals and organisations).  
 1. *Digital environments*, specifically the tools and online spaces we use to interact with each other. (For example Facebook, Discourse, X, Blogs, Forums etc.).  
 1. *Interactions* between these identities and environments.  
-
 
 ![The model for digital citizenship from the work of Autumm Cainnes](assets/u5/Digital_citizenship_Venn.png)
 
@@ -154,16 +149,18 @@ The purpose of this activity is to explore the elements of digital citizenship w
 Read through the following resources in order to refine your own definition of what it means to be a Digital Citizen.
 
 **Step 1: Online Search:**  
-- Read the introductory section of the Wikipedia article: [Digital citizen](https://en.wikipedia.org/wiki/Digital_citizen)  
+
+- Read the introductory section of the Wikipedia article: [Digital citizen](https://en.wikipedia.org/wiki/Digital_citizen){target="_blank"}  
 - Conduct a general search for “definition of digital citizen.” Choose the two best definitions and add these to the library of your citation management tool (Hypothes.is / Zotero / Obsidian), or keep a record for citation purposes.  
 - Try and locate one recent scholarly definition for “digital citizen.” Record the reference for citation purposes. How recent is the reference?  
 
 **Step 2: Social Media Search:** 
+
 - Explore the recent tweets (on X or whichever social media app you prefer) using the following hashtags: #digitalcitizenship, #digiciz, and #digicit.  Compile a list of elements relating to the concept of digital citizenship.  
 
 **Step 3: Read & Comment:** 
 - Login to hypothes.is.  
-- Read [Nine elements of digital citizenship](https://www.digitalcitizenship.net/nine-elements.html) by Mike Ribble  
+- Read [Nine elements of digital citizenship](https://www.digitalcitizenship.net/nine-elements.html){target="_blank"} by Mike Ribble  
 - Feel free to add or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: #LDRS101 (This is needed to harvest posts for the course feed.)  
 
 
@@ -191,18 +188,19 @@ Share a reflection on this activiy by posting either in your blog or on the Disc
 
 For example:
 
-- I didn’t realize the ... is part of digital citizenship because …  
-- ... is not particularly relevant for university learners because …  
-- ... is particularly relevant for university learners because …  
+- I didn’t realize the ... is part of digital citizenship because ...  
+- ... is not particularly relevant for university learners because ...  
+- ... is particularly relevant for university learners because ...  
 
 ```
 
 
 
 ### Rights and Responsibilities {-}
+
 The concept of citizenship encompasses the rights and responsibilities of individuals. We need to consider what rights and responsibilities come with digital citizenship. In this mini challenge, we explore this topic with particular emphasis on the rights and responsibilities associated with learning in a digital age.
 
-Following the hype of massive open online courses (MOOC) and the New York Times declaring 2012 the “[year of the MOOC](https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html),“ a small group of educators drafted “A Bill of Rights and Principles for Learning in a Digital Age.” This document forms the basis for a course discussion on the rights and responsibilities of digital citizens.
+Following the hype of massive open online courses (MOOC) and the New York Times declaring 2012 the “[year of the MOOC](https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html){target="_blank"},“ a small group of educators drafted “A Bill of Rights and Principles for Learning in a Digital Age.” This document forms the basis for a course discussion on the rights and responsibilities of digital citizens.
 
 
 
@@ -212,11 +210,11 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 
 1. **Search:** Conduct a general search for rights and responsibilities of digital citizenship to assist in refining your own list for university online study. Your search is likely to generate many results developed for the school sector, so you need to evaluate if these rights and responsibilities are appropriate for you.  
 
-- Udacity version of the bill of rights: [A Bill of Rights and Principles for Learning in the Digital Age](https://www.udacity.com/blog/2013/01/a-bill-of-rights-and-principles-for.html)
-- [‘Bill of Rights’ Seeks to Protect Students’ Interests as Online Learning Rapidly Expands](https://www.chronicle.com/article/bill-of-rights-seeks-to-protect-students-interests-as-online-learning-rapidly-expands/), from the Chronicle of Higher Education.  
-- [Critique of ‘Bill of Rights and Principles for Learning in the Digital Age’](https://www.insidehighered.com/blogs/law-policy-and-it/critique-bill-rights-and-principles-learning-digital-age) from Inside Higher Ed.  
+- Udacity version of the bill of rights: [A Bill of Rights and Principles for Learning in the Digital Age](https://www.udacity.com/blog/2013/01/a-bill-of-rights-and-principles-for.html){target="_blank"}
+- [‘Bill of Rights’ Seeks to Protect Students’ Interests as Online Learning Rapidly Expands](https://www.chronicle.com/article/bill-of-rights-seeks-to-protect-students-interests-as-online-learning-rapidly-expands/){target="_blank"}, from the Chronicle of Higher Education.  
+- [Critique of ‘Bill of Rights and Principles for Learning in the Digital Age’](https://www.insidehighered.com/blogs/law-policy-and-it/critique-bill-rights-and-principles-learning-digital-age){target="_blank"} from Inside Higher Ed.  
 
-- Conduct a search through the TWU library for [Digital Rights and Responsibilities](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=digital+rights+and+responsibility&cli0=FT1&clv0=Y&type=0&searchMode=And&site=eds-live&scope=site)
+- Conduct a search through the TWU library for [Digital Rights and Responsibilities](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=digital+rights+and+responsibility&cli0=FT1&clv0=Y&type=0&searchMode=And&site=eds-live&scope=site){target="_blank"}
 
 *Remember to annotate and comment on the Hypothes.is and tag your contributions using the course code: #LDRS101*
 
@@ -224,7 +222,7 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 
 3. **Discuss:** Drawing on your knowledge and experience, please join the discussion on Discourse regarding rights and responsibilities for learning in a digital age at TWU. You can discuss the topical issues listed below, or add new ones to the forum. In each case, justify your position taking opposing views into account.  
 
-*Topical Issues*:
+<span class="blockhead">Topical Issues</span>
 
 - Should higher education institutions have the right to determine what software applications learners should use for their studies?  
 - Data generated by learners belongs to the learners, therefore should they have the right to access their data (for example forum discussion contributions) even after the course has completed?   
@@ -247,9 +245,9 @@ On the one hand, we need to be careful about what we post online because this ca
 
 In this section, we reflect on the balance between public and private in a digital world, recognising that this is going to be different for each person depending on their own environments and professional circumstances. We will also explore how like-minded professionals in your field of interest network online.
 
-
-> “The impact exercised by ICTs is due to at least four major transformations: the blurring of the distinction between reality and virtuality; the blurring of the distinction between human, machine and nature; the reversal from information scarcity to information abundance; and the shift from the primacy of stand-alone things, properties, and binary relations, to the primacy of interactions, processes and networks." —Luciano Floridi
-
+> *“The impact exercised by ICTs is due to at least four major transformations: the blurring of the distinction between reality and virtuality; the blurring of the distinction between human, machine and nature; the reversal from information scarcity to information abundance; and the shift from the primacy of stand-alone things, properties, and binary relations, to the primacy of interactions, processes and networks."*
+> 
+>***—- Luciano Floridi***
 
 ### Activity: Professional Online Identity and Digital Citizenship {-}
 
@@ -259,13 +257,14 @@ In this activity we will explore professional online identity and networking in 
 
 First, scan a few of the following resources:
 
-- [High court rules public servants can be sacked for political social media posts](https://www.theguardian.com/australia-news/2019/aug/07/high-court-rules-public-servants-can-be-sacked-for-political-social-media-posts), published by The Guardian.  
-- [‘Think of social media as a virtual resumé](https://www.cbc.ca/news/canada/saskatoon/experts-surprised-by-what-people-will-say-on-social-media-1.4176138),’ expert warns in light of health board resignation, published by CBC News.  
+- [High court rules public servants can be sacked for political social media posts](https://www.theguardian.com/australia-news/2019/aug/07/high-court-rules-public-servants-can-be-sacked-for-political-social-media-posts){target="_blank"}, published by The Guardian.  
+- [‘Think of social media as a virtual resumé](https://www.cbc.ca/news/canada/saskatoon/experts-surprised-by-what-people-will-say-on-social-media-1.4176138){target="_blank"},’ expert warns in light of health board resignation, published by CBC News.  
 - You can also search online using the terms "fired over tweet" or "social media firing cases".
 
 
 Next, watch this short video interview with Alec Couros, published by Teaching and Learning in South Australia. Alec summarises how educators are using twitter to connect professionally. 
-[Using Twitter effectively in education - with Alec Couros](https://www.youtube.com/watch?v=EqSCR3HU4eg)
+
+[Watch: *Using Twitter effectively in education - with Alec Couros*](https://www.youtube.com/watch?v=EqSCR3HU4eg){target="_blank"}
 
 
 <div class ="video-container">
@@ -275,7 +274,7 @@ Next, watch this short video interview with Alec Couros, published by Teaching a
 </div>
 
 
-Finally, visit the LinkedIn help page on [finding and joining a LinkedIn group](https://www.linkedin.com/help/linkedin/answer/a544795).
+Finally, visit the LinkedIn help page on [finding and joining a LinkedIn group](https://www.linkedin.com/help/linkedin/answer/a544795){target="_blank"}.
 
 <span class="blockhead">Questions to Consider</span>
 
@@ -285,7 +284,7 @@ After completing the activities above, answer the following questions:
 - What hashtags, if any, are being used for conversations in your chosen field? 
 - What are the topical areas of discussion at the moment? 
 - How could your field of interest improve professional networking online? 
-- Do organisations in your field place restrictions on employees participating in social networks? (See for example [Corporate Social Media Policies: The Good, the Mediocre, and the Ugly](https://www.fastcompany.com/1668368/corporate-social-media-policies-good-mediocre-and-ugly), and [More Social Media Policies: LA Times, Harvard Law, Microsoft, and Cisco](https://www.fastcompany.com/1670530/more-social-media-policies-la-times-harvard-law-microsoft-and-cisco).) 
+- Do organisations in your field place restrictions on employees participating in social networks? (See for example [Corporate Social Media Policies: The Good, the Mediocre, and the Ugly](https://www.fastcompany.com/1668368/corporate-social-media-policies-good-mediocre-and-ugly){target="_blank"}, and [More Social Media Policies: LA Times, Harvard Law, Microsoft, and Cisco](https://www.fastcompany.com/1670530/more-social-media-policies-la-times-harvard-law-microsoft-and-cisco){target="_blank"}.) 
 
 ```
 
@@ -321,8 +320,8 @@ In this challenge you are asked to build or update your professional online biog
 
 | **Persona**  | **Medium example**                    |
 |--------------|---------------------------------------|
-| Personal     | [Facebook](https://www.facebook.com/) |
-| Professional | [Linkedin](https://www.linkedin.com/) |
+| Personal     | [Facebook](https://www.facebook.com/){target="_blank"} |
+| Professional | [Linkedin](https://www.linkedin.com/){target="_blank"} |
 | Academic     | Learning blog or website                |
 
 
@@ -335,7 +334,7 @@ In this challenge you are asked to build or update your professional online biog
 
 4. Create or update your professional profile on Linkedin. 
 - Consult TWU's [Student Resources website](Student Resources
-) about LinkedIn.) TWU gives you access to LinkedIn Learning, which includes several great courses and videos, such as [Rock Your LinkedIn Profile](https://www.linkedin.com/learning/rock-your-linkedin-profile/connect-to-opportunity-with-linkedin?u=124451074). 
+) about LinkedIn.) TWU gives you access to LinkedIn Learning, which includes several great courses and videos, such as [Rock Your LinkedIn Profile](https://www.linkedin.com/learning/rock-your-linkedin-profile/connect-to-opportunity-with-linkedin?u=124451074){target="_blank"}. 
 
 5. Create or update your “About” page on your Learning Blog. You may prefer using a more informal style for this page aligned with your own personality and interests. Include links to your professional profile and respective links to social media that you use.
 
@@ -345,13 +344,11 @@ In this challenge you are asked to build or update your professional online biog
 
 ```
 
-
-
 ## Online Communities 
 
 In this section we explore the topic of online communities and how we can engage in social media to enhance our learning.
 
-In the early years of the internet, there was a strong research interest in studying the differences between virtual and real communities. However, in more recent years, we have observed a blurring of the boundaries between online and real communities. In [The difference between online & real life community?](https://quiip.com.au/is-there-a-definitive-difference-between-online-and-real-life-community/) Alison Michalk states:
+In the early years of the internet, there was a strong research interest in studying the differences between virtual and real communities. However, in more recent years, we have observed a blurring of the boundaries between online and real communities. In [The difference between online & real life community?](https://quiip.com.au/is-there-a-definitive-difference-between-online-and-real-life-community/){target="_blank"} Alison Michalk states:
 
 > Community boundaries are blurred to the extent that the Internet is nothing more than a conduit for communication. The Internet is now just another tool that we use to communicate within our various communities. The same as we use mail, telephone and even a car to keep in touch with our friends, family and colleagues. Our ‘real life communities’ are not mutually exclusive from our ‘online communities’ given that it all comes down to implied physical presence. (2013, June 27)
 
@@ -363,8 +360,7 @@ Research on the efficacy of online communities provides insights on selecting pr
 1. *Core members* are responsible for guiding the development of the community and have usually been involved with the community for a long time. These members have made significant contributions to the community’s evolution and have earned leadership status. Frequently they also play an active role in moderation of the group.  
 2. *Active members* make regular contributions to the community.  
 3. *Peripheral members* occasionally contribute to the discussions and the periods of engagement are short and sporadic. “Lurkers”, that is individuals seeking answers without making contributions, are normally associated with this group.  
-The nature of engagement in a community is influenced by the community’s life cycle stage ([A. Iriberri and G. Leroy 2009](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edscma&AN=edscma.1459356&site=eds-live&scope=site)):
-
+The nature of engagement in a community is influenced by the community’s life cycle stage ([A. Iriberri and G. Leroy 2009](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edscma&AN=edscma.1459356&site=eds-live&scope=site){target="_blank"}):
 
 | **Life cycle stage**  | **Characteristics**                    |
 |--------------|---------------------------------------|
@@ -373,29 +369,27 @@ The nature of engagement in a community is influenced by the community’s life 
 | Growth stage     | Focus is on community building, for example: recruiting members, growth management, integrating new members, trust building, up-to-date content, interaction support, a few offline and online events and meetings.               |
 | Maturity stage     | By this stage a community culture will have emerged with identifiable community leaders. Focus shifts to permeated management and control, recognition of contributions, recognition of loyalty, member satisfaction management and subgroup management.                |
 
-	
 Additional factors identified by the research to keep in mind include:
 
-- *Network cohesion*, that is the overall level of connections indicated by the network density has a positive impact on the core group as well as the success of the community ([Toral et al 2010](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0950584909001888&site=eds-live&scope=site)).  
+- *Network cohesion*, that is the overall level of connections indicated by the network density has a positive impact on the core group as well as the success of the community ([Toral et al 2010](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0950584909001888&site=eds-live&scope=site){target="_blank"}).  
 - *Network structure*. Successful communities need a critical mass of contributors, however there is no fixed number that determines success. Most communities can expect between 45 – 90% of non-active members, but communities with a strong and experienced core group will have a positive impact on success (Toral et al 2010[3]). Moreover, the positive effects of network structure on participation persist irrespective of the life cycle stage of the community, and activity participation influences network structure (Igl 2014[4]).  
-- *Centralization*. Communities with a high degree of centralisation and control exerts a negative impact on all participation variables. ([Igl 2014](https://mediatum.ub.tum.de/node?id=1218984)).  
+- *Centralization*. Communities with a high degree of centralisation and control exerts a negative impact on all participation variables. ([Igl 2014](https://mediatum.ub.tum.de/node?id=1218984){target="_blank"}).  
 
+**Practical implications**
 
-**Practical implications**  
 There are many online communities, and it will be worth your effort in doing a little online research to determine the network cohesion and network structure of the community. You will be able to determine this by reviewing the archive history. Avoid communities with overly centralised control, in the long run, they are not likely to be productive.
 
 When joining an online community, try to identify the life cycle stage by scanning the archive of posts. Young communities are likely to be more tolerant of newbie questions, as responses to these questions will provide support resources for new members in the future. It’s a good idea to search the forum for your answer before posting a question. Don’t be surprised if newbie questions go answered in mature communities, they may can even attract curt rebuttals. If you’re a long standing member of the community, post a tactful reply, for example, “Your question has already been answered” and post a link to the appropriate reply.
 
 The best advice when joining a new community is to lurk for a while before introducing yourself so that you can become familiar with the culture and practices of the community. Fill out your profile page on the forum site, rather than posting a biography in the main discussion threads. Of course, if the community is in the creation phase, you may want to play a more active role in building the community and becoming part of the core contributors.
 
-
-
-
 ### Communities of Practice {-}
 
 As you continue to reflect on your social network and consider other learning networks to join for personal or professional growth, we want to present another framing of an online community called a ***Community of Practice***. 
 
-> A community of practice (CoP) is a group of people who "share a concern or a passion for something they do and learn how to do it better as they interact regularly". Wenger, 2014 
+> A community of practice (CoP) is a group of people who *"share a concern or a passion for something they do and learn how to do it better as they interact regularly"*.
+> 
+> ***-- Wenger, 2014*** 
 
 Cognitive anthropologists Jean Lave and Etienne Wenger coined the term “community of practice” when studying apprenticeships as a learning model—the term referred to the community that acts as a living curriculum. Once the concept was articulated the researchers started to see communities everywhere, even when no formal apprenticeship system existed.
 
@@ -405,33 +399,30 @@ The basic premise behind communities of practice is simple: we all learn in ever
 
 Wenger argues that there are three crucial characteristics of a community of practice:
 
-1. **Domain:** A common interest that connects and holds together the community;
+1. **Domain:** A common interest that connects and holds together the community;  
 2. **Community:** A community is bound by the shared activities they pursue (for example, meetings, discussions) around their common domain;  
-3. **Practice:** Members of a community of practice are practitioners; what they do informs their participation in the community; and what they learn from the community affects what they do.
+3. **Practice:** Members of a community of practice are practitioners; what they do informs their participation in the community; and what they learn from the community affects what they do.  
 
 Wenger (2000) has argued that although individuals learn through participation in a community of practice, more important is the generation of newer or deeper levels of knowledge through the sum of the group activity. If the community of practice is centered around business processes, for instance, this can be of considerable benefit to an organization. 
 
 #### Types of Communities of Practice {-}
+
 Today, communities of practices are increasingly being used to improve knowledge management and connect people within business, government, education, and other organizations.
 
 The design of the community will look different depending on the purpose and needs of the participants. There are four basic types of communities:
 
-1. **Helping Communities** provide a forum for community members to help each other with everyday work needs.
-
-2. **Best Practice Communities** develop and disseminate best practices, guidelines, and strategies for their members’ use.
-
-3. **Knowledge Stewarding Communities** organize, manage, and steward a body of knowledge from which community members can draw.
-
-4. **Innovation Communities** create breakthrough ideas, new knowledge, and new practices.
+1. **Helping Communities** provide a forum for community members to help each other with everyday work needs.  
+2. **Best Practice Communities** develop and disseminate best practices, guidelines, and strategies for their members’ use.  
+3. **Knowledge Stewarding Communities** organize, manage, and steward a body of knowledge from which community members can draw.  
+4. **Innovation Communities** create breakthrough ideas, new knowledge, and new practices.  
 
 As you reflect on digital practices in university and the workplace, consider how engaging in a Community of Practice could benefit you as a learner and in your future career.  
-
 
 ### Activity: What Is a Community of Practice? {-}
 
 ```{block2, type='reflect'}
 
-Watch the video, [Communities of Practice (Etienne and Beverly Wenger-Trayner)](https://www.youtube.com/watch?v=SmqLyOLIjos)
+Watch the video, [*Communities of Practice (Etienne and Beverly Wenger-Trayner)*](https://www.youtube.com/watch?v=SmqLyOLIjos){target="_blank"}
 
 <div class ="video-container">
 
@@ -439,7 +430,7 @@ Watch the video, [Communities of Practice (Etienne and Beverly Wenger-Trayner)](
 
 </div>
 
-To learn more about the origins and theory of communities of practice, see [Introduction to communities of practice](http://wenger-trayner.com/introduction-to-communities-of-practice). 
+To learn more about the origins and theory of communities of practice, see [Introduction to communities of practice](http://wenger-trayner.com/introduction-to-communities-of-practice){target="_blank"}. 
 
 Feel free to discuss your topics of interest in TWU Discourse, or search online for CoPs that interest you.
 
@@ -454,22 +445,22 @@ Feel free to discuss your topics of interest in TWU Discourse, or search online 
 Online communities are varied and can be categorized by their purpose: social, academic, professional, etc.  For this activity, we encourage you to consider what your purpose is in building an online community.  
 
 1. What are your goals?
+
  - Do you want to connect with TWU peers internationally and in Canada?  Is your focus on academic support, or building personal relationships?  
- - Are you interested in the communities that relate to your chosen profession?  If so, do a quick search for online communities for a career that interests you (see example for businesses: [15 Best Online Community Platforms of 2023 (Ranked)](https://www.mightynetworks.com/resources/community-platforms).   
+ - Are you interested in the communities that relate to your chosen profession?  If so, do a quick search for online communities for a career that interests you (see example for businesses: [15 Best Online Community Platforms of 2023 (Ranked)](https://www.mightynetworks.com/resources/community-platforms){targt="_blank"}).   
  - Do you want to engage with online communities that align with your personal interests? (e.g. sports, arts, politics, gardening, coding, etc.)  
- Write down your goals for joining an online community. 
 
-2. Next, consider the networks you are currently a part of.  You may want to refer back to Unit 1 in which you created a [Personal Learning Network map](https://twu-innovation.github.io/inno101/introduction-to-digital-literacies-for-online-learning.html#activity-pln-mapping-challenge).  
+Write down your goals for joining an online community. 
 
-Now, with a focus on networking, create your own Social Map.  See the following example from [Brian Solis](https://www.briansolis.com/about/), a digital analyst, anthropologist and author. 
+2. Next, consider the networks you are currently a part of.  You may want to refer back to Unit 1 in which you created a [Personal Learning Network map](https://twu-innovation.github.io/inno101/introduction-to-digital-literacies-for-online-learning.html#activity-pln-mapping-challenge){target="_blank"}.  
 
-<a title="Brian Solis Online - Social Map" href="https://flickr.com/photos/briansolis/2374839848"><img src="https://live.staticflickr.com/3134/2374839848_2769ef5f1a.jpg" alt="Brian Solis Online - Social Map" /></a><br /><small><a title="Brian Solis Online - Social Map" href="https://flickr.com/photos/briansolis/2374839848">Brian Solis Online - Social Map</a> flickr photo by <a href="https://flickr.com/people/briansolis">The Brian Solis</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">Creative Commons (BY) license</a></small>
+Now, with a focus on networking, create your own Social Map.  See the following example from [Brian Solis](https://www.briansolis.com/about/){target="_blank"}, a digital analyst, anthropologist and author. 
+
+<a title="Brian Solis Online - Social Map" href="https://flickr.com/photos/briansolis/2374839848" target="_blank"><img src="https://live.staticflickr.com/3134/2374839848_2769ef5f1a.jpg" alt="Brian Solis Online - Social Map" /></a><br /><small><a title="Brian Solis Online - Social Map" href="https://flickr.com/photos/briansolis/2374839848">Brian Solis Online - Social Map</a> flickr photo by <a href="https://flickr.com/people/briansolis" target="_blank">The Brian Solis</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons (BY) license</a></small>
 
 3. Finally, **reflect** on the social media technologies you use for learning and how this impacts on your digital footprint and online identity.  
 
 ```
-
-
 
 ### Activity: Social Media for Connecting and Learning {-}
 
@@ -478,10 +469,10 @@ Now, with a focus on networking, create your own Social Map.  See the following 
 In this activity we will explore how social media can support online learning and engagement.  
  
 1. **Read** the following articles: 
-- [Using Social Media for Learning](https://www.shu.ac.uk/digital-skills/personal/social-media-for-learning) from Sheffield Hallam University.     
-- [The Potential of Collaborative Intelligence for Social Media and Online Communities](https://ts2.space/en/the-potential-of-collaborative-intelligence-for-social-media-and-online-communities/) by Marcin Frąckiewicz.
+- [Using Social Media for Learning](https://www.shu.ac.uk/digital-skills/personal/social-media-for-learning){target="_blank"} from Sheffield Hallam University.     
+- [The Potential of Collaborative Intelligence for Social Media and Online Communities](https://ts2.space/en/the-potential-of-collaborative-intelligence-for-social-media-and-online-communities/){target="_blank"} by Marcin Frąckiewicz.
 
-2. **Watch** [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o)
+2. **Watch** [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"}
 
 <div class ="video-container">
 
@@ -489,11 +480,11 @@ In this activity we will explore how social media can support online learning an
 
 </div>   
 
-2. **Explore**: [The Conversation Prism](https://www.briansolis.com/2008/08/introducing-conversation-prism-html/) developed by [Brian Solis](https://www.briansolis.com/about/).     
+2. **Explore**: [The Conversation Prism](https://www.briansolis.com/2008/08/introducing-conversation-prism-html/) developed by [Brian Solis](https://www.briansolis.com/about/){target="_blank"}.     
 
 Also refer to the graphic below listing numerous apps for listening, learning, and adapting. (*Click on the graphic to enlarge.*)
 
-<a title="Conversation Prism 4" href="https://flickr.com/photos/solucionafacil/11327713066"><img src="https://live.staticflickr.com/3706/11327713066_c661527cef.jpg" alt="Conversation Prism 4" /></a><br /><small><a title="Conversation Prism 4" href="https://flickr.com/photos/solucionafacil/11327713066">Conversation Prism 4</a> flickr photo by <a href="https://flickr.com/people/solucionafacil">SolucionaFacil.es</a> shared under a <a href="https://creativecommons.org/licenses/by-nd/2.0/">Creative Commons (BY-ND) license</a></small>
+<a title="Conversation Prism 4" href="https://flickr.com/photos/solucionafacil/11327713066" target="_blank"><img src="https://live.staticflickr.com/3706/11327713066_c661527cef.jpg" alt="Conversation Prism 4" /></a><br /><small><a title="Conversation Prism 4" href="https://flickr.com/photos/solucionafacil/11327713066" target="_blank">Conversation Prism 4</a> flickr photo by <a href="https://flickr.com/people/solucionafacil" target="_blank">SolucionaFacil.es</a> shared under a <a href="https://creativecommons.org/licenses/by-nd/2.0/" target="_blank">Creative Commons (BY-ND) license</a></small>
 
 ```
 
@@ -520,13 +511,11 @@ Please “like”, share and reply to posts. These are forms of engagement and a
 
 ```
 
-
 ## Connecting to the TWU Community
 
 Our final topic focuses on the TWU community and how you can participate both online and on campus.  As a TWU student you have the opportunity to connect with a diverse student body, faculty and staff.  What role does technology play in how you communicate with your peers, collaborate on projects, and build relationships?  
 
 In this unit we have discussed what it means to be a digital citizen, and how we can engage with online communities.  How does this apply to you as a TWU student?  As we wrap up this unit, we encourage you to reflect on your personal and academic goals and how you can engage with the TWU community.
-
 
 ### Activity: TWU's Learning Community {-}
 
@@ -543,7 +532,7 @@ Next, focus on two key course learning outcomes:
 > - Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
 
-Finally, take a look at Trinity's [Life at TWU](https://www.twu.ca/life-twu) website.   
+Finally, take a look at Trinity's [Life at TWU](https://www.twu.ca/life-twu){target="_blank"} website.   
 
 > We invite all TWU students to connect, thrive, and serve in a dynamic, Christ-centred learning community where they can develop as maturing disciples, thoughtful global citizens, and compassionate servant leaders.
 *Experience life and learning here.*
@@ -595,7 +584,7 @@ In your Reflective post, provide the following:
 
 
 (need to add more)
-To help you structure your writing, see the following video on [Reflective Writing](https://www.youtube.com/watch?v=SntBj0FIApw)
+To help you structure your writing, see the following video on [Reflective Writing](https://www.youtube.com/watch?v=SntBj0FIApw){target="_blank"}
 
 
 <div class ="video-container">
