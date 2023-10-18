@@ -58,9 +58,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Assessment</span>
 
-- **Digital Citizenship Blog**
-- **Digital Literacy Portfolio**   
-See the Assessment section in Moodle for assignment details and due dates.
+- **Digital Citizenship Blog** 
+*See the Assessment section in Moodle for assignment details.*
 
 ```
 
@@ -515,7 +514,8 @@ Please “like”, share and reply to posts. These are forms of engagement and a
 
 Our final topic focuses on the TWU community and how you can participate both online and on campus.  As a TWU student you have the opportunity to connect with a diverse student body, faculty and staff.  What role does technology play in how you communicate with your peers, collaborate on projects, and build relationships?  
 
-In this unit we have discussed what it means to be a digital citizen, and how we can engage with online communities.  How does this apply to you as a TWU student?  As we wrap up this unit, we encourage you to reflect on your personal and academic goals and how you can engage with the TWU community.
+In this unit we have discussed what it means to be a digital citizen, and how we can engage with online communities.  How does this apply to you as a TWU stude
+nt?  As we wrap up this unit, we encourage you to reflect on your personal and academic goals and how you can engage with the TWU community.
 
 ### Activity: TWU's Learning Community {-}
 
@@ -540,6 +540,14 @@ Finally, take a look at Trinity's [Life at TWU](https://www.twu.ca/life-twu){tar
 How might you connect, thrive, and serve through your connections and contributions online, as well as on campus?
 
 What experiences have you had so far in connecting with your peers and getting to know the TWU community?  If you have not participated in the engagement opportunities presented in this course (Discourse, WordPress blog), take the time now to connect!
+
+Once you arrive in Canada, there are more opportunities to connect on campus and online. Watch [Get Connected](https://vimeo.com/584977176/f1938444cb).
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.vimeo-nocookie.com/embed/584977176/f1938444cb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>   
 
 
 In your Reflective Journal (Obsidian) jot down your responses to the following questions:

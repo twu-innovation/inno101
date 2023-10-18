@@ -2,7 +2,12 @@
 
 ## Overview {-}
 
-Congratulations! You've made it to the final unit in our course, Learning with Technology.  
+Congratulations! You've made it to the final unit in our course, Learning with Technology.  In this last unit we will have a chance to explore some digital tools that you may encounter in your academic studies at TWU.  We'll look at how these skills translate to preparing you for the workplace, and will examine the role technolgy plays in your chosen feild of study.  You'll also have the opportunities to research some current events related to societal issues and the internet, and will discuss how to address these challenges.  Finally, we'll conclude our course with a discussion on Digital wisdom.  As you begin this unit, here are some guiding question to consider:
+
+> "How will my use of technology support my social, academic, and spiritual goals?"   
+> "How will I share my knowledge and skills to engage as a digital global citizen?"  
+> "How will I connect and collaborate with others as part of an inclusive digital communities?  
+
 
 ### Topics {-}
 
@@ -18,18 +23,18 @@ This unit is divided into the following topics:
 
 When you have completed this unit, you should be able to:
 
+- Explore common digital tools used at Trinity Western University
 - Discuss how technology has changed business practices in your field of interest or career.  
 - Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens  
 - Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner  
-
-Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
+- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge
+- Create a personalized narrative to document and express your learning process
 
 
 <!--
 
 Course Learning Outcomes related to this unit: 
-- Practice evaluative judgment to document your process of learning in complex domains of knowledge
-- Create a personalized narrative to document and express your learning process
 - Evaluate digital tools, platforms, and interactions based on ethical principles
 - Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 - Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
@@ -57,7 +62,8 @@ You are strongly encouraged to complete them.
 
 <span class="blockhead">Assessment</span>
 
-- See the Assessment section in Moodle for assignment details and due dates.
+- Assignment 3: Digital Literacy Portfolio  
+*See the Assessment section in Moodle for assignment details*
 
 ```
 
@@ -77,9 +83,49 @@ comment
 
 ## Learning with Technology at TWU 
 
+### Activity: Why TWU? {-}
+
+```{block2, type='reflect'}
+
+Before we dive in to some digital tools you may use in your academic studies at Trinity, let's pause and think about what TWU means to you.  Why did you choose TWU?  What do you hope to achieve during your time here?
+
+To give you some idea of what life is like at TWU, and why people choose TWU, watch the following videos:
+
+Discover being an International Student at Trinity Western University](https://www.youtube.com/watch?v=VkyZjv3ZbXg)
 
 
+<div class ="video-container">
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VkyZjv3ZbXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+What do you think? Share your thoughts by posting a comment on Discourse, for example:
+
+- I'm excited to join the TWU community because ...
+- I have questions about TWU: ...
+- I am confident that ...
+- I am concerned about ...
+
+```
+
+As you embark on your first year of study at TWU, what digital tools should you be familiar with?  What tools will be needed for your feild of study?
+
+
+<!--
+comment
+
+twu.ca
+twu.ca
+Facebook
+facebook.com/trinitywestern
+Twitter
+twitter.com/trinitywestern
+Instagram
+instagram.com/trinitywestern
+
+-->
 
 
 ## Digital Practices in Academia and the Workplace  
