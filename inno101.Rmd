@@ -2358,6 +2358,11 @@ Once you arrive in Canada, there are more opportunities to connect on campus and
 
 </div>   
 
+**TWU on Social Media**
+Here are some other websites that share insights on the TWU community:  
+- [TWU Facebook page](facebook.com/trinitywestern)    
+- [X (Twitter)](twitter.com/trinitywestern)  
+- [Instagram](instagram.com/trinitywestern)  
 
 In your Reflective Journal (Obsidian) jot down your responses to the following questions:
 
@@ -2576,16 +2581,16 @@ Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDC
 First, let's tackle what technical skills you will need as you start your studies.  As you read, check off skills you have acquired and feel comfortable using.
 
 
-- [ ] basic computer skills
-- [ ] sending/receiving email
-- [ ] sending and receiving attachments via email
-- [ ] using a web browser
-- [ ] finding resources through search engines (e.g. Chrome or Firefox)
-- [ ] downloading and installing software
-- [ ] familiarity with using browser plug-ins (e.g. PDF reader, video, audio)
-- [ ] using a word processing, presentation software, or other productivity applications
-- [ ] experience/familiarity with a variety of file formats such as: .pdf "Portable Document Format", .rtf "Rich Text Format", .doc or .docx "Microsoft Word Document", or .txt "Text document"
-- [ ] the ability to be self-directed in learning new technology skills (e.g. following a handout, a step-by-step tutorial, online video help, or access to support to learn necessary skills)
+- [ ] Basic computer skills
+- [ ] Sending/receiving email
+- [ ] Sending and receiving attachments via email
+- [ ] Using a web browser
+- [ ] Finding resources through search engines (e.g. Chrome or Firefox)
+- [ ] Downloading and installing software
+- [ ] Familiarity with using browser plug-ins (e.g. PDF reader, video, audio)
+- [ ] Using a word processing, presentation software, or other productivity applications
+- [ ] Experience/familiarity with a variety of file formats such as: .pdf "Portable Document Format", .rtf "Rich Text Format", .doc or .docx "Microsoft Word Document", or .txt "Text document"
+- [ ] The ability to be self-directed in learning new technology skills (e.g. following a handout, a step-by-step tutorial, online video help, or access to support to learn necessary skills)
 
 This last skill is essential, as you will likely come across some tech tool that you need to figure out.  Consider how much you've learned in this course so far! You've got this!
 
@@ -2629,15 +2634,18 @@ Please consider the following while participating in online/hybrid courses:
 
 ##### Shared Drive, Sharing & Backup {-}
 
-**[Data & Cloud Storage and Sharing](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533)**
-
-The only TWU approved Cloud Storage & Sharing services are:   
-- [ ] Microsoft OneDrive  
+**[Data & Cloud Storage and Sharing](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533)**  
+Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:   
+- [ ] [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260)
 - [ ] Microsoft SharePoint  
-- [ ] OwnCloud  
-Cloud storage software provides web access to your online file storage, file sharing, and file synchronization.  
+- [ ] OwnCloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681) 
 
 The responsibility for storing TWU documents and files lies with the person who stores the data. Judgment is required about how and where TWU data will be stored.  
+
+For more on Information Security, see the following guidelines:
+
+(click to reveal)
+
 TWU has a formal Information Security Policy and related Information Security Guidelines. This article provides some additional direction based on this set of policy and guidelines.  
 Different data is governed by different regulations, laws, agreements, and rules; each requires different means of protection and reporting.  
  
@@ -2667,11 +2675,18 @@ Guidance Table for Sharing Data
 | **People in TWU (Internal Link)**    | Never                        | Acceptable Not Advisable     | Acceptable                                   |
 | **Anyone with the link (Open Link)** | Never                        | Never                        | Acceptable Use expiration date when possible |
 
-See the following links for guides on these tools:
 
-- [One Drive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260)
+**Cyber security**
+Learn how to protect your data and systems against security breaches.
 
-- [Owncloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681)
+SECURITY RECOMMENDATIONS
+Protect yourself from Phishing attempts.
+Enable Multi-Factor Authentication in your MyProfile page in PAWS.
+Review USask's Information Technology Use and Security Policies.
+Set a unique and strong password on your USask account.
+Use a password manager for all of your accounts.
+Back up your school work and files on OneDrive.
+Int
 
 
 ##### Other Essential Links {-}  
@@ -2692,44 +2707,49 @@ Again, check the tools you are familiar with:
 
 #### Course Specific Tech Requirements {-}  
 Some courses may require you to create surveys, e-portolfios, or other media.  We recommend the following:  
+
 - [ ] [Survey Monkey](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=47076)  
+
 - [ ] [WordPress](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4746)  
+
 - [ ] [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940) (A/V editing and tips)  
 
 
 <!--
 
 #### Learning Tools {-}
-Note-taking Apps
 
-Hypothes.is
-https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146716
+In this course, you have had the chance to explore a number of learning tools, including: [Obsidian](https://obsidian.md), [Hypothes.is](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146716), [Zotero](https://www.zotero.org/), [LitMaps](https://www.litmaps.com/), [WordPress](https://create.twu.ca/) and more!
 
-Collaborative Tools
+We anticipate those tools will help you think critically, collaborate, and ultimately succeed in your studies.
 
-Project Management Tools
+There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, etc.).
 
 
-Let's Moodle!
+
+Search for the following apps/websites using the key words listed below.  Try adding "top" "best" "free" "university" "students" and see how that changes your search results.
+
+- Note-taking Apps
+- Annotate Web Resources
+- Collaborative Tools
+- Project Management Tools
+- Graphic Organizers
+- Study Tools
+- Focus Tools
+- Research Tools
+- Writing Tools
 
 
-Study Tools
+<!--
+give examples?
+[Coggle: Simple Collaborative Mind Maps & Flow Charts](https://coggle.it/)
+[MindMup](https://app.mindmup.com/)
+[Canva](https://www.canva.com/)
 
-Focus Tools
-
-Get Rid of Digital Distractions!
+-->
 
 
-Research Tools
-
-Writing Tools
-
-#### TWU Networking Tools {-}
-
-Here are some other website you may be interested to join the TWU community:  
-- [TWU Facebook page](facebook.com/trinitywestern)    
-- [X (Twitter)](twitter.com/trinitywestern)  
-- [Instagram](instagram.com/trinitywestern)  
+Other Technology Tips
 
 
 
@@ -3348,6 +3368,32 @@ Before you move on to the next unit, check that you are able to:
 ```
 
 <!--chapter:end:07-u6.Rmd-->
+
+# Course Map {-}
+
+See the following course map outlining key topics, questions, and competencies.
+
+
+<iframe width='853' height='480' src='https://embed.coggle.it/diagram/ZTCp5q_HfWTHX1u4/ffff1ed3a6aa9343bae1142afabcc9343e604c3b557e90c36469a5ce844849a3' frameborder='0' allowfullscreen></iframe>
+
+
+<!--
+
+
+e.g. 
+
+<iframe width='780' height='500' src='https://embed.coggle.it/diagram/XmZC8uMesCWdXGt6/70b78931eae4a12991c10df0f7f2f49f498e58ad68cc66e3f82da43b57951f3e' frameborder='0' allowfullscreen></iframe>
+
+
+from https://phgrosjean.sciviews.org/bookdown-test/a-coggle-mind-map.html
+
+code here: https://github.com/phgrosjean/bookdown-test/blob/master/01-Introduction.Rmd
+
+(also see special blocks: https://phgrosjean.sciviews.org/bookdown-test/special-blocks.html)
+
+-->
+
+<!--chapter:end:89-course-map.Rmd-->
 
 # References {-}
 
