@@ -217,6 +217,13 @@ To give you a head start, we have created a **starter vault** for you to downloa
 6. Choose the `ldrs101` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
 7. Once you are in the vault, feel free to take a look around. You will notice a `HOME` page, a `Tools` folder with some files in it, and a `VR Diagram Canvas`.
 
+We have created a sample VR Diagram in the vault. Your task is to create your own VR Diagram, as explained below.
+
+```
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Creating your VR Diagram</span>
 
 ```
 <!--
