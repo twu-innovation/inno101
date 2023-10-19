@@ -1339,7 +1339,7 @@ When you choose your theme, your new site will come with a simple menu and instr
 
 When you have activated your site (look for a notification in your TWU email), then you are ready to create.  
 
- </details>
+</details>
 
 <details>
 <summary>**2. Explore your dashboard**</summary>
@@ -2576,10 +2576,13 @@ As you embark on your first year of study at TWU, what digital tools should you 
 Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267) is here to help!  Please reach out if you have any questions.) TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/) website with guides on using technology commonly used at TWU. has a number of articles to assist you with technology.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747) section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800) section for help with the tools mentioned below.
 
 ```
-#### Technology Proficency {-}
+
+Click on the titles below for information on the tools and skills you are most interested in:
+
+<details>
+<summary>**Technology Proficency**</summary>
 
 First, let's tackle what technical skills you will need as you start your studies.  As you read, check off skills you have acquired and feel comfortable using.
-
 
 - [ ] Basic computer skills
 - [ ] Sending/receiving email
@@ -2592,29 +2595,36 @@ First, let's tackle what technical skills you will need as you start your studie
 - [ ] Experience/familiarity with a variety of file formats such as: .pdf "Portable Document Format", .rtf "Rich Text Format", .doc or .docx "Microsoft Word Document", or .txt "Text document"
 - [ ] The ability to be self-directed in learning new technology skills (e.g. following a handout, a step-by-step tutorial, online video help, or access to support to learn necessary skills)
 
-This last skill is essential, as you will likely come across some tech tool that you need to figure out.  Consider how much you've learned in this course so far! You've got this!
+This last skill is essential, as you will likely come across some tech tool that you need to figure out.  Consider how much you've learned in this course so far. You've got this!
 
-#### Basic Technical Requirements {-}
+</details>
 
-This next section will outline basic hardware, software, applications, and accessories you will likely need as a TWU student. As you read, check off items you have, and/or feel comfortable using.
+<details>
+<summary>**Basic Hardware, Software & Accessories**</summary>
+
+This next section will outline basic hardware and software, and accessories you will likely need as a TWU student. As you read, check off items you have, and/or feel comfortable using.
 
 ##### Hardware {-}  
 - [ ] Computer - PC, Mac, Chromebook or tablet
-
-##### Recommended Accessories {-}  
-- [ ] Speakers, Microphone or Headphones  
-- [ ] Video Camera (Webcam)  
-- [ ] Scanner or Camera	  
-
 
 ##### Software {-}  
 - [ ] Windows 10 or newer  
 - [ ] Mac OS 10.14 or newer  
 - [ ] Microsoft 365  
 
-##### Internet Access & Connection {-}  
+##### Recommended Accessories {-}  
+- [ ] Speakers, Microphone or Headphones  
+- [ ] Video Camera (Webcam)  
+- [ ] Scanner or Camera	  
+
+</details>
+
+<details>
+<summary>**Internet Access, Browsers & Connection Speed**</summary>
+ 
 - [ ] Wi-Fi  
 - [ ] High speed Broadband Internet Connection is Required  
+- [ ] Internet Browser: The most recent release of Chrome or Firefox is recommended.  
 
 ***Recommended Internet speeds:***   
 - Download speed of at least 25 mbps  
@@ -2627,12 +2637,10 @@ Please consider the following while participating in online/hybrid courses:
 - Wireless connections may be impacted by the distance from the router and interference from microwaves and other electronics. (Wired connections are recommended.)  
 - Your Internet Service Provider’s performance may vary throughout the day based on community usage.
 
+</details>
 
-
-##### Internet Browsers {-}  
-- [ ] The most recent release of Chrome or Firefox is recommended.  
-
-##### Shared Drive, Sharing & Backup {-}
+<details>
+<summary>**Shared Drive, Sharing & Backup**</summary>
 
 **[Data & Cloud Storage and Sharing](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533)**  
 Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:   
@@ -2642,14 +2650,9 @@ Cloud storage software provides web access to your online file storage, file sha
 
 The responsibility for storing TWU documents and files lies with the person who stores the data. Judgment is required about how and where TWU data will be stored.  
 
-For more on Information Security, see the following guidelines:
-
-(click to reveal)
-
 TWU has a formal Information Security Policy and related Information Security Guidelines. This article provides some additional direction based on this set of policy and guidelines.  
 Different data is governed by different regulations, laws, agreements, and rules; each requires different means of protection and reporting.  
  
-
 **What about other 3rd party cloud storage solutions (Dropbox, Google Drive, Box, WeChat etc...)?**
 In general, the use of unauthorized 3rd party cloud storage is not a good idea. TWU provides faculty and staff with the tools needed to collaborate internally and externally. The reasons below elaborate on the reasoning behind this position.  
 
@@ -2675,28 +2678,12 @@ Guidance Table for Sharing Data
 | **People in TWU (Internal Link)**    | Never                        | Acceptable Not Advisable     | Acceptable                                   |
 | **Anyone with the link (Open Link)** | Never                        | Never                        | Acceptable Use expiration date when possible |
 
+</details>
 
-**Cyber security**
-Learn how to protect your data and systems against security breaches.
+<details>
+<summary>**Other Common Tools Supported at TWU**</summary>
 
-SECURITY RECOMMENDATIONS
-Protect yourself from Phishing attempts.
-Enable Multi-Factor Authentication in your MyProfile page in PAWS.
-Review USask's Information Technology Use and Security Policies.
-Set a unique and strong password on your USask account.
-Use a password manager for all of your accounts.
-Back up your school work and files on OneDrive.
-Int
-
-
-##### Other Essential Links {-}  
-Again, check the tools you are familiar with: 
-
-- [ ] [Email](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=3351)
-
-- [ ] [Moodle](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=8214)
-
-- [ ] [TWU Library search engine](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15050)
+Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create a-portolfios, or develop other media.  We recommend the following:  
 
 - [ ] [MS Teams](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353)
 
@@ -2704,18 +2691,14 @@ Again, check the tools you are familiar with:
 
 - [ ] [Zoom](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478)
 
-
-#### Course Specific Tech Requirements {-}  
-Some courses may require you to create surveys, e-portolfios, or other media.  We recommend the following:  
-
 - [ ] [Survey Monkey](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=47076)  
 
 - [ ] [WordPress](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4746)  
 
 - [ ] [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940) (A/V editing and tips)  
 
+</details>
 
-<!--
 
 #### Learning Tools {-}
 
@@ -2724,7 +2707,6 @@ In this course, you have had the chance to explore a number of learning tools, i
 We anticipate those tools will help you think critically, collaborate, and ultimately succeed in your studies.
 
 There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, etc.).
-
 
 
 Search for the following apps/websites using the key words listed below.  Try adding "top" "best" "free" "university" "students" and see how that changes your search results.
@@ -2747,10 +2729,6 @@ give examples?
 [Canva](https://www.canva.com/)
 
 -->
-
-
-Other Technology Tips
-
 
 
 
@@ -3366,6 +3344,12 @@ Before you move on to the next unit, check that you are able to:
  
 
 ```
+
+
+<details>
+<summary>**title**</summary>
+
+</details>
 
 <!--chapter:end:07-u6.Rmd-->
 

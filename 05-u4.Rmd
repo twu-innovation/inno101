@@ -186,7 +186,7 @@ When you choose your theme, your new site will come with a simple menu and instr
 
 When you have activated your site (look for a notification in your TWU email), then you are ready to create.  
 
- </details>
+</details>
 
 <details>
 <summary>**2. Explore your dashboard**</summary>
