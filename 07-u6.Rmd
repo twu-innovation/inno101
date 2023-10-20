@@ -111,7 +111,8 @@ What do you think? Share your thoughts by posting a comment on Discourse, for ex
 As you embark on your first year of study at TWU, what digital tools should you be familiar with?  What tools will be needed for your field of study?  Let's dive in to some common tech tools in academia. 
 
 ```{block, type='feedback'}
-Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267) is here to help!  Please reach out if you have any questions.) TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/) website with guides on technology tools you will likely need to use.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747) section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800) section for help with the tools mentioned below.
+
+Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267) is here to help!  Please reach out if you have any questions. TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/) website with guides on technology tools you will likely need to use.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747) section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800) section for help with the tools mentioned below.
 
 ```
 
@@ -275,6 +276,8 @@ give examples?
 
 -->
 
+```
+
 
 
 ## Digital Practices in the Workplace  
@@ -327,6 +330,7 @@ Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/)
 
 1. Read [The Age Of Digital; Music Executive Reacts To The Impact Of Digitalization In The Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b)
 2. Read [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f)
+
 
 ```
 
@@ -469,7 +473,17 @@ In this next topic, we introduce a number of societal issues and problematic onl
 You will choose one societal issue or antisocial behavior associated with the Internet that you would like to investigate further and publish as an editorial in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
 
 
-### Activity: Quiz: Problematic Online Behaviours  {-}
+- Trolling in Social Media
+- The True Cost of Free Websites
+- Net Neutrality
+- Online impersonation
+- Internet trolling
+- Online harassment
+- Psychological issues
+- Digital redlining
+- Equity and inclusion
+
+### Activity: Problematic Online Behaviours - Key terms quiz  {-}
 
 ```{block2, type='reflect'}
 
@@ -479,10 +493,19 @@ To test your knowledge of concepts associated with problematic behaviours online
 
 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+How did you do? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
 
-Next, take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz developed by the Clemson University Media Forensics Hub which uses images of real social media content.
 
-How did you do with the quizzes? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
+```
+
+
+### Activity: Spot the Troll! {-}
+
+```{block2, type='reflect'}
+
+Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz developed by the Clemson University Media Forensics Hub which uses images of real social media content.
+
+How did you do ? Did some of the profiles surprise you?  Have you encountered these types of profiles on social media?  How can you spot trolls online?  Share your thoughts by posting a comment on Discourse.
 
 
 ```
@@ -567,7 +590,7 @@ This video was produced in 2015, where the main concern of net neutrality seemed
 
 Fast forward to 2023 where the concern is now government oversight in what information we see.
 
-This issue is highly controversial and politisized.  If you are interested in exploring the topic...which means encountering diverse views on the subject, then read on!  As we learn with technology in this course and in life, we need to critically evaluate the information available on the internet and whether there are any restrictions on information that would help us as citizens to make informed decisions.
+This issue is highly controversial and politicized.  If you are interested in exploring the topic...which means encountering diverse views on the subject, then read on!  As we learn with technology in this course and in life, we need to critically evaluate the information available on the internet and whether there are any restrictions on information that would help us as citizens to make informed decisions.
 
 If interested, peruse the following resources.  ***Trigger alert!***  These perspective range from liberal to conservative points of view. This course aims to promote critical thinking of what we consume and produce online. Refer back to the video [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"}.  Will encountering an opposing point of view contribute to your understanding of an issue?
 
@@ -584,9 +607,24 @@ Consider the following case study:
 
 > "Facebook Zero became controversial in some countries due to several issues such as net neutrality.[9] For instance, India's Telecom Regulatory Authority (TRAI) bans zero-rated services on account of "discriminatory tariffs for data services on the basis of content”.[13] A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a "little web that turns the user into a mostly passive consumer of mostly western corporate content”.[11]"
 
+```
+
+<!--
+
+
+
+
+[EUROPEAN REGULATORS JUST STOPPED FACEBOOK, GOOGLE AND BIG TELECOMS’ NET NEUTRALITY VIOLATIONS](https://cyberlaw.stanford.edu/blog/2022/06/european-regulators-just-stopped-facebook-google-and-big-telecoms-net-neutrality).
+
+[FCC Launches Effort To Reinstate Net Neutrality Rules — Update](https://deadline.com/2023/10/net-neutrality-fcc-reinstate-jessica-rosenworcel-1235556493/)
+
 Is the Internet Neutral in Canada?  
 
 Search online for various views on this topic.  Here are a couple to get you started:  
+
+[Strengthening net neutrality in Canada]
+
+
 [Bill C-18: The fallout over Google, Meta's plans to block news links in Canada](https://www.youtube.com/watch?v=W5YLvCEd1yE)
 
 
@@ -679,29 +717,6 @@ After completing the activities above, answer the following questions:
 
 ```
 
-## Topic
-
-content
-
-<!--
-comment
--->
-
-
-
-### Activity:  {-}
-
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
 
 
 <!--
@@ -724,6 +739,12 @@ After completing the activities above, answer the following questions:
 - ...
 
 ```
+
+
+
+ 
+-->
+
 
 ## Digital Wisdom
 

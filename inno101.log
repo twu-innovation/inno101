@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  19 OCT 2023 23:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  20 OCT 2023 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2366,194 +2366,530 @@ Underfull \hbox (badness 10000) in paragraph at lines 3453--3454
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3509--3511
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3511--3513
-
- []
-
 [95]
+Underfull \hbox (badness 10000) in paragraph at lines 3510--3512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3512--3514
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [96]
-Underfull \hbox (badness 10000) in paragraph at lines 3571--3573
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3565--3565
+[]\TU/lmtt/m/n/10 Join the discussion on the impact of digital technology on business:[] 
+ []
 
+[97]
+Overfull \hbox (148.5pt too wide) in paragraph at lines 3567--3567
+[]\TU/lmtt/m/n/10 1. Choose any business or work environment (for example, your current career or future career)[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3573--3575
-
+Overfull \hbox (264.0pt too wide) in paragraph at lines 3568--3568
+[]\TU/lmtt/m/n/10 2.  Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3580--3582
-
+Overfull \hbox (395.25pt too wide) in paragraph at lines 3569--3569
+[]\TU/lmtt/m/n/10 3. State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:[] 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (243.0pt too wide) in paragraph at lines 3570--3570
+[]   \TU/lmtt/m/n/10 - Has the example contributed to a fundamental change in the way things were done, or is this a minor change?[] 
+ []
 
-[97] [98]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Overfull \hbox (327.0pt too wide) in paragraph at lines 3571--3571
+[]   \TU/lmtt/m/n/10 - Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.[] 
+ []
+
+
+Overfull \hbox (610.5pt too wide) in paragraph at lines 3573--3573
+[]\TU/lmtt/m/n/10 Please “Like”, share and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LDRS101.[] 
+ []
+
+
+Overfull \hbox (1665.75pt too wide) in paragraph at lines 3578--3578
+[]\TU/lmtt/m/n/10 Artificial intelligence (AI) is predicted to have a significant impact on society and business. Examples include, autonomous cars, computers understanding human speech and machine learning. Consider for instance, that computer chess games available for commercial desktop machines have the ability to beat accomplished chess players including grand masters.  And of course, Chat GPT.[] 
+ []
+
+
+Overfull \hbox (468.75pt too wide) in paragraph at lines 3580--3580
+[]\TU/lmtt/m/n/10 In this section we introduce a few interesting examples of artificial intelligence to provide a sense of how sophisticated these technologies are becoming.[] 
+ []
+
+
+Overfull \hbox (1371.75pt too wide) in paragraph at lines 3584--3584
+[]\TU/lmtt/m/n/10 > "The theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages" ([Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095426960){target="_blank"})[] 
+ []
+
+
+Overfull \hbox (1413.75pt too wide) in paragraph at lines 3586--3586
+[]\TU/lmtt/m/n/10 > "The capacity of a computer to perform operations analogous to learning and decision making in humans, as by an expert system, a program for CAD or CAM, or a program for the perception and recognition of shapes in computer vision systems" ([Dictionary.com](https://www.dictionary.com/browse/artificial-intelligence){target="_blank"})[] 
+ []
+
+
+Overfull \hbox (773.25pt too wide) in paragraph at lines 3588--3588
+[]\TU/lmtt/m/n/10 What is your experience with AI?  Have you used an AI tool, such as Grammerly or ChatGPT? How has this technology affected you as a student, and what effect do you think it has/will have on your chosen profession?[] 
+ []
+
+
+Overfull \hbox (38.25pt too wide) in paragraph at lines 3590--3590
+[]\TU/lmtt/m/n/10 In the next activity, we'll explore some of these questions and concerns.[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 3595--3595
+[]\TU/lmtt/m/n/10 First, do a quick search online for AI tools for university students.[] 
+ []
+
+
+Overfull \hbox (468.75pt too wide) in paragraph at lines 3597--3597
+[]\TU/lmtt/m/n/10 - [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (411.0pt too wide) in paragraph at lines 3598--3598
+[]\TU/lmtt/m/n/10 - [The 10 Best AI Tools to Help Students Learn Faster](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (1098.75pt too wide) in paragraph at lines 3600--3600
+[]\TU/lmtt/m/n/10 Intrigued? Do you find any tech tools that would be useful in understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, correcting grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, etc.?[] 
+ []
+
+
+Overfull \hbox (195.75pt too wide) in paragraph at lines 3602--3602
+[]\TU/lmtt/m/n/10 Do any of these capabilites concern you?  Do you think they concern your professors or fellow students?[] 
+ []
+
+
+Overfull \hbox (878.25pt too wide) in paragraph at lines 3604--3604
+[]\TU/lmtt/m/n/10 Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"}.   Is it Academic Fraud if you use Chat GPT to complete assignments?[] 
+ []
+
+
+Overfull \hbox (2054.25pt too wide) in paragraph at lines 3606--3606
+[]\TU/lmtt/m/n/10 Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies.  For example, the University of Toronto's guidelines for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 3608--3608
+[]\TU/lmtt/m/n/10 Here are some guidelines you may receive from your instructors at TWU:[] 
+ []
+
+
+Overfull \hbox (164.25pt too wide) in paragraph at lines 3610--3610
+[]\TU/lmtt/m/n/10 • Students are encouraged to make use of technology, including generative artificial intelligence[] 
+ []
+
+[98]
+Overfull \hbox (122.25pt too wide) in paragraph at lines 3612--3612
+[]\TU/lmtt/m/n/10 • Students must submit, as an appendix with their assignments, any content produced by an[] 
+ []
+
+
+Overfull \hbox (43.5pt too wide) in paragraph at lines 3613--3613
+[]\TU/lmtt/m/n/10 artificial intelligence tool, and the prompt used to generate the content.[] 
+ []
+
+
+Overfull \hbox (132.75pt too wide) in paragraph at lines 3614--3614
+[]\TU/lmtt/m/n/10 • Any content produced by an artificial intelligence tool must be cited appropriately. Many[] 
+ []
+
+
+Overfull \hbox (138.0pt too wide) in paragraph at lines 3615--3615
+[]\TU/lmtt/m/n/10 organizations that publish standard citation formats are now providing information on citing[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 3616--3616
+[]\TU/lmtt/m/n/10 generative AI (e.g., MLA: https://style.mla.org/citing-generative-ai/ ).[] 
+ []
+
+
+Overfull \hbox (174.75pt too wide) in paragraph at lines 3617--3617
+[]\TU/lmtt/m/n/10 • Students may use artificial intelligence tools for creating an outline for an assignment, but the[] 
+ []
+
+
+Overfull \hbox (127.5pt too wide) in paragraph at lines 3618--3618
+[]\TU/lmtt/m/n/10 final submitted assignment must be original work produced by the individual student alone.[] 
+ []
+
+
+Overfull \hbox (153.75pt too wide) in paragraph at lines 3619--3619
+[]\TU/lmtt/m/n/10 • Students may not use artificial intelligence tools for taking tests, writing research papers,[] 
+ []
+
+
+Overfull \hbox (132.75pt too wide) in paragraph at lines 3620--3620
+[]\TU/lmtt/m/n/10 creating computer code, or completing major course assignments. However, these tools may be[] 
+ []
+
+
+Overfull \hbox (138.0pt too wide) in paragraph at lines 3621--3621
+[]\TU/lmtt/m/n/10 useful when gathering information from across sources and assimilating it for understanding.[] 
+ []
+
+
+Overfull \hbox (227.25pt too wide) in paragraph at lines 3623--3623
+[]\TU/lmtt/m/n/10 If you have any question about the use of AI applications for course work, please speak with your instructor.[] 
+ []
+
+
+Overfull \hbox (269.25pt too wide) in paragraph at lines 3626--3626
+[]\TU/lmtt/m/n/10 Next, watch [How AI Could Save (Not Destroy) Education | Sal Khan | TED](https://www.youtube.com/watch?v=hJP5GqnTrNo)[] 
+ []
+
+
+Overfull \hbox (1062.0pt too wide) in paragraph at lines 3630--3630
+[]\TU/lmtt/m/n/10 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hJP5GqnTrNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>[] 
+ []
+
+
+Overfull \hbox (1387.5pt too wide) in paragraph at lines 3634--3634
+[]\TU/lmtt/m/n/10 Here is one more article that discusses the pros and cons for English Learners using AI in their studies: [Perspectives of the Use of ChatGPT as a Tool for Online Education of English](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (369.0pt too wide) in paragraph at lines 3640--3640
+[]\TU/lmtt/m/n/10 In this section we consider the impact of automation on the future job market and the implications for education and training. Consider:[] 
+ []
+
+
+Overfull \hbox (736.5pt too wide) in paragraph at lines 3649--3649
+[]\TU/lmtt/m/n/10 First, read [Collaborative Intelligence: Humans and AI Are Joining Forces](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} from Harvard Business Review.[] 
+ []
+
+
+Overfull \hbox (174.75pt too wide) in paragraph at lines 3651--3651
+[]\TU/lmtt/m/n/10 Next, watch [*Humans Need Not Apply*](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (1062.0pt too wide) in paragraph at lines 3655--3655
+[]\TU/lmtt/m/n/10 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Pq-S557XQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>[] 
+ []
 
 [99]
-Underfull \vbox (badness 5203) has occurred while \output is active []
+Overfull \hbox (589.5pt too wide) in paragraph at lines 3659--3659
+[]\TU/lmtt/m/n/10 Finally, read [The Potential of Collaborative Intelligence for Social Media and Online Communities] by [Marcin Frąckiewicz](https://ts2.space/en/author/marcin/){target="_blank"}.[] 
+ []
+
+
+Overfull \hbox (321.75pt too wide) in paragraph at lines 3661--3661
+[]\TU/lmtt/m/n/10 Consider your chosen field of study.  How can AI benefit your industry?  Are there any concerns regarding how AI might be used?[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 3663--3663
+[]\TU/lmtt/m/n/10 Share you thoughts on AI by posting a comment on Discourse, for example:[] 
+ []
+
+
+Overfull \hbox (1182.75pt too wide) in paragraph at lines 3674--3674
+[]\TU/lmtt/m/n/10 In this next topic, we introduce a number of societal issues and problematic online behaviors that have emerged in the digital world. Our list is not comprehensive and does not provide a thorough examination of the issues. Here, we encourage you to choose an issue for further investigation.[] 
+ []
+
+
+Overfull \hbox (1350.75pt too wide) in paragraph at lines 3676--3676
+[]\TU/lmtt/m/n/10 You will choose one societal issue or antisocial behavior associated with the Internet that you would like to investigate further and publish as an editorial in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.[] 
+ []
+
+
+Overfull \hbox (1266.75pt too wide) in paragraph at lines 3692--3692
+[]\TU/lmtt/m/n/10 To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click on the options to find out more about the concept.[] 
+ []
+
+
+Overfull \hbox (1035.75pt too wide) in paragraph at lines 3694--3694
+[]\TU/lmtt/m/n/10 <iframe scrolling="yes" src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=575" allowfullscreen="allowfullscreen" width="100%" height="1000" frameborder="0" title="INNO 101 Unit 6.5  Activity: Quiz: Problematic Online Behaviours"></iframe>[] 
+ []
+
+
+Overfull \hbox (295.5pt too wide) in paragraph at lines 3696--3696
+[]\TU/lmtt/m/n/10 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>[] 
+ []
+
+
+Overfull \hbox (300.75pt too wide) in paragraph at lines 3698--3698
+[]\TU/lmtt/m/n/10 How did you do? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.[] 
+ []
 
 [100]
-Underfull \hbox (badness 10000) in paragraph at lines 3660--3662
-
+Overfull \hbox (589.5pt too wide) in paragraph at lines 3706--3706
+[]\TU/lmtt/m/n/10 Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz developed by the Clemson University Media Forensics Hub which uses images of real social media content.[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3662--3664
-
+Overfull \hbox (741.75pt too wide) in paragraph at lines 3708--3708
+[]\TU/lmtt/m/n/10 How did you do ? Did some of the profiles surprise you?  Have you encountered these types of profiles on social media?  How can you spot trolls online?  Share your thoughts by posting a comment on Discourse.[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3685--3687
-
+Overfull \hbox (1524.0pt too wide) in paragraph at lines 3716--3716
+[]\TU/lmtt/m/n/10 Watch this Matrix parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product. (Do you think this is a valid and reliable source for the topic?) [The Terrifying Cost of "Free” Websites | Adam Ruins Everything](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"}[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3687--3689
+Overfull \hbox (1062.0pt too wide) in paragraph at lines 3720--3720
+[]\TU/lmtt/m/n/10 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5pFX2P7JLwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>[] 
+ []
 
+
+Overfull \hbox (510.75pt too wide) in paragraph at lines 3727--3727
+[]\TU/lmtt/m/n/10 Read: [Stop Saying ‘If You’re Not Paying, You’re The Product’](https://www.techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product/){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (999.0pt too wide) in paragraph at lines 3728--3728
+[]\TU/lmtt/m/n/10 Read: Krutka, D.G., Smits, R.M., and Willhelm, T.A. (2021) [Don’t Be Evil: Should We Use Google in Schools?](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} TechTrends. Association for Educational Communications & Technology.[] 
+ []
+
+
+Overfull \hbox (216.75pt too wide) in paragraph at lines 3732--3732
+[]\TU/lmtt/m/n/10 - Read the Wikipedia article on [funding bias](https://en.wikipedia.org/wiki/Funding_bias){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (1051.5pt too wide) in paragraph at lines 3733--3733
+[]\TU/lmtt/m/n/10 - Read: Lundh, A., Krogsbøll, L. T., & Gøtzsche, P. C. (2012). [Sponsors’ participation in conduct and reporting of industry trials: a descriptive study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146){target="_blank"}. Trials, 13(1), 146.[] 
+ []
+
+
+Overfull \hbox (206.25pt too wide) in paragraph at lines 3734--3734
+[]\TU/lmtt/m/n/10 - Read the Wikipedia article on [ad blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (59.25pt too wide) in paragraph at lines 3736--3736
+[]\TU/lmtt/m/n/10 After viewing this resources, what do you think the cost of free websites is?[] 
+ []
+
+
+Overfull \hbox (174.75pt too wide) in paragraph at lines 3738--3738
+[]\TU/lmtt/m/n/10 Please share your thoughts on Discourse and/or use Hypothes.is to annotate and share your comments.[] 
+ []
+
+
+Overfull \hbox (3744.75pt too wide) in paragraph at lines 3746--3746
+[]\TU/lmtt/m/n/10 The [OERu](https://oeru.org/){target="_blank"} is a charitable organisation which provides open online courses for free, using open educational resources which any educational institution can adopt, modify and reuse. There are costs that need to be covered to sustain the OERu: for example, the assembly of open online courses, hosting of the server and software infrastructure, staff to coordinate and support the initiative. etc. The OERu does not generate any revenue from corporate services, by, for example, allowing advertising on the OERu course sites for a share of the advertising revenue. Moreover, the OERu does not sell or generate revenue from personal data learners provide by using these free learning services, therefore users are not the product of this service.[] 
  []
 
 [101]
-Underfull \hbox (badness 10000) in paragraph at lines 3729--3731
-
+Overfull \hbox (752.25pt too wide) in paragraph at lines 3750--3750
+[]\TU/lmtt/m/n/10 Join the discussion on philanthropy and corporate advertising. The key question is how can non-profit organisations sustain free educational services for those who can’t afford traditional education provision?[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3731--3733
-
+Overfull \hbox (1025.25pt too wide) in paragraph at lines 3754--3754
+[]\TU/lmtt/m/n/10 - As a learner, how would you feel if the course materials included corporate advertising? If advertising were to be supported, how would you feel if the OERu course sites required you to switch off any ad-blockers before gaining access to the course materials?[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3759--3761
-
+Overfull \hbox (794.25pt too wide) in paragraph at lines 3755--3755
+[]\TU/lmtt/m/n/10 - Is it appropriate for publicly funded institutions and charities working in education to generate revenue from corporate advertising to support and sustain free online services? What are the risks and opportunities?[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3761--3763
-
+Overfull \hbox (411.0pt too wide) in paragraph at lines 3756--3756
+[]\TU/lmtt/m/n/10 - Should education institutions and educational charities accept significant corporate sponsorship in return for profiling proprietary products?[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3763--3765
-
+Overfull \hbox (636.75pt too wide) in paragraph at lines 3757--3757
+[]\TU/lmtt/m/n/10 - The OERu has recommended that learners use free blogging services to share their learning outputs. Many of these services carry advertising. How do you feel about using these services –
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3765--3767
-
+Overfull \hbox (946.5pt too wide) in paragraph at lines 3757--3757
+\TU/lmtt/m/n/10 being the product rather than consumer? Would it be better for OERu to recommend that learners use a paid service without advertising? How would this impact on learners who do not have sufficient funds to afford maintaining a domain of their own?[] 
  []
 
 
-Underfull \vbox (badness 2088) has occurred while \output is active []
+Overfull \hbox (216.75pt too wide) in paragraph at lines 3765--3765
+[]\TU/lmtt/m/n/10 > *“The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past.”*[] 
+ []
+
+
+Overfull \hbox (2253.75pt too wide) in paragraph at lines 3769--3769
+[]\TU/lmtt/m/n/10 The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access, it was paramount to design the web as an open system without a central locus of control. However, on the Internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.[] 
+ []
+
+
+Overfull \hbox (148.5pt too wide) in paragraph at lines 3775--3775
+[]\TU/lmtt/m/n/10 Watch [Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (1062.0pt too wide) in paragraph at lines 3779--3779
+[]\TU/lmtt/m/n/10 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p90McT24Z6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>[] 
+ []
+
+
+Overfull \hbox (1098.75pt too wide) in paragraph at lines 3783--3783
+[]\TU/lmtt/m/n/10 This video was produced in 2015, where the main concern of net neutrality seemed to relate to companies controlling our access to information on the internet.  Notice around the 2 minute mark where opposing political parties are supported/blamed for their view on the topic.)[] 
+ []
+
+
+Overfull \hbox (148.5pt too wide) in paragraph at lines 3785--3785
+[]\TU/lmtt/m/n/10 Fast forward to 2023 where the concern is now government oversight in what information we see.[] 
+ []
+
+
+Overfull \hbox (1812.75pt too wide) in paragraph at lines 3787--3787
+[]\TU/lmtt/m/n/10 This issue is highly controversial and politicized.  If you are interested in exploring the topic...which means encountering diverse views on the subject, then read on!  As we learn with technology in this course and in life, we need to critically evaluate the information available on the internet and whether there are any restrictions on information that would help us as citizens to make informed decisions.[] 
+ []
+
+
+Overfull \hbox (1975.5pt too wide) in paragraph at lines 3789--3789
+[]\TU/lmtt/m/n/10 If interested, peruse the following resources.  ***Trigger alert!***  These perspective range from liberal to conservative points of view. This course aims to promote critical thinking of what we consume and produce online. Refer back to the video [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"}.  Will encountering an opposing point of view contribute to your understanding of an issue?[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 3794--3794
+[]\TU/lmtt/m/n/10 <summary>**Facebook Zero: Am Attempt to Bring Access to All?**</summary>[] 
+ []
 
 [102]
-Overfull \vbox (8.21329pt too high) has occurred while \output is active []
+Overfull \hbox (2148.75pt too wide) in paragraph at lines 3798--3798
+[]\TU/lmtt/m/n/10 "[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero){target="_blank"} is an application for mobile devices and business agreements with a number of companies to provide access to selected internet services without incurring data charges targeting markets where internet access may be less affordable. Facebook Zero is part of internet.org set up by Facebook and the basic websites than can be accessed for free without data charges are determined by the initiative."[] 
+ []
+
+
+Overfull \hbox (2332.5pt too wide) in paragraph at lines 3802--3802
+[]\TU/lmtt/m/n/10 > "Facebook Zero became controversial in some countries due to several issues such as net neutrality.[9] For instance, India's Telecom Regulatory Authority (TRAI) bans zero-rated services on account of "discriminatory tariffs for data services on the basis of content”.[13] A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a "little web that turns the user into a mostly passive consumer of mostly western corporate content”.[11]"[] 
+ []
+
+
+Overfull \hbox (815.25pt too wide) in paragraph at lines 3810--3810
+[]\TU/lmtt/m/n/10 [EUROPEAN REGULATORS JUST STOPPED FACEBOOK, GOOGLE AND BIG TELECOMS’ NET NEUTRALITY VIOLATIONS](https://cyberlaw.stanford.edu/blog/2022/06/european-regulators-just-stopped-facebook-google-and-big-telecoms-net-neutrality).[] 
+ []
+
+
+Overfull \hbox (468.75pt too wide) in paragraph at lines 3812--3812
+[]\TU/lmtt/m/n/10 [FCC Launches Effort To Reinstate Net Neutrality Rules — Update](https://deadline.com/2023/10/net-neutrality-fcc-reinstate-jessica-rosenworcel-1235556493/)[] 
+ []
+
+
+Overfull \hbox (101.25pt too wide) in paragraph at lines 3816--3816
+[]\TU/lmtt/m/n/10 Search online for various views on this topic.  Here are a couple to get you started:[] 
+ []
+
+
+Overfull \hbox (311.25pt too wide) in paragraph at lines 3821--3821
+[]\TU/lmtt/m/n/10 [Bill C-18: The fallout over Google, Meta's plans to block news links in Canada](https://www.youtube.com/watch?v=W5YLvCEd1yE)[] 
+ []
+
+
+Overfull \hbox (264.0pt too wide) in paragraph at lines 3824--3824
+[]\TU/lmtt/m/n/10 [Debating Bill C-11—Internet Censorship for Canadians](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"}[] 
+ []
+
+
+Overfull \hbox (432.0pt too wide) in paragraph at lines 3831--3831
+[]\TU/lmtt/m/n/10 [Net Neutrality is BACK! FCC tries to take away internet freedom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY) from Redacted w Clayton Morris[] 
+ []
+
+
+Overfull \hbox (90.75pt too wide) in paragraph at lines 3834--3834
+[]\TU/lmtt/m/n/10 Poilievre: Warned about Justin Trudeau's online censorship law | Latest News | WION[] 
+ []
+
+
+Overfull \hbox (579.0pt too wide) in paragraph at lines 3839--3839
+[]\TU/lmtt/m/n/10 [Who really wins from Facebook's 'free internet' plan for Africa?](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-internet-plan-for-africa/){target="_blank"}[] 
+ []
 
 [103]
-Underfull \hbox (badness 10000) in paragraph at lines 3838--3840
-
+Overfull \hbox (369.0pt too wide) in paragraph at lines 3843--3843
+[]\TU/lmtt/m/n/10 In addition to the challenges associated with net neutrality, think about how closed technologies can build walled gardens, for example:[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3840--3842
-
+Overfull \hbox (237.75pt too wide) in paragraph at lines 3845--3845
+[]\TU/lmtt/m/n/10 - The Apple iOS which is restricted to running pre-approved applications on the hardware purchased by the user.[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3850--3852
-
+Overfull \hbox (195.75pt too wide) in paragraph at lines 3846--3846
+[]\TU/lmtt/m/n/10 - The Amazon Kindle line of e-readers intentionally designed to favour the Amazon commercial ecosystem.[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3852--3854
-
+Overfull \hbox (678.75pt too wide) in paragraph at lines 3847--3847
+[]\TU/lmtt/m/n/10 - Video game consoles that typically require game developers to purchase a license to develop games for the platform frequently requiring approval from the platform prior to publishing the games.[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3862--3864
-
+Overfull \hbox (101.25pt too wide) in paragraph at lines 3858--3858
+[]\TU/lmtt/m/n/10 Share your thoughts on net neutrality by posting a comment on Discourse, for example:[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3864--3866
-
+Overfull \hbox (1.5pt too wide) in paragraph at lines 3861--3861
+[]\TU/lmtt/m/n/10 - Net neutrality can / can’t coexist with internet.org because ...[] 
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3866--3868
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [104]
-Overfull \vbox (570.15329pt too high) has occurred while \output is active []
-
-[105] [106]
-Underfull \hbox (badness 10000) in paragraph at lines 3956--3958
+Underfull \hbox (badness 10000) in paragraph at lines 3941--3943
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3958--3960
+Underfull \hbox (badness 10000) in paragraph at lines 3943--3945
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4001--4003
+Underfull \hbox (badness 10000) in paragraph at lines 3986--3988
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4003--4005
+Underfull \hbox (badness 10000) in paragraph at lines 3988--3990
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4005--4007
+Underfull \hbox (badness 10000) in paragraph at lines 3990--3992
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4007--4009
+Underfull \hbox (badness 10000) in paragraph at lines 3992--3994
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[107]
+[105]
 Overfull \vbox (18.26329pt too high) has occurred while \output is active []
 
-[108]
+[106]
 Underfull \vbox (badness 1087) has occurred while \output is active []
 
-[109] [110] [111
+[107] [108] [109
 
-] [112
+] [110
 
 ]
-Underfull \hbox (badness 4242) in paragraph at lines 4081--4082
+Underfull \hbox (badness 4242) in paragraph at lines 4066--4067
 []\TU/lmr/m/n/10 [Creating Communities of Practice]([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 4081--4082
+Underfull \hbox (badness 1755) in paragraph at lines 4066--4067
 [][][][][][][][][][] [] [][][][] [][] [][] [][] [] [][] [][][][][][][][][] [][] [][] [][] [][][][][][][][][]$[]\TU/lmr/m/n/10 ] from ERLC, a member of
  []
 
-(./inno101.bbl [113] [114
+(./inno101.bbl [111] [112
 
 ]
 
@@ -2563,21 +2899,21 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[115] (./inno101.aux)
+[113] (./inno101.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: A5B7081C69CDD77380379CBD0D161A81;7867.
+(rerunfilecheck)             Checksum: 1BC3F59D4F8E6C9BC42B637E3ADE8CE1;7560.
  ) 
 Here is how much of TeX's memory you used:
- 26730 strings out of 477165
- 534200 string characters out of 5809437
+ 26711 strings out of 477165
+ 533691 string characters out of 5809437
  1964674 words of memory out of 5000000
- 47944 multiletter control sequences out of 15000+600000
+ 47925 multiletter control sequences out of 15000+600000
  564536 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  90i,9n,120p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on inno101.pdf (115 pages).
+Output written on inno101.pdf (113 pages).
