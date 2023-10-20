@@ -111,7 +111,7 @@ What do you think? Share your thoughts by posting a comment on Discourse, for ex
 As you embark on your first year of study at TWU, what digital tools should you be familiar with?  What tools will be needed for your field of study?  Let's dive in to some common tech tools in academia. 
 
 ```{block, type='feedback'}
-Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267) is here to help!  Please reach out if you have any questions.) TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/) website with guides on using technology commonly used at TWU. has a number of articles to assist you with technology.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747) section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800) section for help with the tools mentioned below.
+Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267) is here to help!  Please reach out if you have any questions.) TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/) website with guides on technology tools you will likely need to use.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747) section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800) section for help with the tools mentioned below.
 
 ```
 
@@ -168,7 +168,14 @@ This next section will outline basic hardware and software, and accessories you 
 - Download speed of at least 25 mbps  
 - Upload speed of at least 3 mbps  
 - Ping response of less than 100ms  
+
+
+```{block, type='feedback'}
+
 Test your Internet speed using [speedtest.net](speedtest.net) 
+
+```
+
 
 Please consider the following while participating in online/hybrid courses:  
 - Using a shared Internet connection will impact connectivity, such as additional household members use of streaming TV, gaming, and other Internet usage.  
@@ -182,9 +189,9 @@ Please consider the following while participating in online/hybrid courses:
 
 **[Data & Cloud Storage and Sharing](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533)**  
 Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:   
-- [ ] [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260)
-- [ ] Microsoft SharePoint  
-- [ ] OwnCloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681) 
+- [ ] [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260)  
+- [ ] [Microsoft SharePoint](https://mytwu.sharepoint.com/)   
+- [ ] [OwnCloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681)  
 
 The responsibility for storing TWU documents and files lies with the person who stores the data. Judgment is required about how and where TWU data will be stored.  
 
@@ -221,19 +228,14 @@ Guidance Table for Sharing Data
 <details>
 <summary>**Other Common Tools Supported at TWU**</summary>
 
-Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create a-portolfios, or develop other media.  We recommend the following:  
+Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create e-portolfios, or develop other media.  We recommend the following:  
 
-- [ ] [MS Teams](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353)
-
-- [ ] [MS Stream](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23454)
-
-- [ ] [Zoom](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478)
-
-- [ ] [Survey Monkey](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=47076)  
-
-- [ ] [WordPress](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4746)  
-
-- [ ] [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940) (A/V editing and tips)  
+- [ ] [MS Teams](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353)  
+- [ ] [MS Stream](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23454)  
+- [ ] [Zoom](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478)  
+- [ ] [Survey Monkey](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=47076)    
+- [ ] [WordPress](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4746)    
+Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940) for Audio editing, Video editing, and other media tips.  
 
 </details>
 
@@ -247,6 +249,10 @@ We anticipate those tools will help you think critically, collaborate, and ultim
 There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, etc.).
 
 
+### Activity: Tools for Learning in University  {-}
+
+```{block2, type='reflect'}
+
 Search for the following apps/websites using the key words listed below.  Try adding "top" "best" "free" "university" "students" and see how that changes your search results.
 
 - Note-taking Apps
@@ -259,6 +265,7 @@ Search for the following apps/websites using the key words listed below.  Try ad
 - Research Tools
 - Writing Tools
 
+On your blog or in Discourse, share some tools that you've used, or that you plan to use to help in your studies.
 
 <!--
 give examples?
@@ -270,12 +277,13 @@ give examples?
 
 
 
-## Digital Practices in Academia and the Workplace  
+## Digital Practices in the Workplace  
 
+Let's fast forward a couple years to a time when you graduate from Trinity - fully equipped with the knowledge, skills, character, and creativity to make a lasting impact in the world. What digital skills will you have to prepare you for your future career?  
 In this topic we consider how changes in technology have and will continue to impact digital practices in the workplace.  Pause and consider the following questions:
 
 - How do professionals in your field of interest network online?  
-- How has technology  changed business practices in your field of interest or career?  
+- How has technology changed business practices in your field of interest or career?  
 - What are the implications for learning and skills development in your future career precipitated by changes in digital technology?  
 
 ### Activity: The Future of Work {-}
@@ -296,10 +304,10 @@ Watch [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://
 
 What do you think? Share your thoughts by posting a comment on Discourse, for example:
 
-Higher ed is valuable because ...
-- In a digital age ...
-- I am confident that ...
-- I am concerned about ...
+Higher ed is valuable because ...  
+- In a digital age ...  
+- I am confident that ...  
+- I am concerned about ...  
 
 ```
 
@@ -317,9 +325,23 @@ The readings which follow take a retrospective look at the impact of the Interne
 
 Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"} sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101. 
 
-1. Read [Chapter 3](https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3){target="_blank"} of Weller, M. (2011). [The Digital Scholar: How Technology is Changing Academic Practice](https://www.bloomsburycollections.com/monograph?docid=b-9781849666275){target="_blank"}. Bloomsbury Publishing PLC. (Direct [hypothes.is link](https://via.hypothes.is/https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3){target="_blank"}.)  
+1. Read [The Age Of Digital; Music Executive Reacts To The Impact Of Digitalization In The Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b)
+2. Read [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f)
+
+```
+
+
+
+<!--
+
+ old examples:
+ 1. Read [Chapter 3](https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3){target="_blank"} of Weller, M. (2011). [The Digital Scholar: How Technology is Changing Academic Practice](https://www.bloomsburycollections.com/monograph?docid=b-9781849666275){target="_blank"}. Bloomsbury Publishing PLC. (Direct [hypothes.is link](https://via.hypothes.is/https://www.bloomsburycollections.com/monograph-detail?docid=b-9781849666275&tocid=b-9781849666275-chapter3){target="_blank"}.)  
 2. Read: [How streaming saved the music industry](https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry){target="_blank"}, published by the Guardian. (Direct [hypothes.is link](https://via.hypothes.is/https://www.theguardian.com/music/2018/apr/24/weve-got-more-money-swirling-around-how-streaming-saved-the-music-industry){target="_blank"}.)  
 3. Read: [The future of newspapers in the digital age](https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312){target="_blank"}, published by Julien Sueres. (Direct [hypothes.is link](https://via.hypothes.is/https://medium.com/international-online-journalism/the-future-of-newspapers-in-the-digital-age-c7ac8a118312){target="_blank"}.)  
+
+-->
+
+
 
 ```
 
@@ -361,21 +383,46 @@ In the next activity, we'll explore some of these questions and concerns.
 ```{block2, type='reflect'}
 
 First, do a quick search online for AI tools for university students. 
-Examples:
-- [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"}  
-- [The 10 Best AI Tools to Help Students Learn Faster](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"}  
+Examples:  
+- [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"}    
+- [The 10 Best AI Tools to Help Students Learn Faster](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"}    
 
-Intrigued? Do you find any tech tools that you might use to help you with understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, etc.?
+Intrigued? Do you find any tech tools that would be useful in understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, correcting grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, etc.?
 
 Do any of these capabilites concern you?  Do you think they concern your professors or fellow students? 
 
-Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"}.
+Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"}.   Is it Academic Fraud if you use Chat GPT to complete assignments?  
 
 Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies.  For example, the University of Toronto's guidelines for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"}
 
+Here are some guidelines you may receive from your instructors at TWU:
+
+• Students are encouraged to make use of technology, including generative artificial intelligence
+tools, to contribute to their understanding of course materials.
+• Students must submit, as an appendix with their assignments, any content produced by an
+artificial intelligence tool, and the prompt used to generate the content.
+• Any content produced by an artificial intelligence tool must be cited appropriately. Many
+organizations that publish standard citation formats are now providing information on citing
+generative AI (e.g., MLA: https://style.mla.org/citing-generative-ai/ ).
+• Students may use artificial intelligence tools for creating an outline for an assignment, but the
+final submitted assignment must be original work produced by the individual student alone.
+• Students may not use artificial intelligence tools for taking tests, writing research papers,
+creating computer code, or completing major course assignments. However, these tools may be
+useful when gathering information from across sources and assimilating it for understanding.
+
+If you have any question about the use of AI applications for course work, please speak with your instructor.
+
+
+Next, watch [How AI Could Save (Not Destroy) Education | Sal Khan | TED](https://www.youtube.com/watch?v=hJP5GqnTrNo)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hJP5GqnTrNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
 Here is one more article that discusses the pros and cons for English Learners using AI in their studies: [Perspectives of the Use of ChatGPT as a Tool for Online Education of English](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English){target="_blank"}
 
- 
 
 ```
 
@@ -414,125 +461,13 @@ Share you thoughts on AI by posting a comment on Discourse, for example:
 ```
 
 
-### Activity:  {-}
 
-```{block2, type='reflect'}
+## Societal Issues and the Internet 
 
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
-
-## Topic
-
-content
-
-<!--
-comment
--->
-
-
-
-### Activity:  {-}
-
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
-
-## Topic
-
-**Digital Rights Management**
-
-In a digital world, you may not have the full ownership rights you expect, or are accustomed to receiving in the physical world, when you buy digital content, resources, and equipment. In this section we explore digital rights management, geoblocking, and other examples. We highlight the importance users have to study the terms of reference and licenses when using proprietary software and buying products that rely on digital technology.
-
-**Mini Challenge Summary**
-
-**Summary:** Explore and discuss the impact of digital rights management. Time: 30–45 minutes. Consult the suggested resources and participate in the digital rights management debate.
-
-<span class="prote">John Deere 9530 c.jpg</span>
-
-**Digital Rights Management (DRM):** Digital rights management (DRM) describes the practice of imposing technical restrictions (hardware or software) to restrict what users can do with the digital content or operation of their equipment. 
-
-**Examples include:**
-
-- Film studios that embed software on their DVDs that restricts the number of copies a legal user can make to two.  
-- Computer games that restrict the number of devices on which the game can be installed requiring server authentication to keep track of the number of installations.  
-- e-Book publishers who restrict the ability to copy or print the materials.
-
-**Reading**
-
-- Layton, J. (Jan. 3, 2006). How Digital Rights Management Works. Retrieved July 4, 2017. (Click on the next button to progress the sub-pages of the article.)
-
-**Geoblocking:** Geoblocking is a form of DRM which restricts access to content based on geographical location; for example, restrictions associated with media rights for sport coverage or films in different parts of the world because copyright holders sell broadcast and distribution rights to different companies around the world. Frequently, prices for streamed services of the same content will differ from country to country.
-
-In another example, an individual who buys DVD films in one country and then emigrates to another country, may find that the playback of the legally purchased content is restricted by technology means in the new country of residence.
-
-**Reading**
-
-Geoblocking from Wikipedia;
-
-EU lawmakers Include Spotify and iTunes in Geoblocking Ban from Reuters.
-
-Case study - The Right to Repair
-
-Do farmers have the right to repair their own tractors? Not necessarily, for example, John Deere’s proprietary software used to operate the vehicle does not allow “owners” to repair systems themselves and in effect they only have an implied license for life to operate the vehicle.
-
-**Readings**
-
-Choose one or two of the following readings (feel free to annotate using Hypothes.is and remember to tag your posts using the course code: lida102):
-
-- We Can’t Let John Deere Destroy the Very Idea of Ownership from Wired.
-- Why American Farmers are Hacking their own Tractors from the Guardian  
-- A Right to Repair: Why Nebraska Farmers are Taking on John Deere and Apple from the Guardian.  
-- The Fight for the “Right to Repair” from Smithsonian.com.  
-- Outputs  
-
-**Digital Rights Management Debate**
-
-- Seeing both sides of a debate gives you the opportunity to better understand the issues. In this discussion, choose one of  
-
-**the questions listed below and post to the DRM debate. Your post should include:**
-
-- A sentence summarizing the issue.  
-- The most important reason, in your opinion, why DRM is appropriate in a digital world.   
-- The most important reason, in your opinion, why DRM is not appropriate in a digital world.  
-
-<span class="blockhead">Questions to Consider (optional)</span>
-
-- Do you have personal experience of a DRM issue? Summarize the example and present both sides of the issue.  
-- Do you have personal experience of a geoblocking issue? Summarize the example and present both sides of the issue.  
-- Should owners of equipment have the right to repair? Summarize the example and present both sides of the issue.
-
-**Societal Issues and the Internet**
-
-<span class="prote">Abstract crowd.jpg</span>
-
-In this subunit, we introduce a number of societal issues and problematic online behaviors that have emerged in the digital world. Our list is not comprehensive and does not provide a thorough examination of the issues. Here, we encourage you to choose an issue for further investigation.
+In this next topic, we introduce a number of societal issues and problematic online behaviors that have emerged in the digital world. Our list is not comprehensive and does not provide a thorough examination of the issues. Here, we encourage you to choose an issue for further investigation.
 
 You will choose one societal issue or antisocial behavior associated with the Internet that you would like to investigate further and publish as an editorial in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
 
-<!--
-comment
--->
-
-## Societal Issues and the Internet
-
-In the final topic of this unit we introduce a number of societal issues and problematic online behaviours which have emerged in the digital world.
-
-This is by no means a comprehensive list or a thorough examination of the respective issues. The selected issues are provided as a stimulus to help you choose an issue for further investigation.
 
 ### Activity: Quiz: Problematic Online Behaviours  {-}
 
@@ -716,42 +651,10 @@ text
 
 </details>
 
-<details>
-<summary>**title of article**</summary>
-
-text
-
-
-</details>
-
-
-<details>
-<summary>**title of article**</summary>
-
-text
-
-
-</details>
 
 
 ```
 
-### Activity: Is there Net Neutrality Today?  {-}
-
-```{block2, type='reflect'}
-
-
-
-
-```
-
-
-### Activity: Forum: Philanthropy and corporate advertising  {-}
-
-```{block2, type='reflect'}
-
-
-```
 
 
 ### Activity:   {-}
@@ -762,28 +665,48 @@ text
 ```
 
 
-### Activity:   {-}
+### Activity:  {-}
 
 ```{block2, type='reflect'}
 
+Watch/read...
+
+<span class="blockhead">Questions to Consider</span>
+
+After completing the activities above, answer the following questions:
+
+- ...
+
+```
+
+## Topic
+
+content
+
+<!--
+comment
+-->
+
+
+
+### Activity:  {-}
+
+```{block2, type='reflect'}
+
+Watch/read...
+
+<span class="blockhead">Questions to Consider</span>
+
+After completing the activities above, answer the following questions:
+
+- ...
 
 ```
 
 
-### Activity:   {-}
-
-```{block2, type='reflect'}
-
-
-```
-
-
-### Activity:   {-}
-
-```{block2, type='reflect'}
-
-
-```
+<!--
+comment
+-->
 
 
 
@@ -884,7 +807,83 @@ Before you move on to the next unit, check that you are able to:
 ```
 
 
+<!--
+notes
+
+
+
+
 <details>
 <summary>**title**</summary>
 
 </details>
+
+
+deleting...or saving for later:
+
+## Topic
+
+**Digital Rights Management**
+
+In a digital world, you may not have the full ownership rights you expect, or are accustomed to receiving in the physical world, when you buy digital content, resources, and equipment. In this section we explore digital rights management, geoblocking, and other examples. We highlight the importance users have to study the terms of reference and licenses when using proprietary software and buying products that rely on digital technology.
+
+**Mini Challenge Summary**
+
+**Summary:** Explore and discuss the impact of digital rights management. Time: 30–45 minutes. Consult the suggested resources and participate in the digital rights management debate.
+
+<span class="prote">John Deere 9530 c.jpg</span>
+
+**Digital Rights Management (DRM):** Digital rights management (DRM) describes the practice of imposing technical restrictions (hardware or software) to restrict what users can do with the digital content or operation of their equipment. 
+
+**Examples include:**
+
+- Film studios that embed software on their DVDs that restricts the number of copies a legal user can make to two.  
+- Computer games that restrict the number of devices on which the game can be installed requiring server authentication to keep track of the number of installations.  
+- e-Book publishers who restrict the ability to copy or print the materials.
+
+**Reading**
+
+- Layton, J. (Jan. 3, 2006). How Digital Rights Management Works. Retrieved July 4, 2017. (Click on the next button to progress the sub-pages of the article.)
+
+**Geoblocking:** Geoblocking is a form of DRM which restricts access to content based on geographical location; for example, restrictions associated with media rights for sport coverage or films in different parts of the world because copyright holders sell broadcast and distribution rights to different companies around the world. Frequently, prices for streamed services of the same content will differ from country to country.
+
+In another example, an individual who buys DVD films in one country and then emigrates to another country, may find that the playback of the legally purchased content is restricted by technology means in the new country of residence.
+
+**Reading**
+
+Geoblocking from Wikipedia;
+
+EU lawmakers Include Spotify and iTunes in Geoblocking Ban from Reuters.
+
+Case study - The Right to Repair
+
+Do farmers have the right to repair their own tractors? Not necessarily, for example, John Deere’s proprietary software used to operate the vehicle does not allow “owners” to repair systems themselves and in effect they only have an implied license for life to operate the vehicle.
+
+**Readings**
+
+Choose one or two of the following readings (feel free to annotate using Hypothes.is and remember to tag your posts using the course code: lida102):
+
+- We Can’t Let John Deere Destroy the Very Idea of Ownership from Wired.
+- Why American Farmers are Hacking their own Tractors from the Guardian  
+- A Right to Repair: Why Nebraska Farmers are Taking on John Deere and Apple from the Guardian.  
+- The Fight for the “Right to Repair” from Smithsonian.com.  
+- Outputs  
+
+**Digital Rights Management Debate**
+
+- Seeing both sides of a debate gives you the opportunity to better understand the issues. In this discussion, choose one of  
+
+**the questions listed below and post to the DRM debate. Your post should include:**
+
+- A sentence summarizing the issue.  
+- The most important reason, in your opinion, why DRM is appropriate in a digital world.   
+- The most important reason, in your opinion, why DRM is not appropriate in a digital world.  
+
+<span class="blockhead">Questions to Consider (optional)</span>
+
+- Do you have personal experience of a DRM issue? Summarize the example and present both sides of the issue.  
+- Do you have personal experience of a geoblocking issue? Summarize the example and present both sides of the issue.  
+- Should owners of equipment have the right to repair? Summarize the example and present both sides of the issue.
+
+
+-->
