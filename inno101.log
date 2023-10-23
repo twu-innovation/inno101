@@ -1,155 +1,150 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  20 OCT 2023 14:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  22 OCT 2023 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **inno101.tex
 (./inno101.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex
-/base/book.cls
-Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count175
-\c@chapter=\count176
-\c@section=\count177
-\c@subsection=\count178
-\c@subsubsection=\count179
-\c@paragraph=\count180
-\c@subparagraph=\count181
-\c@figure=\count182
-\c@table=\count183
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
-\@mathmargin=\skip49
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen139
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\@emptytoks=\toks17
+\ex@=\dimen141
+)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen140
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+\pmbraise@=\dimen142
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count184
+\inf@bad=\count190
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count185
-\leftroot@=\count186
+\uproot@=\count191
+\leftroot@=\count192
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count187
-\DOTSCASE@=\count188
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count193
+\DOTSCASE@=\count194
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen141
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count189
-\c@MaxMatrixCols=\count190
+\macc@depth=\count195
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count196
 \dotsspace@=\muskip16
-\c@parentequation=\count191
-\dspbrk@lvl=\count192
-\tag@help=\toks16
-\row@=\count193
-\column@=\count194
-\maxfields@=\count195
-\andhelp@=\toks17
-\eqnshift@=\dimen142
-\alignsep@=\dimen143
-\tagshift@=\dimen144
-\tagwidth@=\dimen145
-\totwidth@=\dimen146
-\lineht@=\dimen147
-\@envbody=\toks18
-\multlinegap=\skip50
-\multlinetaggap=\skip51
-\mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks18
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math.sty (
-/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-02-18 L3 programming layer (loader) 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
-(|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count196
-\l__color_backend_stack_int=\count197
-\g__color_backend_stack_int=\count198
-\g__graphics_track_int=\count199
-\l__pdf_internal_box=\box49
-\g__pdf_backend_object_int=\count266
-\g__pdf_backend_annotation_int=\count267
-\g__pdf_backend_link_int=\count268
+)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-10-10 L3 programming layer (loader) 
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2023-10-10 L3 backend support: XeTeX
+\g__graphics_track_int=\count268
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count269
+\g__pdf_backend_annotation_int=\count270
+\g__pdf_backend_link_int=\count271
 ))
-Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.s
-ty
-Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
-TeX
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
-01.sty
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
-tex))) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys
-2e.sty
-Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count269
-\l__fontspec_language_int=\count270
-\l__fontspec_strnum_int=\count271
-\l__fontspec_tmp_int=\count272
-\l__fontspec_tmpa_int=\count273
-\l__fontspec_tmpb_int=\count274
-\l__fontspec_tmpc_int=\count275
-\l__fontspec_em_int=\count276
-\l__fontspec_emdef_int=\count277
-\l__fontspec_strong_int=\count278
-\l__fontspec_strongdef_int=\count279
-\l__fontspec_tmpa_dim=\dimen148
-\l__fontspec_tmpb_dim=\dimen149
-\l__fontspec_tmpc_dim=\dimen150
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/
-local/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
-Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count272
+\l__fontspec_language_int=\count273
+\l__fontspec_strnum_int=\count274
+\l__fontspec_tmp_int=\count275
+\l__fontspec_tmpa_int=\count276
+\l__fontspec_tmpb_int=\count277
+\l__fontspec_tmpc_int=\count278
+\l__fontspec_em_int=\count279
+\l__fontspec_emdef_int=\count280
+\l__fontspec_strong_int=\count281
+\l__fontspec_strongdef_int=\count282
+\l__fontspec_tmpa_dim=\dimen150
+\l__fontspec_tmpb_dim=\dimen151
+\l__fontspec_tmpc_dim=\dimen152
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-\g__um_fam_int=\count280
-\g__um_fonts_used_int=\count281
-\l__um_primecount_int=\count282
+\g__um_fam_int=\count283
+\g__um_fonts_used_int=\count284
+\l__um_primecount_int=\count285
 \g__um_primekern_muskip=\muskip17
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math-table.t
-ex))) (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/lmodern.sty
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -183,530 +178,404 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/upquote/upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
-)
-\MT@toks=\toks21
-\MT@count=\count283
-LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen151
-LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
-\MT@listname@count=\count284
-(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2021/03/14 v2.8c Definitions specific to xetex (RS)
-LaTeX Info: Redefining \lsstyle on input line 254.
-)
-Package microtype Info: Loading configuration file microtype.cfg.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/parskip/parskip.sty
-Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
-(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count285
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
-)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip52
-\LTright=\skip53
-\LTpre=\skip54
-\LTpost=\skip55
+Package xcolor Info: Driver file: xetex.def on input line 227.
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
 \LTchunksize=\count286
-\LTcapwidth=\dimen152
-\LT@head=\box50
-\LT@firsthead=\box51
-\LT@foot=\box52
-\LT@lastfoot=\box53
+\LTcapwidth=\dimen153
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
 \LT@cols=\count287
 \LT@rows=\count288
 \c@LT@tables=\count289
 \c@LT@chunks=\count290
 \LT@p@ftn=\toks22
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen153
-\lightrulewidth=\dimen154
-\cmidrulewidth=\dimen155
-\belowrulesep=\dimen156
-\belowbottomsep=\dimen157
-\aboverulesep=\dimen158
-\abovetopsep=\dimen159
-\cmidrulesep=\dimen160
-\cmidrulekern=\dimen161
-\defaultaddspace=\dimen162
+\heavyrulewidth=\dimen154
+\lightrulewidth=\dimen155
+\cmidrulewidth=\dimen156
+\belowrulesep=\dimen157
+\belowbottomsep=\dimen158
+\aboverulesep=\dimen159
+\abovetopsep=\dimen160
+\cmidrulesep=\dimen161
+\cmidrulekern=\dimen162
+\defaultaddspace=\dimen163
 \@cmidla=\count291
 \@cmidlb=\count292
-\@aboverulesep=\dimen163
-\@belowrulesep=\dimen164
+\@aboverulesep=\dimen164
+\@belowrulesep=\dimen165
 \@thisruleclass=\count293
 \@lastruleclass=\count294
-\@thisrulewidth=\dimen165
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
-Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
-\col@sep=\dimen166
-\ar@mcellbox=\box54
-\extrarowheight=\dimen167
+\@thisrulewidth=\dimen166
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen167
+\ar@mcellbox=\box59
+\extrarowheight=\dimen168
 \NC@list=\toks23
-\extratabsurround=\skip56
-\backup@length=\skip57
-\ar@cellbox=\box55
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box60
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count295
 \calc@Bcount=\count296
-\calc@Adimen=\dimen168
-\calc@Bdimen=\dimen169
-\calc@Askip=\skip58
-\calc@Bskip=\skip59
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count297
-\calc@Cskip=\skip60
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/footnotehyper/footnotehyper.sty
-Package: footnotehyper 2021/02/04 v1.1d hyperref aware footnote.sty (JFB)
-\FNH@notes=\box56
-\FNH@width=\dimen170
-\FNH@toks=\toks24
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+\calc@Cskip=\skip61
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count298
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box61
+\fn@width=\dimen171
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 105.
+Package graphics Info: Driver file: xetex.def on input line 107.
 )
-\Gin@req@height=\dimen171
-\Gin@req@width=\dimen172
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
+\Gin@req@height=\dimen172
+\Gin@req@width=\dimen173
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks25
 \thm@bodyfont=\toks26
 \thm@headfont=\toks27
 \thm@notefont=\toks28
 \thm@headpunct=\toks29
-\thm@preskip=\skip61
-\thm@postskip=\skip62
-\thm@headsep=\skip63
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
 \dth@everypar=\toks30
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2020/10/09 version 4.42 text color boxes
-(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/loca
-l/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2023/09/26 version 6.1.0 text color boxes
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks31
-\pgfutil@tempdima=\dimen173
-\pgfutil@tempdimb=\dimen174
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box57
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+\pgfutil@tempdima=\dimen174
+\pgfutil@tempdimb=\dimen175
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box62
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/
-local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks32
 \pgfkeys@temptoks=\toks33
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks34
 ))
-\pgf@x=\dimen175
-\pgf@y=\dimen176
-\pgf@xa=\dimen177
-\pgf@ya=\dimen178
-\pgf@xb=\dimen179
-\pgf@yb=\dimen180
-\pgf@xc=\dimen181
-\pgf@yc=\dimen182
-\pgf@xd=\dimen183
-\pgf@yd=\dimen184
+\pgf@x=\dimen176
+\pgf@y=\dimen177
+\pgf@xa=\dimen178
+\pgf@ya=\dimen179
+\pgf@xb=\dimen180
+\pgf@yb=\dimen181
+\pgf@xc=\dimen182
+\pgf@yc=\dimen183
+\pgf@xd=\dimen184
+\pgf@yd=\dimen185
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count298
-\c@pgf@countb=\count299
-\c@pgf@countc=\count300
-\c@pgf@countd=\count301
+\c@pgf@counta=\count299
+\c@pgf@countb=\count300
+\c@pgf@countc=\count301
+\c@pgf@countd=\count302
 \t@pgf@toka=\toks35
 \t@pgf@tokb=\toks36
 \t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count302
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@sys@id@count=\count303
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-xetex.def
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
-f
-File: pgfsys-xetex.def 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
-.def
-File: pgfsys-dvipdfmx.def 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
-File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )
-\pgfsys@objnum=\count303
-)))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
-File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count304
-\pgfsyssoftpath@bigbuffer@items=\count305
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
-File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr
-/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/
-local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen185
-\pgfmath@count=\count306
-\pgfmath@box=\box58
+\pgfsys@objnum=\count304
+))) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count305
+\pgfsyssoftpath@bigbuffer@items=\count306
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen186
+\pgfmath@count=\count307
+\pgfmath@box=\box63
 \pgfmath@toks=\toks38
 \pgfmath@stack@operand=\toks39
 \pgfmath@stack@operation=\toks40
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/m
-ath/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count307
-)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
-File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@picminx=\dimen186
-\pgf@picmaxx=\dimen187
-\pgf@picminy=\dimen188
-\pgf@picmaxy=\dimen189
-\pgf@pathminx=\dimen190
-\pgf@pathmaxx=\dimen191
-\pgf@pathminy=\dimen192
-\pgf@pathmaxy=\dimen193
-\pgf@xx=\dimen194
-\pgf@xy=\dimen195
-\pgf@yx=\dimen196
-\pgf@yy=\dimen197
-\pgf@zx=\dimen198
-\pgf@zy=\dimen199
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@path@lastx=\dimen256
-\pgf@path@lasty=\dimen257
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
-File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@shorten@end@additional=\dimen258
-\pgf@shorten@start@additional=\dimen259
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
-File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfpic=\box59
-\pgf@hbox=\box60
-\pgf@layerbox@main=\box61
-\pgf@picture@serial@count=\count308
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgflinewidth=\dimen260
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
-File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@pt@x=\dimen261
-\pgf@pt@y=\dimen262
-\pgf@pt@temp=\dimen263
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
-File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
-File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
-File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfarrowsep=\dimen264
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
-File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@max=\dimen265
-\pgf@sys@shading@range@num=\count309
-\pgf@shadingcount=\count310
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
-File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
-File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfexternal@startupbox=\box62
-))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
-File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
-File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
-File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
-tex
-File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)))
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
-File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfnodeparttextbox=\box63
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
-File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
-Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@nodesepstart=\dimen266
-\pgf@nodesepend=\dimen267
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
-Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count308
+)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count309
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen261
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen265
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count310
+\pgf@shadingcount=\count311
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box67
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box68
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen267
+\pgf@nodesepend=\dimen268
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks41
 \verbatim@line=\toks42
 \verbatim@in@stream=\read3
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-(/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\tcb@titlebox=\box64
-\tcb@upperbox=\box65
-\tcb@lowerbox=\box66
-\tcb@phantombox=\box67
-\c@tcbbreakpart=\count311
-\c@tcblayer=\count312
-\c@tcolorbox@number=\count313
-\tcb@temp=\box68
-\tcb@temp=\box69
-\tcb@temp=\box70
-\tcb@temp=\box71
-\tcb@out=\write4
-\tcb@record@out=\write5
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
+\tcb@titlebox=\box69
+\tcb@upperbox=\box70
+\tcb@lowerbox=\box71
+\tcb@phantombox=\box72
+\c@tcbbreakpart=\count312
+\c@tcblayer=\count313
+\c@tcolorbox@number=\count314
+\tcb@temp=\box73
+\tcb@temp=\box74
+\tcb@temp=\box75
+\tcb@temp=\box76
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip64
-\bibsep=\skip65
+\bibhang=\skip65
+\bibsep=\skip66
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count314
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
-Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
-(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+\c@NAT@ctr=\count315
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count316
 )
-\@linkdim=\dimen268
-\Hy@linkcounter=\count315
-\Hy@pagecounter=\count316
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
-nguages
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+\@linkdim=\dimen269
+\Hy@linkcounter=\count317
+\Hy@pagecounter=\count318
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count317
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count319
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `unicode' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count318
-(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count320
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen269
-(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen270
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count319
-\Field@Width=\dimen270
-\Fld@charsize=\dimen271
-Package hyperref Info: Hyper figures OFF on input line 6075.
-Package hyperref Info: Link nesting OFF on input line 6080.
-Package hyperref Info: Hyper index ON on input line 6083.
-Package hyperref Info: backreferencing OFF on input line 6090.
-Package hyperref Info: Link coloring OFF on input line 6095.
-Package hyperref Info: Link coloring with OCG OFF on input line 6100.
-Package hyperref Info: PDF/A mode OFF on input line 6105.
-LaTeX Info: Redefining \ref on input line 6145.
-LaTeX Info: Redefining \pageref on input line 6149.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+\Fld@menulength=\count321
+\Field@Width=\dimen271
+\Fld@charsize=\dimen272
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\Hy@abspage=\count320
-\c@Item=\count321
-\c@Hfootnote=\count322
+\Hy@abspage=\count322
+\c@Item=\count323
+\c@Hfootnote=\count324
 )
 Package hyperref Info: Driver (autodetected): hxetex.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
-(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2023-07-08 v7.01b Hyperref driver for XeTeX
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-)
-\pdfm@box=\box72
-\c@Hy@AnnotLevel=\count323
-\HyField@AnnotCount=\count324
-\Fld@listcount=\count325
-\c@bookmark@seq@number=\count326
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
+\pdfm@box=\box77
+\c@Hy@AnnotLevel=\count325
+\HyField@AnnotCount=\count326
+\Fld@listcount=\count327
+\c@bookmark@seq@number=\count328
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip66
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
-File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
-\BKM@id=\count327
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xurl/xurl.sty
-Package: xurl 2020/12/30 v 0.09a modify URL breaks
+\Hy@SectionHShift=\skip67
 )
-\c@theorem=\count328
-\c@lemma=\count329
-\c@corollary=\count330
-\c@proposition=\count331
-\c@conjecture=\count332
-\c@definition=\count333
-\c@example=\count334
-\c@exercise=\count335
-\c@hypothesis=\count336
+\c@theorem=\count329
+\c@lemma=\count330
+\c@corollary=\count331
+\c@proposition=\count332
+\c@conjecture=\count333
+\c@definition=\count334
+\c@example=\count335
+\c@exercise=\count336
+\c@hypothesis=\count337
 (./inno101.aux)
 \openout1 = `inno101.aux'.
 
@@ -756,19 +625,16 @@ Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
 (fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
-pt=math;language=dflt;"
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
-pt=math;language=dflt;"
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
@@ -791,38 +657,28 @@ Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
-rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
-ptScript}},BoldFont={latinmodern-math.otf}].
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmodern-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:s
-cript=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/
-OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-m
-ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
-pt=math;language=dflt;"
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 161.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 161.
-
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 161.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 161.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 161.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 161.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 161.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -856,11 +712,7 @@ Package fontspec Info: latinmodern-math scale = 1.000096459334209.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
-rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
-ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\f
-ontdimen
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmodern-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\fontdimen
 (fontspec)             8\font =6.77pt\relax \fontdimen 9\font =3.94pt\relax
 (fontspec)             \fontdimen 10\font =4.44pt\relax \fontdimen 11\font
 (fontspec)             =6.86pt\relax \fontdimen 12\font =3.45pt\relax
@@ -876,10 +728,7 @@ ontdimen
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:sc
-ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
-:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math
-.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
@@ -893,8 +742,7 @@ ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
 (fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
 (fontspec)             \fontdimen 21\font =0pt\relax 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:scrip
-t=math;language=dflt;"
+(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
@@ -911,13 +759,11 @@ t=math;language=dflt;"
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 161.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 161.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 161.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `bold' on input line 161.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 161.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 161.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -951,11 +797,7 @@ Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
-rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
-ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\f
-ontdimen
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmodern-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\fontdimen
 (fontspec)             8\font =0.4pt\relax \fontdimen 9\font =2.0pt\relax
 (fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
 (fontspec)             =1.11pt\relax \fontdimen 12\font =6.0pt\relax
@@ -965,10 +807,7 @@ ontdimen
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:s
-cript=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/
-OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-m
-ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
@@ -976,8 +815,7 @@ ath.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
 (fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:scri
-pt=math;language=dflt;"
+(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
@@ -986,52 +824,26 @@ pt=math;language=dflt;"
 (fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 1
-61.
+(Font)              `largesymbols' in the math version `normal' on input line 161.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 161.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 161.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 161
-.
+(Font)              `largesymbols' in the math version `bold' on input line 161.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 161.
-LaTeX Info: Redefining \microtypecontext on input line 161.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using protrusion set `basicmath'.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of spacing.
-Package microtype Info: No adjustment of kerning.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
-ern Roman (RS)
-)
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 161.
 Package hyperref Info: Link coloring OFF on input line 161.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count337
-)
-LaTeX Info: Redefining \ref on input line 161.
-LaTeX Info: Redefining \pageref on input line 161.
-LaTeX Info: Redefining \nameref on input line 161.
+(./inno101.out) (./inno101.out)
+\@outlinefile=\write4
+\openout4 = `inno101.out'.
+
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 163.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 163.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 163.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-63.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 163.
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1046,19 +858,13 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.99915pt on input line 163.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 163.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 163
-.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 163.
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 163
-.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 163.
+(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 
@@ -1081,20 +887,23 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 4.
-[3])
-\tf@toc=\write6
-\openout6 = `inno101.toc'.
+[3] [4])
+\tf@toc=\write5
+\openout5 = `inno101.toc'.
 
-[4] [5
+[5] [6
 
-]
+] [7]
 File: assets/course-intro/menu.png Graphic file (type bmp)
 <assets/course-intro/menu.png>
 File: assets/course-intro/left_arrow.png Graphic file (type bmp)
 <assets/course-intro/left_arrow.png>
 File: assets/course-intro/right_arrow.png Graphic file (type bmp)
 <assets/course-intro/right_arrow.png>
-[6] [7]
+[8]
+Underfull \vbox (badness 1067) has occurred while \output is active []
+
+[9]
 Overfull \hbox (40.63835pt too wide) in paragraph at lines 298--299
 []\TU/lmr/bx/n/10 Technology  
  []
@@ -1120,7 +929,12 @@ Overfull \hbox (10.08835pt too wide) in paragraph at lines 308--308
  []
 
 
-Overfull \hbox (5.02835pt too wide) in paragraph at lines 308--308
+Overfull \hbox (1.46835pt too wide) in paragraph at lines 308--308
+\TU/lmr/m/n/10 net- 
+ []
+
+
+Overfull \hbox (5.38835pt too wide) in paragraph at lines 308--308
 \TU/lmr/m/n/10 work|  
  []
 
@@ -1184,11 +998,11 @@ Overfull \hbox (8.96835pt too wide) in paragraph at lines 314--314
 []|\TU/lmr/m/n/10 Zoom|  
  []
 
-[8] [9] [10
+[10] [11] [12
 
 ]
 Chapter 1.
-[11]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 350--352
 
  []
@@ -1249,32 +1063,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 397--399
  []
 
 
-Underfull \vbox (badness 1953) has occurred while \output is active []
-
-
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 12 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
+\TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[12] [13]
-Underfull \vbox (badness 2503) has occurred while \output is active []
-
-
-Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
- []
-
-[14]
-
-Package natbib Warning: Citation `digitallearningadvisorycommitteePostSecondary
-DigitalLearning2022' on page 15 undefined on input line 467.
-
-
+[14] [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[15]
+
+Overfull \hbox (61.42343pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 16 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+ []
+
+[16]
+
+Package natbib Warning: Citation `digitallearningadvisorycommitteePostSecondaryDigitalLearning2022' on page 17 undefined on input line 467.
+
+
+Underfull \vbox (badness 2547) has occurred while \output is active []
+
+[17]
 File: assets/digital-literacy/obsidian2.png Graphic file (type bmp)
 <assets/digital-literacy/obsidian2.png>
 
@@ -1282,11 +1090,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 16 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
+\TU/lmr/m/n/10 18 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[16]
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 570--572
 
  []
@@ -1309,37 +1116,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 584--586
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[17]
+[19]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 18 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
+\TU/lmr/m/n/10 20 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[18] [19]
+[20] [21]
 File: assets/u1/vr-diagram-2.png Graphic file (type bmp)
 <assets/u1/vr-diagram-2.png>
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 20 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
+\TU/lmr/m/n/10 22 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[20]
-Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
-Underfull \hbox (badness 2173) in paragraph at lines 670--672
+[22]
+Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
+[23]
+Underfull \hbox (badness 2142) in paragraph at lines 670--672
 []\TU/lmr/m/n/10 Never put your social security number, your birthday, your
  []
 
@@ -1348,7 +1148,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 670--672
 
  []
 
-[21]
+
 Underfull \hbox (badness 10000) in paragraph at lines 672--673
 
  []
@@ -1359,6 +1159,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 682--684
  []
 
 
+Overfull \hbox (61.42343pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 24 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+ []
+
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 701--703
 
  []
@@ -1369,12 +1174,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 703--705
  []
 
 
-Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 22 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
- []
-
-[22]
 Underfull \hbox (badness 10000) in paragraph at lines 705--707
 
  []
@@ -1396,7 +1195,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 711--713
 
 File: assets/u1/brute.jpg Graphic file (type bmp)
 <assets/u1/brute.jpg>
-[23]
+
+Underfull \vbox (badness 2269) has occurred while \output is active []
+
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 729--731
 
  []
@@ -1441,11 +1243,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 24 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
+\TU/lmr/m/n/10 26 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[24] [25]
+[26] [27]
 Underfull \hbox (badness 10000) in paragraph at lines 794--796
 
  []
@@ -1472,16 +1273,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 802--804
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 26 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
+\TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[26]
-Missing character: There is no ☑ (U+2611) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
+[28]
+Missing character: There is no ☑ (U+2611) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
+[29]
 Underfull \hbox (badness 10000) in paragraph at lines 863--865
 
  []
@@ -1511,28 +1309,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 873--875
 
  []
 
-[27]
+
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
-S FOR ONLINE LEARNING
+\TU/lmr/m/n/10 30 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
  []
 
-[28]
+[30]
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 900--902
 
  []
 
-[29
+[31
 
-] [30] [31] [32
-
-]
+] [32] [33] [34]
 Chapter 3.
-[33] [34] [35] [36
+[35
 
-]
+] [36] [37] [38]
 Chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1270--1272
@@ -1544,7 +1339,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1272--1274
 
  []
 
-[37]
+[39
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 1274--1276
 
  []
@@ -1607,12 +1404,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1323--1325
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[38]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 1358--1361
 
  []
 
-[39]
+[41]
 Underfull \hbox (badness 10000) in paragraph at lines 1404--1406
 
  []
@@ -1625,7 +1422,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1406--1408
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[40]
+[42]
 Underfull \hbox (badness 10000) in paragraph at lines 1427--1429
 
  []
@@ -1635,13 +1432,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1429--1431
 
  []
 
-[41]
+[43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[42]
-Overfull \vbox (1663.3233pt too high) has occurred while \output is active []
+[44]
+Overfull \vbox (1760.3233pt too high) has occurred while \output is active []
 
-[43]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 1632--1634
 
  []
@@ -1651,7 +1448,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1634--1636
 
  []
 
-[44]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 1677--1679
 
  []
@@ -1674,7 +1471,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1683--1685
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[45]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 1700--1702
 
  []
@@ -1692,7 +1489,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1704--1706
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[46] [47]
+[48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[49]
 Underfull \hbox (badness 10000) in paragraph at lines 1727--1729
 
  []
@@ -1858,12 +1658,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1843--1845
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 6078) has occurred while \output is active []
 
-[48]
-Overfull \vbox (463.20128pt too high) has occurred while \output is active []
+[50]
+Overfull \vbox (558.20128pt too high) has occurred while \output is active []
 
-[49]
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 1863--1865
 
  []
@@ -1946,10 +1746,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1921--1923
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[50]
-Overfull \vbox (211.10329pt too high) has occurred while \output is active []
+[52]
+Overfull \vbox (276.10329pt too high) has occurred while \output is active []
 
-[51]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 1949--1951
 
  []
@@ -1980,6 +1780,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1969--1971
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[54]
 Underfull \hbox (badness 10000) in paragraph at lines 1987--1989
 
  []
@@ -2009,29 +1812,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 1997--1999
 
  []
 
-[52] [53] [54
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[55] [56]
 Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2041--2043
 
  []
 
+[57
 
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2043--2045
 
  []
 
-[55]
+
 Underfull \hbox (badness 10000) in paragraph at lines 2049--2051
 
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 2051--2053
-[]\TU/lmr/m/n/10 Develop online learning networks to discover and share knowled
-ge,
  []
 
 
@@ -2039,7 +1839,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2051--2053
 
  []
 
-[56]
+
+Underfull \vbox (badness 7238) has occurred while \output is active []
+
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 2137--2139
 
  []
@@ -2067,10 +1870,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2145--2147
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[57]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[58]
+[59] [60]
 Underfull \hbox (badness 10000) in paragraph at lines 2187--2189
 
  []
@@ -2085,14 +1885,9 @@ File: assets/u5/Digital_citizenship_Venn.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[59]
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 2210--2212
 
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 2212--2214
-[]\TU/lmr/m/n/10 Conduct a general search for “definition of digital citizen.”
  []
 
 
@@ -2113,10 +1908,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2270--2272
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[60]
-Overfull \vbox (185.88023pt too high) has occurred while \output is active []
+[62]
+Overfull \vbox (240.88023pt too high) has occurred while \output is active []
 
-[61]
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 2300--2302
 
  []
@@ -2149,10 +1944,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2331--2333
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[62]
-Overfull \vbox (19.65329pt too high) has occurred while \output is active []
+[64]
+Overfull \vbox (116.65329pt too high) has occurred while \output is active []
 
-[63]
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 2367--2369
 
  []
@@ -2165,7 +1960,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2369--2371
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[64]
+[66]
 Underfull \hbox (badness 10000) in paragraph at lines 2409--2411
 
  []
@@ -2173,7 +1968,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2409--2411
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[65]
+[67]
 Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
 
  []
@@ -2201,10 +1996,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2486--2488
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[66]
-Overfull \vbox (170.95717pt too high) has occurred while \output is active []
+[68]
+Overfull \vbox (261.95717pt too high) has occurred while \output is active []
 
-[67]
+[69]
 Underfull \hbox (badness 10000) in paragraph at lines 2540--2542
 
  []
@@ -2214,7 +2009,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2542--2544
 
  []
 
-[68]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 2572--2574
 
  []
@@ -2224,17 +2019,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 2574--2576
 
  []
 
-[69]
+[71]
 Underfull \hbox (badness 10000) in paragraph at lines 2613--2615
 
  []
 
-
+[72]
 Underfull \hbox (badness 10000) in paragraph at lines 2615--2617
 
  []
 
-[70]
+
 Underfull \hbox (badness 10000) in paragraph at lines 2634--2636
 
  []
@@ -2249,7 +2044,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2638--2640
 
  []
 
-[71]
+
+Underfull \vbox (badness 1057) has occurred while \output is active []
+
+[73]
 Underfull \hbox (badness 10000) in paragraph at lines 2677--2679
 
  []
@@ -2260,6 +2058,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2679--2681
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[74]
 Underfull \hbox (badness 10000) in paragraph at lines 2724--2726
 
  []
@@ -2267,7 +2068,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2724--2726
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[72]
+[75]
 Underfull \hbox (badness 10000) in paragraph at lines 2764--2766
 
  []
@@ -2290,7 +2091,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2770--2772
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[73]
+[76]
 Underfull \hbox (badness 10000) in paragraph at lines 2839--2841
 
  []
@@ -2303,13 +2104,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2841--2843
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[74]
-Overfull \vbox (67.21329pt too high) has occurred while \output is active []
+[77]
+Overfull \vbox (152.21329pt too high) has occurred while \output is active []
 
-[75]
+[78]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[76]
+[79]
 Underfull \hbox (badness 1448) in paragraph at lines 2902--2904
 []\TU/lmr/m/n/10 Discuss the dimensions of digital citizenship for work and
  []
@@ -2337,7 +2138,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2912--2914
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[77] [78]
+[80] [81] [82
+
+]
 Chapter 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2943--2945
@@ -2354,9 +2157,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2947--2949
 
  []
 
-[79
-
-]
+[83]
 Underfull \hbox (badness 10000) in paragraph at lines 2963--2965
 
  []
@@ -2371,7 +2172,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2967--2969
 
  []
 
-[80] [81]
+[84] [85]
 Underfull \hbox (badness 10000) in paragraph at lines 3114--3115
 
  []
@@ -2391,7 +2192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3130--3131
 
  []
 
-
+[86]
 Underfull \hbox (badness 10000) in paragraph at lines 3140--3141
 
  []
@@ -2401,7 +2202,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3142--3143
 
  []
 
-[82] [83]
+[87] [88]
 Underfull \hbox (badness 10000) in paragraph at lines 3224--3225
 
  []
@@ -2416,12 +2217,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3228--3229
 
  []
 
-[84]
+
 Underfull \hbox (badness 10000) in paragraph at lines 3230--3231
 
  []
 
-[85]
+[89]
 Underfull \hbox (badness 10000) in paragraph at lines 3287--3289
 
  []
@@ -2434,709 +2235,143 @@ Underfull \hbox (badness 10000) in paragraph at lines 3289--3291
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[86]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3342--3342
-[]\TU/lmtt/m/n/10 Join the discussion on the impact of digital technology on bu
-siness:[] 
- []
-
-
-Overfull \hbox (148.5pt too wide) in paragraph at lines 3344--3344
-[]\TU/lmtt/m/n/10 1. Choose any business or work environment (for example, your
- current career or future career)[] 
- []
-
-
-Overfull \hbox (264.0pt too wide) in paragraph at lines 3345--3345
-[]\TU/lmtt/m/n/10 2.  Think about examples of how digital technology has had an
- impact on your chosen business over the last 30 years.[] 
- []
-
-
-Overfull \hbox (395.25pt too wide) in paragraph at lines 3346--3346
-[]\TU/lmtt/m/n/10 3. State your business or work environment and share a practi
-cal example of how digital technology has influenced change in your chosen area
-:[] 
- []
-
-
-Overfull \hbox (243.0pt too wide) in paragraph at lines 3347--3347
-[]   \TU/lmtt/m/n/10 - Has the example contributed to a fundamental change in t
-he way things were done, or is this a minor change?[] 
- []
-
-
-Overfull \hbox (327.0pt too wide) in paragraph at lines 3348--3348
-[]   \TU/lmtt/m/n/10 - Do you anticipate significant changes in your industry a
-s a result of digital technology in the future? Provide an example.[] 
- []
-
-
-Overfull \hbox (610.5pt too wide) in paragraph at lines 3350--3350
-[]\TU/lmtt/m/n/10 Please “Like”, share and reply to posts. These are forms of e
-ngagement and a contribution to your online learning identity. Remember to tag 
-your posts using the course code: LDRS101.[] 
- []
-
-
-Overfull \hbox (1665.75pt too wide) in paragraph at lines 3355--3355
-[]\TU/lmtt/m/n/10 Artificial intelligence (AI) is predicted to have a significa
-nt impact on society and business. Examples include, autonomous cars, computers
- understanding human speech and machine learning. Consider for instance, that c
-omputer chess games available for commercial desktop machines have the ability 
-to beat accomplished chess players including grand masters.  And of course, Cha
-t GPT.[] 
- []
-
-
-Overfull \hbox (468.75pt too wide) in paragraph at lines 3357--3357
-[]\TU/lmtt/m/n/10 In this section we introduce a few interesting examples of ar
-tificial intelligence to provide a sense of how sophisticated these technologie
-s are becoming.[] 
- []
-
-
-Overfull \hbox (1371.75pt too wide) in paragraph at lines 3361--3361
-[]\TU/lmtt/m/n/10 > "The theory and development of computer systems able to per
-form tasks normally requiring human intelligence, such as visual perception, sp
-eech recognition, decision-making, and translation between languages" ([Oxford 
-Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.2011080
-3095426960){target="_blank"})[] 
- []
-
-
-Overfull \hbox (1413.75pt too wide) in paragraph at lines 3363--3363
-[]\TU/lmtt/m/n/10 > "The capacity of a computer to perform operations analogous
- to learning and decision making in humans, as by an expert system, a program f
-or CAD or CAM, or a program for the perception and recognition of shapes in com
-puter vision systems" ([Dictionary.com](https://www.dictionary.com/browse/artif
-icial-intelligence){target="_blank"})[] 
- []
-
-
-Overfull \hbox (773.25pt too wide) in paragraph at lines 3365--3365
-[]\TU/lmtt/m/n/10 What is your experience with AI?  Have you used an AI tool, s
-uch as Grammerly or ChatGPT? How has this technology affected you as a student,
- and what effect do you think it has/will have on your chosen profession?[] 
- []
-
-
-Overfull \hbox (38.25pt too wide) in paragraph at lines 3367--3367
-[]\TU/lmtt/m/n/10 In the next activity, we[]ll explore some of these questions 
-and concerns.[] 
- []
-
-[87]
-Overfull \hbox (17.25pt too wide) in paragraph at lines 3372--3372
-[]\TU/lmtt/m/n/10 First, do a quick search online for AI tools for university s
-tudents.[] 
- []
-
-
-Overfull \hbox (468.75pt too wide) in paragraph at lines 3374--3374
-[]\TU/lmtt/m/n/10 - [How can AI be used by university students?](https://www.ti
-meshighereducation.com/student/advice/how-can-ai-be-used-university-students){t
-arget="_blank"}[] 
- []
-
-
-Overfull \hbox (411.0pt too wide) in paragraph at lines 3375--3375
-[]\TU/lmtt/m/n/10 - [The 10 Best AI Tools to Help Students Learn Faster](https:
-//mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_bla
-nk"}[] 
- []
-
-
-Overfull \hbox (1098.75pt too wide) in paragraph at lines 3377--3377
-[]\TU/lmtt/m/n/10 Intrigued? Do you find any tech tools that would be useful in
- understanding course topics, studying, generating flashcards, transcribing lec
-tures and voice notes, correcting grammar, writing an essay, creating a slidesh
-ow presentation, drafting a forum discussion post, etc.?[] 
- []
-
-
-Overfull \hbox (195.75pt too wide) in paragraph at lines 3379--3379
-[]\TU/lmtt/m/n/10 Do any of these capabilites concern you?  Do you think they c
-oncern your professors or fellow students?[] 
- []
-
-
-Overfull \hbox (878.25pt too wide) in paragraph at lines 3381--3381
-[]\TU/lmtt/m/n/10 Review TWU[]s policy on [Academic Misconduct & Fraud](https:/
-/www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduc
-t-fraud){target="_blank"}.   Is it Academic Fraud if you use Chat GPT to comple
-te assignments?[] 
- []
-
-
-Overfull \hbox (2054.25pt too wide) in paragraph at lines 3383--3383
-[]\TU/lmtt/m/n/10 Search online for key words related to this issue, such as "u
-niversity concern policy artificial intelligence" and you will find numerous ar
-ticles on the use of AI in universities, as well as emerging policies.  For exa
-mple, the University of Toronto[]s guidelines for [ChatGPT and Generative AI in
- the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-prioriti
-es/digital-learning/special-initiative-artificial-intelligence/){target="_blank
-"}[] 
- []
-
-
-Overfull \hbox (22.5pt too wide) in paragraph at lines 3385--3385
-[]\TU/lmtt/m/n/10 Here are some guidelines you may receive from your instructor
-s at TWU:[] 
- []
-
-
-Overfull \hbox (164.25pt too wide) in paragraph at lines 3387--3387
-[]\TU/lmtt/m/n/10 • Students are encouraged to make use of technology, includin
-g generative artificial intelligence[] 
- []
-
-
-Overfull \hbox (122.25pt too wide) in paragraph at lines 3389--3389
-[]\TU/lmtt/m/n/10 • Students must submit, as an appendix with their assignments
-, any content produced by an[] 
- []
-
-
-Overfull \hbox (43.5pt too wide) in paragraph at lines 3390--3390
-[]\TU/lmtt/m/n/10 artificial intelligence tool, and the prompt used to generate
- the content.[] 
- []
-
-
-Overfull \hbox (132.75pt too wide) in paragraph at lines 3391--3391
-[]\TU/lmtt/m/n/10 • Any content produced by an artificial intelligence tool mus
-t be cited appropriately. Many[] 
- []
-
-
-Overfull \hbox (138.0pt too wide) in paragraph at lines 3392--3392
-[]\TU/lmtt/m/n/10 organizations that publish standard citation formats are now 
-providing information on citing[] 
- []
-
-
-Overfull \hbox (33.0pt too wide) in paragraph at lines 3393--3393
-[]\TU/lmtt/m/n/10 generative AI (e.g., MLA: https://style.mla.org/citing-genera
-tive-ai/ ).[] 
- []
-
-
-Overfull \hbox (174.75pt too wide) in paragraph at lines 3394--3394
-[]\TU/lmtt/m/n/10 • Students may use artificial intelligence tools for creating
- an outline for an assignment, but the[] 
- []
-
-
-Overfull \hbox (127.5pt too wide) in paragraph at lines 3395--3395
-[]\TU/lmtt/m/n/10 final submitted assignment must be original work produced by 
-the individual student alone.[] 
- []
-
-
-Overfull \hbox (153.75pt too wide) in paragraph at lines 3396--3396
-[]\TU/lmtt/m/n/10 • Students may not use artificial intelligence tools for taki
-ng tests, writing research papers,[] 
- []
-
-
-Overfull \hbox (132.75pt too wide) in paragraph at lines 3397--3397
-[]\TU/lmtt/m/n/10 creating computer code, or completing major course assignment
-s. However, these tools may be[] 
- []
-
-
-Overfull \hbox (138.0pt too wide) in paragraph at lines 3398--3398
-[]\TU/lmtt/m/n/10 useful when gathering information from across sources and ass
-imilating it for understanding.[] 
- []
-
-
-Overfull \hbox (227.25pt too wide) in paragraph at lines 3400--3400
-[]\TU/lmtt/m/n/10 If you have any question about the use of AI applications for
- course work, please speak with your instructor.[] 
- []
-
-
-Overfull \hbox (269.25pt too wide) in paragraph at lines 3403--3403
-[]\TU/lmtt/m/n/10 Next, watch [How AI Could Save (Not Destroy) Education | Sal 
-Khan | TED](https://www.youtube.com/watch?v=hJP5GqnTrNo)[] 
- []
-
-
-Overfull \hbox (1062.0pt too wide) in paragraph at lines 3407--3407
-[]\TU/lmtt/m/n/10 <iframe width="560" height="315" src="https://www.youtube-noc
-ookie.com/embed/hJP5GqnTrNo" title="YouTube video player" frameborder="0" allow
-="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture
--in-picture; web-share" allowfullscreen></iframe>[] 
- []
-
-
-Overfull \hbox (1387.5pt too wide) in paragraph at lines 3411--3411
-[]\TU/lmtt/m/n/10 Here is one more article that discusses the pros and cons for
- English Learners using AI in their studies: [Perspectives of the Use of ChatGP
-T as a Tool for Online Education of English](https://www.researchgate.net/publi
-cation/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Educat
-ion_of_English){target="_blank"}[] 
- []
-
-[88]
-Overfull \hbox (369.0pt too wide) in paragraph at lines 3417--3417
-[]\TU/lmtt/m/n/10 In this section we consider the impact of automation on the f
-uture job market and the implications for education and training. Consider:[] 
- []
-
-
-Overfull \hbox (736.5pt too wide) in paragraph at lines 3426--3426
-[]\TU/lmtt/m/n/10 First, read [Collaborative Intelligence: Humans and AI Are Jo
-ining Forces](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-
-are-joining-forces){target="_blank"} from Harvard Business Review.[] 
- []
-
-
-Overfull \hbox (174.75pt too wide) in paragraph at lines 3428--3428
-[]\TU/lmtt/m/n/10 Next, watch [*Humans Need Not Apply*](https://www.youtube.com
-/watch?v=7Pq-S557XQU){target="_blank"}[] 
- []
-
-
-Overfull \hbox (1062.0pt too wide) in paragraph at lines 3432--3432
-[]\TU/lmtt/m/n/10 <iframe width="560" height="315" src="https://www.youtube-noc
-ookie.com/embed/7Pq-S557XQU" title="YouTube video player" frameborder="0" allow
-="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture
--in-picture; web-share" allowfullscreen></iframe>[] 
- []
-
-
-Overfull \hbox (589.5pt too wide) in paragraph at lines 3436--3436
-[]\TU/lmtt/m/n/10 Finally, read [The Potential of Collaborative Intelligence fo
-r Social Media and Online Communities] by [Marcin Frąckiewicz](https://ts2.spac
-e/en/author/marcin/){target="_blank"}.[] 
- []
-
-
-Overfull \hbox (321.75pt too wide) in paragraph at lines 3438--3438
-[]\TU/lmtt/m/n/10 Consider your chosen field of study.  How can AI benefit your
- industry?  Are there any concerns regarding how AI might be used?[] 
- []
-
-
-Overfull \hbox (33.0pt too wide) in paragraph at lines 3440--3440
-[]\TU/lmtt/m/n/10 Share you thoughts on AI by posting a comment on Discourse, f
-or example:[] 
- []
-
-
-Overfull \hbox (1182.75pt too wide) in paragraph at lines 3451--3451
-[]\TU/lmtt/m/n/10 In this next topic, we introduce a number of societal issues 
-and problematic online behaviors that have emerged in the digital world. Our li
-st is not comprehensive and does not provide a thorough examination of the issu
-es. Here, we encourage you to choose an issue for further investigation.[] 
- []
-
-
-Overfull \hbox (1350.75pt too wide) in paragraph at lines 3453--3453
-[]\TU/lmtt/m/n/10 You will choose one societal issue or antisocial behavior ass
-ociated with the Internet that you would like to investigate further and publis
-h as an editorial in your course blog. You will base your focus on your reading
- of open access resources you find online. Your blog post will also help you bu
-ild your online identity.[] 
- []
-
-[89]
-Overfull \hbox (1266.75pt too wide) in paragraph at lines 3469--3469
-[]\TU/lmtt/m/n/10 To test your knowledge of concepts associated with problemati
-c behaviours online, we provide a short orientation quiz below. Once you have a
-ttempted your first answer, and in the event that you are not familiar or not s
-ure what the alternatives mean, click on the options to find out more about the
- concept.[] 
- []
-
-
-Overfull \hbox (1035.75pt too wide) in paragraph at lines 3471--3471
-[]\TU/lmtt/m/n/10 <iframe scrolling="yes" src="https://create.twu.ca/h5p/wp-adm
-in/admin-ajax.php?action=h5p_embed&id=575" allowfullscreen="allowfullscreen" wi
-dth="100%" height="1000" frameborder="0" title="INNO 101 Unit 6.5  Activity: Qu
-iz: Problematic Online Behaviours"></iframe>[] 
- []
-
-
-Overfull \hbox (295.5pt too wide) in paragraph at lines 3473--3473
-[]\TU/lmtt/m/n/10 <script src="https://create.twu.ca/h5p/wp-content/plugins/h5p
-/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>[] 
- []
-
-
-Overfull \hbox (300.75pt too wide) in paragraph at lines 3475--3475
-[]\TU/lmtt/m/n/10 How did you do? Have you encountered any of these behaviours 
-online? Share your thoughts by posting a comment on Discourse.[] 
- []
-
-
-Overfull \hbox (589.5pt too wide) in paragraph at lines 3483--3483
-[]\TU/lmtt/m/n/10 Take the [Spot the Troll](https://spotthetroll.org/){target="
-_blank"} quiz developed by the Clemson University Media Forensics Hub which use
-s images of real social media content.[] 
- []
-
-
-Overfull \hbox (741.75pt too wide) in paragraph at lines 3485--3485
-[]\TU/lmtt/m/n/10 How did you do ? Did some of the profiles surprise you?  Have
- you encountered these types of profiles on social media?  How can you spot tro
-lls online?  Share your thoughts by posting a comment on Discourse.[] 
- []
-
-
-Overfull \hbox (1524.0pt too wide) in paragraph at lines 3493--3493
-[]\TU/lmtt/m/n/10 Watch this Matrix parody, a comedy skit published by CollegeH
-umour, depicting that if you are not paying for the service, you are not the co
-nsumer but the product. (Do you think this is a valid and reliable source for t
-he topic?) [The Terrifying Cost of "Free” Websites | Adam Ruins Everything](htt
-ps://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"}[] 
- []
-
-
-Overfull \hbox (1062.0pt too wide) in paragraph at lines 3497--3497
-[]\TU/lmtt/m/n/10 <iframe width="560" height="315" src="https://www.youtube-noc
-ookie.com/embed/5pFX2P7JLwA" title="YouTube video player" frameborder="0" allow
-="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture
--in-picture; web-share" allowfullscreen></iframe>[] 
- []
-
-
-Overfull \hbox (510.75pt too wide) in paragraph at lines 3504--3504
-[]\TU/lmtt/m/n/10 Read: [Stop Saying ‘If You’re Not Paying, You’re The Product’
-](https://www.techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-pro
-duct/){target="_blank"}[] 
- []
-
-
-Overfull \hbox (999.0pt too wide) in paragraph at lines 3505--3505
-[]\TU/lmtt/m/n/10 Read: Krutka, D.G., Smits, R.M., and Willhelm, T.A. (2021) [D
-on’t Be Evil: Should We Use Google in Schools?](https://link.springer.com/artic
-le/10.1007/s11528-021-00599-4){target="_blank"} TechTrends. Association for Edu
-cational Communications & Technology.[] 
- []
-
 [90]
-Overfull \hbox (216.75pt too wide) in paragraph at lines 3509--3509
-[]\TU/lmtt/m/n/10 - Read the Wikipedia article on [funding bias](https://en.wik
-ipedia.org/wiki/Funding_bias){target="_blank"}[] 
+Underfull \hbox (badness 10000) in paragraph at lines 3347--3349
+
  []
 
 
-Overfull \hbox (1051.5pt too wide) in paragraph at lines 3510--3510
-[]\TU/lmtt/m/n/10 - Read: Lundh, A., Krogsbøll, L. T., & Gøtzsche, P. C. (2012)
-. [Sponsors’ participation in conduct and reporting of industry trials: a descr
-iptive study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-621
-5-13-146){target="_blank"}. Trials, 13(1), 146.[] 
+Underfull \hbox (badness 10000) in paragraph at lines 3349--3351
+
  []
 
 
-Overfull \hbox (206.25pt too wide) in paragraph at lines 3511--3511
-[]\TU/lmtt/m/n/10 - Read the Wikipedia article on [ad blocking](https://en.wiki
-pedia.org/wiki/Ad_blocking){target="_blank"}[] 
+Underfull \hbox (badness 10000) in paragraph at lines 3356--3358
+
  []
 
 
-Overfull \hbox (59.25pt too wide) in paragraph at lines 3513--3513
-[]\TU/lmtt/m/n/10 After viewing this resources, what do you think the cost of f
-ree websites is?[] 
- []
+Underfull \vbox (badness 5490) has occurred while \output is active []
 
-
-Overfull \hbox (174.75pt too wide) in paragraph at lines 3515--3515
-[]\TU/lmtt/m/n/10 Please share your thoughts on Discourse and/or use Hypothes.i
-s to annotate and share your comments.[] 
- []
-
-
-Overfull \hbox (3744.75pt too wide) in paragraph at lines 3523--3523
-[]\TU/lmtt/m/n/10 The [OERu](https://oeru.org/){target="_blank"} is a charitabl
-e organisation which provides open online courses for free, using open educatio
-nal resources which any educational institution can adopt, modify and reuse. Th
-ere are costs that need to be covered to sustain the OERu: for example, the ass
-embly of open online courses, hosting of the server and software infrastructure
-, staff to coordinate and support the initiative. etc. The OERu does not genera
-te any revenue from corporate services, by, for example, allowing advertising o
-n the OERu course sites for a share of the advertising revenue. Moreover, the O
-ERu does not sell or generate revenue from personal data learners provide by us
-ing these free learning services, therefore users are not the product of this s
-ervice.[] 
- []
-
-
-Overfull \hbox (752.25pt too wide) in paragraph at lines 3527--3527
-[]\TU/lmtt/m/n/10 Join the discussion on philanthropy and corporate advertising
-. The key question is how can non-profit organisations sustain free educational
- services for those who can’t afford traditional education provision?[] 
- []
-
-
-Overfull \hbox (1025.25pt too wide) in paragraph at lines 3531--3531
-[]\TU/lmtt/m/n/10 - As a learner, how would you feel if the course materials in
-cluded corporate advertising? If advertising were to be supported, how would yo
-u feel if the OERu course sites required you to switch off any ad-blockers befo
-re gaining access to the course materials?[] 
- []
-
-
-Overfull \hbox (794.25pt too wide) in paragraph at lines 3532--3532
-[]\TU/lmtt/m/n/10 - Is it appropriate for publicly funded institutions and char
-ities working in education to generate revenue from corporate advertising to su
-pport and sustain free online services? What are the risks and opportunities?[]
- 
- []
-
-
-Overfull \hbox (411.0pt too wide) in paragraph at lines 3533--3533
-[]\TU/lmtt/m/n/10 - Should education institutions and educational charities acc
-ept significant corporate sponsorship in return for profiling proprietary produ
-cts?[] 
- []
-
-
-Overfull \hbox (636.75pt too wide) in paragraph at lines 3534--3534
-[]\TU/lmtt/m/n/10 - The OERu has recommended that learners use free blogging se
-rvices to share their learning outputs. Many of these services carry advertisin
-g. How do you feel about using these services –
- []
-
-
-Overfull \hbox (946.5pt too wide) in paragraph at lines 3534--3534
-\TU/lmtt/m/n/10 being the product rather than consumer? Would it be better for 
-OERu to recommend that learners use a paid service without advertising? How wou
-ld this impact on learners who do not have sufficient funds to afford maintaini
-ng a domain of their own?[] 
- []
-
-
-Overfull \hbox (216.75pt too wide) in paragraph at lines 3542--3542
-[]\TU/lmtt/m/n/10 > *“The Web as I envisaged it, we have not seen it yet. The f
-uture is still so much bigger than the past.”*[] 
- []
-
-
-Overfull \hbox (2253.75pt too wide) in paragraph at lines 3546--3546
-[]\TU/lmtt/m/n/10 The World Wide Web was originally designed to provide univers
-al access to a large universe of documents. To achieve universal access, it was
- paramount to design the web as an open system without a central locus of contr
-ol. However, on the Internet there are an increasing number of “walled gardens”
- that aim to control user’s access to content and services. In this section we 
-explore the concept of net neutrality and reflect on the risks associated with 
-universal access to online information.[] 
- []
-
-
-Overfull \hbox (148.5pt too wide) in paragraph at lines 3552--3552
-[]\TU/lmtt/m/n/10 Watch [Net Neutrality Explained](https://www.youtube.com/watc
-h?v=p90McT24Z6w){target="_blank"}[] 
- []
-
-[91]
-Overfull \hbox (1062.0pt too wide) in paragraph at lines 3556--3556
-[]\TU/lmtt/m/n/10 <iframe width="560" height="315" src="https://www.youtube-noc
-ookie.com/embed/p90McT24Z6w" title="YouTube video player" frameborder="0" allow
-="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture
--in-picture; web-share" allowfullscreen></iframe>[] 
- []
-
-
-Overfull \hbox (1098.75pt too wide) in paragraph at lines 3560--3560
-[]\TU/lmtt/m/n/10 This video was produced in 2015, where the main concern of ne
-t neutrality seemed to relate to companies controlling our access to informatio
-n on the internet.  Notice around the 2 minute mark where opposing political pa
-rties are supported/blamed for their view on the topic.)[] 
- []
-
-
-Overfull \hbox (148.5pt too wide) in paragraph at lines 3562--3562
-[]\TU/lmtt/m/n/10 Fast forward to 2023 where the concern is now government over
-sight in what information we see.[] 
- []
-
-
-Overfull \hbox (1812.75pt too wide) in paragraph at lines 3564--3564
-[]\TU/lmtt/m/n/10 This issue is highly controversial and politicized.  If you a
-re interested in exploring the topic...which means encountering diverse views o
-n the subject, then read on!  As we learn with technology in this course and in
- life, we need to critically evaluate the information available on the internet
- and whether there are any restrictions on information that would help us as ci
-tizens to make informed decisions.[] 
- []
-
-
-Overfull \hbox (1975.5pt too wide) in paragraph at lines 3566--3566
-[]\TU/lmtt/m/n/10 If interested, peruse the following resources.  ***Trigger al
-ert!***  These perspective range from liberal to conservative points of view. T
-his course aims to promote critical thinking of what we consume and produce onl
-ine. Refer back to the video [Building More Creative Social Networks](https://w
-ww.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"}.  Will encountering an opp
-osing point of view contribute to your understanding of an issue?[] 
- []
-
-
-Overfull \hbox (33.0pt too wide) in paragraph at lines 3571--3571
-[]\TU/lmtt/m/n/10 <summary>**Facebook Zero: Am Attempt to Bring Access to All?*
-*</summary>[] 
- []
-
-
-Overfull \hbox (2148.75pt too wide) in paragraph at lines 3575--3575
-[]\TU/lmtt/m/n/10 "[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero)
-{target="_blank"} is an application for mobile devices and business agreements 
-with a number of companies to provide access to selected internet services with
-out incurring data charges targeting markets where internet access may be less 
-affordable. Facebook Zero is part of internet.org set up by Facebook and the ba
-sic websites than can be accessed for free without data charges are determined 
-by the initiative."[] 
- []
-
-
-Overfull \hbox (2332.5pt too wide) in paragraph at lines 3579--3579
-[]\TU/lmtt/m/n/10 > "Facebook Zero became controversial in some countries due t
-o several issues such as net neutrality.[9] For instance, India[]s Telecom Regu
-latory Authority (TRAI) bans zero-rated services on account of "discriminatory 
-tariffs for data services on the basis of content”.[13] A criticism also stated
- that Facebook is practicing digital colonialism because it is not introducing 
-open internet but building a "little web that turns the user into a mostly pass
-ive consumer of mostly western corporate content”.[11]"[] 
- []
-
-
-Overfull \hbox (815.25pt too wide) in paragraph at lines 3587--3587
-[]\TU/lmtt/m/n/10 [EUROPEAN REGULATORS JUST STOPPED FACEBOOK, GOOGLE AND BIG TE
-LECOMS’ NET NEUTRALITY VIOLATIONS](https://cyberlaw.stanford.edu/blog/2022/06/e
-uropean-regulators-just-stopped-facebook-google-and-big-telecoms-net-neutrality
-).[] 
- []
-
-
-Overfull \hbox (468.75pt too wide) in paragraph at lines 3589--3589
-[]\TU/lmtt/m/n/10 [FCC Launches Effort To Reinstate Net Neutrality Rules — Upda
-te](https://deadline.com/2023/10/net-neutrality-fcc-reinstate-jessica-rosenworc
-el-1235556493/)[] 
- []
-
-
-Overfull \hbox (101.25pt too wide) in paragraph at lines 3593--3593
-[]\TU/lmtt/m/n/10 Search online for various views on this topic.  Here are a co
-uple to get you started:[] 
- []
-
-
-Overfull \hbox (311.25pt too wide) in paragraph at lines 3598--3598
-[]\TU/lmtt/m/n/10 [Bill C-18: The fallout over Google, Meta[]s plans to block n
-ews links in Canada](https://www.youtube.com/watch?v=W5YLvCEd1yE)[] 
- []
-
-[92]
-Overfull \hbox (264.0pt too wide) in paragraph at lines 3601--3601
-[]\TU/lmtt/m/n/10 [Debating Bill C-11—Internet Censorship for Canadians](https:
-//www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"}[] 
- []
-
-
-Overfull \hbox (432.0pt too wide) in paragraph at lines 3608--3608
-[]\TU/lmtt/m/n/10 [Net Neutrality is BACK! FCC tries to take away internet free
-dom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY) from Redacted w Clayto
-n Morris[] 
- []
-
-
-Overfull \hbox (90.75pt too wide) in paragraph at lines 3611--3611
-[]\TU/lmtt/m/n/10 Poilievre: Warned about Justin Trudeau[]s online censorship l
-aw | Latest News | WION[] 
- []
-
-
-Overfull \hbox (579.0pt too wide) in paragraph at lines 3616--3616
-[]\TU/lmtt/m/n/10 [Who really wins from Facebook[]s []free internet[] plan for 
-Africa?](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-inte
-rnet-plan-for-africa/){target="_blank"}[] 
- []
-
-
-Overfull \hbox (369.0pt too wide) in paragraph at lines 3620--3620
-[]\TU/lmtt/m/n/10 In addition to the challenges associated with net neutrality,
- think about how closed technologies can build walled gardens, for example:[] 
- []
-
-
-Overfull \hbox (237.75pt too wide) in paragraph at lines 3622--3622
-[]\TU/lmtt/m/n/10 - The Apple iOS which is restricted to running pre-approved a
-pplications on the hardware purchased by the user.[] 
- []
-
-
-Overfull \hbox (195.75pt too wide) in paragraph at lines 3623--3623
-[]\TU/lmtt/m/n/10 - The Amazon Kindle line of e-readers intentionally designed 
-to favour the Amazon commercial ecosystem.[] 
- []
-
-
-Overfull \hbox (678.75pt too wide) in paragraph at lines 3624--3624
-[]\TU/lmtt/m/n/10 - Video game consoles that typically require game developers 
-to purchase a license to develop games for the platform frequently requiring ap
-proval from the platform prior to publishing the games.[] 
- []
-
-
-Overfull \hbox (101.25pt too wide) in paragraph at lines 3635--3635
-[]\TU/lmtt/m/n/10 Share your thoughts on net neutrality by posting a comment on
- Discourse, for example:[] 
- []
-
-
-Overfull \hbox (1.5pt too wide) in paragraph at lines 3638--3638
-[]\TU/lmtt/m/n/10 - Net neutrality can / can’t coexist with internet.org becaus
-e ...[] 
- []
+[91] [92]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [93]
-Underfull \vbox (badness 3179) has occurred while \output is active []
+Underfull \vbox (badness 5203) has occurred while \output is active []
 
 [94]
-Underfull \hbox (badness 10000) in paragraph at lines 3718--3720
+Underfull \hbox (badness 10000) in paragraph at lines 3436--3438
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3720--3722
+Underfull \hbox (badness 10000) in paragraph at lines 3438--3440
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3763--3765
+Underfull \hbox (badness 10000) in paragraph at lines 3461--3463
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3765--3767
+Underfull \hbox (badness 10000) in paragraph at lines 3463--3465
+
+ []
+
+[95]
+Underfull \hbox (badness 10000) in paragraph at lines 3535--3537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3767--3769
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3769--3771
+Underfull \hbox (badness 10000) in paragraph at lines 3537--3539
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[95]
-Underfull \vbox (badness 1635) has occurred while \output is active []
+[96]
+Underfull \hbox (badness 10000) in paragraph at lines 3565--3567
 
-[96] [97] [98
+ []
 
-] [99] [100
 
-] (./inno101.bbl [101] [102
+Underfull \hbox (badness 10000) in paragraph at lines 3567--3569
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3569--3571
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3571--3573
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[97]
+Overfull \vbox (8.21329pt too high) has occurred while \output is active []
+
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 3607--3609
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3609--3611
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3652--3654
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3654--3656
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3656--3658
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3658--3660
+
+ []
+
+
+Underfull \vbox (badness 5862) has occurred while \output is active []
+
+[99]
+Overfull \vbox (18.26329pt too high) has occurred while \output is active []
+
+[100]
+Underfull \vbox (badness 1087) has occurred while \output is active []
+
+[101] [102] [103
+
+] [104
+
+]
+Underfull \hbox (badness 4242) in paragraph at lines 3732--3733
+[]\TU/lmr/m/n/10 [Creating Communities of Practice]([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 3732--3733
+[][][][][][][][][][] [] [][][][] [][] [][] [][] [] [][] [][][][][][][][][] [][] [][] [][] [][][][][][][][][]$[]\TU/lmr/m/n/10 ] from ERLC, a member of
+ []
+
+(./inno101.bbl [105] [106
 
 ]
 
@@ -3146,14 +2381,21 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[103] (./inno101.aux) ) 
+[107] (./inno101.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+ ***********
+Package rerunfilecheck Info: File `inno101.out' has not changed.
+(rerunfilecheck)             Checksum: AC3A6FEE844B67159E6B2C12E8E32456;7912.
+ ) 
 Here is how much of TeX's memory you used:
- 27407 strings out of 476919
- 527208 string characters out of 5821841
- 1026475 words of memory out of 5000000
- 46924 multiletter control sequences out of 15000+600000
- 409897 words of font info for 82 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 98i,9n,122p,1579b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26731 strings out of 477165
+ 534254 string characters out of 5809437
+ 1964674 words of memory out of 5000000
+ 47941 multiletter control sequences out of 15000+600000
+ 564536 words of font info for 91 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 90i,9n,120p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on inno101.pdf (103 pages).
+Output written on inno101.pdf (107 pages).
