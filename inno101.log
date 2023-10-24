@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  22 OCT 2023 22:44
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  23 OCT 2023 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2293,11 +2293,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3537--3539
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [96]
-Underfull \hbox (badness 10000) in paragraph at lines 3565--3567
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 3567--3569
 
  []
@@ -2313,65 +2308,131 @@ Underfull \hbox (badness 10000) in paragraph at lines 3571--3573
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 3573--3575
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [97]
-Overfull \vbox (8.21329pt too high) has occurred while \output is active []
+Overfull \vbox (32.21329pt too high) has occurred while \output is active []
 
-[98]
-Underfull \hbox (badness 10000) in paragraph at lines 3607--3609
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3609--3611
+[98] [99] [100]
+Underfull \hbox (badness 10000) in paragraph at lines 3662--3664
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3652--3654
+Underfull \hbox (badness 10000) in paragraph at lines 3664--3666
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3654--3656
+Underfull \hbox (badness 10000) in paragraph at lines 3666--3668
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3656--3658
+Underfull \hbox (badness 10000) in paragraph at lines 3668--3670
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3658--3660
+Underfull \hbox (badness 10000) in paragraph at lines 3699--3701
 
  []
 
 
-Underfull \vbox (badness 5862) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 3701--3703
 
-[99]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3703--3705
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3705--3707
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3747--3749
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3749--3751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3751--3753
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[101]
+Overfull \vbox (1366.19128pt too high) has occurred while \output is active []
+
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 3775--3777
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3777--3779
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3820--3822
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3822--3824
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3824--3826
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3826--3828
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[103]
 Overfull \vbox (18.26329pt too high) has occurred while \output is active []
 
-[100]
+[104]
 Underfull \vbox (badness 1087) has occurred while \output is active []
 
-[101] [102] [103
+[105] [106] [107
 
-] [104
+] [108
 
 ]
-Underfull \hbox (badness 4242) in paragraph at lines 3732--3733
+Underfull \hbox (badness 4242) in paragraph at lines 3900--3901
 []\TU/lmr/m/n/10 [Creating Communities of Practice]([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 3732--3733
+Underfull \hbox (badness 1755) in paragraph at lines 3900--3901
 [][][][][][][][][][] [] [][][][] [][] [][] [][] [] [][] [][][][][][][][][] [][] [][] [][] [][][][][][][][][]$[]\TU/lmr/m/n/10 ] from ERLC, a member of
  []
 
-(./inno101.bbl [105] [106
+(./inno101.bbl [109] [110
 
 ]
 
@@ -2381,21 +2442,21 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[107] (./inno101.aux)
+[111] (./inno101.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: AC3A6FEE844B67159E6B2C12E8E32456;7912.
+(rerunfilecheck)             Checksum: E2BCC2C0A5AE8C5F9CCE96695362DEF9;7912.
  ) 
 Here is how much of TeX's memory you used:
- 26731 strings out of 477165
- 534254 string characters out of 5809437
+ 26734 strings out of 477165
+ 534337 string characters out of 5809437
  1964674 words of memory out of 5000000
- 47941 multiletter control sequences out of 15000+600000
+ 47944 multiletter control sequences out of 15000+600000
  564536 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  90i,9n,120p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on inno101.pdf (107 pages).
+Output written on inno101.pdf (111 pages).

@@ -137,3 +137,51 @@ H~2~O
 ### Superscript
 
 X^2^
+
+
+### Comment
+<!--
+comment
+ 
+-->
+
+### Drop down Accordion
+
+</details>
+
+<details>
+<summary>**title of article**</summary>
+
+text
+
+</details>
+
+<details>
+<summary>**title of article**</summary>
+
+text
+
+</details>
+
+
+
+### Activity
+
+### Activity: Title  {-}
+
+```{block2, type='reflect'}
+
+
+```
+
+
+### Video example
+
+### Video
+[Watch: *Video Title*](Video Link){target="_blank”}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5pFX2P7JLwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>

@@ -485,7 +485,7 @@ How did you do? Have you encountered any of these behaviours online? Share your 
 ```
 
 
-### Activity: Spot the Troll! {-}
+### Activity: Trolling in Social Media {-}
 
 ```{block2, type='reflect'}
 
@@ -521,15 +521,17 @@ Read: Krutka, D.G., Smits, R.M., and Willhelm, T.A. (2021) [Don’t Be Evil: Sho
 - Read: Lundh, A., Krogsbøll, L. T., & Gøtzsche, P. C. (2012). [Sponsors’ participation in conduct and reporting of industry trials: a descriptive study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146){target="_blank"}. Trials, 13(1), 146.  
 - Read the Wikipedia article on [ad blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"}  
 
-After viewing this resources, what do you think the cost of free websites is?
+After viewing this resources, what do you think the cost of free websites is? Do you use ad-blocking software? Think about the reasons for your choice.
 
 Please share your thoughts on Discourse and/or use Hypothes.is to annotate and share your comments.
 
 ```
 
-### Activity: Forum: Philanthropy and corporate advertising  {-}
+### Activity: Forum: Philanthropy and Corporate Advertising  {-}
 
 ```{block2, type='reflect'}
+
+Next, let's explore and reflect on the relationship between corporate commercial interests and digital citizenship for learning in a digital age.
 
 Read the following case study:
 
@@ -559,12 +561,54 @@ Remember to tag your posts using the course code: LDRS101
 
 The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access, it was paramount to design the web as an open system without a central locus of control. However, on the Internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
 
+***Net neutrality*** is a critical concept in the realm of internet policy and regulation. It revolves around the principle that internet service providers (ISPs) should treat all data on the internet equally. In other words, they should not discriminate against or charge differently based on user, content, website, application, or platform. The primary goal of net neutrality is to ensure that the internet remains an open and level playing field, where all data and information can be accessed and transmitted freely.
+
+*Arguments For Net Neutrality:*
+
+Preservation of Open Internet: Net neutrality proponents argue that it is essential to maintain the open nature of the internet, where all content is equally accessible to users. This fosters innovation, competition, and free expression.
+
+Equal Access: Net neutrality ensures that users, regardless of their economic status, can access all online content without discrimination. It prevents ISPs from creating fast lanes for certain content, disadvantaging others.
+
+Innovation: Without net neutrality, ISPs could prioritize certain services or websites, potentially stifling innovation by making it difficult for new, smaller players to compete on a level playing field.
+
+*Arguments Against Net Neutrality:*
+
+Investment and Infrastructure: Opponents argue that without the ability to offer paid prioritization or tiered services, ISPs may have less incentive to invest in and improve network infrastructure, potentially hindering the growth of broadband services.
+
+Regulatory Overreach: Some argue that government intervention in net neutrality is unnecessary and that market forces should determine how ISPs manage their networks. They fear that regulation could lead to unintended consequences, such as the governent controling access to online content. 
+
+Quality of Service: In certain cases, ISPs claim that they need the flexibility to manage network traffic to provide a better quality of service for applications such as real-time video and gaming.
+
+*Concerns:*
+Concerns surrounding net neutrality involve potential discrimination, a lack of competition, and the profound implications for free speech and innovation. The absence of robust net neutrality principles could pave the way for Internet Service Providers (ISPs) to exert unwarranted control. They might throttle or obstruct access to specific websites, promote their own content, or levy extra charges for particular online services.
+
+At the same time, there is a significant concern of government overreach in this digital domain. The debate over how much the government should regulate the internet is a hot topic, as it could hamper innovation and limit the free sharing of information. Excessive regulation could put the power to control or tamper with online content in the hands of the government or regulators, potentially jeopardizing our democratic values and our basic freedom of expression. Navigating this tricky balance between rules and protecting our personal freedoms is a key challenge in the digital era.
+
+*Canadian Context:*
+In Canada, the discussion on net neutrality is intertwined with the debate over Bill C-10, also known as the Broadcasting Act. This bill, introduced in 2021, aims to update Canada's broadcasting and telecommunications regulations to account for the digital age. Critics of Bill C-10 have expressed concerns that it could infringe on net neutrality principles by giving more power to the Canadian Radio-television and Telecommunications Commission (CRTC) to regulate online content, potentially leading to restrictions on free expression and innovation.
+
+In addition to Bill C-10, another significant piece of legislation to consider in the Canadian context is Bill C-18, which is also known as the Online Streaming Act. This bill, introduced to the Canadian Parliament, is designed to regulate online streaming services, potentially affecting the content and accessibility of such platforms. Critics argue that Bill C-18 could raise concerns related to net neutrality by granting the government more authority over the content available on streaming platforms and potentially infringing on free expression and access to diverse content.
+
+
+Questions to consider:
+As you view the resources in the activity below, consider the following questions:
+- How does the principle of net neutrality impact the way you access and use the internet, and how might changes in net neutrality regulations affect your online experience?  
+- What is the role of government and regulatory bodies, such as the CRTC in Canada, in ensuring a balance between net neutrality and the need to regulate online content and services?  
+- What measures can be taken to ensure that government regulations, while addressing valid concerns, do not lead to the overreach of power and the erosion of fundamental rights, such as free speech, on the internet?  
+- Can net neutrality coexist with the goal of ensuring high-quality internet service and fostering investment in digital infrastructure, or are these objectives inherently in conflict?
+
+Consider drawing a mind map, such as the following to track your understanding of the subject.
+
+<a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705"><img src="https://live.staticflickr.com/2790/4540678705_ff7936561a.jpg" alt="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" /></a><br /><small><a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705">Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)</a> flickr photo by <a href="https://flickr.com/people/frauleinschiller">Anna L. Schiller</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a></small>
+
 
 ### Activity: The Meaning of Net Neutrality  {-}
 
 ```{block2, type='reflect'}
 
-Watch [Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"}
+Watch the following videos:
+
+[Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"}
 
 <div class ="video-container">
 
@@ -572,137 +616,100 @@ Watch [Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w){ta
 
 </div>
 
+
+[Internet Citizens: Defend Net Neutrality](https://www.youtube.com/watch?v=wtt2aSV8wdw){target="_blank"}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wtt2aSV8wdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+ 
+
+
 ```
 
-<!--
+### Activity: Perspectives on Net Neutrality {-}
 
-to edit:
+```{block2, type='reflect'}
 
-see :https://tlp-lpa.ca/digital-citizenship/net-neutrality
+Explore the issue of net neutrality.  Below are some sample resources, but please search for additional resources that interest you.  Seek out different perspectives on the topic to inform your views.
 
+- [Net neutrality by country](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} 
 
+**Net Neutrality in Canada**
 
-This video was produced in 2015, where the main concern of net neutrality seemed to relate to companies controlling our access to information on the internet.  Notice around the 2 minute mark where opposing political parties are supported/blamed for their view on the topic.)
+- [Strengthening net neutrality in Canada](https://crtc.gc.ca/eng/internet/diff.htm){target="_blank"}  
+- [Big Tech vs. Canadian news: the battle over C-18, explained | About That](https://www.youtube.com/watch?v=k5iRopjAwm4){target="_blank"}  
+- [Bill C-18: The fallout over Google, Meta's plans to block news links in Canada](https://www.youtube.com/watch?v=W5YLvCEd1yE){target="_blank"}  
+- [Debating Bill C-11—Internet Censorship for Canadians](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"}   
+- [Poilievre: Warned about Justin Trudeau's online censorship law | Latest News | WION](https://www.youtube.com/watch?v=doPyNc6Sf_c){target="_blank"}
 
-Fast forward to 2023 where the concern is now government oversight in what information we see.
+If interested, check out the following views on the topic:
 
-This issue is highly controversial and politicized.  If you are interested in exploring the topic...which means encountering diverse views on the subject, then read on!  As we learn with technology in this course and in life, we need to critically evaluate the information available on the internet and whether there are any restrictions on information that would help us as citizens to make informed decisions.
+</details>
+<details>
+<summary>**MDr. Michael Geist on Net Neutrality  **</summary>  
+Dr. Michael Geist is a law professor at the University of Ottawa where he holds the Canada Research Chair in Internet and E-commerce Law and is a member of the Centre for Law, Technology and Society. Browse through his [articles on Net Neutrality](https://www.michaelgeist.ca/tech-law-topics/net-neutrality/){target="_blank"}.
 
-If interested, peruse the following resources.  ***Trigger alert!***  These perspective range from liberal to conservative points of view. This course aims to promote critical thinking of what we consume and produce online. Refer back to the video [Building More Creative Social Networks](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"}.  Will encountering an opposing point of view contribute to your understanding of an issue?
+Here are some key points of interest from Dr. Geist: 
+> "while the focus of net neutrality is typically on telecom companies, Bill C-10 envisions a different intermediary or third party – the Canadian government via the CRTC – choosing which content Canadians see by prioritizing or de-prioritizing content that appears in Canadians’ feeds. Internet sites and services will still be available to Canadians (assuming the sites aren’t blocked given the onerous regulations), but the government’s Internet regulatory framework will mean that Internet content will not be treated in a neutral, equal fashion. The mandated Canadian content discoverability requirements will mean that a government regulator will influence what Canadians see when they access Internet services, invoking the same concerns regarding interfering with content and user choice. The intermediary may have changed, but the principle is largely the same." (from [Why Bill C-10 Undermines the Government’s Commitment to the Principle of Net Neutrality](https://www.michaelgeist.ca/2021/05/why-bill-c-10-undermines-the-governments-commitment-to-the-principle-of-net-neutrality/){target="_blank"})
 
-Let's dig in to some points on net neutrality!
+> It is hard to overstate how dangerous it would be for the CRTC to be vested with new powers to regularly intervene in online content or consider “conditions of service” for Internet sites and services. While the government insists that Bill C-11 is designed for large streaming services with limited regulations, it would appear that the CRTC may have other ideas. (from [CRTC Calls for Increased Powers To Take a More “Interventionist” Approach on Internet Content](https://www.michaelgeist.ca/2022/03/crtc-calls-for-more-powers-to-take-a-more-interventionist-approach-on-internet-content/){target="_blank"} (March 3, 2022))
 
+> "it is difficult to separate the government’s willingness to censor social media posts with its broader Internet regulation agenda, including Bills C-11, C-18 and online harms. Seeking to remove news links, mean tweets and other content without due process and without any apparent illegality does not bode well for the development of Charter-compliant regulations. The government may see itself as a model for others, but its willingness to muscle social media companies in an effort to remove lawful content is the very worst kind of example that should not be welcome in a democracy that prioritizes freedom of expression." (from [Government Departments Pressure Social Media Sites to Censor News Links, Mean Tweets](https://www.michaelgeist.ca/2023/04/government-departments-pressure-social-media-sites-to-censor-news-links-mean-tweets/){target="_blank"} (April 13, 2023))
 
-<a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705"><img src="https://live.staticflickr.com/2790/4540678705_ff7936561a.jpg" alt="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" /></a><br /><small><a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705">Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)</a> flickr photo by <a href="https://flickr.com/people/frauleinschiller">Anna L. Schiller</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a></small>
-
-
+</details>
 
 <details>
-<summary>**Facebook Zero: Am Attempt to Bring Access to All?**</summary>
+<summary>**Digital First Canada**</summary>
 
-Consider the following case study:
-
-"[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero){target="_blank"} is an application for mobile devices and business agreements with a number of companies to provide access to selected internet services without incurring data charges targeting markets where internet access may be less affordable. Facebook Zero is part of internet.org set up by Facebook and the basic websites than can be accessed for free without data charges are determined by the initiative."
-
-...and then some criticism:
-
-> "Facebook Zero became controversial in some countries due to several issues such as net neutrality.[9] For instance, India's Telecom Regulatory Authority (TRAI) bans zero-rated services on account of "discriminatory tariffs for data services on the basis of content”.[13] A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a "little web that turns the user into a mostly passive consumer of mostly western corporate content”.[11]"
-
-
-
-
-[EUROPEAN REGULATORS JUST STOPPED FACEBOOK, GOOGLE AND BIG TELECOMS’ NET NEUTRALITY VIOLATIONS](https://cyberlaw.stanford.edu/blog/2022/06/european-regulators-just-stopped-facebook-google-and-big-telecoms-net-neutrality).
-
-[FCC Launches Effort To Reinstate Net Neutrality Rules — Update](https://deadline.com/2023/10/net-neutrality-fcc-reinstate-jessica-rosenworcel-1235556493/)
-
-Is the Internet Neutral in Canada?  
-
-Search online for various views on this topic.  Here are a couple to get you started:  
-
-[Strengthening net neutrality in Canada]
-
-
-[Bill C-18: The fallout over Google, Meta's plans to block news links in Canada](https://www.youtube.com/watch?v=W5YLvCEd1yE)
-
-
-[Debating Bill C-11—Internet Censorship for Canadians](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"}
-
-
-Dr. Michael Geist is a law professor at the University of Ottawa where he holds the Canada Research Chair in Internet and E-commerce Law and is a member of the Centre for Law, Technology and Society. Browse through his [articles on Net Neutrality](https://www.michaelgeist.ca/tech-law-topics/net-neutrality/).
-
-> "while the focus of net neutrality is typically on telecom companies, Bill C-10 envisions a different intermediary or third party – the Canadian government via the CRTC – choosing which content Canadians see by prioritizing or de-prioritizing content that appears in Canadians’ feeds. Internet sites and services will still be available to Canadians (assuming the sites aren’t blocked given the onerous regulations), but the government’s Internet regulatory framework will mean that Internet content will not be treated in a neutral, equal fashion. The mandated Canadian content discoverability requirements will mean that a government regulator will influence what Canadians see when they access Internet services, invoking the same concerns regarding interfering with content and user choice. The intermediary may have changed, but the principle is largely the same." ([Why Bill C-10 Undermines the Government’s Commitment to the Principle of Net Neutrality](https://www.michaelgeist.ca/2021/05/why-bill-c-10-undermines-the-governments-commitment-to-the-principle-of-net-neutrality/))
-
-
-It is hard to overstate how dangerous it would be for the CRTC to be vested with new powers to regularly intervene in online content or consider “conditions of service” for Internet sites and services. While the government insists that Bill C-11 is designed for large streaming services with limited regulations, it would appear that the CRTC may have other ideas.
-
-[CRTC Calls for Increased Powers To Take a More “Interventionist” Approach on Internet Content](https://www.michaelgeist.ca/2022/03/crtc-calls-for-more-powers-to-take-a-more-interventionist-approach-on-internet-content/) (March 3, 2022)
-
-
-> "it is difficult to separate the government’s willingness to censor social media posts with its broader Internet regulation agenda, including Bills C-11, C-18 and online harms. Seeking to remove news links, mean tweets and other content without due process and without any apparent illegality does not bode well for the development of Charter-compliant regulations. The government may see itself as a model for others, but its willingness to muscle social media companies in an effort to remove lawful content is the very worst kind of example that should not be welcome in a democracy that prioritizes freedom of expression."
-[Government Departments Pressure Social Media Sites to Censor News Links, Mean Tweets](https://www.michaelgeist.ca/2023/04/government-departments-pressure-social-media-sites-to-censor-news-links-mean-tweets/) (April 13, 2023)
-
-
-
-[Big Tech vs. Canadian news: the battle over C-18, explained | About That](https://www.youtube.com/watch?v=k5iRopjAwm4)
-
-
-
-https://digitalfirstcanada.ca/fix-c11/
+Another interesting perspective on the issue comes from [Digital First Canada](https://digitalfirstcanada.ca/fix-c11/){target="_blank"} a non profit organization that advocates on behalf of the Digital Entrepreneurs in Canada. Here is there explanation of Bill C-11: 
 
 In its current form, Bill C-11 gives the CRTC authority to:
 
-- Dictate how and where your content appears on digital platforms.  
-- Affect your discoverability by artificially promoting some creators over others. Viewers may be pushed to watch content they aren't interested in, resulting in more skips and thumbs down, which would impact how your content is exported to global audiences, lowering viewership and revenue.  
+- Dictate how and where your content appears on digital platforms.   
+- Affect your discoverability by artificially promoting some creators over others. Viewers may be pushed to watch content they aren't interested in, resulting in more skips and thumbs down, which would impact how your content is exported to global audiences, lowering viewership and revenue.   
 - Apply complex “CanCon” rules that require you to prove your content is “Canadian” enough. This is easy for large Canadian media companies with teams who have been following these rules for decades, and makes it harder for smaller creators to benefit from any financial or promotional gain.  
 - Push your content down in feeds if it doesn’t meet CanCon requirements.  
 - Regulate the length and type of advertising on your channel, which could mean less money in your pocket.  
 
 
-C-11 poses a threat to those who want to post their content online.
+According to Digital First Canada, C-11 poses a threat to those who want to post their content online.  The state the following principles:   
+- Digital First Creators do not require government intervention to succeed. They have thrived and led a digital content renaissance without government intervention.   
+- Digital First Creators aspire for their content to be discovered by a global audience, and do not measure success within Canada’s borders.  
+- Freedom of expression is a fundamental freedom. Government should not interfere with or limit the ability for lawful content to be freely discovered by users.   
+- Canadian Content designations are incompatible with user generated content, and do not benefit the interests of Digital First Creators.  
+-  Any mandatory contributions derived from user-generated content platforms must be for the benefit of Digital First Creators who make content for those platforms.   
 
-https://digitalfirstcanada.ca/about/
-
-
-ABOUT DIGITAL FIRST CANADA
-Advocating On Behalf Of Millions Of Canadians Creating Content To Be Discovered Online
-Statement Of Principles
-Digital First Creators do not require government intervention to succeed. They have thrived and led a digital content renaissance without government intervention.  
-Digital First Creators aspire for their content to be discovered by a global audience, and do not measure success within Canada’s borders. 
-Freedom of expression is a fundamental freedom. Government should not interfere with or limit the ability for lawful content to be freely discovered by users. 
-Canadian Content designations are incompatible with user generated content, and do not benefit the interests of Digital First Creators.
-Any mandatory contributions derived from user-generated content platforms must be for the benefit of Digital First Creators who make content for those platforms. 
+</details>
 
 
-
-search for "Canada's New Regulations for Podcasts"
-
-Is the Internet Neutral in America?
-
-[Net Neutrality is BACK! FCC tries to take away internet freedom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY) from Redacted w Clayton Morris
-
-
-Poilievre: Warned about Justin Trudeau's online censorship law | Latest News | WION
-
-
-Is the Internet Neutral in Africa?
-
-[Who really wins from Facebook's 'free internet' plan for Africa?](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-internet-plan-for-africa/){target="_blank"}
+**Net Neutrality in America**  
+- [Net Neutrality is BACK! FCC tries to take away internet freedom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY){target="_blank"} from Redacted w Clayton Morris  
+- [FCC Launches Effort To Reinstate Net Neutrality Rules — Update](https://deadline.com/2023/10/net-neutrality-fcc-reinstate-jessica-rosenworcel-1235556493/){target="_blank"}  
+- [The Net Neutrality Debate: Twenty Five Years after United States v. AT&T and 120 Years after the Act to Regulate Commerce](https://siepr.stanford.edu/publications/working-paper/net-neutrality-debate-twenty-five-years-after-united-states-v-att-and){target="_blank"}
 
 
 
-In addition to the challenges associated with net neutrality, think about how closed technologies can build walled gardens, for example:
+**Facebook & Big Tech**  
 
-- The Apple iOS which is restricted to running pre-approved applications on the hardware purchased by the user.  
-- The Amazon Kindle line of e-readers intentionally designed to favour the Amazon commercial ecosystem.  
-- Video game consoles that typically require game developers to purchase a license to develop games for the platform frequently requiring approval from the platform prior to publishing the games.  
+Case Study: **Facebook Zero: Am Attempt to Bring Access to All?**  
+Consider the following case study:  
 
+"[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero){target="_blank"} is an application for mobile devices and business agreements with a number of companies to provide access to selected internet services without incurring data charges targeting markets where internet access may be less affordable. Facebook Zero is part of internet.org set up by Facebook and the basic websites than can be accessed for free without data charges are determined by the initiative."
 
+...and then some criticism:
 
-Resources
+> "Facebook Zero became controversial in some countries due to several issues such as net neutrality. For instance, India's Telecom Regulatory Authority (TRAI) bans zero-rated services on account of "discriminatory tariffs for data services on the basis of content”. A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a "little web that turns the user into a mostly passive consumer of mostly western corporate content”."
 
-- internet.org by Facebook  
-- India bans Facebook’s basics app to support net neutrality  
-- Facebook’s Internet.org Isn’t Going Over Well in India  
+Choose from the following: 
+- [Who really wins from Facebook's 'free internet' plan for Africa?](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-internet-plan-for-africa/){target="_blank"}
+- [EUROPEAN REGULATORS JUST STOPPED FACEBOOK, GOOGLE AND BIG TELECOMS’ NET NEUTRALITY VIOLATIONS](https://cyberlaw.stanford.edu/blog/2022/06/european-regulators-just-stopped-facebook-google-and-big-telecoms-net-neutrality){target="_blank"}
+- [internet.org by Facebook](https://en.wikipedia.org/wiki/Internet.org){target="_blank"}  
+- [India bans Facebook’s basics app to support net neutrality](https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/){target="_blank"}  
+- [Facebook’s Internet.org Isn’t Going Over Well in India](https://fortune.com/2016/01/22/facebook-india-internet/){target="_blank"}  
 
 
 Share your thoughts on net neutrality by posting a comment on Discourse, for example:
@@ -712,40 +719,17 @@ Share your thoughts on net neutrality by posting a comment on Discourse, for exa
 - Free basics is a good thing because ...  
 - Free basics is problematic because ...  
 
-You must be logged in to post to WEnotes.
+Note that as part of your assessment in this course you will be asked to publish an editorial on a societal issue or problematic behaviour associated with the Internet. Consider posting your views on your blog.  Remember that you control the settings of your blog. You can choose to share your views with your instructor, your peers, or open for all.
 
+```
 
+```{block, type='feedback'} 
 
-</details>
-
-<details>
-<summary>**title of article**</summary>
-
-text
-
-</details>
-
-<details>
-<summary>**title of article**</summary>
-
-text
-
-</details>
-
-
-
-
-### Activity:   {-}
-
-```{block2, type='reflect'}
-
+Note that as part of your assessment in this course you will be asked to publish an editorial on a societal issue or problematic behaviour associated with the Internet. Consider posting your views on your blog.  Remember that you control the settings of your blog. You can choose to share your views with your instructor, your peers, or open for all.    
 
 ```
 
 
-
- 
--->
 
 
 ## Digital Wisdom
