@@ -468,6 +468,7 @@ You will choose one societal issue or antisocial behavior associated with the In
 - Psychological issues
 - Digital redlining
 - Equity and inclusion
+- Fake News
 
 
 ### Activity: Problematic Online Behaviours - Key terms quiz  {-}
@@ -638,7 +639,9 @@ Explore the issue of net neutrality.  Below are some sample resources, but pleas
 
 - [Net neutrality by country](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} 
 
-**Net Neutrality in Canada**
+</details>
+<details>
+<summary>**Net Neutrality in Canada**</summary>  
 
 - [Strengthening net neutrality in Canada](https://crtc.gc.ca/eng/internet/diff.htm){target="_blank"}  
 - [Big Tech vs. Canadian news: the battle over C-18, explained | About That](https://www.youtube.com/watch?v=k5iRopjAwm4){target="_blank"}  
@@ -646,11 +649,6 @@ Explore the issue of net neutrality.  Below are some sample resources, but pleas
 - [Debating Bill C-11—Internet Censorship for Canadians](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"}   
 - [Poilievre: Warned about Justin Trudeau's online censorship law | Latest News | WION](https://www.youtube.com/watch?v=doPyNc6Sf_c){target="_blank"}
 
-If interested, check out the following views on the topic:
-
-</details>
-<details>
-<summary>**MDr. Michael Geist on Net Neutrality  **</summary>  
 Dr. Michael Geist is a law professor at the University of Ottawa where he holds the Canada Research Chair in Internet and E-commerce Law and is a member of the Centre for Law, Technology and Society. Browse through his [articles on Net Neutrality](https://www.michaelgeist.ca/tech-law-topics/net-neutrality/){target="_blank"}.
 
 Here are some key points of interest from Dr. Geist: 
@@ -660,10 +658,6 @@ Here are some key points of interest from Dr. Geist:
 
 > "it is difficult to separate the government’s willingness to censor social media posts with its broader Internet regulation agenda, including Bills C-11, C-18 and online harms. Seeking to remove news links, mean tweets and other content without due process and without any apparent illegality does not bode well for the development of Charter-compliant regulations. The government may see itself as a model for others, but its willingness to muscle social media companies in an effort to remove lawful content is the very worst kind of example that should not be welcome in a democracy that prioritizes freedom of expression." (from [Government Departments Pressure Social Media Sites to Censor News Links, Mean Tweets](https://www.michaelgeist.ca/2023/04/government-departments-pressure-social-media-sites-to-censor-news-links-mean-tweets/){target="_blank"} (April 13, 2023))
 
-</details>
-
-<details>
-<summary>**Digital First Canada**</summary>
 
 Another interesting perspective on the issue comes from [Digital First Canada](https://digitalfirstcanada.ca/fix-c11/){target="_blank"} a non profit organization that advocates on behalf of the Digital Entrepreneurs in Canada. Here is there explanation of Bill C-11: 
 
@@ -686,14 +680,18 @@ According to Digital First Canada, C-11 poses a threat to those who want to post
 </details>
 
 
-**Net Neutrality in America**  
+<details>
+<summary>**Net Neutrality in America**</summary>  
+
 - [Net Neutrality is BACK! FCC tries to take away internet freedom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY){target="_blank"} from Redacted w Clayton Morris  
 - [FCC Launches Effort To Reinstate Net Neutrality Rules — Update](https://deadline.com/2023/10/net-neutrality-fcc-reinstate-jessica-rosenworcel-1235556493/){target="_blank"}  
 - [The Net Neutrality Debate: Twenty Five Years after United States v. AT&T and 120 Years after the Act to Regulate Commerce](https://siepr.stanford.edu/publications/working-paper/net-neutrality-debate-twenty-five-years-after-united-states-v-att-and){target="_blank"}
 
+</details>
 
 
-**Facebook & Big Tech**  
+<details>
+<summary>**Facebook & Big Tech**</summary>  
 
 Case Study: **Facebook Zero: Am Attempt to Bring Access to All?**  
 Consider the following case study:  
@@ -711,6 +709,8 @@ Choose from the following:
 - [India bans Facebook’s basics app to support net neutrality](https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/){target="_blank"}  
 - [Facebook’s Internet.org Isn’t Going Over Well in India](https://fortune.com/2016/01/22/facebook-india-internet/){target="_blank"}  
 
+</details>
+
 
 Share your thoughts on net neutrality by posting a comment on Discourse, for example:
 
@@ -719,7 +719,6 @@ Share your thoughts on net neutrality by posting a comment on Discourse, for exa
 - Free basics is a good thing because ...  
 - Free basics is problematic because ...  
 
-Note that as part of your assessment in this course you will be asked to publish an editorial on a societal issue or problematic behaviour associated with the Internet. Consider posting your views on your blog.  Remember that you control the settings of your blog. You can choose to share your views with your instructor, your peers, or open for all.
 
 ```
 
@@ -728,6 +727,36 @@ Note that as part of your assessment in this course you will be asked to publish
 Note that as part of your assessment in this course you will be asked to publish an editorial on a societal issue or problematic behaviour associated with the Internet. Consider posting your views on your blog.  Remember that you control the settings of your blog. You can choose to share your views with your instructor, your peers, or open for all.    
 
 ```
+
+
+
+### Online impersonation {-}
+
+Impersonation online refers to the act of creating an online presence in someone else’s name. This is potentially a complex issue as some social media sites permit parody accounts or accounts that are intended to represent real individuals. It is not necessarily illegal to impersonate someone per se, for example comedy, but online impersonation is a growing problem. Many social media sites have anti-impersonation policies, but this is not sufficient guarantee or protection against the risks of online impersonation.
+
+
+
+### Internet trolling {-}
+
+
+### Online harassment {-}
+
+
+### Psychological issues {-}
+
+
+### Digital redlining {-}
+
+
+### Equity and inclusion {-}
+
+<!--
+comment
+
+### Fake News {-}
+
+ 
+-->
 
 
 
