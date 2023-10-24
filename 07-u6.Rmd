@@ -736,6 +736,48 @@ Impersonation online refers to the act of creating an online presence in someone
 
 
 
+
+### Activity: Identify the Imposter!  {-}
+
+```{block2, type='reflect'}
+
+Visit the profile page of following X (Twitter) accounts:
+
+- [Nelson Mandela](https://twitter.com/NelsonMandela)  
+- [Mark Zuckerburg](https://twitter.com/notzuckerberg)
+- [Elon Musk](https://twitter.com/ElonMuskAOC)
+- [Darth Vader](https://twitter.com/DarthVader)
+
+Clearly these social media accounts are not the “real” people. In one case it’s a foundation promoting the legacy of Nelson Mandela, the second is a parody account of Queen Elizabeth and the last example is a mashup-up of the quotes of the Danish philosopher, Søren Kierkegaard and reality television celebrity Kim Kardashian.
+ 
+
+Social media response to impersonation
+
+- [Twitter impersonation policy](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy)
+- [How do I report an account that’s pretending to be me?](https://www.facebook.com/help/174210519303259)
+- [Reporting impersonation on social media](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media)
+
+The real Jon Ronson
+
+Case study - Catfishing
+Catfishing is a the deceptive practice of creating a fictional online presence to lure somebody into a relationship, for example a romance scam.
+
+Dr Alec Couros is Associate Professor of Information and Communication Technologies at the University of Regina, Saskatchewan, Canada. Professor Couros has experienced a number of scams where his personal photos have been used to lure woman into a online romantic relationship for the purpose of “borrowing” or extorting money.
+
+- Listen: [Your photos can be used in ‘catfishing’ romance scams](https://www.cbc.ca/radio/spark/380-phantom-traffic-jams-catfishing-scams-and-smart-speakers-1.4482967/your-photos-can-be-used-in-catfishing-romance-scams-1.4482985), CBC radio interview with Alec Couros  
+- Read: [Identity, love and catfishing](http://educationaltechnology.ca/2393/)  
+- Read: [Would the real ‘Alec Couros’ please stand up](http://educationaltechnology.ca/2466/)  
+- Visit: [Romancescam.com](https://romancescam.com/)  
+- Watch [How to Detect a Facebook Scammer With Google Reverse Image Search](https://www.youtube.com/watch?v=s6Q4U8DvJH8)
+
+
+
+Optional reading: [Facebook as catfish paradise: It’s community standards wears the cone of shame](https://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/) (Expletive warning).  
+
+Feel free to share personal reflections on the phenomenon of online impersonation by posting a comment on Discourse.
+
+
+
 ### Internet trolling {-}
 
 
