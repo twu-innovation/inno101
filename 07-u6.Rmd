@@ -564,34 +564,44 @@ The World Wide Web was originally designed to provide universal access to a larg
 
 ***Net neutrality*** is a critical concept in the realm of internet policy and regulation. It revolves around the principle that internet service providers (ISPs) should treat all data on the internet equally. In other words, they should not discriminate against or charge differently based on user, content, website, application, or platform. The primary goal of net neutrality is to ensure that the internet remains an open and level playing field, where all data and information can be accessed and transmitted freely.
 
-*Arguments For Net Neutrality:*
+</details>
+<details>
+<summary>**Arguments For Net Neutrality**</summary>  
 
-Preservation of Open Internet: Net neutrality proponents argue that it is essential to maintain the open nature of the internet, where all content is equally accessible to users. This fosters innovation, competition, and free expression.
+- *Preservation of Open Internet*: Net neutrality proponents argue that it is essential to maintain the open nature of the internet, where all content is equally accessible to users. This fosters innovation, competition, and free expression.  
+- *Equal Access*: Net neutrality ensures that users, regardless of their economic status, can access all online content without discrimination. It prevents ISPs from creating fast lanes for certain content, disadvantaging others.  
+- *Innovation*: Without net neutrality, ISPs could prioritize certain services or websites, potentially stifling innovation by making it difficult for new, smaller players to compete on a level playing field.
 
-Equal Access: Net neutrality ensures that users, regardless of their economic status, can access all online content without discrimination. It prevents ISPs from creating fast lanes for certain content, disadvantaging others.
+</details>
 
-Innovation: Without net neutrality, ISPs could prioritize certain services or websites, potentially stifling innovation by making it difficult for new, smaller players to compete on a level playing field.
+<details>
+<summary>**Arguments Against Net Neutrality**</summary> 
 
-*Arguments Against Net Neutrality:*
+- *Investment and Infrastructure*: Opponents argue that without the ability to offer paid prioritization or tiered services, ISPs may have less incentive to invest in and improve network infrastructure, potentially hindering the growth of broadband services.  
+- *Regulatory Overreach*: Some argue that government intervention in net neutrality is unnecessary and that market forces should determine how ISPs manage their networks. They fear that regulation could lead to unintended consequences, such as the governent controling access to online content.   
+- *Quality of Service*: In certain cases, ISPs claim that they need the flexibility to manage network traffic to provide a better quality of service for applications such as real-time video and gaming.
 
-Investment and Infrastructure: Opponents argue that without the ability to offer paid prioritization or tiered services, ISPs may have less incentive to invest in and improve network infrastructure, potentially hindering the growth of broadband services.
+</details>
 
-Regulatory Overreach: Some argue that government intervention in net neutrality is unnecessary and that market forces should determine how ISPs manage their networks. They fear that regulation could lead to unintended consequences, such as the governent controling access to online content. 
+<details>
+<summary>**Concerns**</summary> 
 
-Quality of Service: In certain cases, ISPs claim that they need the flexibility to manage network traffic to provide a better quality of service for applications such as real-time video and gaming.
-
-*Concerns:*
 Concerns surrounding net neutrality involve potential discrimination, a lack of competition, and the profound implications for free speech and innovation. The absence of robust net neutrality principles could pave the way for Internet Service Providers (ISPs) to exert unwarranted control. They might throttle or obstruct access to specific websites, promote their own content, or levy extra charges for particular online services.
 
 At the same time, there is a significant concern of government overreach in this digital domain. The debate over how much the government should regulate the internet is a hot topic, as it could hamper innovation and limit the free sharing of information. Excessive regulation could put the power to control or tamper with online content in the hands of the government or regulators, potentially jeopardizing our democratic values and our basic freedom of expression. Navigating this tricky balance between rules and protecting our personal freedoms is a key challenge in the digital era.
 
-*Canadian Context:*
+</details>
+
+<details>
+<summary>**Canadian Context**</summary> 
+
 In Canada, the discussion on net neutrality is intertwined with the debate over Bill C-10, also known as the Broadcasting Act. This bill, introduced in 2021, aims to update Canada's broadcasting and telecommunications regulations to account for the digital age. Critics of Bill C-10 have expressed concerns that it could infringe on net neutrality principles by giving more power to the Canadian Radio-television and Telecommunications Commission (CRTC) to regulate online content, potentially leading to restrictions on free expression and innovation.
 
 In addition to Bill C-10, another significant piece of legislation to consider in the Canadian context is Bill C-18, which is also known as the Online Streaming Act. This bill, introduced to the Canadian Parliament, is designed to regulate online streaming services, potentially affecting the content and accessibility of such platforms. Critics argue that Bill C-18 could raise concerns related to net neutrality by granting the government more authority over the content available on streaming platforms and potentially infringing on free expression and access to diverse content.
 
+</details>
 
-Questions to consider:
+**Questions to Consider:**
 As you view the resources in the activity below, consider the following questions:
 - How does the principle of net neutrality impact the way you access and use the internet, and how might changes in net neutrality regulations affect your online experience?  
 - What is the role of government and regulatory bodies, such as the CRTC in Canada, in ensuring a balance between net neutrality and the need to regulate online content and services?  
@@ -600,7 +610,7 @@ As you view the resources in the activity below, consider the following question
 
 Consider drawing a mind map, such as the following to track your understanding of the subject.
 
-<a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705"><img src="https://live.staticflickr.com/2790/4540678705_ff7936561a.jpg" alt="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" /></a><br /><small><a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705">Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)</a> flickr photo by <a href="https://flickr.com/people/frauleinschiller">Anna L. Schiller</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a></small>
+<a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705"><img src="https://live.staticflickr.com/2790/4540678705_ff7936561a.jpg" alt="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" /></a><br /><small><a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705">Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)</a> flickr photo by <a href="https://flickr.com/people/frauleinschiller">Anna L. Schiller</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a></small>{target="_blank"}
 
 
 ### Activity: The Meaning of Net Neutrality  {-}
@@ -743,38 +753,62 @@ Impersonation online refers to the act of creating an online presence in someone
 
 Visit the profile page of following X (Twitter) accounts:
 
-- [Nelson Mandela](https://twitter.com/NelsonMandela)  
-- [Mark Zuckerburg](https://twitter.com/notzuckerberg)
-- [Elon Musk](https://twitter.com/ElonMuskAOC)
-- [Darth Vader](https://twitter.com/DarthVader)
+- [Nelson Mandela](https://twitter.com/NelsonMandela){target="_blank"}  
+- [Mark Zuckerburg](https://twitter.com/notzuckerberg){target="_blank"}
+- [Elon Musk](https://twitter.com/ElonMuskAOC){target="_blank"}
+- [Darth Vader](https://twitter.com/DarthVader){target="_blank"}
 
 Clearly these social media accounts are not the “real” people. In one case it’s a foundation promoting the legacy of Nelson Mandela, the second is a parody account of Queen Elizabeth and the last example is a mashup-up of the quotes of the Danish philosopher, Søren Kierkegaard and reality television celebrity Kim Kardashian.
  
 
 Social media response to impersonation
 
-- [Twitter impersonation policy](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy)
-- [How do I report an account that’s pretending to be me?](https://www.facebook.com/help/174210519303259)
-- [Reporting impersonation on social media](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media)
+- [Twitter impersonation policy](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy){target="_blank"}
+- [How do I report an account that’s pretending to be me?](https://www.facebook.com/help/174210519303259){target="_blank"}
+- [Reporting impersonation on social media](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media){target="_blank"}
 
-The real Jon Ronson
+```
 
-Case study - Catfishing
+### Activity: Impersonation Case Studies {-}
+
+```{block2, type='reflect'}
+
+**The Real Jon Ronson**
+Warning: The following video contains expletives. If you are offended by swearing and offensive language, do not watch this video.
+
+Jon Ronson, journalist, author and documentary filmmaker, shares his personal experiences of a Twitter spambot account documenting the complexities of online impersonation. (Don’t miss the short interview 4:25 minutes into the talk with the academics who set up the spambot account.)
+
+Watch [Declaring Other People Insane | Jon Ronson | TEDxMarthasVineyard](https://www.youtube.com/watch?v=gnGAjiALurI){target="_blank"}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnGAjiALurI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+**Case study: Catfishing**
 Catfishing is a the deceptive practice of creating a fictional online presence to lure somebody into a relationship, for example a romance scam.
 
 Dr Alec Couros is Associate Professor of Information and Communication Technologies at the University of Regina, Saskatchewan, Canada. Professor Couros has experienced a number of scams where his personal photos have been used to lure woman into a online romantic relationship for the purpose of “borrowing” or extorting money.
 
-- Listen: [Your photos can be used in ‘catfishing’ romance scams](https://www.cbc.ca/radio/spark/380-phantom-traffic-jams-catfishing-scams-and-smart-speakers-1.4482967/your-photos-can-be-used-in-catfishing-romance-scams-1.4482985), CBC radio interview with Alec Couros  
-- Read: [Identity, love and catfishing](http://educationaltechnology.ca/2393/)  
-- Read: [Would the real ‘Alec Couros’ please stand up](http://educationaltechnology.ca/2466/)  
-- Visit: [Romancescam.com](https://romancescam.com/)  
-- Watch [How to Detect a Facebook Scammer With Google Reverse Image Search](https://www.youtube.com/watch?v=s6Q4U8DvJH8)
+- Listen: [Your photos can be used in ‘catfishing’ romance scams](https://www.cbc.ca/radio/spark/380-phantom-traffic-jams-catfishing-scams-and-smart-speakers-1.4482967/your-photos-can-be-used-in-catfishing-romance-scams-1.4482985){target="_blank"}, CBC radio interview with Alec Couros  
+- Read: [Identity, love and catfishing](http://educationaltechnology.ca/2393/){target="_blank"}  
+- Read: [Would the real ‘Alec Couros’ please stand up](http://educationaltechnology.ca/2466/){target="_blank"}  
+- Visit: [Romancescam.com](https://romancescam.com/){target="_blank"}  
+- Watch [How to Detect a Facebook Scammer With Google Reverse Image Search](https://www.youtube.com/watch?v=s6Q4U8DvJH8){target="_blank"}
 
+<div class ="video-container">
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s6Q4U8DvJH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-Optional reading: [Facebook as catfish paradise: It’s community standards wears the cone of shame](https://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/) (Expletive warning).  
+</div>
+
+Optional reading: [Facebook as catfish paradise: It’s community standards wears the cone of shame](https://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/){target="_blank"} (Expletive warning).  
 
 Feel free to share personal reflections on the phenomenon of online impersonation by posting a comment on Discourse.
+
+```
 
 
 

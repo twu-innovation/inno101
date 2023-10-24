@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  24 OCT 2023 10:54
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  24 OCT 2023 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2318,68 +2318,88 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [97]
 Overfull \vbox (32.21329pt too high) has occurred while \output is active []
 
-[98] [99] [100]
-Underfull \hbox (badness 10000) in paragraph at lines 3664--3666
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 3602--3604
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3666--3668
+Underfull \hbox (badness 10000) in paragraph at lines 3604--3606
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3668--3670
+Underfull \hbox (badness 10000) in paragraph at lines 3614--3616
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3670--3672
+Underfull \hbox (badness 10000) in paragraph at lines 3616--3618
+
+ []
+
+[99] [100]
+Underfull \hbox (badness 10000) in paragraph at lines 3674--3676
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3695--3697
+Underfull \hbox (badness 10000) in paragraph at lines 3676--3678
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3697--3699
+Underfull \hbox (badness 10000) in paragraph at lines 3678--3680
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3699--3701
+Underfull \hbox (badness 10000) in paragraph at lines 3680--3682
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3701--3703
+Underfull \hbox (badness 10000) in paragraph at lines 3705--3707
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3718--3720
+Underfull \hbox (badness 10000) in paragraph at lines 3707--3709
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3720--3722
+Underfull \hbox (badness 10000) in paragraph at lines 3709--3711
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3750--3752
+Underfull \hbox (badness 10000) in paragraph at lines 3711--3713
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3752--3754
+Underfull \hbox (badness 10000) in paragraph at lines 3728--3730
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3754--3756
+Underfull \hbox (badness 10000) in paragraph at lines 3730--3732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3760--3762
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3762--3764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3764--3766
 
  []
 
@@ -2390,83 +2410,91 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (1328.08128pt too high) has occurred while \output is active []
 
 [102]
-Underfull \hbox (badness 10000) in paragraph at lines 3784--3786
+Underfull \hbox (badness 10000) in paragraph at lines 3794--3796
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3817--3819
+Underfull \hbox (badness 2426) in paragraph at lines 3828--3829
+[]\TU/lmr/m/n/10 Watch []Declaring Other People Insane | Jon Ronson | TEDx-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3838--3840
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3819--3821
+Underfull \hbox (badness 10000) in paragraph at lines 3840--3842
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3821--3823
+Underfull \hbox (badness 10000) in paragraph at lines 3842--3844
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3823--3825
+Underfull \hbox (badness 10000) in paragraph at lines 3844--3846
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3860--3862
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3862--3864
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3905--3907
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3907--3909
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3909--3911
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3911--3913
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3514) has occurred while \output is active []
 
 [103]
-Overfull \vbox (357.72124pt too high) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [104]
+Underfull \hbox (badness 10000) in paragraph at lines 3882--3884
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3884--3886
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3927--3929
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3929--3931
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3931--3933
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3933--3935
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [105]
+Overfull \vbox (18.26329pt too high) has occurred while \output is active []
+
+[106]
 Underfull \vbox (badness 1087) has occurred while \output is active []
 
-[106] [107] [108
+[107] [108] [109
 
-] [109] [110
+] [110
 
 ]
-Underfull \hbox (badness 4242) in paragraph at lines 3985--3986
+Underfull \hbox (badness 4242) in paragraph at lines 4007--4008
 []\TU/lmr/m/n/10 [Creating Communities of Practice]([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 3985--3986
+Underfull \hbox (badness 1755) in paragraph at lines 4007--4008
 [][][][][][][][][][] [] [][][][] [][] [][] [][] [] [][] [][][][][][][][][] [][] [][] [][] [][][][][][][][][]$[]\TU/lmr/m/n/10 ] from ERLC, a member of
  []
 
@@ -2486,13 +2514,13 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: A578D5507BD85F14E5527671294E2D76;7912.
+(rerunfilecheck)             Checksum: C27FA6165405867900ADDCA8D26EE9ED;7912.
  ) 
 Here is how much of TeX's memory you used:
- 26742 strings out of 477165
- 534508 string characters out of 5809437
+ 26744 strings out of 477165
+ 534561 string characters out of 5809437
  1964674 words of memory out of 5000000
- 47952 multiletter control sequences out of 15000+600000
+ 47954 multiletter control sequences out of 15000+600000
  564536 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  90i,9n,120p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
