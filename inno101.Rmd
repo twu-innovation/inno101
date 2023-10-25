@@ -3091,7 +3091,7 @@ The World Wide Web was originally designed to provide universal access to a larg
 </details>
 
 <details>
-<summary>**Concerns**</summary> 
+<summary>*Key Concerns**</summary> 
 
 Concerns surrounding net neutrality involve potential discrimination, a lack of competition, and the profound implications for free speech and innovation. The absence of robust net neutrality principles could pave the way for Internet Service Providers (ISPs) to exert unwarranted control. They might throttle or obstruct access to specific websites, promote their own content, or levy extra charges for particular online services.
 
@@ -3108,8 +3108,9 @@ In addition to Bill C-10, another significant piece of legislation to consider i
 
 </details>
 
-**Questions to Consider:**
-As you view the resources in the activity below, consider the following questions:
+
+**Questions to Consider:**  
+As you view the resources in the activity below, consider the following questions:  
 - How does the principle of net neutrality impact the way you access and use the internet, and how might changes in net neutrality regulations affect your online experience?  
 - What is the role of government and regulatory bodies, such as the CRTC in Canada, in ensuring a balance between net neutrality and the need to regulate online content and services?  
 - What measures can be taken to ensure that government regulations, while addressing valid concerns, do not lead to the overreach of power and the erosion of fundamental rights, such as free speech, on the internet?  
@@ -3117,14 +3118,14 @@ As you view the resources in the activity below, consider the following question
 
 Consider drawing a mind map, such as the following to track your understanding of the subject.
 
-<a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705"><img src="https://live.staticflickr.com/2790/4540678705_ff7936561a.jpg" alt="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" /></a><br /><small><a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705">Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)</a> flickr photo by <a href="https://flickr.com/people/frauleinschiller">Anna L. Schiller</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a></small>{target="_blank"}
+<a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705"><img src="https://live.staticflickr.com/2790/4540678705_ff7936561a.jpg" alt="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" /></a><br /><small><a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705">Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)</a> flickr photo by <a href="https://flickr.com/people/frauleinschiller">Anna L. Schiller</a> shared under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons (BY-NC-ND) license</a></small>
 
 
 ### Activity: The Meaning of Net Neutrality  {-}
 
 ```{block2, type='reflect'}
 
-Watch the following videos:
+Watch the following videos that explain the importance of net neutrality.
 
 [Net Neutrality Explained](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"}
 
@@ -3154,7 +3155,9 @@ Watch the following videos:
 
 Explore the issue of net neutrality.  Below are some sample resources, but please search for additional resources that interest you.  Seek out different perspectives on the topic to inform your views.
 
-- [Net neutrality by country](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} 
+First, have a look at a summary of [Net neutrality by country](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} 
+
+Next, click on the topics below to explore different perspectives on this issue.
 
 </details>
 <details>
@@ -3265,20 +3268,53 @@ Visit the profile page of following X (Twitter) accounts:
 - [Elon Musk](https://twitter.com/ElonMuskAOC){target="_blank"}
 - [Darth Vader](https://twitter.com/DarthVader){target="_blank"}
 
-Clearly these social media accounts are not the “real” people. In one case it’s a foundation promoting the legacy of Nelson Mandela, the second is a parody account of Queen Elizabeth and the last example is a mashup-up of the quotes of the Danish philosopher, Søren Kierkegaard and reality television celebrity Kim Kardashian.
+Clearly these social media accounts are not the “real” people. In one case it’s a foundation promoting the legacy of Nelson Mandela, the next two examples are parody accounts of two tech giants, and the last example is, well, Darth Vader!
  
 
-Social media response to impersonation
+Read the following articles on the social media response to impersonation:
 
 - [Twitter impersonation policy](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy){target="_blank"}
 - [How do I report an account that’s pretending to be me?](https://www.facebook.com/help/174210519303259){target="_blank"}
 - [Reporting impersonation on social media](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media){target="_blank"}
 
+Have you seen a fake account on social media? What clues did you have that it was not real?  
+
 ```
 
-### Activity: Impersonation Case Studies {-}
+```{block, type='feedback'}
+
+Sidenote: If interested, search on X for some parody accounts.  Some can be quite entertaining, but you might notice that other accounts simply mock the person they are parodying.  Would you create a parody account in order to ridicule someone - or perhaps a political view you don't agree with?  What should our response be to such messages on social media?  How can we promote inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?
+
+```
+
+### Activity: How to Spot A Scammer  {-}
 
 ```{block2, type='reflect'}
+
+Check out these two videos that share signs to help you identify online impersonation.
+
+[Watch out for scammers using fake Instagram profiles](https://www.youtube.com/watch?v=F57DE05FpgQ){target="_blank"}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F57DE05FpgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+[Cyber Sandra's Hacks - Social Media Impersonation](https://www.youtube.com/watch?v=Ta6qq7wnpcA){target="_blank"}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ta6qq7wnpcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+<!--
+
+Taking this one out...until we can bleep out some words!
+
 
 **The Real Jon Ronson**
 Warning: The following video contains expletives. If you are offended by swearing and offensive language, do not watch this video.
@@ -3292,6 +3328,14 @@ Watch [Declaring Other People Insane | Jon Ronson | TEDxMarthasVineyard](https:/
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnGAjiALurI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 </div>
+
+comment
+ 
+-->
+
+### Activity: Impersonation Case Studies {-}
+
+```{block2, type='reflect'}
 
 
 **Case study: Catfishing**
@@ -3323,9 +3367,10 @@ Feel free to share personal reflections on the phenomenon of online impersonatio
 
 
 > “	Sometimes trolls live under bridges. But not everyone living under a bridge is a troll.	”
+
 > —Wikipedia essay: [What is a troll?](https://meta.wikimedia.org/wiki/What_is_a_troll%3F){target="_blank"}
 
-It is estimated that that the Internet has about 5.473 billion users ^[Reference: Tsvetkova, R. [99 Amazing Social Media Statistics and Facts](https://www.brandwatch.com/blog/amazing-social-media-statistics-and-facts/){target="_blank"} Brandwatch], almost half the population of the world (Smith 2016[1]). With the growing number of internet and social media users, we are witnessing an increase in antisocial behaviour online.
+It is estimated that that the Internet has about 5.473 billion users , almost half the population of the world (Tsvetkova, R. ^[Reference: Tsvetkova, R. [99 Amazing Social Media Statistics and Facts](https://www.brandwatch.com/blog/amazing-social-media-statistics-and-facts/){target="_blank"} Brandwatch]). With the growing number of internet and social media users, we are witnessing an increase in antisocial behaviour online.
 
 In this section, we explore the phenomenon of internet trolling and strategies for managing this disruptive online behaviour taking the communication context into account.
 
@@ -3333,7 +3378,7 @@ In this section, we explore the phenomenon of internet trolling and strategies f
 An [Internet troll](https://en.wikipedia.org/wiki/Troll_(slang)){target="_blank"} is a person who sows discord on the Internet by starting arguments or upsetting people, by posting inflammatory, extraneous, or off-topic messages in an online community (such as a newsgroup, forum, chat room, or blog) with the intent of provoking readers into an emotional response, or of otherwise disrupting normal, on-topic discussion, primarily for the troll’s own amusement.
 :::
 
-### Activity: Impersonation Case Studies {-}
+### Activity: What Is A Troll? {-}
 
 ```{block2, type='reflect'}
 
@@ -3351,17 +3396,17 @@ Watch [The Secret Confessions of an Internet Troll](https://www.youtube.com/watc
 
 </div>
 
-Read the following articles and add or reply to annotations using  on the  Hypothes.is focusing on how the research relates to your own online experience. Remember to tag your posts using the course code: LiDA102. (Consult the OERu support site for help on using the Hypothes.is annotation tool.)
+Read the following articles and add or reply to annotations using  on the  Hypothes.is focusing on how the research relates to your own online experience. Remember to tag your posts using the course code: LDRS101. 
 
-- [March, E. (2016). [‘Don’t feed the trolls’ really is good advice – here’s the evidence](https://theconversation.com/dont-feed-the-trolls-really-is-good-advice-heres-the-evidence-63657){target="_blank"} 
-- [March, E. (2017). How empathy can make or break a troll](https://theconversation.com/how-empathy-can-make-or-break-a-troll-80680){target="_blank"} 
+- March, E. (2016). [‘Don’t feed the trolls’ really is good advice – here’s the evidence](https://theconversation.com/dont-feed-the-trolls-really-is-good-advice-heres-the-evidence-63657){target="_blank"} 
+- March, E. (2017). [How empathy can make or break a troll](https://theconversation.com/how-empathy-can-make-or-break-a-troll-80680){target="_blank"} 
 
 ```
 
 ### Online harassment {-}
 
 
-“	Nearly three quarters of internet users—73%—have witnessed online harassment.	”
+> “Nearly three quarters of internet users—73%—have witnessed online harassment.	”
 —Maeve Duggan ^[Reference: Duggan, M. (2014, October 22). [Online Harassment](https://www.pewresearch.org/internet/2014/10/22/online-harassment/)){target="_blank"} Pew Research Center]   
 
 
@@ -3375,9 +3420,9 @@ In this section, we will review research on the state of online harassment and c
 
 Read the following research reports on online harassment. 
 
-- Duggan, M. (2014, October 22). [Online Harassment](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"}. Pew Research Center Retrieved July 7, 2017. Pew Research Center. (Note that the report comprises eight pages, so you need to click through to the next page indicators at the bottom of each page of the report.)
+- Duggan, M. (2014, October 22). [Online Harassment](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"}. Pew Research Center. (Note that the report comprises eight pages, so you need to click through to the next page indicators at the bottom of each page of the report.)
 
-- Desilver, D. (2021, January 132). [Q&A: What we’ve learned about online harassment](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"}
+- Desilver, D. (2021, January 13). [Q&A: What we’ve learned about online harassment](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"}
 
 Note in particular the finding that those "who have ever experienced more severe forms of harassment – such as physical threats, stalking, sexual harassment or sustained harassment – or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies."
 
@@ -3397,11 +3442,11 @@ Please add or reply to annotations using the Hypothes.is to share personal insig
 
 Choose from the following resources commenting on online harassment and what our response should be.
 
-*Suggested practices*
+*Suggested practices*  
 - [Facebook community standards](https://transparency.fb.com/en-gb/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F){target="_blank"}  
 - [X (Twitter) Help Centre - About Online Abuse](https://help.twitter.com/en/safety-and-security/cyber-bullying-and-online-abuse){target="_blank"}  
 
-*Commentary*
+*Commentary*  
 - [Twitter tries new measures in crackdown on harassment](https://money.cnn.com/2017/02/07/technology/twitter-combat-harassment-features/index.html?iid=EL){target="_blank"}, published by CNN tech.  
 - [Using Digital Fingerprints And Deep Learning To Fight Online Harassment](https://www.forbes.com/sites/kalevleetaru/2017/02/06/using-digital-fingerprints-and-deep-learning-to-fight-online-harassment/?sh=49fc9bf06908){target="_blank"}, published by Forbes  
 - [At Facebook we get things wrong – but we take our safety role seriously](https://www.theguardian.com/commentisfree/2017/may/22/facebook-get-things-wrong-but-safety-role-seriously){target="_blank"}, published by the Guardian.  Please watch the [video](https://www.theguardian.com/news/video/2017/may/21/the-facebook-files-sex-violence-and-hate-speech-video-explainer){target="_blank"} in this link!  
