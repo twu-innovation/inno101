@@ -3310,6 +3310,7 @@ Check out these two videos that share signs to help you identify online imperson
 
 </div>
 
+```
 
 <!--
 
@@ -3333,12 +3334,10 @@ comment
  
 -->
 
-### Activity: Impersonation Case Studies {-}
+### Activity: Case study: Catfishing {-}
 
 ```{block2, type='reflect'}
 
-
-**Case study: Catfishing**
 Catfishing is a the deceptive practice of creating a fictional online presence to lure somebody into a relationship, for example a romance scam.
 
 Dr Alec Couros is Associate Professor of Information and Communication Technologies at the University of Regina, Saskatchewan, Canada. Professor Couros has experienced a number of scams where his personal photos have been used to lure woman into a online romantic relationship for the purpose of “borrowing” or extorting money.
@@ -3454,27 +3453,214 @@ Choose from the following resources commenting on online harassment and what our
 ```
 
 
-### Psychological issues {-}
+### Psychological Issues {-}
+
+The internet, social media and mobile devices have introduced new psychological issues. These include, for example: the phantom ringing syndrome, nomophobia, cybersickness, and internet addiction disorder.  
+
+In this section, we identify selected psychological issues which you may choose to research further as you select a societal issue to comment on on your blog.  
+
+### Activity: How online personas are redefining human connection {-}  
+
+```{block2, type='reflect'}
+
+First, consider the following questions:  
+
+- How does digital technology change what we do?    
+- How does digital technology change who we are?   
+- Do adolescents need to develop face-to-face communication skills in a digital world?   
+
+Next, watch this fascinating TedTalk video, [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"}, from [Sherry Turkle](http://sherryturkle.mit.edu/){target="_blank"}.  Please jot down your thoughts in your Reflective Journal (Obsidian).
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t7Xr3AsBEK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Finally, read the following article which summarises a number of psychological disorders related to our use of digital technology:  
+
+- Dashevsky, E. (2013, October 16). [Eight new mental illnesses brought to you by the Internet](https://www.pcworld.com/article/448085/eight-new-mental-illnesses-brought-to-you-by-wait-for-it-the-internet.html){target="_blank"} . PCWorld.   
+
+Share your thoughts by posting a comment on Discourse, for example:  
+
+- I was surprised by …  
+- I think that …  
+- I don’t agree that …  
+
+```
+
+### Digital Redlining {-}
+
+[Digital redlining](https://en.wikipedia.org/wiki/Digital_redlining#:~:text=Digital%20redlining%20is%20the%20practice,digital%20content%2C%20and%20the%20internet.) refers to the discriminatory practice of denying or limiting access to certain services, information, or opportunities in the digital world, based on a person's location, economic status, race, or other demographic factors. It is an extension of the historical concept of redlining, which originally referred to the discriminatory practice of marking certain neighborhoods on physical maps and denying residents of those areas access to financial services, insurance, and other resources.
+
+In the context of the digital age, digital redlining manifests in various ways:
+
+**Limited Internet Access**: Some areas, often low-income neighborhoods or rural regions, may lack access to high-speed internet or affordable data plans. This limits people's ability to access online education, job opportunities, government services, and other online resources.
+
+**Discriminatory Algorithms**: Algorithms used in various online services, such as lending, housing, and employment platforms, may inadvertently or intentionally discriminate against certain groups. For example, an algorithm may give preferential treatment to job applicants from specific demographics.
+
+**Targeted Advertising and Privacy Concerns**: Certain demographics may be disproportionately exposed to predatory or harmful online advertisements, while more privileged individuals receive personalized, less invasive content. This can lead to manipulation and exploitation.
+
+**Educational Disparities**: Inadequate access to technology and online educational resources can limit the learning opportunities for students in underserved communities.
+
+**Healthcare Access**: Some communities may have limited access to telehealth services, which have become increasingly important, especially during the COVID-19 pandemic.
+
+**Data Collection and Surveillance**: Vulnerable populations are often subject to more extensive data collection and surveillance, leading to privacy concerns and potential discrimination based on the data collected.
+
+Addressing digital redlining is essential to ensure equitable access to the benefits of the digital age. Efforts to combat digital redlining include policies aimed at closing the digital divide, regulating algorithms to prevent discriminatory outcomes, promoting net neutrality, and protecting data privacy. These measures aim to create a more inclusive and fair digital environment for all individuals, regardless of their socioeconomic status, race, or location.
 
 
-### Digital redlining {-}
+### Case Study: Indigenous Communities in Canada {-}  
+
+```{block2, type='reflect'}
+
+Digital redlining is a global concern, including Canada. While Canada is known for its social safety nets and relatively high internet penetration rates, digital disparities persist, particularly among marginalized communities. These disparities are evident in various aspects, such as internet access, online discrimination, and algorithmic biases.
+
+Watch [Seneca Nation disconnected by Redlining](https://www.youtube.com/watch?v=J5NV9BJx1_M)
+
+This case study highlights the digital disparities faced by Indigenous communities in Canada. Many Indigenous communities, especially those in remote areas, lack reliable high-speed internet access, which hampers their ability to participate fully in the digital world. This limitation affects various aspects of life, including education, healthcare, economic opportunities, and cultural preservation.
+
+Addressing these issues in Canada requires a multi-faceted approach, combining infrastructure development, anti-discrimination regulations, and community engagement. Initiatives like the [Connecting Families program](https://ised-isde.canada.ca/site/connecting-families/en) and investments in broadband infrastructure are steps in the right direction, but more work is needed to ensure equitable access to the digital world for all Canadians. This includes recognizing the unique challenges faced by Indigenous communities and implementing policies that specifically address their needs while promoting digital inclusion and addressing digital redlining for all marginalized groups.
+
+```
+
+### Where Do You See Digital Redlining? {-}  
+
+```{block2, type='reflect'}
+
+As you explore this topic, consider where digital redlining occurs in your community.  Search online, or perhaps ask community members, about their experiences in accessing the internet. Is digital access fair and accessible for all? 
+
+In addition to your personal research, select from the following resources or more information on digital redlining.
+
+- Podcast: [Digital redlining and privacy](https://teachinginhighered.com/podcast/digital-redlining-privacy/){target="_blank"}, with Chris Gilliard published by Teachning in HigherEd.  Chris Gilliard is a Professor of English at Macomb Community College. His scholarship concentrates on privacy, institutional technology policy, digital redlining, and the re-inventions of discriminatory practices through data mining and algorithmic decision-making, especially as these apply to college students.  
+- [Bad algorithms are making racist decisions](https://www.cbc.ca/radio/spark/412-1.4887497/bad-algorithms-are-making-racist-decisions-1.4887504){target="_blank"}  
+- [What Is Digital Redlining? Experts Explain the Nuances](https://www.govtech.com/network/what-is-digital-redlining-experts-explain-the-nuances){target="_blank"}   
+- [What Is Digital Redlining and How Does It Perpetuate Poverty?](https://communitytechnetwork.org/blog/digital-redlining-and-how-it-perputates-poverty/){target="_blank"}  
 
 
-### Equity and inclusion {-}
+Also see the following articles that focus on racial and gender bias:
+
+- Noble, S., Umoja. (2013). [Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible](http://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/). Invisible Culture: An Electronic Journal for Visual Culture, (19). 
+- Gilliard, C. (2017). [Pedagogy and the Logic of Platforms](https://er.educause.edu/articles/2017/7/pedagogy-and-the-logic-of-platforms). Educause Review. 
+- Gilliard, C. (2016, May 24). [Digital Redlining, Access, and Privacy](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy).  
+
+```
+
+### Inclusion, Diversity & Equity  {-}
+
+**Inclusion** is about a sense of belonging irrespective of national origin, age, race, ethnicity, belief, gender, gender identity, sexual orientation or socioeconomic status. 
+
+**Equity** is a proactive commitment to equal opportunity and practices that ensure inclusion without intentional (or unintentional) discrimination. 
+
+**Diversity** refers to the degree of difference along socially significant identifying features among the members of a purposefully defined group, such as any group differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, physical health, mental health, genetic attributes, personality, behavior, or attractiveness.
+
+
+Consider our course learning outcome:
+
+> Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
+
+
+<!--
+
+editing 
+
+What does it mean to have an inclusive online community?  How does this relate to diversity and equity?  Let's explore this topic as it relates to how we learn online - but also how we connect to others and serve one another humbly in love (Galatians 5:13))
+
+The value of inclusion emcompases embracing the diversity and equality.
+
+As a Christian university: we embrace inclusion, as God loves all of his creation; we promote equity in that it allows for equal opportunities without discrimination, and we are grateful for the diversity withing God's creation, as 
+
+ For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+
+Romans 15:5-7 ESV / 11 helpful votes 
+May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, that together you may with one voice glorify the God and Father of our Lord Jesus Christ. Therefore welcome one another as Christ has welcomed you, for the glory of God.
+
+In this section, we investigate examples of gender discrimination in a digital world, recognising that equity and inclusion are not restricted to gender alone.
+
+As you explore the following resources, consider the following quote:
+
+> “Ideologically. There’s a problem with the Internet. Largely designed by men from the developed world, it is built for men of the developed world. Men of science. Men of industry. Military men. Venture capitalists. Despite all the hype and hope about revolution and access and opportunity that these new technologies will provide us, they do not negate hierarchy, history, privilege, power. They reflect those. They channel it. They concentrate it, in new ways and in old.	”
+—Audrey Watters, Hack Education[1]
+
+
+
+[Equality versus equity illustration]http://madewithangus.com/portfolio/equality-vs-equity/), published by madewithangus.com
+[What is diversity, equity, and inclusion?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion)
+
+
+		
+
+
+
+
+
+Audrey Watters is a scholar and journalist who specialises in educational technology news and analysis. Her work focuses on the interrelationships among politics, pedagogy, business, culture and educational technology. Audrey’s blog Hack Education is well regarded among international peers.
+
+
+The reading for this section is based on the transcript of a talk Audrey presented at the University of Mary Washington in 2014:
+
+Watters, A. (2014, November 18). Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent. Hack Education.
+
+
+
+		
+
+
+
+“	There is something else that really bothers me about the use of the the word ‘troll’ to describe garden variety misogyny. It suggest that this is an Internet problem, rather than a society problem.	”
+—Steph Guthrie, TeDx Toronto, 2013.
+
+
+
+media
+Media
+Steph Guthrie is a gender justice consultant. She is a feminist advocate, organiser and analyst focusing on the intersections of gender, culture and technology to promote more gender-inclusive civic discourse.
+
+
+
+
+
+		
+
+References
+↑ Watters, A. (2014, November 18). Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent. Hack Education
+
+
+
+-->
+
+
 
 <!--
 comment
 
 ### Fake News {-}
 
+add intro
 
+### What is Fake News? {-}  
 
-Watch [Censorship Run Amok: Covid, The Lab Leak, Masks & The Twitter Files](https://www.youtube.com/watch?v=le0El7oEL8Q)
+```{block2, type='reflect'}
+
+<script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
+Choose from the following resources to explore this topic further:
+
+- [Why it’s so easy to fall for fake news and how to spot it](https://www.youtube.com/watch?v=UF3TrTIZbCA)
+- [Censorship Run Amok: Covid, The Lab Leak, Masks & The Twitter Files](https://www.youtube.com/watch?v=le0El7oEL8Q)
  
+
+
+```
+
+
+comment
+
+add intro?
+
 Libertarian journalist [John Stossel](https://www.johnstossel.com/) created Stossel TV(https://www.youtube.com/@StosselTV/about) to explain liberty and free markets to young people.  
 
 "After 40+ years of reporting, I now understand the importance of limited government and personal freedom" 
-
 
 -->
 
