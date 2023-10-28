@@ -3673,11 +3673,11 @@ Also see the following articles that focus on racial and gender bias:
 
 ```
 
-### Inclusion, Diversity & Equity  
-
-**Inclusion** is about a sense of belonging irrespective of national origin, age, race, ethnicity, belief, gender, gender identity, sexual orientation or socioeconomic status. 
+### Diversity, Equity & Inclusion
 
 **Diversity** refers to the degree of difference along socially significant identifying features among the members of a purposefully defined group, such as any group differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, physical health, mental health, genetic attributes, personality, behavior, or political beliefs.
+
+**Inclusion** is about a sense of belonging irrespective of national origin, age, race, ethnicity, belief, gender, gender identity, sexual orientation or socioeconomic status. 
 
 **Equity** is a proactive commitment to equal opportunity and practices that ensure inclusion without intentional (or unintentional) discrimination. 
 
@@ -3688,7 +3688,59 @@ As we dive into this topic, consider one of our course learning outcomes:
 
 > Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
-What does it mean to have an inclusive online community?  How do we see and react to differences between groups, behaviours and beliefs?  How can we ensure 
+What does it mean to have an inclusive online community?  How do we see and react to differences between groups, behaviours and beliefs?  
+
+
+### Gender Discrimination {-}  
+
+```{block2, type='reflect'}
+
+In this activity, we investigate examples of gender discrimination in a digital world, recognising that equity and inclusion are not restricted to gender alone.
+
+As you explore the following resources, consider the following quote:
+
+> “Ideologically. There’s a problem with the Internet. Largely designed by men from the developed world, it is built for men of the developed world. Men of science. Men of industry. Military men. Venture capitalists. Despite all the hype and hope about revolution and access and opportunity that these new technologies will provide us, they do not negate hierarchy, history, privilege, power. They reflect those. They channel it. They concentrate it, in new ways and in old.”
+—Audrey Watters, Hack Education[1]
+
+[Audrey Watters](https://audreywatters.com/) is a scholar and journalist who specialises in educational technology news and analysis. Her work focuses on the interrelationships among politics, pedagogy, business, culture and educational technology. Audrey’s blog [Hack Education](http://hackeducation.com/) is well regarded among international peers.
+
+Read the transcript of a talk Audrey presented at the University of Mary Washington in 2014:
+
+- Watters, A. (2014, November 18). [Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent](http://hackeducation.com/2014/11/18/gender-and-ed-tech). Hack Education.
+
+Next, watch [Audrey Explains Men Explaining Technology to Her](https://www.youtube.com/watch?v=DMjP_p01foo)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DMjP_p01foo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Next, consider the following quote: 
+“There is something else that really bothers me about the use of the the word ‘troll’ to describe garden variety misogyny. It suggest that this is an Internet problem, rather than a society problem.”
+—Steph Guthrie, TeDx Toronto, 2013.
+
+
+[Steph Guthrie](https://stephguthrie.com/) is a gender justice consultant. She is a feminist advocate, organiser and analyst focusing on the intersections of gender, culture and technology to promote more gender-inclusive civic discourse.
+
+Watch [The problem with "Don't Feed the Trolls" | Steph Guthrie | TEDxToronto](https://www.youtube.com/watch?v=_KHEkR5yb9A)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KHEkR5yb9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+```
+
+
+[Equality versus equity illustration](http://madewithangus.com/portfolio/equality-vs-equity/), published by madewithangus.com
+[What is diversity, equity, and inclusion?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion)
+
+
+<a title="Equity vs Equality" href="https://flickr.com/photos/mpcaphotos/31655988501"><img src="https://live.staticflickr.com/715/31655988501_979c7b1c82.jpg" alt="Equity vs Equality" /></a><br /><small><a title="Equity vs Equality" href="https://flickr.com/photos/mpcaphotos/31655988501">Equity vs Equality</a> flickr photo by <a href="https://flickr.com/people/mpcaphotos">MN Pollution Control Agency</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a></small>
+
+
 
 <!--
 
@@ -3719,38 +3771,6 @@ As a Christian university: we embrace inclusion, as God loves all of his creatio
 
 Romans 15:5-7 ESV / 11 helpful votes 
 May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, that together you may with one voice glorify the God and Father of our Lord Jesus Christ. Therefore welcome one another as Christ has welcomed you, for the glory of God.
-
-In this section, we investigate examples of gender discrimination in a digital world, recognising that equity and inclusion are not restricted to gender alone.
-
-As you explore the following resources, consider the following quote:
-
-> “Ideologically. There’s a problem with the Internet. Largely designed by men from the developed world, it is built for men of the developed world. Men of science. Men of industry. Military men. Venture capitalists. Despite all the hype and hope about revolution and access and opportunity that these new technologies will provide us, they do not negate hierarchy, history, privilege, power. They reflect those. They channel it. They concentrate it, in new ways and in old.	”
-—Audrey Watters, Hack Education[1]
-
-
-[Equality versus equity illustration]http://madewithangus.com/portfolio/equality-vs-equity/), published by madewithangus.com
-[What is diversity, equity, and inclusion?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion)
-
-
-
-Audrey Watters is a scholar and journalist who specialises in educational technology news and analysis. Her work focuses on the interrelationships among politics, pedagogy, business, culture and educational technology. Audrey’s blog Hack Education is well regarded among international peers.
-
-
-The reading for this section is based on the transcript of a talk Audrey presented at the University of Mary Washington in 2014:
-
-Watters, A. (2014, November 18). Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent. Hack Education.
-
-
-
-“	There is something else that really bothers me about the use of the the word ‘troll’ to describe garden variety misogyny. It suggest that this is an Internet problem, rather than a society problem.	”
-—Steph Guthrie, TeDx Toronto, 2013.
-
-
-Steph Guthrie is a gender justice consultant. She is a feminist advocate, organiser and analyst focusing on the intersections of gender, culture and technology to promote more gender-inclusive civic discourse.
-	
-
-References
-↑ Watters, A. (2014, November 18). Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent. Hack Education
 
 
 

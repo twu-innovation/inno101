@@ -34,5 +34,5 @@ online-harassment
 psychological-issues
 net-neutrality
 digital-redlining
-inclusion-diversity-equity
+diversity-equity-inclusion
 digital-wisdom
