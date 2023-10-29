@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  28 OCT 2023 00:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  28 OCT 2023 23:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2544,32 +2544,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [117] [118]
-Underfull \hbox (badness 10000) in paragraph at lines 4313--4315
+Underfull \hbox (badness 10000) in paragraph at lines 4387--4389
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4315--4317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4358--4360
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4360--4362
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4362--4364
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4364--4366
+Underfull \hbox (badness 10000) in paragraph at lines 4393--4395
 
  []
 
@@ -2577,26 +2557,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 4364--4366
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [119]
-Overfull \vbox (18.26329pt too high) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [120]
+Underfull \hbox (badness 10000) in paragraph at lines 4407--4409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4409--4411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4452--4454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4454--4456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4456--4458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4458--4460
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[121]
+Overfull \vbox (18.26329pt too high) has occurred while \output is active []
+
+[122]
 Underfull \vbox (badness 1087) has occurred while \output is active []
 
-[121] [122] [123
+[123] [124] [125
 
-] [124
+] [126
 
 ]
-Underfull \hbox (badness 4242) in paragraph at lines 4438--4439
+Underfull \hbox (badness 4242) in paragraph at lines 4532--4533
 []\TU/lmr/m/n/10 [Creating Communities of Practice]([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 4438--4439
+Underfull \hbox (badness 1755) in paragraph at lines 4532--4533
 [][][][][][][][][][] [] [][][][] [][] [][] [][] [] [][] [][][][][][][][][] [][] [][] [][] [][][][][][][][][]$[]\TU/lmr/m/n/10 ] from ERLC, a member of
  []
 
-(./inno101.bbl [125] [126
+(./inno101.bbl [127] [128
 
 ]
 
@@ -2606,21 +2622,21 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[127] (./inno101.aux)
+[129] (./inno101.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
 Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: 31136A25E54EE53D02653D8D1BD55B46;7912.
+(rerunfilecheck)             Checksum: 78D27ED6C4D6955F38010D4252F5DAEF;7912.
  ) 
 Here is how much of TeX's memory you used:
- 26775 strings out of 477165
- 535390 string characters out of 5809437
+ 26780 strings out of 477165
+ 535490 string characters out of 5809437
  1964674 words of memory out of 5000000
- 47979 multiletter control sequences out of 15000+600000
+ 47984 multiletter control sequences out of 15000+600000
  564560 words of font info for 94 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,9n,120p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,9n,120p,1574b,761s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on inno101.pdf (127 pages).
+Output written on inno101.pdf (129 pages).
