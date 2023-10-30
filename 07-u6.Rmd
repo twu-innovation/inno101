@@ -511,15 +511,14 @@ In this next topic, we introduce a number of societal issues and problematic onl
 
 You will choose one societal issue or antisocial behavior associated with the Internet that you would like to investigate further and publish as an editorial in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
 
-- The True Cost of Free Websites
-- Online impersonation
-- Internet trolling
-- Online harassment
-- Psychological issues
-- Net Neutrality
-- Digital redlining
-- Equity and inclusion
-- Fake News
+- [Website Tracking](https://twu-innovation.github.io/inno101/sharing-your-knowledge.html#website-tracking)
+- [Online Impersonation](https://twu-innovation.github.io/inno101/sharing-your-knowledge.html#online-impersonation)
+- [Internet Trolling](https://twu-innovation.github.io/inno101/sharing-your-knowledge.html#internet-trolling)
+- [Online Harassment](https://twu-innovation.github.io/inno101/sharing-your-knowledge.html#online-harassment)
+- [Psychological Issues](https://twu-innovation.github.io/inno101/sharing-your-knowledge.html#psychological-issues)
+- [Net Neutrality](https://twu-innovation.github.io/inno101/sharing-your-knowledge.html#net-neutrality)
+- [Digital Redlining](https://twu-innovation.github.io/inno101/sharing-your-knowledge.html#digital-redlining)
+- [Diversity, Equity and Inclusion](https://twu-innovation.github.io/inno101/sharing-your-knowledge.html#diversity-equity-inclusion)
 
 
 
@@ -758,7 +757,7 @@ comment
  
 -->
 
-### Activity: Case study: Catfishing {-}
+### Activity: Case study on Catfishing {-}
 
 ```{block2, type='reflect'}
 
@@ -1123,7 +1122,7 @@ In the context of the digital age, digital redlining manifests in various ways:
 Addressing digital redlining is essential to ensure equitable access to the benefits of the digital age. Efforts to combat digital redlining include policies aimed at closing the digital divide, regulating algorithms to prevent discriminatory outcomes, promoting net neutrality, and protecting data privacy. These measures aim to create a more inclusive and fair digital environment for all individuals, regardless of their socioeconomic status, race, or location.
 
 
-### Case Study: Indigenous Communities in Canada {-}  
+### Activity: Case Study - Indigenous Communities in Canada {-}  
 
 ```{block2, type='reflect'}
 
@@ -1144,7 +1143,7 @@ Addressing these issues in Canada requires a multi-faceted approach, combining i
 
 ```
 
-### Where Do You See Digital Redlining? {-}  
+### Activity: Where Do You See Digital Redlining? {-}  
 
 ```{block2, type='reflect'}
 
@@ -1168,13 +1167,26 @@ Also see the following articles that focus on racial and gender bias:
 
 ### Diversity, Equity & Inclusion
 
-**Diversity** refers to the degree of difference along socially significant identifying features among the members of a purposefully defined group, such as any group differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, physical health, mental health, genetic attributes, personality, behavior, or political beliefs.
+> ::: {.definition name="Diversity" #diversity}
+a range of many people or things that are very different from each other; the practice or quality of including or involving people from a range of different social and ethnic backgrounds and of different genders, religions, etc. [Oxford Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/diversity)
+:::
+
+**Diversity** includes differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, physical health, mental health, genetic attributes, personality, behavior, or political beliefs.
+
+> ::: {.definition name="Inclusion" #inclusion}
+the fact of including somebody/something;  the fact or policy of providing equal opportunities and resources for people who might otherwise not get them, for example people who are disabled or belong to minority groups. [Oxford Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/inclusion)
+:::
 
 **Inclusion** is about a sense of belonging irrespective of national origin, age, race, ethnicity, belief, gender, gender identity, sexual orientation or socioeconomic status. 
 
+> ::: {.definition name="Equity" #equity}
+a situation in which everyone is treated equally. [Oxford Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/equity_1)
+:::  
+
 **Equity** is a proactive commitment to equal opportunity and practices that ensure inclusion without intentional (or unintentional) discrimination. 
 
-Is equity the same as equality? "Equity differs from equality in a subtle but important way. While equality assumes that all people should be treated the same, equity takes into consideration a person’s unique circumstances, adjusting treatment accordingly so that the end result is equal" ^[Reference: McKinsey & Company (2022, August 17). ["What is diversity, equity, and inclusion?"](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion){target="_blank"} McKinsey & Company (2022)]   
+Is equity the same as equality? 
+> Equity differs from equality in a subtle but important way. While equality assumes that all people should be treated the same, equity takes into consideration a person’s unique circumstances, adjusting treatment accordingly so that the end result is equal" ^[Reference: McKinsey & Company (2022, August 17). ["What is diversity, equity, and inclusion?"](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion){target="_blank"} McKinsey & Company (2022)]   
 
 
 As we dive into this topic, consider one of our course learning outcomes:
@@ -1183,10 +1195,10 @@ As we dive into this topic, consider one of our course learning outcomes:
 
 What does it mean to have an inclusive online community?  How do we see and react to differences between groups, behaviours and beliefs?  
 
-Let's take a look at some cases and issues involving DEI online.
+Let's take a look at some cases and issues involving diversity, equity and inclusion online.
 
 
-### Gender Discrimination {-}  
+### Activity: Gender Discrimination {-}  
 
 ```{block2, type='reflect'}
 
@@ -1195,7 +1207,7 @@ In this activity, we investigate examples of gender discrimination in a digital 
 As you explore the following resources, consider the following quote:
 
 > “Ideologically. There’s a problem with the Internet. Largely designed by men from the developed world, it is built for men of the developed world. Men of science. Men of industry. Military men. Venture capitalists. Despite all the hype and hope about revolution and access and opportunity that these new technologies will provide us, they do not negate hierarchy, history, privilege, power. They reflect those. They channel it. They concentrate it, in new ways and in old.”
-—Audrey Watters, Hack Education[1]
+—Audrey Watters, [Hack Education](http://hackeducation.com/){target="_blank"}
 
 [Audrey Watters](https://audreywatters.com/){target="_blank"} is a scholar and journalist who specialises in educational technology news and analysis. Her work focuses on the interrelationships among politics, pedagogy, business, culture and educational technology. Audrey’s blog [Hack Education](http://hackeducation.com/){target="_blank"} is well regarded among international peers.
 
@@ -1212,8 +1224,9 @@ Next, watch [Audrey Explains Men Explaining Technology to Her](https://www.youtu
 </div>
 
 Next, consider the following quote: 
-“There is something else that really bothers me about the use of the the word ‘troll’ to describe garden variety misogyny. It suggest that this is an Internet problem, rather than a society problem.”
-—Steph Guthrie, TeDx Toronto, 2013.
+
+>“There is something else that really bothers me about the use of the the word ‘troll’ to describe garden variety misogyny. It suggest that this is an Internet problem, rather than a society problem.”
+>—Steph Guthrie, TeDx Toronto, 2013.
 
 
 [Steph Guthrie](https://stephguthrie.com/){target="_blank"} is a gender justice consultant. She is a feminist advocate, organiser and analyst focusing on the intersections of gender, culture and technology to promote more gender-inclusive civic discourse.
@@ -1235,23 +1248,46 @@ Watch [The problem with "Don't Feed the Trolls" | Steph Guthrie | TEDxToronto](h
 
 ```
 
-<a title="Equity vs Equality" href="https://flickr.com/photos/mpcaphotos/31655988501"><img src="https://live.staticflickr.com/715/31655988501_979c7b1c82.jpg" alt="Equity vs Equality" /></a><br /><small><a title="Equity vs Equality" href="https://flickr.com/photos/mpcaphotos/31655988501">Equity vs Equality</a> flickr photo by <a href="https://flickr.com/people/mpcaphotos">MN Pollution Control Agency</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a></small>
-
-
-
-### Perspectives on DEI {-}  
-
-```{block2, type='reflect'}
+### What is DEI? {-} 
 
 > ::: {.definition name="DEI" #dei}
-Diversity, equity, and inclusion (usually abbreviated DEI) refers to organizational frameworks which seek to promote "the fair treatment and full participation of all people", particularly groups "who have historically been underrepresented or subject to discrimination" on the basis of identity or disability. These three notions (diversity, equity, and inclusion) together represent "three closely linked values" which organizations seek to institutionalize through DEI frameworks. [https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion]
+Diversity, equity, and inclusion (usually abbreviated DEI) refers to organizational frameworks which seek to promote "the fair treatment and full participation of all people", particularly groups "who have historically been underrepresented or subject to discrimination" on the basis of identity or disability. These three notions (diversity, equity, and inclusion) together represent "three closely linked values" which organizations seek to institutionalize through DEI frameworks. [Wikipedia](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion)
 :::
 
-DEI has been a hot topic for debate in recent years as organizations, including universities, have emphasized DEI in the way they conduct business, including hiring, promoting, etc.  
+Consider the graphic below.  How does it portray differences?  How are those differences addressed?
+
+<a title="Equity vs Equality" href="https://flickr.com/photos/mpcaphotos/31655988501"><img src="https://live.staticflickr.com/715/31655988501_979c7b1c82.jpg" alt="Equity vs Equality" /></a><br /><small><a title="Equity vs Equality" href="https://flickr.com/photos/mpcaphotos/31655988501">Equity vs Equality</a> flickr photo by <a href="https://flickr.com/people/mpcaphotos">MN Pollution Control Agency</a> shared under a <a href="https://creativecommons.org/licenses/by-nc/2.0/">Creative Commons (BY-NC) license</a></small>
+
+DEI has been a hot topic for debate in recent years as organizations, including universities, have emphasized DEI in the way they conduct business, including hiring, promoting, etc. 
+
+Let's take higher education as an example.  As faculty members design their courses, they consider the needs of their students and how to effectively engage them in the course topics.  They recognize the diversity of students needs and viewpoints and seek to create an inclusive learning environment for students.  Instructors might use [Universal Design for Learning](https://udlguidelines.cast.org/), which is "a framework to improve and optimize teaching and learning for all people based on scientific insights into how humans learn." Another teaching method they might employ is [Culturally Responsive Teaching](https://www.facultyfocus.com/articles/equality-inclusion-and-diversity/five-essential-strategies-to-embrace-culturally-responsive-teaching/) or [Culturally Responsive TeachingCulturally Relevant Pedagogy](http://www.inclusioncanada.net/culturallyrelevantpedagogy.html) as a way to use students' cultural experiences and perspectives as channels for effective teaching and learning (Gay, 2002). 
+
+Key question: *Should instructors treat all students the same regardless of background, gender, beliefs, etc.?*
+
+Many academics in higher education hold this value of equality. Others promote equity, which "takes into consideration a person’s unique circumstances, adjusting treatment accordingly so that the end result is equal" ^[Reference: McKinsey & Company (2022, August 17). ["What is diversity, equity, and inclusion?"](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion){target="_blank"} McKinsey & Company (2022)] 
+What does it mean that the "end result is equal?"  An equal opportunity to access and succeed in academia?  Or an equal outcome in which all students recieve the same grade?
+
+This one example identifies one of the "sticky points" in the DEI debate. In the next activity, we'll introduce some views on the DEI topic.
+
+
+
+### Activity: Perspectives on DEI {-}  
+
+```{block2, type='reflect'}
 
 Here are a couple of contrasting points of view.  If you choose to write a social commentary on this topic, be sure to explore various resources with different opinions.
 
 - [What is diversity, equity, and inclusion?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion){target="_blank"}
+
+Watch [Diversity, Equity & Inclusion. Learning how to get it right | Asif Sadiq | TEDxCroydon](https://www.youtube.com/watch?v=HR4wz1b54hw)
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HR4wz1b54hw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
 
 - [The Hypocrisy of Mandatory Diversity Statements](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/){target="_blank"}
 
@@ -1263,10 +1299,13 @@ Here are a couple of contrasting points of view.  If you choose to write a socia
 
 </div>
 
+If interested, check out [DEI Is Destroying Science](https://www.youtube.com/watch?v=gpP_SUGthv0){target="_blank"}.
+
+
 ```
 
 
-### DEI & Practising Christian Hospitality {-}  
+### Activity: DEI & Practising Christian Hospitality {-}  
 
 ```{block2, type='reflect'}
 
@@ -1302,7 +1341,7 @@ comment
 
 add intro
 
-### What is Fake News? {-}  
+### Activity: What is Fake News? {-}  
 
 ```{block2, type='reflect'}
 
@@ -1317,7 +1356,6 @@ Choose from the following resources to explore this topic further:
 
 ```
 
-
 comment
 
 add intro?
@@ -1328,6 +1366,56 @@ Libertarian journalist [John Stossel](https://www.johnstossel.com/) created Stos
 
 -->
 
+We've explored a number of societal issues associated with the Internet.  In the activity below, you will choose a topic of interest relating to societal issues or problematic behaviours on the Internet for further investigation. You can select one of the topics introduced in this unit , or an alternate issue you find more interesting.
+
+Here are few additional topics to consider:
+
+- [10 Forms of online harassment](https://computer.howstuffworks.com/10-forms-online-harassment.htm){target="_blank"}.  
+- [Cyberchondria](https://karger.com/pps/article/86/3/129/282998/Cyberchondria-Challenges-of-Problematic-Online){target="_blank"}, editorial published by Karger.  
+- Complexities of mobile ownership in the developing world; see for example [The woman whose phone ‘misdiagnosed HIV’](https://www.bbc.com/news/technology-39371100){target="_blank"}, published by BBC News.  
+- Hate speech online; see for example [Face-off between MPs and social media giants over online hate speech](https://www.theguardian.com/media/2017/mar/14/face-off-mps-and-social-media-giants-online-hate-speech-facebook-twitter){target="_blank"}, published by The Guardian.  
+- [Keystroke logging](https://en.wikipedia.org/wiki/Keystroke_logging){target="_blank"}, see Wikipedia article.  
+- Surveillance capitalism; see for example [The price of connection: surveillance capitalism](https://theconversation.com/){target="_blank"}   the-price-of-connection-surveillance-capitalism-64124){target="_blank"}, published by The Conversation.  
+- Twitter bot problem; see for example: [How bots took over twitter](https://hbr.org/2015/06/how-bots-took-over-twitter), published by the Harvard Business review.  
+- Online scams; see for example [Scams](https://www.consumer.org.nz/articles/scams?gclid=EAIaIQobChMIrOzE7qX71AIVxBiPCh0uzAKrEAAYASAAEgIXf_D_BwE){target="_blank"} published by Consumer New Zealand.  
+- [Fake News](https://en.wikipedia.org/wiki/Fake_news){target="_blank"} Wikipedia definition. 
+
+
+### Activity: Editorial Societal Issues on the Internet {-}  
+
+```{block2, type='reflect'}
+
+Publish an editorial (400 – 600 words) on your personal course blog on a societal issue or antisocial behaviour associated with the Internet. You editorial must:
+
+- Contain a minimum of four hyperlinks to supporting resources or issues. (Your digital identity is connected to the Internet and it is important to demonstrate how your contribution joins a networked conversation through connections in information.)  
+- Include a representative image embedded in your blog post (N.B. ensure that you have legal permissions to use the image).  
+- If you are not sure about copyright, source a public domain image on Pixabay, but don’t use the sponsored images unless you have purchased rights to use the sponsored image.  
+- Include at least two references properly cited using the APA style (see for example APA Style published by the University of Canterbury Library).  
+- Include a paragraph highlighting practical implications, for example: learning in a digital age or your current role.  
+
+Remember to add a category or tag for your post using the course tag: LDRS101.  
+
+***The Process:***
+
+1. Choose a topic of interest.  
+2. Conduct a search to identify reliable and credible online resources on your selected topic. Try to find resources from your own country or region, or your own area of work.    
+3. Select the two best resources;   
+4. Read [How to write a notable editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"}   
+5. Using the topic you selected, decide on the type of editorial, for example:   
+- Explaining or interpreting  
+- Criticising  
+- Persuading  
+- Praising  
+6. Get your facts straight:  
+- Revisit the online sources you identified previously.  
+- Search for additional resources if needed.  
+7. Prepare a thesis-like paragraph designed to catch the readers attention and introduce what your editorial is about.  
+8. Prepare the body of your editorial providing an objective explanation of the issue supported by the relevant sources you have identified, for example:  
+- State the opposing argument first  
+- Present reasons refuting the opposition  
+- Share your solutions.  
+9. Prepare a paragraph on practical implications, for instance, learning in a digital age or your current role.  
+10. Draft the conclusion.  
 
 
 
