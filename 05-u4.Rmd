@@ -611,27 +611,11 @@ In this unit, you have had the opportunity to learn about your personal learning
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Digital Literacy Portfolio</span>
+<span class="blockhead">Assignments 2 and 3: Blog and Portfolio</span>
 
-The learning activities in this unit are designed to support you as you build your *Digital Literacy Portfolio*.  
+The learning activities in this unit are designed to support you as you create your *Digital Citizenship Blog* (Assignment 2), as well as your *Digital Literacy Portfolio* (Assignment 3).  Please see Unit 5 for more details on Assignment 2, and Unit 6 for details on your Portfolio.
 
-Your portfolio will demonstrate how you apply digital tools to support your learning.  It measures the following course learning outcomes:
-
-- Create a personalized narrative to document and express your learning process  
-- Evaluate digital tools, platforms, and interactions based on ethical principles  
-- Practice evaluative judgment to document your process of learning in complex domains of knowledge  
-
-**Performance Indicators**  
-
-*I can do the following:*
-
-- Maintain a public personal blog as my elearning portfolio.  
-- Interact constructively with public online learning communities using forums and social media.  
-- Annotate and discuss web resources publicly in support of my learning.  
-- Share with my learning peer group recommendations for online resources that I have found to be useful.  
-- Use citation management software for my personal online resource library.  
-
-See the Assessment section in Moodle for instructions, including the grading rubric.
+All assignment details, including the grading rubrics, are located in the Assessment section in Moodle.  Please read the instructions carefully and don't hestitate to reach out for support.
 
 ```
 
