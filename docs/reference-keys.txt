@@ -6,13 +6,13 @@ digital-literacies
 visitors-and-residents
 digital-privacy-safety
 discovering-and-curating-resources
+finding-and-selecting-resources
 topic
 topic-1
-topic-2
 connecting-ideas-for-learning
+topic-2
 topic-3
 topic-4
-topic-5
 building-your-online-presence
 personal-learning-environments
 building-a-learning-blog

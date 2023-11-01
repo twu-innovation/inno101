@@ -17,10 +17,13 @@ This unit is divided into the following topics:
 
 ### Learning Outcomes {-}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you should have made progress toward the following course outcomes:
 
-- ...
-- ...
+- Build and customize technology-integrated workflows to enhance and enrich your learning journey
+- Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
+- Evaluate digital tools, platforms, and interactions based on ethical principles
+
+
  
 
 
@@ -57,10 +60,66 @@ You are strongly encouraged to complete them.
 - All resources will be provided online in the unit.  
 
 
-## Topic
+## Finding and Selecting Resources
 
-content
+Throughout your university career, you will encounter tasks in your courses that will require you to produce some original writing. It is very important that you give yourself more time than you think you might need to complete these tasks. Good writing in university doesn't just happen. It takes work. You will find that a large amount of that work isn't actuaally writing at all, but reading. Then writing, and reading some more. Then re-writing, revising, editing, reading some more, and editing again.
 
+One of the most important tasks in all that, is finding the resources you need to read, making sure they are *academic* resources, copying down all the information about the resource, then making sure you can keep track of what you have found, read, and learned. This unit will help you build a workflow for doing just that. You need a workflow and a system, because there is far too much information available to you than you will ever be able to digest and read, let alone remember. It is impossible to memorize everything you need to know, so you need a way to manage your knowledge and resources.
+
+In the previous unit, we introduced you to Obsidian, and you are going to continue to use Obsidian in this unit, but we will add some awareness of features that will take you along the path of becoming a workflow wizard. We will also introduce two new tools, Litmaps and Zotero, along with a couple of Zotero plugins that help extend the capabilities of the software. We will also integrate some knowledge of how to use the library to assist.
+
+We recognize that we are introducing several tools to you, and that may feel overwhelming, however, there are no tools that do everything that you need to do, and if a tool claims to be able to do everything, it likely does only a few things well, and the rest is poorly implemented.
+
+### Finding Resources {-}
+
+Litmaps is a web app that you can use to build a map of the literature regarding your topic. For now, presume that you need to write a paper on transformational servant leadership. That is a very broad topic, and you are only beginning to learn about it, so you need to start by doing some reading...but what should you read? Your instructor might have given you an article to read, or there are likely some good articles published on your course syllabus, but you might also have to start on your own. Here is how.
+
+#### Find a Literature Review {-}
+
+When academics begin writing a research paper, they always start by reviewing what is already known about a subject, in this case, transformational servant leadership. This is called a literature review, and you can often find a section called "Literature Review" at the beginning of every article you read. Sometimes, though, the whole research article will be a literature review. Reviewing the literature in this way is sometimes called a systematic review, or maybe a scoping review. These approaches to lit reviews have different foci, but the intent is to publish an article that follows very specific procedures so that other researchers or learners can confirm the process. These types of reviews are very useful in getting started in a new topic.
+
+One of the quickest ways to get started on a search is to use [Google Scholar (scholar.google.com)](https://scholar.google.com), but Google Scholar has some problems in that it will return a huge number of results. Notice that the image below shows over 91,000 results. Far too many for you to sort through.
+
+![Screenshot of the results page of a Google Scholar search for "Transformational servant leadership"](assets/u2/google-search1.png)
+
+The top result, shows some promise though. Notice a few things about it.
+
+- it has all your key words right in the title - that's good
+- it has over 2700 citations (that's very good)
+- it was published in 2004 (that's not great...it's old)
+
+One of the easiest ways to find literature reviews in Google searches is to include 'literature review' in your search. When we do that, we get a better list. This time, there are more results (97,000), but they are better results. Notice the third item...
+
+![Screenshot of the results page of a Google Scholar search for "Transformational servant leadership literature review"](assets/u2/google-search2.png)
+
+- all your keywords
+- lots of citations
+- much more recent (2019)
+- AND it is a systematic review
+
+This is the only article you need for now. Click the link.
+
+![Screenshot of an article landing page"](assets/u2/google-search3.png)
+
+In fact, you don't even need to read this article yet. All you need is the DOI - the *Digital Object Identifier*. A DOI is a critical piece of information about an article that provides a piece of evidence that this is a legitimate article published in a legitimate journal. A DOI will always start with `10.`. Sometimes, it is included as part of a URL, like in this case, but you only need the code that follows '10.'. The DOI for this article is `10.1016/j.leaqua.2018.07.004`
+
+Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
+
+#### Go to Litmaps.com {-}
+
+[Link to LitMaps](https://litmaps.com)
+
+Paste the DOI.
+
+![Screenshot of the Litmaps.com search bar populated with the DOI](assets/u2/litmaps1.png)
+
+You will notice that LitMaps will be able to find the article and will present it as an option for you to click. Go ahead...click.
+
+LitMaps will create what they call a `Seed Map`, which you can see in the image below.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps2.png)
+
+The seed map shows an AI-generated map of the 20 most relevant articles related to the seed article. Each dot represents an article. The seed article is shown as a dot with a little sprout in the middle. The size of the dot is related to how many references are in the article (smaller dot = fewer references). Dots near the top of the map have more citations, and dots near the right side of the map are more recent. The map will always look like a bit of a waterfall as older articles tend to have more citations. This map can be very helpful in finding very impactful, recent articles as those articles will be in the top right quadrant of the map.
 <!--
 comment
 -->
