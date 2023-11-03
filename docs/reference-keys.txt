@@ -8,6 +8,7 @@ digital-privacy-safety
 discovering-and-curating-resources
 finding-and-selecting-resources
 citation-management
+openness-in-education
 topic
 topic-1
 connecting-ideas-for-learning

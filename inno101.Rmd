@@ -628,20 +628,28 @@ Feel free to add components to the template.
 
 
 
-### Activity: Blog: Digital Literacies for Online Learning {-}
+### Activity: Digital Literacies for Online Learning {-}
+
+Prior to completing this activity, please watch the following video on how to write reflectively. Keep in mind that you are not writing an essay for these reflective notes, but the 5Rs will help guide you to creating robust reflective writing.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/whKSAKSMFs8?si=uq8v9HnkEOqe2QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ```{block2, type='reflect'}
 
-Publish a blog post responding to four requirements:
+Click the little calendar icon in the sidebar of Obsidian to 'Open today's daily note'.
+
+![Screenshot of the Daily note icon in Obsidian.](assets/u1/obsidian1.png)
+
+Respond to the following prompts
 
 - Your personal definition of digital literacies justified from your reading of the literature (about 100 to 150 words)
 - Describe what digital literacies mean for you in a sentence.
 - Create a link to your VR diagram map in your entry.
 - Summarise an action plan for improving your digital literacies. Identify the literacies you plan to improve including the reasons why and how you aim to achieve this.
 - Ensure that your references are cited appropriately.
+<!--
 - Scan the course feed for blog posts and post a comment on two posts from your peers.
 
-<!--
 Notes
 
 Remember to tag or label your post using the course code: LiDA101. (If you omit this step, we will not be able to harvest your post for the course feed.)
@@ -885,6 +893,7 @@ This unit is divided into the following topics:
 
 1. Finding & Selecting Resources  
 2. Citation Management  
+3. Openness in Education
   
 
 ### Learning Outcomes {-}
@@ -1084,8 +1093,16 @@ You might get a message to install the Zotero Connector in your browser, go ahea
 
 From here on to the day you graduate with your BA, then your MA, and finally your PhD, Zotero will be with you and you may find yourself using it every day. I (Colin) am finishing my PhD, and Zotero is ALWAYS open on my computer. It is absolutely indispensible.
 
+## Openness in Education
 
+We would like to introduce you to a value win education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
 
+<iframe src="https://player.vimeo.com/video/557927481?h=726585dd92" width="640" height="512" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/557927481">Open Access Explained</a> from <a href="https://vimeo.com/user17299535">OER Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+And here is an article you can read (for free) from the British organization Wonkhe.
+
+<iframe src="https://wonkhe.com/blogs/intro-to-open-access/" width="700" height="800"></iframe>
 
 ### Activity:  {-}
 

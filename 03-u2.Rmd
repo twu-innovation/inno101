@@ -13,6 +13,7 @@ This unit is divided into the following topics:
 
 1. Finding & Selecting Resources  
 2. Citation Management  
+3. Openness in Education
   
 
 ### Learning Outcomes {-}
@@ -212,8 +213,16 @@ You might get a message to install the Zotero Connector in your browser, go ahea
 
 From here on to the day you graduate with your BA, then your MA, and finally your PhD, Zotero will be with you and you may find yourself using it every day. I (Colin) am finishing my PhD, and Zotero is ALWAYS open on my computer. It is absolutely indispensible.
 
+## Openness in Education
 
+We would like to introduce you to a value win education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
 
+<iframe src="https://player.vimeo.com/video/557927481?h=726585dd92" width="640" height="512" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/557927481">Open Access Explained</a> from <a href="https://vimeo.com/user17299535">OER Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+And here is an article you can read (for free) from the British organization Wonkhe.
+
+<iframe src="https://wonkhe.com/blogs/intro-to-open-access/" width="700" height="800"></iframe>
 
 ### Activity:  {-}
 
