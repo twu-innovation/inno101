@@ -2698,8 +2698,19 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Learning Activities</span>
 
-- ...
-- ...
+- Reflect on why you chose TWU and share your expecations with your peers.
+- Search online for learning tools to help with note-taking, project managment, writing, etc. Share your findings on Discourse.
+- Watch the video Higher Ed Trends: Student Career Anxiety and the Future of Work.
+- Read the articles on how the internet impacted the newspaper and music industries.
+- Discuss the impact of digital technology on business.
+- Explore AI tools for university students and view the resources provided.
+- View the resources on AI and plagiarism.
+- Discuss the impact of automation and AI in the workplace.
+- View the resources on the price of AI and discuss the ethical implications.
+- Explore the topics focusing on societal issues on the internet, including website tracking, tolling, net neutrality, and equity.
+- Publish an editorial on your blog about an issue that interests you.
+- View the resources on digital wisdom and reflect on your use of technology.
+
  
 **Note:** The learning activities in this course are designed to prepare you for the graded assigments in this course.  
 You are strongly encouraged to complete them.
