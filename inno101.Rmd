@@ -903,6 +903,7 @@ When you have completed this unit, you should have made progress toward the foll
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
+☑️ Before you begin, go to [litmaps.com](https://litmaps.com){target="_blank"} and sign up for a free account.
 
 ```{block2, type='reflect'}
 
@@ -977,7 +978,7 @@ In fact, you don't even need to read this article yet. All you need is the DOI -
 
 Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
-#### Go to Litmaps.com {-}
+#### Log in to Litmaps.com {-}
 
 [Link to LitMaps](https://litmaps.com)
 
@@ -992,9 +993,97 @@ LitMaps will create what they call a `Seed Map`, which you can see in the image 
 ![Screenshot of the Litmaps.com seed map](assets/u2/litmaps2.png)
 
 The seed map shows an AI-generated map of the 20 most relevant articles related to the seed article. Each dot represents an article. The seed article is shown as a dot with a little sprout in the middle. The size of the dot is related to how many references are in the article (smaller dot = fewer references). Dots near the top of the map have more citations, and dots near the right side of the map are more recent. The map will always look like a bit of a waterfall as older articles tend to have more citations. This map can be very helpful in finding very impactful, recent articles as those articles will be in the top right quadrant of the map.
-<!--
-comment
--->
+
+When you are signed in to LitMaps, you are able to create 'Collections' of articles. To do this, click on an article in the seed map, then read through the abstract. This might tell you that the article is not related to your search, but if it is, as in the image, then click 'Edit Collections' then 'New Collection'. Give the new collection a name, and click 'Done'.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps3.png)
+
+Next, add Hoch, 2018 to your new collection (it is closest to the upper right quadrant), and finally add Greenleaf, 1979 (all the articles seem to cite this article, so it is likely very important in the field, sometimes called a 'seminal article').
+
+Notice that the articles you added to your new collection are all coloured the same as the collection.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps4.png)
+
+Next, click 'Discover' in the left-hand menu bar, then click 'New Search', then 'Add from your Library'.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps5.png)
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps6.png)
+
+Make sure you are in the correct Collection, and click 'Add 3 Inputs'.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps7.png)
+
+Click 'Find Related Articles'.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps8.png)
+
+This will result in a new set of articles that are related to all three of your initial input articles. As you add more inputs, you will get a more refined result list until you have a nicely curated list of related articles.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps9.png)
+
+To add an input article, click on it in the map or list and choose 'Add to Search', then 'Expand search' to execute a new search with the new articles you added.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps10.png)
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps11.png)
+
+Notice that this search turned up another impactful article. Make sure to add that to your list!
+
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps12.png)
+
+Click 'Your Library' and choose the library you just created. There should be 8 or so references in the library. This is likely enough to synthesize into a short paper, but some disciplines may require more. Select all of the items in the library by clicking the checkbox that says '0 Selected'. Then click the 'Export' icon on the right side of the screen.
+
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps13.png)
+
+Choose 'RIS' in the dropdown, then click 'Download'.
+
+![Screenshot of the Litmaps.com seed map](assets/u2/litmaps14.png)
+
+#### The TWU Library {-}
+
+Some of your best advocates on campus or online are the librarians who work at the Norma Marion Alloway Library in Langley. They are extremely knowledgable about finding things that are hard to find, so it is ALWAYS a good idea to talk to a librarian about what you are trying to do. They are literally paid to help you succeed! One of the ways they like to help is by creating what is known as a 'LibGuide', and I encourage you to [access their LibGuide on using the search feature on the library website.](https://libguides.twu.ca/LibraryOneSearch).
+
+## Citation Management
+
+Now that you have a handful of references to keep track of, it's time to get started with Zotero to help you manage your references. I promise that learning to use a reference manager like Zotero will save you MANY hours per semester, and likely days or weeks over the course of your degree. Do *Future You* a huge favour and get in this habit now.
+
+### Download and Install Zotero {-}
+
+The RIS file you exported from LitMaps isn't going to be very useful unless you have software that can read it properly. Your best option is Zotero as it is free and open source and has a good number of plugins and integrations you can use to connect with other apps.
+
+Go to [zotero.org](https://zotero.org) and click the red 'Download' button. Then follow the instructions to install Zotero on your computer. If you want to sign up for free storage (300MB) and backup for your library, you can also do that here.
+
+Once you have installed Zotero, there are some plugins that will help you in your studies. These are listed below with links to instructions on how to install and configure the plugin.
+
+1. [Zotfile](http://zotfile.com/#how-to-install--set-up-zotfile) - allows you to find and manage PDFs in your Zotero library
+2. [Citation Counts Manager](https://github.com/eschnett/zotero-citationcounts#installing) - automatically update citation counts for items in your library
+3. [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation) - provides a breakdown of how references are cited in the literature
+
+Now that you have Zotero ready to go, it's time to import your first references. Find the 'untitled.ris' file in your downloads folder and double-click it to open. You might have to confirm that you want to open with Zotero.
+
+### Zotero and the Library {-}
+
+LitMaps is not the only way that you can connect to Zotero. You can also export items directly from a search in the library databases.
+
+Go to [twu.ca/library](https://twu.ca/library) and search for 'transformational servant leadership'. On the results page, you might notice that you are prompted to sign in to see certain items. There is a yellow banner at the top of the page with a link to login.
+
+Click on the top item in the list of results
+
+![Screenshot of the Litmaps.com seed map](assets/u2/library1.png)
+
+Then click on the 'Export' button on the right side. Then choose 'Direct Export in RIS Format', then 'Save'
+
+![Screenshot of the Litmaps.com seed map](assets/u2/library2.png)
+
+![Screenshot of the Litmaps.com seed map](assets/u2/library3.png)
+
+You might get a message to install the Zotero Connector in your browser, go ahead and do that. Once you have imported the reference, you will have a brand new item in your Zotero library!
+
+From here on to the day you graduate with your BA, then your MA, and finally your PhD, Zotero will be with you and you may find yourself using it every day. I (Colin) am finishing my PhD, and Zotero is ALWAYS open on my computer. It is absolutely indispensible.
+
 
 
 

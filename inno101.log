@@ -1,150 +1,155 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.17)  1 NOV 2023 13:35
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.4)  2 NOV 2023 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **inno101.tex
 (./inno101.tex
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-10-10>
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex
+/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count181
-\c@chapter=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip50
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
 For additional information on amsmath, use the `?' option.
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
-\ex@=\dimen141
-)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\@emptytoks=\toks15
+\ex@=\dimen139
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen142
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
+\pmbraise@=\dimen140
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count190
+\inf@bad=\count184
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count191
-\leftroot@=\count192
+\uproot@=\count185
+\leftroot@=\count186
 LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count193
-\DOTSCASE@=\count194
+\classnum@=\count187
+\DOTSCASE@=\count188
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box51
-\strutbox@=\box52
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen143
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count195
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count196
+\macc@depth=\count189
+\c@MaxMatrixCols=\count190
 \dotsspace@=\muskip16
-\c@parentequation=\count197
-\dspbrk@lvl=\count198
-\tag@help=\toks18
-\row@=\count199
-\column@=\count266
-\maxfields@=\count267
-\andhelp@=\toks19
-\eqnshift@=\dimen144
-\alignsep@=\dimen145
-\tagshift@=\dimen146
-\tagwidth@=\dimen147
-\totwidth@=\dimen148
-\lineht@=\dimen149
-\@envbody=\toks20
-\multlinegap=\skip51
-\multlinetaggap=\skip52
-\mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+\c@parentequation=\count191
+\dspbrk@lvl=\count192
+\tag@help=\toks16
+\row@=\count193
+\column@=\count194
+\maxfields@=\count195
+\andhelp@=\toks17
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-10-10 L3 programming layer (loader) 
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2023-10-10 L3 backend support: XeTeX
-\g__graphics_track_int=\count268
-\l__pdf_internal_box=\box53
-\g__pdf_backend_object_int=\count269
-\g__pdf_backend_annotation_int=\count270
-\g__pdf_backend_link_int=\count271
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math.sty (
+/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count196
+\l__color_backend_stack_int=\count197
+\g__color_backend_stack_int=\count198
+\g__graphics_track_int=\count199
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count266
+\g__pdf_backend_annotation_int=\count267
+\g__pdf_backend_link_int=\count268
 ))
-Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
-Package: unicode-math-xetex 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2023-10-10 L3 Experimental document command parser
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count272
-\l__fontspec_language_int=\count273
-\l__fontspec_strnum_int=\count274
-\l__fontspec_tmp_int=\count275
-\l__fontspec_tmpa_int=\count276
-\l__fontspec_tmpb_int=\count277
-\l__fontspec_tmpc_int=\count278
-\l__fontspec_em_int=\count279
-\l__fontspec_emdef_int=\count280
-\l__fontspec_strong_int=\count281
-\l__fontspec_strongdef_int=\count282
-\l__fontspec_tmpa_dim=\dimen150
-\l__fontspec_tmpb_dim=\dimen151
-\l__fontspec_tmpc_dim=\dimen152
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
-Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.s
+ty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex))) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys
+2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count269
+\l__fontspec_language_int=\count270
+\l__fontspec_strnum_int=\count271
+\l__fontspec_tmp_int=\count272
+\l__fontspec_tmpa_int=\count273
+\l__fontspec_tmpb_int=\count274
+\l__fontspec_tmpc_int=\count275
+\l__fontspec_em_int=\count276
+\l__fontspec_emdef_int=\count277
+\l__fontspec_strong_int=\count278
+\l__fontspec_strongdef_int=\count279
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/usr/
+local/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-\g__um_fam_int=\count283
-\g__um_fonts_used_int=\count284
-\l__um_primecount_int=\count285
+\g__um_fam_int=\count280
+\g__um_fonts_used_int=\count281
+\l__um_primecount_int=\count282
 \g__um_primekern_muskip=\muskip17
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/unicode-math/unicode-math-table.t
+ex))) (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -178,404 +183,530 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\MT@toks=\toks21
+\MT@count=\count283
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen151
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count284
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2021/03/14 v2.8c Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 254.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count285
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 227.
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1369.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip53
-\LTright=\skip54
-\LTpre=\skip55
-\LTpost=\skip56
+Package xcolor Info: Driver file: xetex.def on input line 225.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
 \LTchunksize=\count286
-\LTcapwidth=\dimen153
-\LT@head=\box54
-\LT@firsthead=\box55
-\LT@foot=\box56
-\LT@lastfoot=\box57
-\LT@gbox=\box58
+\LTcapwidth=\dimen152
+\LT@head=\box50
+\LT@firsthead=\box51
+\LT@foot=\box52
+\LT@lastfoot=\box53
 \LT@cols=\count287
 \LT@rows=\count288
 \c@LT@tables=\count289
 \c@LT@chunks=\count290
 \LT@p@ftn=\toks22
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen154
-\lightrulewidth=\dimen155
-\cmidrulewidth=\dimen156
-\belowrulesep=\dimen157
-\belowbottomsep=\dimen158
-\aboverulesep=\dimen159
-\abovetopsep=\dimen160
-\cmidrulesep=\dimen161
-\cmidrulekern=\dimen162
-\defaultaddspace=\dimen163
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
 \@cmidla=\count291
 \@cmidlb=\count292
-\@aboverulesep=\dimen164
-\@belowrulesep=\dimen165
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
 \@thisruleclass=\count293
 \@lastruleclass=\count294
-\@thisrulewidth=\dimen166
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen167
-\ar@mcellbox=\box59
-\extrarowheight=\dimen168
+\@thisrulewidth=\dimen165
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box54
+\extrarowheight=\dimen167
 \NC@list=\toks23
-\extratabsurround=\skip57
-\backup@length=\skip58
-\ar@cellbox=\box60
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box55
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count295
 \calc@Bcount=\count296
-\calc@Adimen=\dimen169
-\calc@Bdimen=\dimen170
-\calc@Askip=\skip59
-\calc@Bskip=\skip60
+\calc@Adimen=\dimen168
+\calc@Bdimen=\dimen169
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count297
-\calc@Cskip=\skip61
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count298
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
-Package: footnote 1997/01/28 1.13 Save footnotes around boxes
-\fn@notes=\box61
-\fn@width=\dimen171
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+\calc@Cskip=\skip60
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/footnotehyper/footnotehyper.sty
+Package: footnotehyper 2021/02/04 v1.1d hyperref aware footnote.sty (JFB)
+\FNH@notes=\box56
+\FNH@width=\dimen170
+\FNH@toks=\toks24
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 107.
+Package graphics Info: Driver file: xetex.def on input line 105.
 )
-\Gin@req@height=\dimen172
-\Gin@req@width=\dimen173
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amscls/amsthm.sty
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks25
 \thm@bodyfont=\toks26
 \thm@headfont=\toks27
 \thm@notefont=\toks28
 \thm@headpunct=\toks29
-\thm@preskip=\skip62
-\thm@postskip=\skip63
-\thm@headsep=\skip64
+\thm@preskip=\skip61
+\thm@postskip=\skip62
+\thm@headsep=\skip63
 \dth@everypar=\toks30
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2023/09/26 version 6.1.0 text color boxes
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2020/10/09 version 4.42 text color boxes
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/loca
+l/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
 \pgfutil@everybye=\toks31
-\pgfutil@tempdima=\dimen174
-\pgfutil@tempdimb=\dimen175
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box62
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+\pgfutil@tempdima=\dimen173
+\pgfutil@tempdimb=\dimen174
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box57
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
 ))
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/
+local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks32
 \pgfkeys@temptoks=\toks33
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
 \pgfkeys@tmptoks=\toks34
 ))
-\pgf@x=\dimen176
-\pgf@y=\dimen177
-\pgf@xa=\dimen178
-\pgf@ya=\dimen179
-\pgf@xb=\dimen180
-\pgf@yb=\dimen181
-\pgf@xc=\dimen182
-\pgf@yc=\dimen183
-\pgf@xd=\dimen184
-\pgf@yd=\dimen185
+\pgf@x=\dimen175
+\pgf@y=\dimen176
+\pgf@xa=\dimen177
+\pgf@ya=\dimen178
+\pgf@xb=\dimen179
+\pgf@yb=\dimen180
+\pgf@xc=\dimen181
+\pgf@yc=\dimen182
+\pgf@xd=\dimen183
+\pgf@yd=\dimen184
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count299
-\c@pgf@countb=\count300
-\c@pgf@countc=\count301
-\c@pgf@countd=\count302
+\c@pgf@counta=\count298
+\c@pgf@countb=\count299
+\c@pgf@countc=\count300
+\c@pgf@countd=\count301
 \t@pgf@toka=\toks35
 \t@pgf@tokb=\toks36
 \t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count303
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+\pgf@sys@id@count=\count302
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
 )
 Driver file for pgf: pgfsys-xetex.def
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
-File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
 )
-\pgfsys@objnum=\count304
-))) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count305
-\pgfsyssoftpath@bigbuffer@items=\count306
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen186
-\pgfmath@count=\count307
-\pgfmath@box=\box63
+\pgfsys@objnum=\count303
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count304
+\pgfsyssoftpath@bigbuffer@items=\count305
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr
+/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/
+local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen185
+\pgfmath@count=\count306
+\pgfmath@box=\box58
 \pgfmath@toks=\toks38
 \pgfmath@stack@operand=\toks39
 \pgfmath@stack@operation=\toks40
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count308
-)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen187
-\pgf@picmaxx=\dimen188
-\pgf@picminy=\dimen189
-\pgf@picmaxy=\dimen190
-\pgf@pathminx=\dimen191
-\pgf@pathmaxx=\dimen192
-\pgf@pathminy=\dimen193
-\pgf@pathmaxy=\dimen194
-\pgf@xx=\dimen195
-\pgf@xy=\dimen196
-\pgf@yx=\dimen197
-\pgf@yy=\dimen198
-\pgf@zx=\dimen199
-\pgf@zy=\dimen256
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen257
-\pgf@path@lasty=\dimen258
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen259
-\pgf@shorten@start@additional=\dimen260
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box64
-\pgf@hbox=\box65
-\pgf@layerbox@main=\box66
-\pgf@picture@serial@count=\count309
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen261
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen262
-\pgf@pt@y=\dimen263
-\pgf@pt@temp=\dimen264
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen265
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen266
-\pgf@sys@shading@range@num=\count310
-\pgf@shadingcount=\count311
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box67
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box68
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen267
-\pgf@nodesepend=\dimen268
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex))) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/m
+ath/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count307
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen186
+\pgf@picmaxx=\dimen187
+\pgf@picminy=\dimen188
+\pgf@picmaxy=\dimen189
+\pgf@pathminx=\dimen190
+\pgf@pathmaxx=\dimen191
+\pgf@pathminy=\dimen192
+\pgf@pathmaxy=\dimen193
+\pgf@xx=\dimen194
+\pgf@xy=\dimen195
+\pgf@yx=\dimen196
+\pgf@yy=\dimen197
+\pgf@zx=\dimen198
+\pgf@zy=\dimen199
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen256
+\pgf@path@lasty=\dimen257
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen258
+\pgf@shorten@start@additional=\dimen259
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count308
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen260
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen261
+\pgf@pt@y=\dimen262
+\pgf@pt@temp=\dimen263
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen264
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen265
+\pgf@sys@shading@range@num=\count309
+\pgf@shadingcount=\count310
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box62
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box63
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen266
+\pgf@nodesepend=\dimen267
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks41
 \verbatim@line=\toks42
 \verbatim@in@stream=\read3
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\tcb@titlebox=\box69
-\tcb@upperbox=\box70
-\tcb@lowerbox=\box71
-\tcb@phantombox=\box72
-\c@tcbbreakpart=\count312
-\c@tcblayer=\count313
-\c@tcolorbox@number=\count314
-\tcb@temp=\box73
-\tcb@temp=\box74
-\tcb@temp=\box75
-\tcb@temp=\box76
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+\tcb@titlebox=\box64
+\tcb@upperbox=\box65
+\tcb@lowerbox=\box66
+\tcb@phantombox=\box67
+\c@tcbbreakpart=\count311
+\c@tcblayer=\count312
+\c@tcolorbox@number=\count313
+\tcb@temp=\box68
+\tcb@temp=\box69
+\tcb@temp=\box70
+\tcb@temp=\box71
+\tcb@out=\write4
+\tcb@record@out=\write5
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip65
-\bibsep=\skip66
+\bibhang=\skip64
+\bibsep=\skip65
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count315
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+\c@NAT@ctr=\count314
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-))
-\c@section@level=\count316
 )
-\@linkdim=\dimen269
-\Hy@linkcounter=\count317
-\Hy@pagecounter=\count318
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+\@linkdim=\dimen268
+\Hy@linkcounter=\count315
+\Hy@pagecounter=\count316
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count319
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count317
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4050.
-Package hyperref Info: Hyper figures OFF on input line 4167.
-Package hyperref Info: Link nesting OFF on input line 4172.
-Package hyperref Info: Hyper index ON on input line 4175.
-Package hyperref Info: Plain pages OFF on input line 4182.
-Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4434.
-\c@Hy@tempcnt=\count320
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count318
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4772.
-\XeTeXLinkMargin=\dimen270
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen269
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
-))
-\Fld@menulength=\count321
-\Field@Width=\dimen271
-\Fld@charsize=\dimen272
-Package hyperref Info: Hyper figures OFF on input line 6051.
-Package hyperref Info: Link nesting OFF on input line 6056.
-Package hyperref Info: Hyper index ON on input line 6059.
-Package hyperref Info: backreferencing OFF on input line 6066.
-Package hyperref Info: Link coloring OFF on input line 6071.
-Package hyperref Info: Link coloring with OCG OFF on input line 6076.
-Package hyperref Info: PDF/A mode OFF on input line 6081.
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
-\Hy@abspage=\count322
-\c@Item=\count323
-\c@Hfootnote=\count324
+))
+\Fld@menulength=\count319
+\Field@Width=\dimen270
+\Fld@charsize=\dimen271
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count320
+\c@Item=\count321
+\c@Hfootnote=\count322
 )
 Package hyperref Info: Driver (autodetected): hxetex.
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2023-07-08 v7.01b Hyperref driver for XeTeX
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+(/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
-\pdfm@box=\box77
-\c@Hy@AnnotLevel=\count325
-\HyField@AnnotCount=\count326
-\Fld@listcount=\count327
-\c@bookmark@seq@number=\count328
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+)
+\pdfm@box=\box72
+\c@Hy@AnnotLevel=\count323
+\HyField@AnnotCount=\count324
+\Fld@listcount=\count325
+\c@bookmark@seq@number=\count326
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
 with kernel methods
-) (c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
 )
-\Hy@SectionHShift=\skip67
+\Hy@SectionHShift=\skip66
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
+\BKM@id=\count327
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2020/12/30 v 0.09a modify URL breaks
 )
-\c@theorem=\count329
-\c@lemma=\count330
-\c@corollary=\count331
-\c@proposition=\count332
-\c@conjecture=\count333
-\c@definition=\count334
-\c@example=\count335
-\c@exercise=\count336
-\c@hypothesis=\count337
+\c@theorem=\count328
+\c@lemma=\count329
+\c@corollary=\count330
+\c@proposition=\count331
+\c@conjecture=\count332
+\c@definition=\count333
+\c@example=\count334
+\c@exercise=\count335
+\c@hypothesis=\count336
 (./inno101.aux)
 \openout1 = `inno101.aux'.
 
@@ -625,16 +756,19 @@ Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
 (fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
@@ -657,28 +791,38 @@ Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmodern-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf}].
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 161.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 161.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 161.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 161.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 161.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 161.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 161.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -712,7 +856,11 @@ Package fontspec Info: latinmodern-math scale = 1.000096459334209.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmodern-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\fontdimen
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\f
+ontdimen
 (fontspec)             8\font =6.77pt\relax \fontdimen 9\font =3.94pt\relax
 (fontspec)             \fontdimen 10\font =4.44pt\relax \fontdimen 11\font
 (fontspec)             =6.86pt\relax \fontdimen 12\font =3.45pt\relax
@@ -728,7 +876,10 @@ Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:sc
+ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
+:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math
+.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
@@ -742,7 +893,8 @@ Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
 (fontspec)             \fontdimen 21\font =0pt\relax 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:scrip
+t=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
@@ -759,11 +911,13 @@ Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 161.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 161.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 161.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `bold' on input line 161.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 161.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 161.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -797,7 +951,11 @@ Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
 
 Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             'latinmodern-math.otf' with options
-(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmodern-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\fontdimen
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\f
+ontdimen
 (fontspec)             8\font =0.4pt\relax \fontdimen 9\font =2.0pt\relax
 (fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
 (fontspec)             =1.11pt\relax \fontdimen 12\font =6.0pt\relax
@@ -807,7 +965,10 @@ Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:script=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
@@ -815,7 +976,8 @@ Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
 (fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:script=math;language=dflt;"
+(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
@@ -824,26 +986,52 @@ Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 161.
+(Font)              `largesymbols' in the math version `normal' on input line 1
+61.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 161.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 161.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 161.
+(Font)              `largesymbols' in the math version `bold' on input line 161
+.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 161.
-Package hyperref Info: Link coloring OFF on input line 161.
-(./inno101.out) (./inno101.out)
-\@outlinefile=\write4
-\openout4 = `inno101.out'.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 161.
+LaTeX Info: Redefining \microtypecontext on input line 161.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
 
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+Package hyperref Info: Link coloring OFF on input line 161.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count337
+)
+LaTeX Info: Redefining \ref on input line 161.
+LaTeX Info: Redefining \pageref on input line 161.
+LaTeX Info: Redefining \nameref on input line 161.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 163.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 163.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 163.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 163.
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+63.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -858,13 +1046,19 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.99915pt on input line 163.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 163.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 163.
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 163
+.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 163.
-(c:/Users/kelly.marjanovic/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 163
+.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 
@@ -887,23 +1081,20 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 4.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 4.
-[3] [4])
-\tf@toc=\write5
-\openout5 = `inno101.toc'.
+[3])
+\tf@toc=\write6
+\openout6 = `inno101.toc'.
 
-[5] [6
+[4] [5
 
-] [7]
+]
 File: assets/course-intro/menu.png Graphic file (type bmp)
 <assets/course-intro/menu.png>
 File: assets/course-intro/left_arrow.png Graphic file (type bmp)
 <assets/course-intro/left_arrow.png>
 File: assets/course-intro/right_arrow.png Graphic file (type bmp)
 <assets/course-intro/right_arrow.png>
-[8]
-Underfull \vbox (badness 1067) has occurred while \output is active []
-
-[9]
+[6] [7]
 Overfull \hbox (40.63835pt too wide) in paragraph at lines 298--299
 []\TU/lmr/bx/n/10 Technology  
  []
@@ -929,12 +1120,7 @@ Overfull \hbox (10.08835pt too wide) in paragraph at lines 308--308
  []
 
 
-Overfull \hbox (1.46835pt too wide) in paragraph at lines 308--308
-\TU/lmr/m/n/10 net- 
- []
-
-
-Overfull \hbox (5.38835pt too wide) in paragraph at lines 308--308
+Overfull \hbox (5.02835pt too wide) in paragraph at lines 308--308
 \TU/lmr/m/n/10 work|  
  []
 
@@ -998,11 +1184,11 @@ Overfull \hbox (8.96835pt too wide) in paragraph at lines 314--314
 []|\TU/lmr/m/n/10 Zoom|  
  []
 
-[10] [11] [12
+[8] [9] [10
 
 ]
 Chapter 1.
-[13]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 350--352
 
  []
@@ -1063,26 +1249,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 397--399
  []
 
 
+Underfull \vbox (badness 1953) has occurred while \output is active []
+
+
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+\TU/lmr/m/n/10 12 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
  []
 
-[14] [15]
+[12] [13]
+Underfull \vbox (badness 2503) has occurred while \output is active []
+
+
+Overfull \hbox (61.42343pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
+ []
+
+[14]
+
+Package natbib Warning: Citation `digitallearningadvisorycommitteePostSecondary
+DigitalLearning2022' on page 15 undefined on input line 467.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 16 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
- []
-
-[16]
-
-Package natbib Warning: Citation `digitallearningadvisorycommitteePostSecondaryDigitalLearning2022' on page 17 undefined on input line 467.
-
-
-Underfull \vbox (badness 2547) has occurred while \output is active []
-
-[17]
+[15]
 File: assets/digital-literacy/obsidian2.png Graphic file (type bmp)
 <assets/digital-literacy/obsidian2.png>
 
@@ -1090,10 +1282,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 18 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+\TU/lmr/m/n/10 16 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
  []
 
-[18]
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 570--572
 
  []
@@ -1116,30 +1309,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 584--586
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[19]
+[17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 20 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+\TU/lmr/m/n/10 18 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
  []
 
-[20] [21]
+[18] [19]
 File: assets/u1/vr-diagram-2.png Graphic file (type bmp)
 <assets/u1/vr-diagram-2.png>
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 22 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+\TU/lmr/m/n/10 20 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
  []
 
-[22]
-Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
-[23]
-Underfull \hbox (badness 2142) in paragraph at lines 670--672
+[20]
+Missing character: There is no ℘ (U+2118) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✔ (U+2714) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 2173) in paragraph at lines 670--672
 []\TU/lmr/m/n/10 Never put your social security number, your birthday, your
  []
 
@@ -1148,7 +1348,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 670--672
 
  []
 
-
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 672--673
 
  []
@@ -1159,11 +1359,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 682--684
  []
 
 
-Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 24 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
- []
-
-[24]
 Underfull \hbox (badness 10000) in paragraph at lines 701--703
 
  []
@@ -1174,6 +1369,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 703--705
  []
 
 
+Overfull \hbox (61.42343pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 22 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
+ []
+
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 705--707
 
  []
@@ -1195,10 +1396,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 711--713
 
 File: assets/u1/brute.jpg Graphic file (type bmp)
 <assets/u1/brute.jpg>
-
-Underfull \vbox (badness 2269) has occurred while \output is active []
-
-[25]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 729--731
 
  []
@@ -1243,10 +1441,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 26 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+\TU/lmr/m/n/10 24 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
  []
 
-[26] [27]
+[24] [25]
 Underfull \hbox (badness 10000) in paragraph at lines 794--796
 
  []
@@ -1273,13 +1472,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 802--804
 
 
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+\TU/lmr/m/n/10 26 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
  []
 
-[28]
-Missing character: There is no ☑ (U+2611) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
-[29]
+[26]
+Missing character: There is no ☑ (U+2611) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
 Underfull \hbox (badness 10000) in paragraph at lines 863--865
 
  []
@@ -1309,39 +1511,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 873--875
 
  []
 
-
+[27]
 Overfull \hbox (61.42343pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 30 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIES FOR ONLINE LEARNING
+\TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CHAPTER 1.  INTRODUCTION TO DIGITAL LITERACIE
+S FOR ONLINE LEARNING
  []
 
-[30]
+[28]
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 900--902
 
  []
 
-[31
+[29
 
-] [32]
+]
+Missing character: There is no ☑ (U+2611) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[30]
 File: assets/u2/google-search1.png Graphic file (type bmp)
 <assets/u2/google-search1.png>
 
-Underfull \vbox (badness 4096) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[33]
+[31]
 File: assets/u2/google-search2.png Graphic file (type bmp)
 <assets/u2/google-search2.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[34]
+[32]
 File: assets/u2/google-search3.png Graphic file (type bmp)
 <assets/u2/google-search3.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[35] [36]
+[33] [34]
 File: assets/u2/litmaps1.png Graphic file (type bmp)
 <assets/u2/litmaps1.png>
 File: assets/u2/litmaps2.png Graphic file (type bmp)
@@ -1349,169 +1557,147 @@ File: assets/u2/litmaps2.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[37]
+[35]
+File: assets/u2/litmaps3.png Graphic file (type bmp)
+<assets/u2/litmaps3.png>
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[38] [39] [40]
-Chapter 3.
-[41
+[36]
+File: assets/u2/litmaps4.png Graphic file (type bmp)
+<assets/u2/litmaps4.png>
 
-] [42] [43] [44]
-Chapter 4.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 10000) in paragraph at lines 1348--1350
+[37]
+File: assets/u2/litmaps5.png Graphic file (type bmp)
+<assets/u2/litmaps5.png>
+File: assets/u2/litmaps6.png Graphic file (type bmp)
+<assets/u2/litmaps6.png>
 
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[38]
+File: assets/u2/litmaps7.png Graphic file (type bmp)
+<assets/u2/litmaps7.png>
+File: assets/u2/litmaps8.png Graphic file (type bmp)
+<assets/u2/litmaps8.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1350--1352
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
+[39]
+File: assets/u2/litmaps9.png Graphic file (type bmp)
+<assets/u2/litmaps9.png>
 
-[45
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[40]
+File: assets/u2/litmaps10.png Graphic file (type bmp)
+<assets/u2/litmaps10.png>
+File: assets/u2/litmaps11.png Graphic file (type bmp)
+<assets/u2/litmaps11.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[41]
+File: assets/u2/litmaps12.png Graphic file (type bmp)
+<assets/u2/litmaps12.png>
+[42]
+File: assets/u2/litmaps13.png Graphic file (type bmp)
+<assets/u2/litmaps13.png>
+File: assets/u2/litmaps14.png Graphic file (type bmp)
+<assets/u2/litmaps14.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[43] [44]
+File: assets/u2/library1.png Graphic file (type bmp)
+<assets/u2/library1.png>
+File: assets/u2/library2.png Graphic file (type bmp)
+<assets/u2/library2.png>
+File: assets/u2/library3.png Graphic file (type bmp)
+<assets/u2/library3.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[46] [47] [48
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1352--1354
+Chapter 3.
+[49] [50] [51] [52
+
+]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1452--1454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1366--1368
+Underfull \hbox (badness 10000) in paragraph at lines 1454--1456
 
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1368--1370
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1370--1372
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1372--1374
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1374--1376
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1376--1378
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1393--1395
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1397
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1397--1399
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1401
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1401--1403
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[46]
-Underfull \hbox (badness 10000) in paragraph at lines 1436--1439
-
- []
-
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 1482--1484
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1484--1486
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 1505--1507
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1507--1509
-
- []
-
-[49]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[50]
-Overfull \vbox (1760.3233pt too high) has occurred while \output is active []
-
-[51]
-Underfull \hbox (badness 10000) in paragraph at lines 1710--1712
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1712--1714
-
- []
-
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 1755--1757
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1757--1759
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1759--1761
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1761--1763
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [53]
-Underfull \hbox (badness 10000) in paragraph at lines 1778--1780
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1780--1782
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1472
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1782--1784
+Underfull \hbox (badness 10000) in paragraph at lines 1472--1474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1474--1476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1476--1478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1478--1480
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1480--1482
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1499--1501
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1503
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1505
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1505--1507
 
  []
 
@@ -1519,54 +1705,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 1782--1784
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [54]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 1540--1543
+
+ []
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 1805--1807
+Underfull \hbox (badness 10000) in paragraph at lines 1586--1588
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1809
+Underfull \hbox (badness 10000) in paragraph at lines 1588--1590
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1809--1811
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1611
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1811--1813
+Underfull \hbox (badness 10000) in paragraph at lines 1611--1613
+
+ []
+
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[58]
+Overfull \vbox (1663.3233pt too high) has occurred while \output is active []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1814--1816
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1813--1815
+Underfull \hbox (badness 10000) in paragraph at lines 1816--1818
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1815--1817
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1835--1837
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1855--1857
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1857--1859
-
- []
-
-
+[60]
 Underfull \hbox (badness 10000) in paragraph at lines 1859--1861
 
  []
@@ -1587,82 +1769,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 1865--1867
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1867--1869
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 1882--1884
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1869--1871
+Underfull \hbox (badness 10000) in paragraph at lines 1884--1886
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1879--1881
+Underfull \hbox (badness 10000) in paragraph at lines 1886--1888
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1881--1883
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[62] [63]
+Underfull \hbox (badness 10000) in paragraph at lines 1909--1911
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1883--1885
+Underfull \hbox (badness 10000) in paragraph at lines 1911--1913
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1885--1887
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1887--1889
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1889--1891
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1891--1893
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1893--1895
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1895--1897
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1897--1899
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1899--1901
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1901--1903
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1903--1905
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1905--1907
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1915
 
  []
 
@@ -1682,28 +1820,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1919--1921
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1921--1923
-
- []
-
-
-Underfull \vbox (badness 6078) has occurred while \output is active []
-
-[56]
-Overfull \vbox (558.20128pt too high) has occurred while \output is active []
-
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 1941--1943
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1943--1945
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1957--1959
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1941
 
  []
 
@@ -1729,6 +1846,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 1965--1967
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1967--1969
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1969--1971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1973
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1973--1975
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1983--1985
 
  []
 
@@ -1773,55 +1910,113 @@ Underfull \hbox (badness 10000) in paragraph at lines 1999--2001
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 2001--2003
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2003--2005
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2005--2007
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2007--2009
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2009--2011
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2019--2021
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2021--2023
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2023--2025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2025--2027
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[58]
-Overfull \vbox (276.10329pt too high) has occurred while \output is active []
+[64]
+Overfull \vbox (463.20128pt too high) has occurred while \output is active []
 
-[59]
-Underfull \hbox (badness 10000) in paragraph at lines 2035--2037
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2037--2039
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2039--2041
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2041--2043
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2043--2045
-
- []
-
-
+[65]
 Underfull \hbox (badness 10000) in paragraph at lines 2045--2047
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 2047--2049
 
-[60] [61] [62
+ []
 
-]
-Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2061--2063
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2063--2065
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2065--2067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2067--2069
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2069--2071
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2073
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 2089--2091
 
  []
 
-[63]
+
 Underfull \hbox (badness 10000) in paragraph at lines 2091--2093
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2093--2095
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2095--2097
 
  []
 
@@ -1836,43 +2031,122 @@ Underfull \hbox (badness 10000) in paragraph at lines 2099--2101
  []
 
 
-Underfull \vbox (badness 7238) has occurred while \output is active []
-
-[64]
-Underfull \hbox (badness 10000) in paragraph at lines 2185--2187
+Underfull \hbox (badness 10000) in paragraph at lines 2101--2103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2187--2189
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2189--2191
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2191--2193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2193--2195
+Underfull \hbox (badness 10000) in paragraph at lines 2103--2105
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[65] [66]
-Underfull \hbox (badness 10000) in paragraph at lines 2235--2237
+[66]
+Overfull \vbox (211.10329pt too high) has occurred while \output is active []
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 2139--2141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2237--2239
+Underfull \hbox (badness 10000) in paragraph at lines 2141--2143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2143--2145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2145--2147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2147--2149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2149--2151
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[68] [69] [70
+
+]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2193--2195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2195--2197
+
+ []
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2203
+
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 2203--2205
+[]\TU/lmr/m/n/10 Develop online learning networks to discover and share knowled
+ge,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2203--2205
+
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 2289--2291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2291--2293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2293--2295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2295--2297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2297--2299
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 2339--2341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2341--2343
 
  []
 
@@ -1881,175 +2155,80 @@ File: assets/u5/Digital_citizenship_Venn.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[67]
-Underfull \hbox (badness 10000) in paragraph at lines 2258--2260
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2260--2262
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2316--2318
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2318--2320
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[68]
-Overfull \vbox (240.88023pt too high) has occurred while \output is active []
-
-[69]
-Underfull \hbox (badness 10000) in paragraph at lines 2348--2350
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2371--2373
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2373--2375
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2375--2377
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2377--2379
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2379--2381
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[70]
-Overfull \vbox (116.65329pt too high) has occurred while \output is active []
-
-[71]
-Underfull \hbox (badness 10000) in paragraph at lines 2415--2417
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2417--2419
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[72]
-Underfull \hbox (badness 10000) in paragraph at lines 2457--2459
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[73]
-Underfull \hbox (badness 10000) in paragraph at lines 2522--2523
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2528--2530
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2530--2532
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2532--2534
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2534--2536
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[74]
-Overfull \vbox (261.95717pt too high) has occurred while \output is active []
-
 [75]
-Underfull \hbox (badness 10000) in paragraph at lines 2588--2590
+Underfull \hbox (badness 10000) in paragraph at lines 2362--2364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2590--2592
+Underfull \hbox (badness 1394) in paragraph at lines 2364--2366
+[]\TU/lmr/m/n/10 Conduct a general search for “definition of digital citizen.”
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2364--2366
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2420--2422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2422--2424
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [76]
-Underfull \hbox (badness 10000) in paragraph at lines 2620--2622
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2622--2624
-
- []
+Overfull \vbox (185.88023pt too high) has occurred while \output is active []
 
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 2661--2663
+Underfull \hbox (badness 10000) in paragraph at lines 2452--2454
 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2475--2477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2477--2479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2479--2481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2481--2483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2483--2485
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [78]
-Underfull \hbox (badness 10000) in paragraph at lines 2663--2665
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2682--2684
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2684--2686
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2686--2688
-
- []
-
-
-Underfull \vbox (badness 1057) has occurred while \output is active []
+Overfull \vbox (19.65329pt too high) has occurred while \output is active []
 
 [79]
-Underfull \hbox (badness 10000) in paragraph at lines 2725--2727
+Underfull \hbox (badness 10000) in paragraph at lines 2519--2521
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2727--2729
+Underfull \hbox (badness 10000) in paragraph at lines 2521--2523
 
  []
 
@@ -2057,7 +2236,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2727--2729
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [80]
-Underfull \hbox (badness 10000) in paragraph at lines 2772--2774
+Underfull \hbox (badness 10000) in paragraph at lines 2561--2563
 
  []
 
@@ -2065,22 +2244,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 2772--2774
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [81]
-Underfull \hbox (badness 10000) in paragraph at lines 2812--2814
+Underfull \hbox (badness 10000) in paragraph at lines 2626--2627
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2814--2816
+Underfull \hbox (badness 10000) in paragraph at lines 2632--2634
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2816--2818
+Underfull \hbox (badness 10000) in paragraph at lines 2634--2636
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2818--2820
+Underfull \hbox (badness 10000) in paragraph at lines 2636--2638
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2638--2640
 
  []
 
@@ -2088,39 +2272,96 @@ Underfull \hbox (badness 10000) in paragraph at lines 2818--2820
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [82]
-Underfull \hbox (badness 10000) in paragraph at lines 2887--2889
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2889--2891
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (170.95717pt too high) has occurred while \output is active []
 
 [83]
-Overfull \vbox (152.21329pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 2692--2694
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2694--2696
+
+ []
 
 [84]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 2724--2726
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2726--2728
+
+ []
 
 [85]
-Overfull \vbox (268.52066pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 2765--2767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2767--2769
+
+ []
 
 [86]
-Underfull \hbox (badness 1448) in paragraph at lines 2985--2987
-[]\TU/lmr/m/n/10 Discuss the dimensions of digital citizenship for work and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2985--2987
+Underfull \hbox (badness 10000) in paragraph at lines 2786--2788
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2987--2989
+Underfull \hbox (badness 10000) in paragraph at lines 2788--2790
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2790--2792
+
+ []
+
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 2829--2831
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2831--2833
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2876--2878
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[88]
+Underfull \hbox (badness 10000) in paragraph at lines 2916--2918
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2918--2920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2920--2922
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2922--2924
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[89]
+Underfull \hbox (badness 10000) in paragraph at lines 2991--2993
 
  []
 
@@ -2130,276 +2371,256 @@ Underfull \hbox (badness 10000) in paragraph at lines 2993--2995
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2995--2997
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
+[90]
+Overfull \vbox (67.21329pt too high) has occurred while \output is active []
 
-[87] [88
-
-]
-Chapter 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3026--3028
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3028--3030
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3030--3032
-
- []
-
-[89]
-Underfull \hbox (badness 10000) in paragraph at lines 3046--3048
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3048--3050
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3050--3052
-
- []
-
-[90] [91]
-Underfull \hbox (badness 10000) in paragraph at lines 3153--3154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3197--3198
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3199--3200
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3211--3212
-
- []
+[91]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [92]
-Underfull \hbox (badness 10000) in paragraph at lines 3213--3214
+Overfull \vbox (243.52066pt too high) has occurred while \output is active []
+
+[93]
+Underfull \hbox (badness 1448) in paragraph at lines 3089--3091
+[]\TU/lmr/m/n/10 Discuss the dimensions of digital citizenship for work and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3089--3091
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3223--3224
+Underfull \hbox (badness 10000) in paragraph at lines 3091--3093
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3225--3226
-
- []
-
-[93] [94]
-Underfull \hbox (badness 10000) in paragraph at lines 3307--3309
+Underfull \hbox (badness 10000) in paragraph at lines 3097--3099
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3309--3311
+Underfull \hbox (badness 10000) in paragraph at lines 3099--3101
+
+ []
+
+[94]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3130--3132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3311--3313
+Underfull \hbox (badness 10000) in paragraph at lines 3132--3134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3313--3315
+Underfull \hbox (badness 10000) in paragraph at lines 3134--3136
 
  []
 
-[95]
-Underfull \hbox (badness 10000) in paragraph at lines 3370--3372
+[95
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3372--3374
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3150--3152
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 3152--3154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3154--3156
+
+ []
 
 [96]
-Underfull \hbox (badness 10000) in paragraph at lines 3430--3432
+Underfull \hbox (badness 10000) in paragraph at lines 3257--3258
+
+ []
+
+[97]
+Underfull \hbox (badness 10000) in paragraph at lines 3301--3302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3432--3434
+Underfull \hbox (badness 10000) in paragraph at lines 3303--3304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3439--3441
+Underfull \hbox (badness 10000) in paragraph at lines 3315--3316
 
  []
 
 
-Underfull \vbox (badness 5490) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 3317--3318
 
-[97] [98]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ []
 
-[99]
-Underfull \vbox (badness 5203) has occurred while \output is active []
+
+Underfull \hbox (badness 10000) in paragraph at lines 3327--3328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3329--3330
+
+ []
+
+[98] [99]
+Underfull \hbox (badness 10000) in paragraph at lines 3411--3413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3413--3415
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3415--3417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3417--3419
+
+ []
 
 [100]
-Underfull \hbox (badness 10000) in paragraph at lines 3533--3535
+Underfull \hbox (badness 10000) in paragraph at lines 3474--3476
 
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3535--3537
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3590--3592
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3592--3594
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [101]
+Underfull \hbox (badness 10000) in paragraph at lines 3476--3478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3534--3536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3536--3538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3543--3545
+
+ []
+
+[102] [103]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[102] [103] [104] [105]
-Underfull \vbox (badness 2698) has occurred while \output is active []
-
-[106]
-Underfull \hbox (badness 10000) in paragraph at lines 3760--3762
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3762--3764
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3764--3766
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3766--3768
-
- []
-
-
+[104]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[107]
-Overfull \vbox (32.21329pt too high) has occurred while \output is active []
-
-[108]
-Underfull \hbox (badness 10000) in paragraph at lines 3789--3791
-
- []
-
-[109]
-Underfull \hbox (badness 10000) in paragraph at lines 3853--3855
+[105]
+Underfull \hbox (badness 10000) in paragraph at lines 3637--3639
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3855--3857
+Underfull \hbox (badness 10000) in paragraph at lines 3639--3641
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3857--3859
+Underfull \hbox (badness 10000) in paragraph at lines 3694--3696
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3859--3861
-
- []
-
-[110]
-Underfull \hbox (badness 10000) in paragraph at lines 3915--3917
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3917--3919
+Underfull \hbox (badness 10000) in paragraph at lines 3696--3698
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[111] [112]
-Underfull \hbox (badness 10000) in paragraph at lines 3988--3990
+[106] [107] [108] [109] [110]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[111]
+Underfull \hbox (badness 10000) in paragraph at lines 3864--3866
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3990--3992
+Underfull \hbox (badness 10000) in paragraph at lines 3866--3868
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3868--3870
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3870--3872
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[112]
+Overfull \vbox (7.21329pt too high) has occurred while \output is active []
 
 [113]
-Underfull \hbox (badness 10000) in paragraph at lines 4032--4034
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4034--4036
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4054--4056
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4056--4058
+Underfull \hbox (badness 10000) in paragraph at lines 3893--3895
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[114] [115]
-Underfull \hbox (badness 10000) in paragraph at lines 4080--4082
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 3957--3959
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4082--4084
+Underfull \hbox (badness 10000) in paragraph at lines 3959--3961
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 3961--3963
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3963--3965
+
+ []
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 4019--4021
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4021--4023
+
+ []
+
+
+Underfull \vbox (badness 1838) has occurred while \output is active []
+
+[116]
 Underfull \hbox (badness 10000) in paragraph at lines 4092--4094
 
  []
@@ -2409,27 +2630,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 4094--4096
 
  []
 
-[116] [117]
-Underfull \hbox (badness 10000) in paragraph at lines 4150--4152
+
+Underfull \vbox (badness 2828) has occurred while \output is active []
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 4136--4138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4152--4154
+Underfull \hbox (badness 10000) in paragraph at lines 4138--4140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4154--4156
+Underfull \hbox (badness 10000) in paragraph at lines 4158--4160
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4156--4158
+Underfull \hbox (badness 10000) in paragraph at lines 4160--4162
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[118] [119]
 Underfull \hbox (badness 10000) in paragraph at lines 4184--4186
 
  []
@@ -2440,275 +2667,187 @@ Underfull \hbox (badness 10000) in paragraph at lines 4186--4188
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4188--4190
+Underfull \hbox (badness 10000) in paragraph at lines 4196--4198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4190--4192
+Underfull \hbox (badness 10000) in paragraph at lines 4198--4200
+
+ []
+
+[120]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[121]
+Underfull \hbox (badness 10000) in paragraph at lines 4254--4256
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4200--4202
+Underfull \hbox (badness 10000) in paragraph at lines 4256--4258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4202--4204
+Underfull \hbox (badness 10000) in paragraph at lines 4258--4260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4204--4206
+Underfull \hbox (badness 10000) in paragraph at lines 4260--4262
 
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 4206--4208
+Underfull \hbox (badness 10000) in paragraph at lines 4288--4290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4290--4292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4292--4294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4294--4296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4304--4306
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4306--4308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4308--4310
+
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 4310--4312
 []\TU/lmr/m/n/10 Canadian Content designations are incompatible with user
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4206--4208
+Underfull \hbox (badness 10000) in paragraph at lines 4310--4312
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4216--4218
+Underfull \hbox (badness 10000) in paragraph at lines 4320--4322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4218--4220
+Underfull \hbox (badness 10000) in paragraph at lines 4322--4324
 
  []
 
 
-Underfull \hbox (badness 3547) in paragraph at lines 4236--4242
+Underfull \hbox (badness 4713) in paragraph at lines 4340--4346
 \TU/lmr/m/n/10 - []EUROPEAN REGULATORS JUST STOPPED FACEBOOK,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4248--4250
+Underfull \hbox (badness 10000) in paragraph at lines 4352--4354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4250--4252
+Underfull \hbox (badness 10000) in paragraph at lines 4354--4356
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4252--4254
+Underfull \hbox (badness 10000) in paragraph at lines 4356--4358
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[118]
-Overfull \vbox (1494.08128pt too high) has occurred while \output is active []
+[122]
+Overfull \vbox (1339.08128pt too high) has occurred while \output is active []
 
-[119]
-Underfull \vbox (badness 3138) has occurred while \output is active []
+[123]
+Underfull \vbox (badness 5862) has occurred while \output is active []
 
-[120]
-Underfull \hbox (badness 1931) in paragraph at lines 4305--4307
+[124]
+Underfull \hbox (badness 1931) in paragraph at lines 4409--4411
 \TU/lmr/m/n/10 redlining, and the re-inventions of discriminatory practices
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4305--4307
+Underfull \hbox (badness 10000) in paragraph at lines 4409--4411
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4307--4309
+Underfull \hbox (badness 10000) in paragraph at lines 4411--4413
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4309--4311
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[121] [122]
-Underfull \hbox (badness 10000) in paragraph at lines 4340--4341
-[]\TU/lmr/bx/n/10 Definition 6.3 \TU/lmr/m/n/10 (Inclusion)\TU/lmr/bx/n/10 . []\TU/lmr/m/n/10 the fact of including some-
- []
-
-[123]
-Overfull \vbox (34.20128pt too high) has occurred while \output is active []
-
-[124] [125]
-Underfull \hbox (badness 10000) in paragraph at lines 4514--4516
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4520--4522
+Underfull \hbox (badness 10000) in paragraph at lines 4413--4415
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[126] [127]
-Underfull \hbox (badness 10000) in paragraph at lines 4533--4535
+[125] [126]
+Overfull \hbox (10.6567pt too wide) in paragraph at lines 4444--4445
+[][]\TU/lmr/bx/n/10 Definition 6.3 \TU/lmr/m/n/10 (Inclusion)\TU/lmr/bx/n/10 . 
+[]\TU/lmr/m/n/10 the fact of including somebody/something;
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[128] [129]
+Underfull \hbox (badness 10000) in paragraph at lines 4618--4620
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4535--4537
+Underfull \hbox (badness 10000) in paragraph at lines 4624--4626
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4537--4539
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[130]
+Underfull \hbox (badness 10000) in paragraph at lines 4637--4639
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4539--4541
+Underfull \hbox (badness 10000) in paragraph at lines 4639--4641
+
+ []
+
+[131]
+Underfull \hbox (badness 10000) in paragraph at lines 4641--4643
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4541--4543
-
- []
-
-
-Underfull \hbox (badness 1831) in paragraph at lines 4543--4545
-[]\TU/lmr/m/n/10 Surveillance capitalism; see for example []The price of connection:
- []
-
-
-Underfull \hbox (badness 6396) in paragraph at lines 4543--4545
-\TU/lmr/m/n/10 surveillance capitalism[] the-price-of-connection-surveillance-capitalism-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4543--4545
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4545--4547
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4547--4549
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4562--4564
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4564--4566
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4566--4568
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4568--4570
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4581--4583
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4583--4585
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4585--4587
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4587--4589
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4589--4590
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4595--4597
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4597--4599
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4599--4601
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4601--4602
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4609--4610
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4615--4617
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4617--4618
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4625--4627
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4627--4628
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4633--4635
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4635--4637
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4637--4638
+Underfull \hbox (badness 10000) in paragraph at lines 4643--4645
 
  []
 
@@ -2718,12 +2857,84 @@ Underfull \hbox (badness 10000) in paragraph at lines 4645--4647
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4658--4660
+Underfull \hbox (badness 2042) in paragraph at lines 4647--4649
+[]\TU/lmr/m/n/10 Surveillance capitalism; see for example []The price of connec
+tion:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4647--4649
+\TU/lmr/m/n/10 surveillance capitalism[] the-price-of-connection-surveillance-c
+apitalism-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4647--4649
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4660--4662
+Underfull \hbox (badness 10000) in paragraph at lines 4649--4651
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4651--4653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4666--4668
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4668--4670
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4670--4672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4672--4674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4685--4687
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4687--4689
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4689--4691
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4691--4693
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4693--4694
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4699--4701
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4701--4703
 
  []
 
@@ -2733,47 +2944,96 @@ Underfull \hbox (badness 10000) in paragraph at lines 4703--4705
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4705--4707
+Underfull \hbox (badness 10000) in paragraph at lines 4705--4706
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4707--4709
+Underfull \hbox (badness 10000) in paragraph at lines 4713--4714
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4709--4711
+Underfull \hbox (badness 10000) in paragraph at lines 4719--4721
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4721--4722
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4729--4731
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4731--4732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4737--4739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4739--4741
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4741--4742
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4749--4751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4762--4764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4764--4766
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4807--4809
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4809--4811
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4811--4813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4813--4815
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[128]
-Overfull \vbox (634.47375pt too high) has occurred while \output is active []
+[132]
+Overfull \vbox (529.47375pt too high) has occurred while \output is active []
 
-[129]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[133] [134] [135] [136
 
-[130]
-Underfull \vbox (badness 1087) has occurred while \output is active []
+] [137] [138
 
-[131] [132] [133
-
-] [134
-
-]
-Underfull \hbox (badness 4242) in paragraph at lines 4783--4784
-[]\TU/lmr/m/n/10 [Creating Communities of Practice]([]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][] [] [][] []
- []
-
-
-Underfull \hbox (badness 1755) in paragraph at lines 4783--4784
-[][][][][][][][][][] [] [][][][] [][] [][] [][] [] [][] [][][][][][][][][] [][] [][] [][] [][][][][][][][][]$[]\TU/lmr/m/n/10 ] from ERLC, a member of
- []
-
-(./inno101.bbl [135] [136
+] (./inno101.bbl [139] [140
 
 ]
 
@@ -2783,21 +3043,14 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[137] (./inno101.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-10-10>
- ***********
-Package rerunfilecheck Info: File `inno101.out' has not changed.
-(rerunfilecheck)             Checksum: 7CB2DD06146E5E1B4F3FC80D2E8565D5;8053.
- ) 
+[141] (./inno101.aux) ) 
 Here is how much of TeX's memory you used:
- 26838 strings out of 477165
- 537171 string characters out of 5809437
- 1964674 words of memory out of 5000000
- 48036 multiletter control sequences out of 15000+600000
- 564560 words of font info for 94 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 90i,9n,120p,1574b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 27611 strings out of 476919
+ 532249 string characters out of 5821841
+ 1031946 words of memory out of 5000000
+ 47101 multiletter control sequences out of 15000+600000
+ 409921 words of font info for 85 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 98i,9n,122p,1579b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on inno101.pdf (137 pages).
+Output written on inno101.pdf (141 pages).
