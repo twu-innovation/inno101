@@ -249,11 +249,41 @@ When you have completed this unit, you should be able to:
 
 -->
 
+
 ### Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
+
+<span class="blockhead">Learning Activities</span>
+
+- Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse.  
+- Download and install [Obsidian](https://obsidian.md){target="_blank"}  
+- Download and open the course vault in Obsidian. Activate the plugins that came with the Obsidian vault.  
+- View the resources provided on the 21st century learner
+- Create a Visitors and Residents diagram  
+- Get a password manager  
+-  Use the Terms of Service: Didn’t Read site to look up each of the apps we will learn in this course. 
+- Write a reflection on digital literacies in your learning journal.
+
+
+You will be directed to complete these activities as they come.  
+
+```
+
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment</span>
+
+- **Learning Journal** - submit after you have completed Units 1-3.
+*See the Assessment section in Moodle for assignment details.*
+
+
+```
+<!--
+
 During this unit you will:
 
 - create a Visitors and Residents diagram  
@@ -261,11 +291,8 @@ During this unit you will:
 - download and open the course vault in Obsidian  
     - activate the plugins that came with the Obsidian vault  
 
-You will be directed to complete these activities as they come.  
+You will be directed to complete these activities as they come. 
 
-```
-<!--
-//todo #1
 -->
 
 <!--
@@ -474,20 +501,19 @@ Read the following blog post which I believe provides a fitting summary of this 
 <a class="embedly-card" data-card-controls="0" href="https://www.seanmichaelmorris.com/technology-is-not-pedagogy/">Technology is not Pedagogy</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-### Activity {-}
+### Activity: Visitor and Resident Diagram {-}
 
-
-```{block2, type='wp'}
-**Visitor and Resident Diagram**  
+```{block2, type='reflect'}
 
 I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with learners. Do the tools you use fall on the visitor or the resident end of your continuum? What about the learners in your classes?
 
 
-✔️ **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171)  
-✔️ Create a new 'Canvas' in your Obsidian vault and create your own ***Visitor/Resident*** map. We have created a sample VR Diagram in the vault. 
+- **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171)  
+- Create a new 'Canvas' in your Obsidian vault and create your own ***Visitor/Resident*** map. We have created a sample VR Diagram in the vault. 
 
 
 ```
+
 <!--
 ***Feel free to answer the questions above in your notes or Reflective Learning Journal***. 
 
@@ -630,16 +656,15 @@ Feel free to add components to the template.
 ```
 
 
-
-
-
 ### Activity: Digital Literacies for Online Learning {-}
+
+```{block2, type='reflect'}
+
 
 Prior to completing this activity, please watch the following video on how to write reflectively. Keep in mind that you are not writing an essay for these reflective notes, but the 5Rs will help guide you to creating robust reflective writing.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/whKSAKSMFs8?si=uq8v9HnkEOqe2QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-```{block2, type='reflect'}
 
 Click the little calendar icon in the sidebar of Obsidian to 'Open today's daily note'.
 
@@ -652,26 +677,9 @@ Respond to the following prompts
 - Create a link to your VR diagram map in your entry.
 - Summarise an action plan for improving your digital literacies. Identify the literacies you plan to improve including the reasons why and how you aim to achieve this.
 - Ensure that your references are cited appropriately.
-<!--
-- Scan the course feed for blog posts and post a comment on two posts from your peers.
 
-Notes
-
-Remember to tag or label your post using the course code: LiDA101. (If you omit this step, we will not be able to harvest your post for the course feed.)
--->
 
 ```
-
-
-<!--
-### Activity: Researching a definition {-}
-
-```{block2, type='reflect'}
-
-<span class="prote">Missing content</span>
-
-```
--->
 
 
 
@@ -681,9 +689,6 @@ In this first unit, you have had the opportunity to learn about some of the impa
 
 
 
-## Things to do in this unit {-}
-
-☑️ 
 
 ## Checking your Learning {-}
 
@@ -701,6 +706,18 @@ Before you move on to the next unit, check that you are able to:
 
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 ## Digital Privacy and Safety
 
