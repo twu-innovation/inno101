@@ -3,9 +3,12 @@
 
 ## Overview {-}
 
-...
+In this module, we'll dive into three important aspects of utilizing digital resources effectively. Firstly, we'll explore the art of discovering and selecting valuable resources for your academic and professional needs. You'll learn how to search efficiently, critically assess sources for credibility and relevance, and fine-tune your search techniques.  
 
-See Definition \@ref(def:diglit)
+Next, we'll delve into the world of citation management. Properly citing your sources is vital in academic writing to avoid plagiarism, and we'll introduce you to various citation styles like APA, MLA, and Chicago. You'll also gain practical experience with citation management tools to help streamline the citation process and manage your references efficiently.  
+
+Finally, we'll discuss the concept of openness in education. We'll explore open educational resources (OER), the benefits and challenges of open access, and the role of Creative Commons licenses in educational materials. This discussion will open your eyes to the changing landscape of educational resources and the ethics surrounding them. Throughout these topics, you'll engage in hands-on activities, group projects, and discussions to enhance your critical thinking skills and promote responsible use of digital resources.  
+
 
 ### Topics {-}
 
@@ -32,17 +35,18 @@ When you have completed this unit, you should have made progress toward the foll
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-☑️ Before you begin, go to [litmaps.com](https://litmaps.com){target="_blank"} and sign up for a free account.
 
 ```{block2, type='reflect'}
 
 <span class="blockhead">Learning Activities</span>
 
-- ...
-- ...
+
+- Explore [Litmaps](https://litmaps.com){target="_blank"} to find articles of interest.
+- Visit the TWU Library and view the libguides.
+- Download and Install Zotero
+
  
-**Note:** The learning activities in this course are designed to prepare you for the graded assigments in this course.  
-You are strongly encouraged to complete them.
+**Note:** The learning activities in this course are designed to prepare you for the graded assigments in this course.  You are strongly encouraged to complete them.
 
 
 ```
@@ -171,9 +175,13 @@ Choose 'RIS' in the dropdown, then click 'Download'.
 
 ![Screenshot of the Litmaps.com seed map](assets/u2/litmaps14.png)
 
-#### The TWU Library {-}
+### Activity: The TWU Library {-}
+
+```{block2, type='reflect'}
 
 Some of your best advocates on campus or online are the librarians who work at the Norma Marion Alloway Library in Langley. They are extremely knowledgable about finding things that are hard to find, so it is ALWAYS a good idea to talk to a librarian about what you are trying to do. They are literally paid to help you succeed! One of the ways they like to help is by creating what is known as a 'LibGuide', and I encourage you to [access their LibGuide on using the search feature on the library website.](https://libguides.twu.ca/LibraryOneSearch).
+
+```
 
 ## Citation Management
 
@@ -224,84 +232,14 @@ And here is an article you can read (for free) from the British organization Won
 
 <iframe src="https://wonkhe.com/blogs/intro-to-open-access/" width="700" height="800"></iframe>
 
-### Activity:  {-}
 
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
-
-## Topic
-
-content
-
-<!--
-comment
--->
-
-
-
-### Activity:  {-}
-
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
-
-## Topic
-
-content
-
-<!--
-comment
--->
-
-
-
-### Activity:  {-}
-
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
 
 
 ## Summary {-}
 
-In this unit, you have had the opportunity to learn about ...
+In this unit, you have had the opportunity to develop crucial skills for navigating the digital resource landscape. You are now able to effectively find and evaluate resources, manage citations, and understand the importance of openness in education. These skills will enhance your ability to use digital resources for academic and professional growth responsibly and effectively.
 
 
-
-## Assessment {-}
-
-```{block2, type='assessment'}
-
-<span class="blockhead">Quizzes 1 & 2</span>
-
-After completing this unit, including the learning activities, you are asked to complete ...
-
-```
 
 ## Checking your Learning {-}
 
@@ -309,8 +247,14 @@ After completing this unit, including the learning activities, you are asked to 
 
 Before you move on to the next unit, check that you are able to:
 
-- ...
-- ...
- 
+- Describe your engagement with digital technology  
+- Apply digital tools to support learning in an academic environment  
+- Explain what digital literacies mean for you in a tertiary education context  
+- Examine your digital footprint  
+- Build your professional online biography  
+- Examine privacy concerns related to various platforms and tools  
+- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment.  
+
 
 ```
+

@@ -9,12 +9,10 @@ discovering-and-curating-resources
 finding-and-selecting-resources
 citation-management
 openness-in-education
+connecting-ideas-for-learning
 topic
 topic-1
-connecting-ideas-for-learning
 topic-2
-topic-3
-topic-4
 building-your-online-presence
 personal-learning-environments
 building-a-learning-blog
