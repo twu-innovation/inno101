@@ -79,7 +79,7 @@ You will be directed to complete these activities as they come.
 
 <span class="blockhead">Assessment</span>
 
-- **Learning Journal** - submit after you have completed Units 1-3.
+- **Assignment 1: Learning Journal** - submit after you have completed Units 1-3.
 *See the Assessment section in Moodle for assignment details.*
 
 
@@ -123,13 +123,6 @@ You are strongly encouraged to complete them.
 ```
 -->
 
-```{block2, type='assessment'}
-
-<span class="blockhead">Assessment</span>
-
-- See the Assessment section in Moodle for assignment details and due dates.
-
-```
 
 
 
@@ -154,11 +147,11 @@ There are many other processes and procedures that rely on *the digital* in high
 Some of the digital tools we will introduce to you will help you build a *workflow* for you to manage the huge amount of information and resources that you will have to sort through to complete many of your assignments. You will learn to use AI to find *relevant* resources on whatever your topic might be. As you know from searching Google, a simple search of the web can turn up thousands or millions of hits, but there are tools that can help you highlight the 20 most relevant resources in just a few clicks. Once you find resources, we will show you tools that will allow you to track all your references, create citations in your writing quickly and easily, and then create a perfectly formatted reference list. Do not waste your time creating your own bibliographies! This one tool will save you days and likely weeks of work during your degree (quite literally). We will show you another tool that will allow you to make connections between ideas and notes so that you build a network of connected ideas. Curating this network of ideas is possibly one of the most useful things you can do in higher ed. You will end up with a searchable network of everything you've learned, and be able to visualize it at the click of a button. We will help you think through the implications of how you present yourself on the web so that you can make wise decisions about what you share and how you share it. We will also help you make connections on the web that could become a key resource for your learning and working in your career.
 
 
-### Activity  {-}
+### Activity: Join the Hub!  {-}
 
 ```{block2, type='reflect'}
 
-Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, which is an app called *Discourse* that we use to build community among learners who do not attend one of the TWU campuses in Langley or Richmond, BC. Find the *Leadership/Media and Communications 101* category and respond to the *Welcome* forum.
+Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, which is an app called *Discourse* that we use to build community among learners in the GX program. Find the *Leadership 101* category and respond to the *Welcome* forum.
 
 ```
 
@@ -166,7 +159,7 @@ Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, w
 
 
 > ::: {.definition name="Digital Literacy" #diglit}
-Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. [@digitallearningadvisorycommitteePostSecondaryDigitalLearning2022]
+Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. From [B.C.’s Post-Secondary Digital Learning Strategy](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/digital_learning_strategy.pdf)
 :::
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to 'read'. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
@@ -178,7 +171,7 @@ Literacy, as we commonly understand it, is the ability to *understand* the meani
 
 Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In this signpost you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
 
-### Activity {-}
+### Activity: Getting Started with Obsidian {-}
 
 ```{block2, type='reflect'}
 
@@ -197,11 +190,11 @@ Obsidian is a free note-taking and mind-mapping app.
 
 Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/c/ldrs101/10){target="_blank"} or talk your your instructor or facilitator for help with this.
 
-To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
+### Activity: Download the Starter Vault {-}
 
 ```{block2, type='reflect'}
 
-<span class="blockhead">Download the Starter Vault</span>
+To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
 
 1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip){target="_blank"}
     - This will download a file called `ldrs101-vault-main.zip` to your computer.
@@ -218,11 +211,9 @@ To give you a head start, we have created a **starter vault** for you to downloa
 
 ```
 
-### Activity {-}
+### Activity: Reflection on the 21st Century Learner {-}
 
 ```{block2, type='reflect'}
-
-<span class="blockhead">Reflection on the 21st century learner</span>
 
 The following video, published by the MacArthur Foundation, questions how digital media are changing the way young people learn, play, socialize, and participate in civic life. John Seely Brown a researcher with particular interests in radical innovation and digital culture suggests that today’s gaming oriented children want to be measured and feel that if they are not learning, it is not fun. How does this relate to how you feel about learning?
 
@@ -250,25 +241,35 @@ Notice that tags start with a hashtag and contain no spaces. Separate words with
 
 ```
 
-One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*. To complete this activity, you will need to do a little bit of setup, as follows.
-
-
 
 
 ### Visitors and Residents
 
+One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*. To complete this activity, you will need to do a little bit of setup, as follows.
+
+Have you heard of the terms 'digital natives' and 'digital immigrants'?
+
+<!--
+
+Thinking of a high school, first year uni student... they may not have encountered this conversation.
+
 It is likely that you have encountered and may believe that there is a distinction between digital 'natives' and 'immigrants'.
+
+also changing *kids these days* below and "those of us whose formative years pre-date the advent of the internet"
+
+-->
+
+
 
 
 ```{block2, type='caution'}
 
- **Note**  
-[Marc Prensky](https://marcprensky.com/), who proposed this idea, is the one who thought it would be a good idea to refer to people as 'natives'. We recognize that this term should not be used to talk about people.
+ **Note:**  [Marc Prensky](https://marcprensky.com/), who proposed this idea, is the one who thought it would be a good idea to refer to people as 'natives'. We recognize that this term should not be used to talk about people.
 
 ```
 
 
-The essential argument is that *kids these days* have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those of us whose formative years pre-date the advent of the internet are forever at a disadvantage compared to the *kids*. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
+The essential argument is that certain generations have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those generations whose formative years pre-date the advent of the internet are forever at a disadvantage compared to *kids*. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
 
 <a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -281,9 +282,21 @@ Alternately, there are places and spaces on the web, where *you* reside as a per
 
 At the same time, if we can imagine the visitor <--> resident continuum on a horizontal axis, there is also a personal <--> professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
 
+### Activity: Where Am I Online? {-}
+
+```{block2, type='reflect'}
+
 The video below explains a process to help you think about where you reside on the web (7 mins).
 
-[Link to YouTube](https://www.youtube.com/watch?v=sPOG3iThmRI)
+[Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank”}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sPOG3iThmRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+```
 
 I've shared my VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. The main thing I would like to communicate with this idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about where your learners reside on the web. From there, we can begin to plan for tools we can use that afford us and our learners the opportunity to reside there.
 

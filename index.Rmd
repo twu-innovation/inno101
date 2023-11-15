@@ -26,6 +26,16 @@ If you have any questions, do not hesitate to ask. We are here to help and be yo
 
 Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in 'the digital' throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
 
+### Course Learning Outcomes  {-}
+
+1.	Build and customize technology-integrated workflows to enhance and enrich your learning journey.  
+2.	Apply digital literacy skills to evaluate the legitimacy, credibility, and reliability of online resources for academic study.  
+3.	Practice evaluative judgment to document your process of learning in complex domains of knowledge.  
+4.	Create a personalized narrative to document and express your learning process.  
+5.	Evaluate digital tools, platforms, and interactions based on ethical principles.  
+6.	Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
+7.	Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.  
+
 
 <!--
 
@@ -107,7 +117,7 @@ This course is about learning with technology. Digital literacies are closely li
 
 #### An open philosophy of inclusion {-}
 
-Learning in a digital age incorporates a wide range of online technologies and software applications. In this course we want to promote free and open source software because we believe that no learner should be denied access to learning for lack of funds to purchase a proprietary software license.  Nor do we believe that you should be forced to sacrifice your freedoms in software choice.
+Learning with Technology incorporates a wide range of online technologies and software applications. In this course we want to promote free and open source software because we believe that no learner should be denied access to learning for lack of funds to purchase a proprietary software license.  Nor do we believe that you should be forced to sacrifice your freedoms in software choice.
 
 The course resources and interaction technologies are based entirely on free and open source software and you will be able to complete all the learning activities using open source applications without the need to purchase any software. You are free to use proprietary technology applications of your choice, but you can also use this course to explore and experiment with open technology.
 
@@ -122,7 +132,7 @@ The following table provides a summary of the main technologies used in this cou
 | Social network       | We use Discourse, a free, open source social network which is hosted at <https://twu.discourse.group/> (bookmark this page).                                                                                                                                                                                                                                                                                  |
 | Course forums        | Course forums are used for discussions. The [LDRS101 forums](https://twu.discourse.group/c/ldrs101/10) are hosted on [Discourse](https://twu.discourse.group/c/ldrs101/10).                                                                                                                                                                                                                                                                               |
 | Web site annotations | We use [Hypothes.is](https://hypothes.is/), an open source web-service that enables users to annotate, discuss and share reflections on web site pages on the Internet. (**Requires separate account registration**)                                                                                                                                                                                                                                      |
-| Course blog          | The course blog is used to share the outputs of your learning. Learners are invited to establish their own **personal course blog**, for example [WordPress.com](https://wordpress.com/) or [Blogger.com](https://www.blogger.com/). In this way you will retain control over your own data even when the course is finished. (**Requires separate account registration**)                                                                                |
+| Course blog          | The course blog is used to share the outputs of your learning. Learners are invited to establish their own **personal course blog**, for example [WordPress.com](https://wordpress.com/) or [Blogger.com](https://www.blogger.com/). In this way you will retain control over your own data even when the course is finished. (**Requires separate account registration**) We recommend WordPress as this tool is supported by TWU.                                                                               |
 | Zoom                 | Zoom is a communications platform that allows you to connect via video, audio, phone, or chat. Note the GX Live sessions may use Zoom for the Learning Lab sessions. GX Prime students are encouraged to take advantage of the Learning Hub, which will have weekly Zoom meetings as well. (**Requires separate account registration**)                                                                                                                   |
 
 <!--
