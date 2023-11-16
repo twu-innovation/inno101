@@ -1,6 +1,6 @@
 # References {-}
 
-The following are key references used in this course.  ***Check with your course syllabus for required readings.***
+The following are key references used in this course.  
 
 
 

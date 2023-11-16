@@ -10,7 +10,7 @@ Welcome to Unit 1 of Learning with Technology! This course will introduce you to
 
 There will be two primary branches of the course and the tools that we will show you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your 'ownership' over your work.
 
-During this first week, there will be both theoretical and practical work for you to do. In order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalites to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
+In this first unit, there will be both theoretical and practical work for you to do. In order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalites to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
 
 ### Topics {-}
 
@@ -80,6 +80,7 @@ You will be directed to complete these activities as they come.
 <span class="blockhead">Assessment</span>
 
 - **Assignment 1: Learning Journal** - submit after you have completed Units 1-3.
+
 *See the Assessment section in Moodle for assignment details.*
 
 
@@ -133,14 +134,27 @@ You are strongly encouraged to complete them.
 
 ## Understanding the Digital
 
-We begin Unit 1 with an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. It is deeper than that, though, as the COVID-19 pandemic led to many jurisdictions relying on mobile phones for allowing people to confirm their vaccination status in order to access restaurants or other public venues in the midst of restrictions creating barriers for those who don't have mobile phones. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology. 
+We begin Unit 1 with an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology. 
+
+
+
+<!--
+rewrote this:
+
+"It is deeper than that, though, as the COVID-19 pandemic led to many jurisdictions relying on mobile phones for allowing people to confirm their vaccination status in order to access restaurants or other public venues in the midst of restrictions creating barriers for those who don't have mobile phones."
+
+to this: The COVID-19 pandemic underscored this digital impact, with mobile phones becoming crucial for verifying vaccination status and accessing public spaces, which created barriers for those who don't have mobile phones. 
+
+Then I deleted it.  Do we need this reference to covid times?  It could be a trigger for so many.
+
+-->
 
 Modern universities are also deeply impacted by *the digital*. Every system involved in higher education has been digitized in some manner, including recruitment, accounting, and fundraising.  As you begin your university career, here are some digital systems you will likely encounter: 
 
 - courses are designed and often delivered digitally, 
 - course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE) (e.g. Moodle), 
 - assignments must often be created digitally (word processors, presentation software, video editors, website builders),
-- research data is gathered, stored, analyzed, and shared digitally
+- research data is gathered, stored, analyzed, and shared digitally.
 
 There are many other processes and procedures that rely on *the digital* in higher education, but the important thing for you to realize as you begin your higher education journey is that there are many tools that you will be required to learn and use throughout your journey. Some are more obvious, like word processors, presentation software, email, the library website, and LMSs, but some are less obvious and won't necessarily be taught specifically, other than in this course.
 
@@ -159,7 +173,7 @@ Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, w
 
 
 > ::: {.definition name="Digital Literacy" #diglit}
-Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. From [B.C.’s Post-Secondary Digital Learning Strategy](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/digital_learning_strategy.pdf)
+Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. From [B.C.’s Post-Secondary Digital Learning Strategy](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/digital_learning_strategy.pdf){target="_blank”}
 :::
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to 'read'. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
@@ -169,15 +183,21 @@ Literacy, as we commonly understand it, is the ability to *understand* the meani
 >“In today’s world, being literate requires much, much more than the traditional literacy of yesterday.”
 >—Rebecca Alber
 
-Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In this signpost you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
+What digital tools do you use to help you make meaning?  What is your "go-to" app for note-taking, organizing files, tracking references, and connecting ideas?  One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app.  Before you go through the instructions in the activity below, watch the following video [This is Obsidian](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank”}
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d2FNqEDGc8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
 
 ### Activity: Getting Started with Obsidian {-}
 
 ```{block2, type='reflect'}
 
-<span class="blockhead">Install Obsidian</span>
-
-Obsidian is a free note-taking and mind-mapping app.
+Follow the steps below to install Obsidian on your computer.
 
 1. Go to [obsidian.md](https://obsidian.md/download){target="_blank"} and [follow these instructions to install Obsidian on your computer.](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian){target="_blank"}
     - It is recommended that you use a computer, rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.
@@ -185,6 +205,8 @@ Obsidian is a free note-taking and mind-mapping app.
 2. Work through the **Getting Started** section of the Obsidian help pages starting with **[Create a vault](https://help.obsidian.md/Getting+started/Create+a+vault){target="_blank"}**.
     - When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
 3. It is recommended that you [use one of the sync services listed here](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices){target="_blank"} so that your files are backed up.   
+
+If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Hub](https://twu.discourse.group/c/ldrs101/10){target="_blank"}.  There are also several tutorials and videos online, so you are encouraged to seek out these resources.  One example is [Obsidian for Beginners: Start HERE — How to Use the Obsidian App for Notes](https://www.youtube.com/watch?v=QgbLb6QCK88){target="_blank"}.  The first minute shows how to set up Obsidian...and if you'd like a sneak peek at the amazing features this tool has to offer, watch on!  We'll get to these additional uses of Obsidian later in the course.
 
 ```
 
@@ -209,11 +231,17 @@ To give you a head start, we have created a **starter vault** for you to downloa
 7. Once you are in the vault, feel free to take a look around. You will notice a `HOME` page, a `Tools` folder with some files in it, and a `VR Diagram Canvas`.
 
 
+
 ```
+
+Now that you have a place to record your course notes, let's jump back into the discussion about digital literacy.  Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In the activity below you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
+
 
 ### Activity: Reflection on the 21st Century Learner {-}
 
 ```{block2, type='reflect'}
+
+Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In this signpost you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
 
 The following video, published by the MacArthur Foundation, questions how digital media are changing the way young people learn, play, socialize, and participate in civic life. John Seely Brown a researcher with particular interests in radical innovation and digital culture suggests that today’s gaming oriented children want to be measured and feel that if they are not learning, it is not fun. How does this relate to how you feel about learning?
 
@@ -274,11 +302,11 @@ The essential argument is that certain generations have changed in that they hav
 <a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but that does not mean that those people are more able to learn technology than older people or that they have an innate ability to do so. Have you ever asked a 1st-year university student to use a spreadsheet to create a budget or a gradebook with embedded formulae? It is more likely than not, that you will encounter a distinct lack of skill in completing this task.
+Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but this doesn't imply a superior aptitude for learning technology compared to older generations or an inherent proficiency in doing so. For example, are most 1st-year university students proficient in using a spreadsheet to create a budget? If they have practiced creating a budget, it's more likely they use an app than a spreadsheet.
 
-I'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a *visitor* in some web spaces and a *resident* in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
+We'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a *visitor* in some web spaces and a *resident* in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
 
-Alternately, there are places and spaces on the web, where *you* reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or Twitter, or maybe it's a listserv you subscribed to back in the 90s, or your blog, or someone else's blog or social site. The important distinction is that these are places where you connect with other people; where you are socially *present*.
+Alternately, there are places and spaces on the web, where *you* reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or X (formerly Twitter), or maybe it's a blog, or social site. The important distinction is that these are places where you connect with other people; where you are socially *present*.
 
 At the same time, if we can imagine the visitor <--> resident continuum on a horizontal axis, there is also a personal <--> professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
 
@@ -295,6 +323,14 @@ The video below explains a process to help you think about where you reside on t
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sPOG3iThmRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 </div>
+
+<span class="blockhead">Questions to Consider</span>
+
+- What surprised you as you watched the video?
+- How can you apply the concepts presented to your experience in learning with technology?
+
+Feel free to jot down your notes in Obsidian.
+
 
 ```
 
