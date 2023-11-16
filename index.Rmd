@@ -1,5 +1,5 @@
 ---
-title: "Leadership 101"
+title: "LDRS 101: Learning with Technology"
 author: "Course Developed by Colin Madland & Kelly Marjanovic"
 date: "Last updated `r format(Sys.time(), '%b %Y')`"
 site: bookdown::bookdown_site

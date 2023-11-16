@@ -1,5 +1,5 @@
 ---
-title: "Leadership 101"
+title: "LDRS 101: Learning with Technology"
 author: "Course Developed by Colin Madland & Kelly Marjanovic"
 date: "Last updated `r format(Sys.time(), '%b %Y')`"
 site: bookdown::bookdown_site
@@ -450,9 +450,7 @@ Now that you have a place to record your course notes, let's jump back into the 
 
 ### Activity: Reflection on the 21st Century Learner {-}
 
-```{block2, type='reflect'}
-
-Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In this signpost you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
+```{block2, type='reflect'} 
 
 The following video, published by the MacArthur Foundation, questions how digital media are changing the way young people learn, play, socialize, and participate in civic life. John Seely Brown a researcher with particular interests in radical innovation and digital culture suggests that today’s gaming oriented children want to be measured and feel that if they are not learning, it is not fun. How does this relate to how you feel about learning?
 
@@ -484,9 +482,9 @@ Notice that tags start with a hashtag and contain no spaces. Separate words with
 
 ### Visitors and Residents
 
-One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*. To complete this activity, you will need to do a little bit of setup, as follows.
+One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*. To complete this activity, we'll first discuss some key concepts.
 
-Have you heard of the terms 'digital natives' and 'digital immigrants'?
+Have you encountered the terms 'digital natives' and 'digital immigrants'?  What are your initial thoughts on their definitions?
 
 <!--
 
@@ -503,7 +501,7 @@ also changing *kids these days* below and "those of us whose formative years pre
 
 ```{block2, type='caution'}
 
- **Note:**  [Marc Prensky](https://marcprensky.com/), who proposed this idea, is the one who thought it would be a good idea to refer to people as 'natives'. We recognize that this term should not be used to talk about people.
+ **Note:**  [Marc Prensky](https://marcprensky.com/) coined the terms 'digital natives' and 'digital immigrants'. We recognize that the term 'native' should not be used to talk about people.
 
 ```
 
@@ -513,7 +511,7 @@ The essential argument is that certain generations have changed in that they hav
 <a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but this doesn't imply a superior aptitude for learning technology compared to older generations or an inherent proficiency in doing so. For example, are most 1st-year university students proficient in using a spreadsheet to create a budget? If they have practiced creating a budget, it's more likely they use an app than a spreadsheet.
+Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but this doesn't imply a superior aptitude for learning technology compared to older generations or an inherent proficiency in doing so. For example, are most 1st-year university students proficient in using a spreadsheet to create a budget? If they have created a budget, it's more likely they use an app than a spreadsheet.
 
 We'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a *visitor* in some web spaces and a *resident* in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
 
@@ -544,30 +542,54 @@ Feel free to jot down your notes in Obsidian.
 
 
 ```
+Now to the task of creating your own *Visitors and Residents Diagram*.
 
+See the VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. Or perhaps your VR diagram has a plethora of tools you use regularly.  The key idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about which tools you may have tried or are interested in pursuing.  From there, we can begin to plan for tools we can use that afford us the opportunity to reside there.
+
+<!--
+
+original text:
 I've shared my VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. The main thing I would like to communicate with this idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about where your learners reside on the web. From there, we can begin to plan for tools we can use that afford us and our learners the opportunity to reside there.
+
+@cmadland- this last part should be rewritten.  What's the purpose in this diagram for 1st year students?  We need more explicit connections to why this map is important and what it could mean for them starting out at TWU.
+
+
+-->
+
+
 
 ![Visitor-Resident Diagram](assets/u1/vr-diagram-2.png)
 
 It is certainly notable that I am very much a visitor in Moodle! This does not mean that I don't spend much time there, I spend a significant portion of every day working in Moodle, rather, the work that I do there leaves very little trace of my personality. You will (hopefully) see Moodle as much more of a place where you reside. But this foregrounds the question of whether Moodle is actually designed to promote residencies. Certainly the forums allow for users to project their persona into the system, as do a few of the other features, but the system itself is very heavily templated. There are profiles that can be edited, but users are limited to one very tiny image and virtually no opportunity to determine for themselves what they want to share. There is little room for customization, and every time a course ends, every single user must recreate their persona in a new course site (or five).
 
+
+For many university students, a Learning Management System (LMS) like Moodle is a perfectly reasonable place to reside and they feel comfortable accessing course materials, finding their grades, communicating with classmates, etc. And just like our physical homes, the quality of the community that lives there isn't determined by the features of the house itself, but by the people who share the space and how they structure their time and interactions.
+
+<!--
+
+original text:
 For many, or most, of you, Moodle is a perfectly reasonable place to reside and you are able to make learners feel at home there. We encourage that. And just like our physical homes, the quality of the community that lives there isn't determined by the features of the house itself, but by the people who share the space and how they structure their time and interactions.
 
+deleting - focused on facilitators
 If you don't already, I encourage you to subscribe to this excellent podcast called *Teaching in Higher Ed* by [Bonni Stachowiak](https://twitter.com/bonni208), or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
 
 <a class="embedly-card" data-card-controls="0" href="https://teachinginhighered.com/podcast/digital-visitors-and-residents/">Digital Visitors and Residents, with David White - Teaching in Higher Ed</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+deleting - focused on facilitators
 
 Read the following blog post which I believe provides a fitting summary of this particular unit.
 
 <a class="embedly-card" data-card-controls="0" href="https://www.seanmichaelmorris.com/technology-is-not-pedagogy/">Technology is not Pedagogy</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+-->
+
 ### Activity: Visitor and Resident Diagram {-}
 
 ```{block2, type='reflect'}
 
-I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with learners. Do the tools you use fall on the visitor or the resident end of your continuum? What about the learners in your classes?
+I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with each other. Do the tools you use fall on the visitor or the resident end of your continuum? How do these tools impact your learning?
 
 
 - **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171)  
@@ -575,6 +597,13 @@ I hope this activity will help you think about how the tools we use shape and so
 
 
 ```
+
+```{block, type='feedback'}
+***Note***  
+This VR diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.
+
+```
+
 
 <!--
 ***Feel free to answer the questions above in your notes or Reflective Learning Journal***. 
@@ -722,6 +751,7 @@ Feel free to add components to the template.
 
 ```{block2, type='reflect'}
 
+In this activity you will be asked to write a reflective journal entry in Obsidian on the topic of Digital Literacy. 
 
 Prior to completing this activity, please watch the following video on how to write reflectively. Keep in mind that you are not writing an essay for these reflective notes, but the 5Rs will help guide you to creating robust reflective writing.
 
