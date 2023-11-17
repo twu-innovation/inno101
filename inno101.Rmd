@@ -249,15 +249,11 @@ When you have completed this unit, you should be able to:
 
 - Describe your engagement with digital technology  
 - Apply digital tools to support learning in an academic environment  
-- Explain what digital literacies mean for you in an academic and professional context  
-- Examine your digital footprint  
-- Build your professional online biography  
+- Explain what digital literacy means to you  
 - Examine privacy concerns related to various platforms and tools  
 - Describe how to protect yourself and others in the digital environment.  
-<!--
-@cmadland these last 4 outcomes - we switch to unit 4, correct?
+- Identify the literacies you plan to improve and what steps you will take to achieve your goals.
 
--->
 
 
 ### Activity Checklist {-}
@@ -394,7 +390,7 @@ Literacy, as we commonly understand it, is the ability to *understand* the meani
 >“In today’s world, being literate requires much, much more than the traditional literacy of yesterday.”
 >—Rebecca Alber
 
-What digital tools do you use to help you make meaning?  What is your "go-to" app for note-taking, organizing files, tracking references, and connecting ideas?  One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app.  Before you go through the instructions in the activity below, watch the following video [This is Obsidian](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank”}
+What digital tools do you use to help you make meaning?  What is your "go-to" app for note-taking, organizing files, tracking references, and connecting ideas?  One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app.  Before you go through the instructions in the activity below, watch the following video [This is Obsidian](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank”}.
 
 
 <div class ="video-container">
@@ -478,7 +474,101 @@ Notice that tags start with a hashtag and contain no spaces. Separate words with
 
 ```
 
+Let's dive a little deeper into this topic of digital literacy.  What is it?  How would you define digital literacy?
 
+In the next activity, you will start to unpack this term and prepare your own initial definition of digital literacy.
+
+### Activity: Definining Digital Literacy {-}
+
+```{block2, type='reflect'}
+
+Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference.  Follow the steps below and feel free to jot down some notes in your Obsidian journal.
+
+1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} – Is this a good description?
+1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03){target="_blank"} hashtag on X (Twitter) – Did you find any valuable links to defining digital literacy?
+1. Conduct a Google search for “digital literacy.” Select a few definitions you like and record the urls, for example by adding these to your browser bookmarks.
+1. Conduct a Google search for “digital skills.” Select one or two definitions you like and record the urls.
+1. Conduct a Google search for “digital fluency” Select one or two definitions.
+1. What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?
+1. Read: [What is digital literacy?](http://pomo.com.au/blog/digital-literacy/){target="_blank"} published by POMO – Is this a reliable source?
+1. How would you rate the academic quality of the definitions you found (e.g. low / high quality)?
+1. What did you discover? Share your thoughts and experiences by posting on the LDRS 101 Discourse chat.  For example:
+
+- The major difference between digital skills and literacies is …
+- I didn’t realise that …
+- For me, digital literacy means …”
+
+
+```
+
+
+### Activity: Forum – Why digital literacy matters {-}
+
+```{block2, type='reflect'}
+
+A key component of digital literacy and networked learning relates to the ability to engage meaningfully in online learning communities.
+
+This learning activity will provide you with another opportunity to connect with your peers in Discourse and contribute to online learning discussions.
+
+Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
+
+Watch: [Digital literacy and why it matters](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p2k3C-iB88w?si=qEFFGcjTJi20t6Ll" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+Next, go to the LDRS 101 section in Discourse.  Post a contribution to the discussion on digital literacies and why they are important for you  
+Try to post one or two replies to interesting contributions (You should also “like” good contributions, use @username when replying, and if appropriate quote a reply when responding.)  
+
+```
+
+### Digital Literacies & Skills {-}
+
+Digital literacies for academic learning involves more than Facebook, Snapchat or X (Twitter) and the associated technical skills in using these technologies. 
+
+As you explore the concept, you will find online resources which confuse digital skills with digital literacies. The activities which follow aim to provide an initial introduction to the wide range of digital literacies associated with academic learning. We will explore the concept of digital literacies in greater depth as we progress with the course. When exploring these online resources, we encourage you to differentiate between skills and literacies and to develop a critical disposition. Digtial literacies involve issues, norms, and habits of mind surrounding technologies used for a particular purpose. However, these literacies are closely related to technical proficiency in using a range of digital applications.  
+
+### Activity: What Are Digital Literacies? {-}
+
+```{block2, type='reflect'}
+
+Watch educator and researcher Doug Belsahw as he discusses his digital literacies framework: [The essential elements of digital literacies](https://www.youtube.com/watch?v=A8yQPoTcZ78)
+
+Take a look at the graphic below.  Do you agree that these are the key literacies you need in today's workplace?  What would you add?
+<a title="The 8 Essential Elements of Digital Literacies #digilit" href="https://flickr.com/photos/aaron_davis/21332179175"><img src="https://live.staticflickr.com/5738/21332179175_c5dab9d75c.jpg" alt="The 8 Essential Elements of Digital Literacies #digilit" /></a><br /><small><a title="The 8 Essential Elements of Digital Literacies #digilit" href="https://flickr.com/photos/aaron_davis/21332179175">The 8 Essential Elements of Digital Literacies #digilit</a> flickr photo by <a href="https://flickr.com/people/aaron_davis">mrkrndvs</a> shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a></small>
+
+Conduct a quick Google search for "digital literacies" and throw in terms such as "essential", "top", "21st century".  What other literacies or skills are emphasized?  What would your list be for digital literacies that are important for you?
+
+```
+
+
+### Activity: Am I Digitally Literate? {-}
+
+```{block2, type='reflect'}
+
+Digital literacies encompasses a wide range of capabilities which extend beyond the digital skills associated with different technologies.
+
+1. Consider the digital literacies you identified from the previous activity.  
+1. Jot down one or more technologies or tools you would recommend for each of the skills and assess your competence in using each particular technology/tool (e.g. below average, average, above average and excellent).  
+1. Next, use your searching skills to discover online tests for assessing your digital literacies (Don’t spend more than 15 to 20 minutes on the self-assessment activity).  
+   - Conduct a Google search using: “digital literacy self-assessment”  
+   - Choose a link to conduct a self-assessment of your digital literacy.  
+   - **Alternatively, you can choose from these resources:**  
+   - Take the [Digital Literacy Self-Assessment](https://supportedemployment.ca/training-and-events/certificate-programs/digital-literacy/digital-literacy-self-assessment/) from the Canadian Association for Supported Employment**or**  
+   - Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/) from the Digital Literacy Guide.
+   - Explore the What is digital literacy? page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php) developed by the University of Southampton.  
+
+<span class="blockhead">Questions to consider</span>
+
+- Did the self-assessment you chose focus on digital skills or digital literacies?
+- What did you learn from this exercise?
+- Share your thoughts by posting on Discourse:
+
+
+```
 
 ### Visitors and Residents
 
@@ -606,33 +696,6 @@ This VR diagram can be used to demonstrate your understanding of the course lear
 
 
 <!--
-***Feel free to answer the questions above in your notes or Reflective Learning Journal***. 
-
-<span class="blockhead">Introduction to the Reflective Journaling</span>
-
-A reflective journal is simply a record of your thoughts. It is a reflection of the way you think and the manner in which you respond to your learning.  Journals can consist of traditional note taking, mind maps, pictures, stream-of-consciousness writing, recordings, quotes, sketches, or drawings: whatever you choose to include. Experiment and have fun. The purpose of journaling is to make you an active participant in your learning experiences as you engage in the various activities throughout the course’s readings, activities, and discussions with your instructor and your fellow students. Reflecting upon these learning events will help you gain a deeper understanding of the course materials and help integrate your learning into applied practice in your everyday life and work. Throughout the course, we will remind you to write in your journal, as we want to be sure you are actively learning the material. To assist you, we have provided you with questions you can ask yourself in order to get your creative energies flowing. Reflective journaling is an activity you can and should complete on a regular or daily basis, even outside of our scheduled course activities. 
-
-<details>
-<summary>**Common Questions Used for Reflective Journaling** - Click to expand</summary> 
-
-- In your view, what were the most important points in the readings, videoclips, or discussions with your peers?  
-- What information did you already know?  
-- What new knowledge, ideas, or perspectives have you gained?  
-- What information was easy to remember or learn? Why?  
-- What concepts did you find more difficult? Why?  
-- How can you apply this knowledge to your work or current experience?  
-- How has this knowledge helped you to make sense of your current or previous experience?  
-- Has your understanding of a personal or work-related situation changed after studying these concepts?  
-- Did you agree or disagree with any of the material? If yes, how did you react and why?  
-- If you could have the opportunity to engage in further learning, what would it be?  
-- What further questions would like to ask the author of your readings?  
-- What other articles, books or discussions would be of interest?  
-
-*For any journal assignments in your courses, please refer to the specific questions and/or grading 
-criteria to help you in your writing.* 
-
-</details>
-<br />
 
 
 ```
@@ -747,22 +810,61 @@ Feel free to add components to the template.
 ```
 
 
+### Activity: Introduction to the Reflective Journaling {-}
+
+```{block2, type='reflect'}
+
+For the final activity of Unit 1 you will be asked to write a reflective journal entry in Obsidian on the topic of Digital Literacy. This entry relates to Assignment 1: Learning Journal.
+
+Prior to completing this activity, let's discuss the practice of writing in a Reflective Journal.  
+
+A reflective journal is simply a record of your thoughts. It is a reflection of the way you think and the manner in which you respond to your learning.  Journals can consist of traditional note taking, mind maps, pictures, stream-of-consciousness writing, recordings, quotes, sketches, or drawings: whatever you choose to include. Experiment and have fun. The purpose of journaling is to make you an active participant in your learning experiences as you engage in the various activities throughout the course’s readings, activities, and discussions. Reflecting upon these learning events will help you gain a deeper understanding of the course materials and help integrate your learning into applied practice in your everyday life and work. Throughout the course, we will remind you to write in your journal, as we want to be sure you are actively learning the material. To assist you, we have provided you with questions you can ask yourself in order to get your creative energies flowing. Reflective journaling is an activity you can and should complete on a regular or daily basis, even beyond the prompting in course activities. 
+
+Watch the following video on how to write reflectively: [Reflective Writing](https://www.youtube.com/watch?v=QoI67VeE3ds){target="_blank"}
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QoI67VeE3ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+As you continue your studies with TWU, you will likely be asked to write in a Reflective Journal, or submit a Reflective Essay.  Here are some common questions used for Reflective Journaling.  As you read them, consider what you have learned in this first unit.
+
+- In your view, what were the most important points in the readings or activities?  
+- What information did you already know?  What skills did you already have?
+- What new knowledge, skills, or perspectives have you gained?  
+- What information was easy to remember or learn? Why?  
+- What concepts or skills did you find more difficult? Why?  
+- How can you apply this knowledge to your studies or future career?  
+- How has this knowledge helped you to make sense of your current or previous experience?  
+- Has your understanding of a personal or work-related situation changed after studying these concepts?  
+- Did you agree or disagree with any of the material? If yes, how did you react and why?  
+- If you could have the opportunity to engage in further learning, what would it be?  
+- What further questions would like to ask about the concepts presented in this unit?  
+- What other concepts, resources or discussions would be of interest?  
+
+```
+
+<!--
+
+@cmadland I replaced the video, as it seemed a bit long and couldn't hold my attention.  There's another video on Reflective Writing I use in unit 5: https://twu-innovation.github.io/inno101/building-a-network-of-people.html#part-1-written-reflection.  Should we use that here? 
+
+
+please watch the following video on how to write reflectively. Keep in mind that you are not writing an essay for these reflective notes, but the 5Rs will help guide you to creating robust reflective writing.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/whKSAKSMFs8?si=uq8v9HnkEOqe2QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+-->
+
 ### Activity: Digital Literacies for Online Learning {-}
 
 ```{block2, type='reflect'}
 
-In this activity you will be asked to write a reflective journal entry in Obsidian on the topic of Digital Literacy. 
+In this activity you are asked to write a reflective journal entry on the topic of Digital Literacy. 
 
-Prior to completing this activity, please watch the following video on how to write reflectively. Keep in mind that you are not writing an essay for these reflective notes, but the 5Rs will help guide you to creating robust reflective writing.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/whKSAKSMFs8?si=uq8v9HnkEOqe2QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+First, let's get you set up in Obsidian. 
 
 Click the little calendar icon in the sidebar of Obsidian to 'Open today's daily note'.
 
 ![Screenshot of the Daily note icon in Obsidian.](assets/u1/obsidian1.png)
 
-Respond to the following prompts
+Next, respond to the following prompts:
 
 - Your personal definition of digital literacies justified from your reading of the literature (about 100 to 150 words)
 - Describe what digital literacies mean for you in a sentence.
@@ -773,11 +875,16 @@ Respond to the following prompts
 
 ```
 
+```{block, type='feedback'}
+***Note***  
+This journal entry can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.
+
+```
 
 
 ## Summary {-}
 
-In this first unit, you have had the opportunity to learn about some of the impacts of *the digital* on your life; you've started to build an academic knowledge management workflow, and how to protect yourself in digital and online contexts.
+In this first unit, you have had the opportunity to learn about some of the impacts of *the digital* on your life; you've started to build an academic knowledge management workflow, and how to protect yourself in digital and online contexts. 
 
 
 
@@ -790,205 +897,14 @@ Before you move on to the next unit, check that you are able to:
 
 - Describe your engagement with digital technology  
 - Apply digital tools to support learning in an academic environment  
-- Explain what digital literacies mean for you in a tertiary education context  
-- Examine your digital footprint  
-- Build your professional online biography  
+- Explain what digital literacy means to you  
 - Examine privacy concerns related to various platforms and tools  
-- Describe how to protect yourself, other students and colleagues, to stay safe in the digital environment.  
+- Describe how to protect yourself and others in the digital environment.  
+- Identify the literacies you plan to improve and what steps you will take to achieve your goals.
 
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-<!--
-## Digital Privacy and Safety
-
-In this unit we've started discussing 'the digital', you have started a blog (part of your PLN), and you've examined your own digital identity.  In our final topic, we want to begin to think and write about how to keep yourself and your information safe in digital learning environments.
-
-So, what is digital literacy?  In the next activity, you will start to unpack this term and prepare your own initial definition of digital literacy.
-
-### Activity: Definining Digital Literacy {-}
-
-```{block2, type='reflect'}
-
-Purpose: Search for definitions of digital literacy and digital skills on the web to identify the difference.
-
-1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} – Is this a good description?
-1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03){target="_blank"} hashtag on X (Twitter) – Did you find any valuable links to defining digital literacy?
-1. Conduct a Google search for “digital literacy.” Select a few definitions you like and record the urls, for example by adding these to your browser bookmarks.
-1. Conduct a Google search for “digital skills.” Select one or two definitions you like and record the urls.
-1. Conduct a Google search for “digital fluency” Select one or two definitions.
-1. What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?
-1. Read: [What is digital literacy?](http://pomo.com.au/blog/digital-literacy/){target="_blank"} published by POMO – Is this a reliable source?
-1. How would you rate the academic quality of the definitions you found (e.g. low / high quality)?
-1. What did you discover? Share your thoughts and experiences by posting on the LDRS101 Discourse channel.  For example:
-
-- The major difference between digital skills and literacies is …
-- I didn’t realise that …
-- For me, digital literacy means …”
-
-Note: Your comment will be displayed in the course feed.
-
-```
-
-
-### Digital skills versus literacies
-
-“Saying that any digital tool teaches us digital literacies is like saying a pen or a keyboard teaches us writing.”
-—Maha Bali
-@Bali_Maha
-
-
-"Digital literacies are not solely about technical proficiency but about the issues, norms, and habits of mind surrounding technologies used for a particular purpose.”
-—Doug Belshaw, Educational researcher
-
-
-
-### Activity: Digital skills versus literacies {-}
-
-```{block2, type='reflect'}
-
-In this activity, we will review an article on the difference between digital skills and digital literacies using Hypothes.is – an online social annotation technology.
-
-
-Purpose
-Read an online article and annotate it using Hypothes.is.
-
-Tasks
-
-1. Read the Hypothes.is “Quick start guide for students”
-1. Create an account on Hypothes.is. Here is the registration link
-We recommend that you use the Chrome browser (download here) and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: How to use Hypothes.is on mobile devices.
-1. Read the following article: Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both
-1. Activate the annotations after logging in to Hypothes.is and click on the search icon () and enter the course code (LiDA101) to filter posts for this course from the public feed.
-1. Annotate or reply to posts by visiting the annotation page (You will need to be logged into the Hypothes.is site to post.)
-1. Remember to tag your posts using the course code: LDRS101 (The course tag is required to harvest posts for the course feed.)
-
-```
-
-
-
-### Activity: Researching a definition {-}
-
-```{block2, type='reflect'}
-
-
-This course is facilitated and enabled by resources that learners can access on the Internet. This involves the ability to search, evaluate, and select resources to support your learning. A key feature of a PLE is the ability to share useful and valuable information with your peers.
-
-In this activity, you will complete your first resource bank activity, where you are invited to search for additional resources to help you refine and develop your own definition of digital literacies, and to reflect on how this differs from definitions for digital skills. The resource bank activity builds on your initial search on the previous page by inviting you to share links to valuable resources you source on the Internet. The resource bank provides the technology to share these resources with our LDRS 101 learning community.
-
-The resource bank for this course is hosted on ...(Obsidian? Evernote? Moodle wiki? Google doc?) is an open source social bookmarking application which enables users to share and annotate links to resources they find on the web. It uses a tag system to group resources according to different topics. The tag system helps users to locate links to resources on the site using the same tag.
-
-The purpose of this activity is to find and select online definitions for digital literacies and digital skills, and to record and share these links using the OERu resource bank. This activity is designed to give you the opportunity to familiarise yourself with our shared resource bank, which is hosted on the bookmarks.oeru.org site. Note the format of the resource bank activity; in particular, scroll down to the footnote area at the bottom of this activity to see the required and recommended tags.
-
-Tasks
-
-**Search**
-1. Conduct a general Google search to find a few definitions for digital literacies and digital skills (narrow your search to three or four resources you find valuable for both concepts.)
-**Select**
-1. Select the best resource link for each concept – think about why you chose these links.
-**Create an account on bookmarks**
-1. Click on the register link on bookmarks.oeru.org
-1. The code you need for the anti-spam question is contained in the instructions for Session 1.
-1. For additional help in using bookmarks, consult the support site.
-**Record, annotate and tag your bookmarks**
-1. Log in to bookmarks.oeru.org and click on the “Add” link to record your best resource link describing digital literacies, and your best resource link for describing digital skills.
-1. Remember to add the required tags and suggested tags (see below in the footnote area).
-- Notes about tags: Tags should be lowercase without spaces. When adding more than one tag, these should be separated using commas. The lida101a2-1 refers to the first activity of the second learning pathway of the lida101 course.
-- Important: Remember to make your bookmark public (this is located next to the privacy section in the edit window when adding a bookmark).
-1. Include a short description summarising the link, including why you recommend the resource.
-**Explore the bookmark tags for digital literacy and digital skills**
-1. Click on the “Tags” link located at the top of the page at bookmarks.oeru.org.
-1. Search for resources tagged: digital literacy, or with the activity number: lida101a2-1 (Note, remember to select “all bookmarks” so that your search is not restricted to your own bookmarks.)
-1. Explore a few bookmarks which have been submitted by fellow learners. If you find a resource you like, vote for the resource by clicking on the “thumbs-up” graphic. Click on the “copy” link to add useful bookmarks to your personal bookmark account on bookmarks.oeru.org
-1. Search for resources tagged: digital skills (Remember to select “all bookmarks”).
-1. Explore a few bookmarks which have been submitted by fellow learners, and vote for those that you find useful.
-
-
-```
-
-### Activity: Forum – Why digital literacy matters {-}
-
-```{block2, type='reflect'}
-
-A key component of digital literacy and networked learning relates to the ability to engage meaningfully in online learning communities.
-
-This learning activity will provide you with the opportunity to familiarise yourself with the Moodle discussion boards that are common in TWU online learning discussions.
-
-Purpose of discussion activity:
-To reflect on the reasons why digital literacy matters to you, and to demonstrate your digital skills using a discussion forum.
-
-TWU online courses often use Moodle discussion forums as the main discussion platform for learners to engage in course conversations asyncrhonously. 
-
-- info re oeru forums - replace with Discourse?
-This is a community managed platform using the open source Discourse software. The system awards badges for a range of activities. Authentic activity increases the user’s trust levels which will enable more software features for participants as your trust levels increase over time. Therefore it’s a good time to get started in earning your first badges and improving your trust levels early in the course.
-
-Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
-
-(Watch: *Digital literacy and why it matters*)[https://www.youtube.com/watch?v=p2k3C-iB88w]{target="_blank"}
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p2k3C-iB88w?si=qEFFGcjTJi20t6Ll" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-**Steps**
-
-1. Log in to forums.oeru.org (Sign up to register a new account if your don’t already have one.)  
-1. Complete your profile page (Click on your user icon on the top right-hand side of your screen and select the settings cog).  
-1. Spend a few minutes to explore the badges you can earn on the discourse platform. (Click on the badge for details.) By the end of this learning pathway you should have attained the following badges:  
-   - Autobiographer  
-   - First-like  
-   - First mention  
-   - First quote  
-1. Post a contribution to the discussion on digital literacies and why they are important for you  
-1. Remember to post one or two replies to interesting contributions (You should also “like” good contributions, use @username when replying, and if appropriate quote a reply when responding.)  
-
-```
-
-### Assessment and scope of digital literacies {-}
-
-Digital literacies for academic learning involves more than Facebook, Snapchat or Twitter and the associated technical skills in using these technologies. 
-
-As you explore the concept, you will find online resources which confuse digital skills with digital literacies. The activities which follow aim to provide an initial introduction to the wide range of digital literacies associated with academic learning. We will explore the concept of digital literacies in greater depth as we progress with the course. When exploring these online resources, we encourage you to differentiate between skills and literacies and to develop a critical disposition. Digtial literacies involve issues, norms, and habits of mind surrounding technologies used for a particular purpose. However, these literacies are closely related to technical proficiency in using a range of digital applications
-
-### Activity: Am I Digitally Literate? {-}
-
-```{block2, type='reflect'}
-
-Digital literacies encompasses a wide range of capabilities which extend beyond the digital skills associated with different technologies.
-
-1. Study the graphic depicting the Seven elements of digital literacies (scroll down the page to view the graphic). (replace)  
-1. Jot down one or more technologies or tools you would recommend for each of the seven elements in the graphic and assess your competence in using each particular technology/tool (eg below average, average, above average and excellent).  
-1. Next, use your searching skills to discover the range and scope of digital literacies (Don’t spend more than 15 to 20 minutes on the self-assessment activity).  
-   - Conduct a Google search using: “digital literacy self-assessment”  
-   - Choose a link to conduct a self-assessment of your digital literacy.  
-   - **Alternatively, you can:**  
-   - Try the iTest developed by the University of Exeter **or**  
-   - Explore the What is digital literacy? page of the Digital Literacies Toolkit developed by the University of Southampton.  
-
-<span class="blockhead">Questions to consider</span>
-
-- Did the self-assessment you chose focus on digital skills or digital literacies?
-- What did you learn from this exercise?
-- Share your thoughts by posting on Discourse:
-
-**Note:** Your comment will be displayed in the course feed.
-
-```
-
--->
 
 <!--chapter:end:02-u1.Rmd-->
 
@@ -1228,6 +1144,9 @@ And here is an article you can read (for free) from the British organization Won
 
 
 
+[Reflective Writing](https://www.youtube.com/watch?v=QoI67VeE3ds)
+
+
 
 ## Summary {-}
 
@@ -1300,6 +1219,31 @@ You are strongly encouraged to complete them.
 
 
 ```
+
+
+
+### Activity: Digital skills versus literacies {-}
+
+```{block2, type='reflect'}
+
+In this activity, we will review an article on the difference between digital skills and digital literacies using Hypothes.is – an online social annotation technology.
+
+
+Purpose
+Read an online article and annotate it using Hypothes.is.
+
+Tasks
+
+1. Read the Hypothes.is “Quick start guide for students”
+1. Create an account on Hypothes.is. Here is the registration link
+We recommend that you use the Chrome browser (download here) and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: How to use Hypothes.is on mobile devices.
+1. Read the following article: Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both
+1. Activate the annotations after logging in to Hypothes.is and click on the search icon () and enter the course code (LiDA101) to filter posts for this course from the public feed.
+1. Annotate or reply to posts by visiting the annotation page (You will need to be logged into the Hypothes.is site to post.)
+1. Remember to tag your posts using the course code: LDRS101 (The course tag is required to harvest posts for the course feed.)
+
+```
+
 
 ```{block2, type='assessment'}
 

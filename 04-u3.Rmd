@@ -44,6 +44,31 @@ You are strongly encouraged to complete them.
 
 ```
 
+
+
+### Activity: Digital skills versus literacies {-}
+
+```{block2, type='reflect'}
+
+In this activity, we will review an article on the difference between digital skills and digital literacies using Hypothes.is – an online social annotation technology.
+
+
+Purpose
+Read an online article and annotate it using Hypothes.is.
+
+Tasks
+
+1. Read the Hypothes.is “Quick start guide for students”
+1. Create an account on Hypothes.is. Here is the registration link
+We recommend that you use the Chrome browser (download here) and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: How to use Hypothes.is on mobile devices.
+1. Read the following article: Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both
+1. Activate the annotations after logging in to Hypothes.is and click on the search icon () and enter the course code (LiDA101) to filter posts for this course from the public feed.
+1. Annotate or reply to posts by visiting the annotation page (You will need to be logged into the Hypothes.is site to post.)
+1. Remember to tag your posts using the course code: LDRS101 (The course tag is required to harvest posts for the course feed.)
+
+```
+
+
 ```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
