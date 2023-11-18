@@ -19,10 +19,11 @@ This unit is divided into the following topics:
 
 ### Learning Outcomes {-}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you should be able to demonstrate your ability to achieve the following course outcomes:
 
-- ...
-- ...
+- Build and customize technology-integrated workflows to enhance and enrich your learning journey.  
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge.  
+- Evaluate digital tools, platforms, and interactions based on ethical principles.  
  
 
 
@@ -43,6 +44,21 @@ You are strongly encouraged to complete them.
 
 
 ```
+
+## Sense-making Through Hyperlinks
+
+In higher education, your task as an undergraduate is to build on the skills you bring from high school and apply those skills in a much more focussed field of study. Previously, you might have been able to succeed in school by having a great memory, but increasingly in university, you will be asked to do much more. You will be required to understand the theoretical basis of ideas (analysis) and also make connections between ideas to create new ideas (synthesis). This may feel challenging at first, but you will learn.
+
+One of the challenges is that there is simply far too much information for you to analyze for any task that you might need to do for an instructor. In a previous unit, you learned some basic skills in finding and managing resources that you will need, and in this unit, you will learn some ways to begin to analyze and synthesize information and documents in a systematic way.
+
+If you learn this workflow well, and learn how to customize it to your needs (that's synthesis), you will be ahead of the game when it comes time to complete papers in other courses.
+
+The key to this component of your workflow is the lowly [hyperlink](https://en.wikipedia.org/wiki/Hyperlink). You likely know that if you click or tap on that highlighted word, you will be taken to another website, in this case, the wikipedia article on hyperlinks. That is a hyperlink and it is the most basic unit of the entire internet, which is simply a massive collection of documents all linked together. At it's most basic form, a hyperlink is simply a connection between two documents where a hyperlink in one document allows you to open the second document.
+
+In this workflow, instead of just linking two documents together, you will link two ideas together (by linking documents). Your Obsidian vault is essentially a website that is only accessible on your computer, and instead of links going to documents on other servers, you link to documents within the vault (although you can still link to the web).
+
+### Linking in Obsidian {-}
+
 
 
 

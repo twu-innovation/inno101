@@ -10,6 +10,7 @@ finding-and-selecting-resources
 citation-management
 openness-in-education
 connecting-ideas-for-learning
+sense-making-through-hyperlinks
 topic
 topic-1
 topic-2

@@ -201,6 +201,8 @@ Once you have installed Zotero, there are some plugins that will help you in you
 
 Now that you have Zotero ready to go, it's time to import your first references. Find the 'untitled.ris' file in your downloads folder and double-click it to open. You might have to confirm that you want to open with Zotero.
 
+Keep in mind that each journal system will name the downloaded file differently, but they should all end in .ris.
+
 ### Zotero and the Library {-}
 
 LitMaps is not the only way that you can connect to Zotero. You can also export items directly from a search in the library databases.
