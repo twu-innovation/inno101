@@ -978,7 +978,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ## Finding and Selecting Resources
 
-Throughout your university career, you will encounter tasks in your courses that will require you to produce some original writing. It is very important that you give yourself more time than you think you might need to complete these tasks. Good writing in university doesn't just happen. It takes work. You will find that a large amount of that work isn't actuaally writing at all, but reading. Then writing, and reading some more. Then re-writing, revising, editing, reading some more, and editing again.
+Throughout your university career, you will encounter tasks in your courses that will require you to produce some original writing. It is very important that you give yourself more time than you think you might need to complete these tasks. Good writing in university doesn't just happen. It takes work. You will find that a large amount of that work isn't actually writing at all, but reading. Then writing, and reading some more. Then re-writing, revising, editing, reading some more, and editing again.
 
 One of the most important tasks in all that, is finding the resources you need to read, making sure they are *academic* resources, copying down all the information about the resource, then making sure you can keep track of what you have found, read, and learned. This unit will help you build a workflow for doing just that. You need a workflow and a system, because there is far too much information available to you than you will ever be able to digest and read, let alone remember. It is impossible to memorize everything you need to know, so you need a way to manage your knowledge and resources.
 
@@ -1135,7 +1135,7 @@ From here on to the day you graduate with your BA, then your MA, and finally you
 
 ## Openness in Education
 
-We would like to introduce you to a value win education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
+We would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
 
 <iframe src="https://player.vimeo.com/video/557927481?h=726585dd92" width="640" height="512" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/557927481">Open Access Explained</a> from <a href="https://vimeo.com/user17299535">OER Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -1181,7 +1181,9 @@ Before you move on to the next unit, check that you are able to:
 
 ## Overview {-}
 
-...
+To avoid looking for the proverbial needle in a haystack, developing skills to use advanced search methods will save you time and help you find what you’re looking for. 
+
+This learning pathway focuses on using online search strategies to find, evaluate and select OER and Open Access resources to support your learning. Learners taking LiDA101 for academic credit will first need to choose a topic for study, an area of personal interest, to research in preparation for writing the analytical essay that you will submit as the assignment for this course.
 
 
 ### Topics {-}
@@ -1231,12 +1233,104 @@ One of the challenges is that there is simply far too much information for you t
 
 If you learn this workflow well, and learn how to customize it to your needs (that's synthesis), you will be ahead of the game when it comes time to complete papers in other courses.
 
-The key to this component of your workflow is the lowly [hyperlink](https://en.wikipedia.org/wiki/Hyperlink). You likely know that if you click or tap on that highlighted word, you will be taken to another website, in this case, the wikipedia article on hyperlinks. That is a hyperlink and it is the most basic unit of the entire internet, which is simply a massive collection of documents all linked together. At it's most basic form, a hyperlink is simply a connection between two documents where a hyperlink in one document allows you to open the second document.
+The key to this component of your workflow is the lowly [hyperlink](https://en.wikipedia.org/wiki/Hyperlink){target="_blank"}. You likely know that if you click or tap on that highlighted word, you will be taken to another website, in this case, the wikipedia article on hyperlinks. That is a hyperlink and it is the most basic unit of the entire internet, which is simply a massive collection of documents all linked together. At it's most basic form, a hyperlink is simply a connection between two documents where a hyperlink in one document allows you to open the second document.
 
 In this workflow, instead of just linking two documents together, you will link two ideas together (by linking documents). Your Obsidian vault is essentially a website that is only accessible on your computer, and instead of links going to documents on other servers, you link to documents within the vault (although you can still link to the web).
 
+
+<!--
+
+
 ### Linking in Obsidian {-}
 
+
+notes below from LIDA https://course.oeru.org/lida101/learning-pathways/learning-in-a-digital-age/reading-and-note-taking/
+-->
+
+## Note-Taking
+
+Listening and note-taking
+
+In this section we will listen and take notes from watching a video recording. The advantage of online video is that you can pause playback, or even increase the playback speed if you like. 
+
+Some learners prefer taking notes with pen and paper, but in this activity you will be required to use a note-taking application. You can, always use pen and paper to prepare your first draft before recording a digital text version of your notes. Most citation management tools provide note taking capabilities which you can associate with items stored in your library, however for the purposes of this activity you will directed to use Simplenote (an open source tool) because we will be using features of this tool for other course activities.
+
+### Activity: Listening & Note-taking {-}
+
+```{block2, type='reflect'}
+
+Read the following articles: 
+- [What’s the best, most effective way to take notes?](https://theconversation.com/whats-the-best-most-effective-way-to-take-notes-41961){target="_blank"} published by The Conversation.
+- [Effective listening and note taking](https://www.student.unsw.edu.au/note-taking-skills){target="_blank"} published by University of New South Wales.
+
+Next, watch [Should You Take Notes on Paper or on a Computer? - College Info Geek](https://www.youtube.com/watch?v=gsb-U8bZpig){target="_blank"}
+
+
+
+```
+
+### Activity: Open Video and Audio Lectures {-}
+
+```{block2, type='reflect'}
+
+Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests.
+
+- [Open culture](https://www.openculture.com/freeonlinecourses): Over 30,000 hourse of free audio and video lectures. 
+- [Open Yale courses](https://oyc.yale.edu/){target="_blank"}: Free and open access to a selection of introductory courses including video lectures from Yale University. 
+- [Open learning at Harvard](https://extension.harvard.edu/online-learning/){target="_blank"}: Series of video lectures from Harvard University. 
+- [MIT Opencourseware](https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum){target="_blank"}: Series of audio and video lectures from Massachusetts Institute of Technology. 
+- [Tedx talks](https://www.ted.com/){target="_blank"}: Extensive database of video presentations in the form of short, powerful talks. (See also [list of topics](https://www.ted.com/topics){target="_blank"}). 
+
+Using Obsidian, record your notes from the lecture.
+- The first line is used for the title of the note.  
+- Remember to include a link to the source of the information.  
+- Use tags  
+
+
+```
+
+
+Reading and note-taking 
+In this section, you will demonstrate your note-taking skills based on reading an academic publication. 
+
+The challenge which follows also incorporates digital skills associated with semantic content markup using the Markdown markup language. Semantic markup is an important digital skill which separates formatting (e.g. headings, bold, italics, lists etc.) from the content using designated characters without the use of rich text editors. This provides the capability to use plain text files that can be converted to formatted text online. Markdown is one of many markup protocols, and is used here to demonstrate the principles of semantic markup.
+
+### Activity: Reading & Note-taking {-}
+
+```{block2, type='reflect'}
+
+Read the following articles and take notes in Obsidian.  
+- [Effective note taking](https://www.student.unsw.edu.au/effective-reading-and-note-taking){target="_blank"} published by the University of New South Wales. 
+- [Reading for Understanding: The SQW3R Method](https://www.student.unsw.edu.au/reading-understanding){target="_blank"} published by the University of New South Wales. 
+- [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper){target="_blank"}
+
+Try using Markdown to format your text.
+- [Basic formatting syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax){target="_blank"} - Using Markdown in Obsidian
+
+```
+
+
+### Activity: Writing a Summary of your Readings {-}
+
+```{block2, type='reflect'}
+
+1. Search for a peer reviewed journal article in support of a research topic of interest.
+1. Remember to add the source to your citation management tool, Zotero.
+1. Prepare a summary of the journal article based on this example.
+1. Use the Markdown formatting in Obsidian. Your summary must at a minimum demonstrate the following text formats:
+ - Headings and subheadings
+ - Bold and italics
+ - Numbered or unordered list
+ - Labelled link
+ - Horizontal rule
+ - Block quote for one or more citations from the article
+
+1. Copy your summary prepared in Obsidian and paste this text summary into Zotero using the notes feature so that you have a copy for your personal library as backup.
+
+1. Reflect on your progress in practicing these digital skills.  Share you thoughts in your Reflective Journal and/or in Discourse.
+
+
+```
 
 
 

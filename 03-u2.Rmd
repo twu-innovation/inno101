@@ -68,7 +68,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ## Finding and Selecting Resources
 
-Throughout your university career, you will encounter tasks in your courses that will require you to produce some original writing. It is very important that you give yourself more time than you think you might need to complete these tasks. Good writing in university doesn't just happen. It takes work. You will find that a large amount of that work isn't actuaally writing at all, but reading. Then writing, and reading some more. Then re-writing, revising, editing, reading some more, and editing again.
+Throughout your university career, you will encounter tasks in your courses that will require you to produce some original writing. It is very important that you give yourself more time than you think you might need to complete these tasks. Good writing in university doesn't just happen. It takes work. You will find that a large amount of that work isn't actually writing at all, but reading. Then writing, and reading some more. Then re-writing, revising, editing, reading some more, and editing again.
 
 One of the most important tasks in all that, is finding the resources you need to read, making sure they are *academic* resources, copying down all the information about the resource, then making sure you can keep track of what you have found, read, and learned. This unit will help you build a workflow for doing just that. You need a workflow and a system, because there is far too much information available to you than you will ever be able to digest and read, let alone remember. It is impossible to memorize everything you need to know, so you need a way to manage your knowledge and resources.
 
@@ -225,7 +225,7 @@ From here on to the day you graduate with your BA, then your MA, and finally you
 
 ## Openness in Education
 
-We would like to introduce you to a value win education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
+We would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
 
 <iframe src="https://player.vimeo.com/video/557927481?h=726585dd92" width="640" height="512" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/557927481">Open Access Explained</a> from <a href="https://vimeo.com/user17299535">OER Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
