@@ -541,7 +541,7 @@ How might you connect, thrive, and serve through your connections and contributi
 
 What experiences have you had so far in connecting with your peers and getting to know the TWU community?  If you have not participated in the engagement opportunities presented in this course (Discourse, WordPress blog), take the time now to connect!
 
-Once you arrive in Canada, there are more opportunities to connect on campus and online. Watch [Get Connected](https://vimeo.com/584977176/f1938444cb).
+Once you arrive in Canada, there are more opportunities to connect on campus and online. Watch [Get Connected](https://vimeo.com/584977176/f1938444cb){target="_blank"}.
 
 <div class="video-container">
 
@@ -550,10 +550,10 @@ Once you arrive in Canada, there are more opportunities to connect on campus and
 </div>  
 
 **TWU on Social Media**
-Here are some other websites that share insights on the TWU community:  
-- [TWU Facebook page](facebook.com/trinitywestern)    
-- [X (Twitter)](twitter.com/trinitywestern)  
-- [Instagram](instagram.com/trinitywestern)  
+Here are some other websites you may want to check out for more about the TWU community:  
+- [TWU Facebook page](facebook.com/trinitywestern){target="_blank"}    
+- [X (Twitter)](twitter.com/trinitywestern){target="_blank"}  
+- [Instagram](instagram.com/trinitywestern){target="_blank"}  
 
 In your Reflective Journal (Obsidian) jot down your responses to the following questions:
 

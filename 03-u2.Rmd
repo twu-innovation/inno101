@@ -175,13 +175,122 @@ Choose 'RIS' in the dropdown, then click 'Download'.
 
 ![Screenshot of the Litmaps.com seed map](assets/u2/litmaps14.png)
 
+For more tutorials on using Litmaps, search online.  For example, The [Litmaps YouTube channel](https://www.youtube.com/@litmaps){target="_blank"} has some helpful videos.
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QTIZxc3BaGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+### Activity: Using Litmaps  {-}
+
+```{block2, type='reflect'}
+
+1. Choose a research topic that interests you.  Tip: Consider the course you are taking, or will take in the future. What key topics do you want to learn more about? Here are some other links that may help you decide: 
+ - [Choosing a Topic](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html) from Purdue University
+ - [Building Your Research Skills](https://libguides.twu.ca/ResearchSkills/Home) from the TWU Library.
+ - [How do I choose a research topic?](https://www.library.wisc.edu/college/research-help/how-do-i/how-do-i-choose-a-research-topic/) from University of Wisconsin-Madison
+ - Conduct a general Internet search for “Topical issues in Business” or “Topical issues in Higher Education” and scan whether any of these issues are of personal interest. 
+
+1. State your topic in the form of a question. For example:  
+ - How will robotics impact on the future of work?  
+ - What can businesses do to run successful loyalty programmes?  
+ - How can technology prepare learners for a future that is increasingly defined within the context of globalization and technology?  
+ - How will mobile technology impact on diagnosis and health care?  
+Review your draft research question taking into account:  
+ - *Personal interest*: Does the research question interest you?  
+ - *Suitability for academic investigation*: Some questions are not possible to answer through academic enquiry, for example “How beautiful is the colour orange?” Identify a few keywords related to your proposed research question and conduct a general search to determine if there is published and accessible research outputs related to your question.  
+ - *Attainability*: Make sure that your question can be answered taking the amount of time you have. For example, “How do we solve global disease?” is too broad. Whereas, “What is my neighbour’s favourite colour” is too narrow. You will be looking to target between 8 to 15 scholarly references to prepare an annotated bibliography, including books, journal articles and reputable web site references in support of your analytical essay.
+
+1. Use Litmaps to explore the literature on the topic of your choice.
+1. Take a screenshot of your Litmaps map and paste it to a journal entry in Obsidian.  Reflect on your use of this tool.  What was difficult to learn? How might you use this tool in your future studies?
+
+
+```
+
+
 ### Activity: The TWU Library {-}
 
 ```{block2, type='reflect'}
 
 Some of your best advocates on campus or online are the librarians who work at the Norma Marion Alloway Library in Langley. They are extremely knowledgable about finding things that are hard to find, so it is ALWAYS a good idea to talk to a librarian about what you are trying to do. They are literally paid to help you succeed! One of the ways they like to help is by creating what is known as a 'LibGuide', and I encourage you to [access their LibGuide on using the search feature on the library website.](https://libguides.twu.ca/LibraryOneSearch).
 
+Take 10 minutes to browse the [TWU Library](https://www.twu.ca/academics/library) website.  See if you can find the answer to the following questions: 
+1. Is it possible to borrow or download an e-book? 
+1. I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?  
+1. Do you have books in languages other than English?
+1. Do you have e-books?
+1. Can I Email a Trinity Western librarian anytime with my research questions?  
+1. What is AskAway? 
+1. What do I do if I have trouble logging in to library databases from off-campus?
+
 ```
+
+
+### Activity: Advanced Search {-}
+
+```{block2, type='reflect'}
+
+Improving search skills will save you time and result in more productive searches. Another tool we want to share is the Google search engine.  It provides a number of features to improve your searches in finding open access resources.
+In this activity, you will select two open resources using the Google advanced search operators in support of your research topic.
+
+1. Read the [Google advanced search operators cheat sheet](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/) and try a few searches using the operators. Also see [Google Search Cheatsheet](https://quickref.me/google-search.html) for a more comprehensive list.   
+1. Use the Google search operators (you enter these directly into the search text area) to:  
+ - Identify at least ten pdf documents which have Open Educational Resources in their titles. (Are they all accessible for download?)  
+ - Find a pdf version of the editorial entitled: Scholarship and literacies in a digital age (Who are the authors?).  
+ - Find the article with the following citation in text: the term digital literacies is contested with differing uses of the term revealing competing and even contradictory theoretical perspectives (Who is the author?)  
+1. Visit the [Google Advanced Search](https://www.google.com/advanced_search) web interface:  
+ - Conduct a search for digital literacies and scan the results
+ - Go back to the Google Advanced Search web interface and remove words from the search, for example “skills” or “school” and compare the results.
+ - Click on tools and find results for the date range 1 May 2020 to 1 May 2023
+ - Click on images and find versions which are licensed for reuse with modification (useful when sourcing images for your course blog with the necessary legal permissions for reuse).
+
+**Other Search Engines**:  
+- [Google Scholar](https://scholar.google.com/) is a good search engine to find scholarly publications. The downside is that Google Scholar does not distinguish between closed and open resources. However, search results which show a pdf next to the listing will probably provide access to a full text version.  
+- [Unpaywall](https://unpaywall.org/) is a free and legal way to identify authored-uploaded pdfs. There are extensions for the Chrome and Firefox open source browsers. Read the frequently asked questions for more information.  
+
+```
+
+### Activity: Database search {-}
+
+```{block2, type='reflect'}
+
+This activity focuses on searching database repositories. Most databases provide advanced search features, however there are differences in how each database site implements search functionality. 
+
+1. View the following resources on searching using databases.  
+
+- [Top ten database search tips](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/) published by Berkley City College Library.  
+- [Searching in databases](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases) published by the University of Queensland Library.  
+- [Directory of Open Access Journals (DOAJ)](https://doaj.org/) – see also FAQs  
+- [BASE Advanced Search](https://mobile.base-search.net/Search/Advanced/)  
+
+2. View the following video on using the [Directory of Open Access Journals (DOAJ)](https://www.youtube.com/watch?v=ndvLm9MIfKA).
+
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ndvLm9MIfKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+3. Using your keywords and synonyms generated for your research question, search for journal articles using the DOAJ search engine and/or the BASE Advanced Search. 
+- As appropriate, adapt your search by narrowing or expanding. Remember to be flexible; if one term doesn’t work, try a different one.  
+- Select a minimum of two resources, more if you like to save time later in the course.   
+4. Based on the resources you find, think about whether you need to modify your research question.  
+
+How was your progress with this activity? Feel free to share your thoughts in Obsidian. For example:
+
+- Finding resources for my topic was …  
+ I found …. helpful.  
+- Database search tip: When …  
+
+```
+
+
 
 ## Citation Management
 
