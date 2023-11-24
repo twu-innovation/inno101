@@ -11,6 +11,7 @@ citation-management
 openness-in-education
 connecting-ideas-for-learning
 sense-making-through-hyperlinks
+sense-making-through-tags
 note-taking
 topic
 topic-1

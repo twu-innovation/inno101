@@ -1299,7 +1299,7 @@ Before you move on to the next unit, check that you are able to:
 This unit is divided into the following topics:
 
 1. Sense-making through Hyperlinks
-2. Sense-making through Taxonomies
+2. Sense-making through Tags
 3. Note-Taking
 4. Concept Maps
 5. Digital Tools to Support Learning
@@ -1346,13 +1346,62 @@ The key to this component of your workflow is the lowly [hyperlink](https://en.w
 In this workflow, instead of just linking two documents together, you will link two ideas together (by linking documents). Your Obsidian vault is essentially a website that is only accessible on your computer, and instead of links going to documents on other servers, you link to documents within the vault (although you can still link to the web).
 
 
-<!--
-
-
 ### Linking in Obsidian {-}
 
+There are two methods of building hyperlinks in Obsidian: wikilinks and markdown links, and we will cover both here.
 
+#### Wikilinks {-}
+
+A wikilink, the default in Obsidian, is really simple to build. All you have to do is type two opening square brackets, like this `[[`, and Obsidian will do a couple things automatically. First, Obsidian will create the closing brackets to match, so you end up with this `[[]]`, with your cursor in the middle, and second, Obsidian will present a list of all the pages in your vault, from which you can choose the page you want linked.
+
+![Screenshot of how to create a wikilink in Obsidian](assets/u3/wikilink.png)
+
+Once you choose a page, Obsidian will do the rest, and you will end up with this view: 
+
+![Screenshot of how to create a wikilink in Obsidian](assets/u3/wikilink2.png)
+
+As you can see, I am on the 'Hypothes.is' page, and I have created a link to the 'Zotero' page. If I press and hold the 'Command' (macOS) or 'CTRL' (Windows) button on my keyboard and then hover over the link, I will get a preview of the Zotero page. If I press and hold the 'Command' (macOS) or 'CTRL' (Windows) button on my keyboard and then click the link, I will be taken to the page. Once I am on the Zotero page, I can scroll to the bottom of the page and see the 'Backlinks' (a link back to the 'hypothes.is' page). If you don't see the backlinks, click the three dots in the top, right corner of the page and choose 'Backlinks in document'.
+
+#### Markdown Links {-}
+
+While wikilinks are the default in Obsidian, and are the easiest way to link within your vault, sometimes you might want to link to a site on the web. The syntax for a markdown link is a bit different, but is still very simple. There are two parts you need to remember:
+
+- the link text
+  - this is what you want your reader to see on your page.
+- the link URL
+  - this is the web address of the site you want them to visit.
+
+Here is the syntax - `[Link text between single square brackets](URL inside parentheses)` So if I want someone to see the word 'YouTube' on the page, and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com)` which will display like this [YouTube](https://youtube.com). Notice that there are no spaces between the closing square bracket and the openning parenthesis.
+
+### Why link? {-}
+
+Creating links to other related topics in your notes is a way that you can start to build connections in your mind about how different ideas are related. For example, if you are studying 'trees', you might want to link over to the previous notes that you created on 'plants', 'forests', or 'climate change'. During your study on trees, you might want to create notes on 'deciduous' and 'coniferous' trees or 'xylem' and 'phloem', and link those articles to 'trees'. by continually linking notes that are related, you are creating a web of your knowledge as well as reminders of how ideas are related. So linking is a way for you to make sense of the information that is coming into your conciousness.
+
+Once you have links created between different files in your vault, you can visualize these links using the 'Graph View' in Obsidian. Here is part of the graph view for a major paper I wrote recently. Each of the white dots represents a file in my vault and the size is relative to the number of pages linked to that article.  You can see that there are three really big pages that have many links. Those are clearly very important pages.
+
+![Screenshot of the graph view in Obsidian](assets/u3/graph2.png)
+
+## Sense-making Through Tags
+
+A tag is a very short, descriptive word or phrase you can apply to an idea. You are likely familiar with the idea of a hashtag `#` from various social media apps as a way to quickly find information on a specific topic. A tag in Obsidian works just like a hashtag in social media. If you type `#trees` on a file about trees, and then do the same on your pages about 'xylem', 'phloem', 'climate change', 'plants', 'forests', 'deciduous', and 'coniferous', you could click on that tag on any one of those pages, and Obsidian will find every page that contains that tag.
+
+This acts like a super-fast search of your notes for a particular topic or ideas related to a topic.
+
+We recommend that you put your tags in the same spot on each page so you know where to find them. You can also put those tags at any place in your notes and Obsidian will show you the specific spot in your notes where the tag lives.
+
+You can also show tags in your graph view, as below. Green dots are tags and white dots are still files. You can see in this image that there are many more connections.
+
+![Screenshot of the graph view in Obsidian](assets/u3/graph1.png)
+
+You can click on one of the tags in Obsidian and see highlighted connections and search results for that tag, allowing you to go directly to notes of interest.
+
+![Screenshot of the graph view in Obsidian](assets/u3/graph3.png)
+
+Using links and tags together, you can build a very powerful and easily searchable vault of all the ideas in your courses. This can be incredibly valuable when it comes time to write a paper or prepare for an exam, you can have all your notes easily accessible rather than having to search through pages and pages of hand-written notes.
+
+<!--
 notes below from LIDA https://course.oeru.org/lida101/learning-pathways/learning-in-a-digital-age/reading-and-note-taking/
+
 -->
 
 ## Note-Taking
@@ -1371,7 +1420,7 @@ Read the following articles:
 - [What’s the best, most effective way to take notes?](https://theconversation.com/whats-the-best-most-effective-way-to-take-notes-41961){target="_blank"} published by The Conversation.
 - [Effective listening and note taking](https://www.student.unsw.edu.au/note-taking-skills){target="_blank"} published by University of New South Wales.
 
-Next, watch [Should You Take Notes on Paper or on a Computer? - College Info Geek](https://www.youtube.com/watch?v=gsb-U8bZpig){target="_blank"}
+
 
 
 
