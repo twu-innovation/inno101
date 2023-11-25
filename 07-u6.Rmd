@@ -14,9 +14,10 @@ Congratulations! You've made it to the final unit in our course, Learning with T
 This unit is divided into the following topics:
 
 1. Learning with Technology at TWU  
-2. Digital Practices in the Workplace  
-3. Societal Issues and the Internet  
-4. Digital Wisdom  
+2. Learning Online
+3. Digital Practices in the Workplace  
+4. Societal Issues and the Internet  
+5. Digital Wisdom  
 
 
 ### Learning Outcomes {-}
@@ -289,7 +290,52 @@ give examples?
 
 ```
 
+## Learning Online 
 
+In addition to selecting digital tools to help you succeed in your studies, what do you need to know about learning online?  How can you learn effectively in the online environment?  The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
+
+Online learning requires additional skills differing from face-to-face learning, and since online learning is typically self-directed, an absence of these skills will make a students’ learning experience difficult. These skills include:
+
+- Time management (i.e. effectively managing deadlines, schedules)   
+- Organization (i.e. creating a dedicated study space, ability to easily access material)  
+- Self-motivation (i.e. scheduling set times for coursework, peer study accountability)  
+- Self-regulation (i.e. strategies can include breaks, physical activity, meditation)  
+- Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed)  
+
+In face-to-face teaching environments, the requirement to physically attend class, coupled with community accountability, makes a learners’ individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor may notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
+
+
+### Activity: Learning Online Effectively  {-}
+
+```{block2, type='reflect'}
+
+First, read the blog post, [Self-motivation for online students](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/)
+
+Next, search online for websites or videos on how to be a successful online student.  You might use phrases such as "tips for online learning" or "strategies for learning online".
+
+Here are a couple of videos to get you started.  As you watch, be sure to take notes in Obsidian.
+
+Watch [How to Make the Most of Online Courses](https://www.youtube.com/watch?v=eF-Z1hJ67-Y)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eF-Z1hJ67-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Watch [Time management case study using Pomodoro method](https://www.youtube.com/watch?v=z7e7gtU3PHY)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z7e7gtU3PHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+After reading articles online and watching pertinent videos, what tips will you implement in your online studies?
+Make a list of your Top Ten Study Tips for Online Learning.  Next, reflect on how you can make the most of your online courses.  What are your goals? What steps will you take to achieve your goals?
+
+
+```
 
 ## Digital Practices in the Workplace  
 

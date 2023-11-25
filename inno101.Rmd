@@ -1102,23 +1102,27 @@ For more tutorials on using Litmaps, search online.  For example, The [Litmaps Y
 ```{block2, type='reflect'}
 
 1. Choose a research topic that interests you.  Tip: Consider the course you are taking, or will take in the future. What key topics do you want to learn more about? Here are some other links that may help you decide: 
- - [Choosing a Topic](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html) from Purdue University
- - [Building Your Research Skills](https://libguides.twu.ca/ResearchSkills/Home) from the TWU Library.
- - [How do I choose a research topic?](https://www.library.wisc.edu/college/research-help/how-do-i/how-do-i-choose-a-research-topic/) from University of Wisconsin-Madison
+ - [Choosing a Topic](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html){target="_blank"} from Purdue University
+ - [Building Your Research Skills](https://libguides.twu.ca/ResearchSkills/Home){target="_blank"} from the TWU Library.
+ - [How do I choose a research topic?](https://www.library.wisc.edu/college/research-help/how-do-i/how-do-i-choose-a-research-topic/){target="_blank"} from University of Wisconsin-Madison
  - Conduct a general Internet search for “Topical issues in Business” or “Topical issues in Higher Education” and scan whether any of these issues are of personal interest. 
 
-1. State your topic in the form of a question. For example:  
- - How will robotics impact on the future of work?  
- - What can businesses do to run successful loyalty programmes?  
- - How can technology prepare learners for a future that is increasingly defined within the context of globalization and technology?  
- - How will mobile technology impact on diagnosis and health care?  
-Review your draft research question taking into account:  
- - *Personal interest*: Does the research question interest you?  
- - *Suitability for academic investigation*: Some questions are not possible to answer through academic enquiry, for example “How beautiful is the colour orange?” Identify a few keywords related to your proposed research question and conduct a general search to determine if there is published and accessible research outputs related to your question.  
- - *Attainability*: Make sure that your question can be answered taking the amount of time you have. For example, “How do we solve global disease?” is too broad. Whereas, “What is my neighbour’s favourite colour” is too narrow. You will be looking to target between 8 to 15 scholarly references to prepare an annotated bibliography, including books, journal articles and reputable web site references in support of your analytical essay.
 
-1. Use Litmaps to explore the literature on the topic of your choice.
-1. Take a screenshot of your Litmaps map and paste it to a journal entry in Obsidian.  Reflect on your use of this tool.  What was difficult to learn? How might you use this tool in your future studies?
+2. State your topic in the form of a question. For example:  
+  - How will robotics impact on the future of work?  
+  - What can businesses do to run successful loyalty programmes?  
+  - How can technology prepare learners for a future that is increasingly defined within the context of globalization and technology?  
+  - How will mobile technology impact on diagnosis and health care?  
+
+
+3. Review your draft research question taking into account:   
+  - *Personal interest*: Does the research question interest you?   
+  - *Suitability for academic investigation*: Some questions are not possible to answer through academic enquiry, for example “How beautiful is the colour orange?” Identify a few keywords related to your proposed research question and conduct a general search to determine if there is published and accessible research outputs related to your question.  
+  - *Attainability*: Make sure that your question can be answered taking the amount of time you have. For example, “How do we solve global disease?” is too broad. Whereas, “What is my neighbour’s favourite colour” is too narrow. You will be looking to target between 8 to 15 scholarly references to prepare an annotated bibliography, including books, journal articles and reputable web site references in support of your analytical essay.
+
+4. Use Litmaps to explore the literature on the topic of your choice.  
+
+5. Take a screenshot of your Litmaps map and paste it to a journal entry in Obsidian.  Reflect on your use of this tool.  What was difficult to learn? How might you use this tool in your future studies?
 
 
 ```
@@ -1128,16 +1132,18 @@ Review your draft research question taking into account:
 
 ```{block2, type='reflect'}
 
-Some of your best advocates on campus or online are the librarians who work at the Norma Marion Alloway Library in Langley. They are extremely knowledgable about finding things that are hard to find, so it is ALWAYS a good idea to talk to a librarian about what you are trying to do. They are literally paid to help you succeed! One of the ways they like to help is by creating what is known as a 'LibGuide', and I encourage you to [access their LibGuide on using the search feature on the library website.](https://libguides.twu.ca/LibraryOneSearch).
+Some of your best advocates on campus or online are the librarians who work at the Norma Marion Alloway Library in Langley. They are extremely knowledgable about finding things that are hard to find, so it is ALWAYS a good idea to talk to a librarian about what you are trying to do. They are literally paid to help you succeed! One of the ways they like to help is by creating what is known as a 'LibGuide', and I encourage you to [access their LibGuide on using the search feature on the library website.](https://libguides.twu.ca/LibraryOneSearch){target="_blank"}.
 
-Take 10 minutes to browse the [TWU Library](https://www.twu.ca/academics/library) website.  See if you can find the answer to the following questions: 
-1. Is it possible to borrow or download an e-book? 
-1. I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?  
-1. Do you have books in languages other than English?
-1. Do you have e-books?
-1. Can I Email a Trinity Western librarian anytime with my research questions?  
-1. What is AskAway? 
-1. What do I do if I have trouble logging in to library databases from off-campus?
+Take some time to browse the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} website.  
+
+See if you can find the answer to the following questions: 
+ - Is it possible to borrow or download an e-book? 
+ - I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?  
+ - Do you have books in languages other than English?  
+ - Do you have e-books?  
+ - Can I Email a Trinity Western librarian anytime with my research questions?   
+ - What is AskAway? 
+ - What do I do if I have trouble logging in to library databases from off-campus?  
 
 ```
 
@@ -1146,23 +1152,23 @@ Take 10 minutes to browse the [TWU Library](https://www.twu.ca/academics/library
 
 ```{block2, type='reflect'}
 
-Improving search skills will save you time and result in more productive searches. Another tool we want to share is the Google search engine.  It provides a number of features to improve your searches in finding open access resources.
+Improving search skills will save you time and result in more productive searches. Although we focus on LitMaps and the TWU Library in this course, another tool we want to share is the Google search engine.  It provides a number of features to improve your searches in finding academic resources.
 In this activity, you will select two open resources using the Google advanced search operators in support of your research topic.
 
-1. Read the [Google advanced search operators cheat sheet](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/) and try a few searches using the operators. Also see [Google Search Cheatsheet](https://quickref.me/google-search.html) for a more comprehensive list.   
+1. Read the [Google advanced search operators cheat sheet](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/){target="_blank"} and try a few searches using the operators. Also see [Google Search Cheatsheet](https://quickref.me/google-search.html){target="_blank"} for a more comprehensive list.   
 1. Use the Google search operators (you enter these directly into the search text area) to:  
  - Identify at least ten pdf documents which have Open Educational Resources in their titles. (Are they all accessible for download?)  
  - Find a pdf version of the editorial entitled: Scholarship and literacies in a digital age (Who are the authors?).  
  - Find the article with the following citation in text: the term digital literacies is contested with differing uses of the term revealing competing and even contradictory theoretical perspectives (Who is the author?)  
-1. Visit the [Google Advanced Search](https://www.google.com/advanced_search) web interface:  
+1. Visit the [Google Advanced Search](https://www.google.com/advanced_search){target="_blank"} web interface:  
  - Conduct a search for digital literacies and scan the results
  - Go back to the Google Advanced Search web interface and remove words from the search, for example “skills” or “school” and compare the results.
  - Click on tools and find results for the date range 1 May 2020 to 1 May 2023
  - Click on images and find versions which are licensed for reuse with modification (useful when sourcing images for your course blog with the necessary legal permissions for reuse).
 
 **Other Search Engines**:  
-- [Google Scholar](https://scholar.google.com/) is a good search engine to find scholarly publications. The downside is that Google Scholar does not distinguish between closed and open resources. However, search results which show a pdf next to the listing will probably provide access to a full text version.  
-- [Unpaywall](https://unpaywall.org/) is a free and legal way to identify authored-uploaded pdfs. There are extensions for the Chrome and Firefox open source browsers. Read the frequently asked questions for more information.  
+- [Google Scholar](https://scholar.google.com/){target="_blank"} is a good search engine to find scholarly publications. The downside is that Google Scholar does not distinguish between closed and open resources. However, search results which show a pdf next to the listing will probably provide access to a full text version.  
+- [Unpaywall](https://unpaywall.org/){target="_blank"} is a free and legal way to identify authored-uploaded pdfs. There are extensions for the Chrome and Firefox open source browsers. Read the frequently asked questions for more information.  
 
 ```
 
@@ -1245,9 +1251,50 @@ You might get a message to install the Zotero Connector in your browser, go ahea
 
 From here on to the day you graduate with your BA, then your MA, and finally your PhD, Zotero will be with you and you may find yourself using it every day. I (Colin) am finishing my PhD, and Zotero is ALWAYS open on my computer. It is absolutely indispensible.
 
+### Activity: Using Zotero {-}
+
+```{block2, type='reflect'}
+
+Now that you have connected LitMaps to Zotero, let's explore how to use Zotero in your studies.  
+
+1. Let's review the basics of Zotero by watching [What is Zotero?](https://www.youtube.com/watch?v=5xClqW2Jv04)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5xClqW2Jv04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+2. Now, let's start using it!  Go to the TWU Library or Google Scholar and find articles that interest you.  
+
+3. Add a couple of articles to your Zotero library by using the Zotero plugin.
+
+4. Next, play with some of the Zotero annotation features.  Watch [How to Annotate PDFs in Zotero | Highlight, create notes, and capture PDF screenshots](https://www.youtube.com/watch?v=lGeJCsNHBR4) for instructions.
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lGeJCsNHBR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+5. If you want to take the next step, let's make your tools work together!  Watch the video [Zotero Obsidian Integration](https://www.youtube.com/watch?v=CGGeMrtyjBI) and see the features offered when you integrate these tools.
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CGGeMrtyjBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+6. Finally, reflect on your use of this tool.  In Obsidian, add a journal entry about your learning process and how you might use Zotero or another citation management tool in your studies.
+
+
+```
+
+
 ## Openness in Education
 
-We would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
+At this point in the unit you have used various tools to discover and curate resources.  In this topic we would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation.
 
 <iframe src="https://player.vimeo.com/video/557927481?h=726585dd92" width="640" height="512" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/557927481">Open Access Explained</a> from <a href="https://vimeo.com/user17299535">OER Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -2951,9 +2998,10 @@ Congratulations! You've made it to the final unit in our course, Learning with T
 This unit is divided into the following topics:
 
 1. Learning with Technology at TWU  
-2. Digital Practices in the Workplace  
-3. Societal Issues and the Internet  
-4. Digital Wisdom  
+2. Learning Online
+3. Digital Practices in the Workplace  
+4. Societal Issues and the Internet  
+5. Digital Wisdom  
 
 
 ### Learning Outcomes {-}
@@ -3226,7 +3274,52 @@ give examples?
 
 ```
 
+## Learning Online 
 
+In addition to selecting digital tools to help you succeed in your studies, what do you need to know about learning online?  How can you learn effectively in the online environment?  The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
+
+Online learning requires additional skills differing from face-to-face learning, and since online learning is typically self-directed, an absence of these skills will make a students’ learning experience difficult. These skills include:
+
+- Time management (i.e. effectively managing deadlines, schedules)   
+- Organization (i.e. creating a dedicated study space, ability to easily access material)  
+- Self-motivation (i.e. scheduling set times for coursework, peer study accountability)  
+- Self-regulation (i.e. strategies can include breaks, physical activity, meditation)  
+- Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed)  
+
+In face-to-face teaching environments, the requirement to physically attend class, coupled with community accountability, makes a learners’ individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor may notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
+
+
+### Activity: Learning Online Effectively  {-}
+
+```{block2, type='reflect'}
+
+First, read the blog post, [Self-motivation for online students](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/)
+
+Next, search online for websites or videos on how to be a successful online student.  You might use phrases such as "tips for online learning" or "strategies for learning online".
+
+Here are a couple of videos to get you started.  As you watch, be sure to take notes in Obsidian.
+
+Watch [How to Make the Most of Online Courses](https://www.youtube.com/watch?v=eF-Z1hJ67-Y)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eF-Z1hJ67-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Watch [Time management case study using Pomodoro method](https://www.youtube.com/watch?v=z7e7gtU3PHY)
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z7e7gtU3PHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+After reading articles online and watching pertinent videos, what tips will you implement in your online studies?
+Make a list of your Top Ten Study Tips for Online Learning.  Next, reflect on how you can make the most of your online courses.  What are your goals? What steps will you take to achieve your goals?
+
+
+```
 
 ## Digital Practices in the Workplace  
 
