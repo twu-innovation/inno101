@@ -514,7 +514,6 @@ Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDCli
 
 </details>
 
-```
 
 
 ## Learning Online 
@@ -3292,7 +3291,7 @@ Watch [What is social learning?](https://www.youtube.com/watch?v=AB-_822TRms){ta
 
 <div class ="video-container">
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iY4UhfQefdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AB-_822TRms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 </div>
 
@@ -3322,6 +3321,13 @@ TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics
 
 ![Career Ready Framework](assets/u6/Competency Framework.png)
 
+What competencies do you see that relate to social learning and digital skills?  As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
+
+Consider the following questions:
+- What skills and competencies do you want to practice to be successful in your future career?
+- How does collaborative learning and sharing your learning contribute to your learning journey?
+
+Feel free to share your thoughts in your Obsidian journal, Discourse, or your Wordpress blog.
 
 
 ```

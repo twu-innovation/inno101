@@ -300,7 +300,6 @@ Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDCli
 
 </details>
 
-```
 
 
 ## Learning Online 
