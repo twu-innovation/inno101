@@ -13,18 +13,16 @@ Congratulations! You've made it to the final unit in our course, Learning with T
 
 This unit is divided into the following topics:
 
-1. Learning with Technology at TWU  
-2. Learning Online
-3. Digital Practices in the Workplace  
-4. Societal Issues and the Internet  
-5. Digital Wisdom  
+1. Sharing Your Learning at TWU  
+1. Digital Practices in the Workplace  
+1. Societal Issues and the Internet  
+1. Digital Wisdom  
 
 
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
 
-- Explore common digital tools used at Trinity Western University
 - Discuss how technology has changed business practices in your field of interest or career.  
 - Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens  
 - Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner  
@@ -50,8 +48,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Learning Activities</span>
 
-- Reflect on why you chose TWU and share your expecations with your peers.
-- Search online for learning tools to help with note-taking, project managment, writing, etc. Share your findings on Discourse.
+
 - Watch the video Higher Ed Trends: Student Career Anxiety and the Future of Work.
 - Read the articles on how the internet impacted the newspaper and music industries.
 - Discuss the impact of digital technology on business.
@@ -92,250 +89,69 @@ You are strongly encouraged to complete them.
 comment
 -->
 
+## Sharing Learning at TWU
 
-## Learning with Technology at TWU 
+Community is an essential component of Trinity Western University.  Just have a look at the [TWU website](https://www.twu.ca/){target="_blank"} and you will find several references to learning within a community.  For example,  
 
-### Activity: Why TWU? {-}
+> "At Trinity Western University, you'll experience an authentic and engaging community as you enrich your understanding of the world—preparing for a life of faithful engagement in your community and profession. We are deeply committed to providing a transformational education, where you will develop practical professional skills while exploring bigger ideas about who you are, what you believe, and what you're called to do in the world." [TWU website](https://www.twu.ca/){target="_blank"}
 
-```{block2, type='reflect'}
+Why is community so important to TWU, and how does it help us learn?  Have a quick read of [TWU's Core Values](https://www.twu.ca/about-us/commitments/core-values){target="_blank"}.  At this point in the course, we hope you have taken full advantage of the online community and have personal examples of how these interactions have impacted you.
 
-Before we dive in to some digital tools you may use in your academic studies at Trinity, let's pause and think about what TWU means to you.  Why did you choose TWU?  What do you hope to achieve during your time here?
+As for learning...how does sharing our learning within a community help us achieve our personal and professional goals? 
 
-To give you some idea of what life is like at TWU, and why people choose TWU, watch the following video: [Discover being an International Student at Trinity Western University](https://www.youtube.com/watch?v=VkyZjv3ZbXg)
+There are several social learning theories and practicies that explain how social interactions impact our learning (e.g. Situated Learning, Social Constructivism, Connectivism, Cooperative and Collaborative Learning, Communities of Inquiry, etc.) If you're interested, feel free to look up these terms online or use tools, such as LitMaps.  
 
+In this course we have promoted the use of tools that allow you to share your learning online: Discourse, Hypothes.is, and WordPress.  Our goal is to help you utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  In the next activity, we ask you to reflect on your learning experiences and your goals.
 
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VkyZjv3ZbXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-
-What do you think? Share your thoughts by posting a comment on Discourse, for example:
-
-- I'm excited to join the TWU community because ...
-- I have questions about TWU: ...
-- I am confident that ...
-- I am concerned about ...
-
-```
-
-As you embark on your first year of study at TWU, what digital tools should you be familiar with?  What tools will be needed for your field of study?  Let's dive in to some common tech tools in academia. 
-
-```{block, type='feedback'}
-
-Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267) is here to help!  Please reach out if you have any questions. TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/) website with guides on technology tools you will likely need to use.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747) section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800) section for help with the tools mentioned below.
-
-```
-
-Click on the titles below for information on the tools and skills you are most interested in:
-
-<details>
-<summary>**Technology Proficency**</summary>
-
-First, let's tackle what technical skills you will need as you start your studies.  As you read, check off skills you have acquired and feel comfortable using.
-
-- [ ] Basic computer skills  
-- [ ] Sending/receiving email 
-- [ ] Sending and receiving attachments via email 
-- [ ] Using a web browser 
-- [ ] Finding resources through search engines (e.g. Chrome or Firefox) 
-- [ ] Downloading and installing software 
-- [ ] Familiarity with using browser plug-ins (e.g. PDF reader, video, audio) 
-- [ ] Using a word processing, presentation software, or other productivity applications 
-- [ ] Experience/familiarity with a variety of file formats such as: .pdf "Portable Document Format", .rtf "Rich Text Format", .doc or .docx "Microsoft Word Document", or .txt "Text document" 
-- [ ] The ability to be self-directed in learning new technology skills (e.g. following a handout, a step-by-step tutorial, online video help, or access to support to learn necessary skills) 
-
-This last skill is essential, as you will likely come across some tech tool that you need to figure out.  Consider how much you've learned in this course so far. You've got this!
-
-</details>
-
-<details>
-<summary>**Basic Hardware, Software & Accessories**</summary>
-
-This next section will outline basic hardware and software, and accessories you will likely need as a TWU student. As you read, check off items you have, and/or feel comfortable using.
-
-##### Hardware {-}  
-- [ ] Computer - PC, Mac, Chromebook or tablet 
-
-##### Software {-}  
-- [ ] Windows 10 or newer   
-- [ ] Mac OS 10.14 or newer   
-- [ ] Microsoft 365   
-
-##### Recommended Accessories {-}  
-- [ ] Speakers, Microphone or Headphones   
-- [ ] Video Camera (Webcam)   
-- [ ] Scanner or Camera	   
-
-</details>
-
-<details>
-<summary>**Internet Access, Browsers & Connection Speed**</summary>
- 
-- [ ] Wi-Fi  
-- [ ] High speed Broadband Internet Connection is Required  
-- [ ] Internet Browser: The most recent release of Chrome or Firefox is recommended.  
-
-***Recommended Internet speeds:***   
-- Download speed of at least 25 mbps  
-- Upload speed of at least 3 mbps  
-- Ping response of less than 100ms  
-
-
-```{block, type='feedback'}
-
-Test your Internet speed using [speedtest.net](speedtest.net) 
-
-```
-
-
-Please consider the following while participating in online/hybrid courses:  
-- Using a shared Internet connection will impact connectivity, such as additional household members use of streaming TV, gaming, and other Internet usage.  
-- Wireless connections may be impacted by the distance from the router and interference from microwaves and other electronics. (Wired connections are recommended.)  
-- Your Internet Service Provider’s performance may vary throughout the day based on community usage.
-
-</details>
-
-<details>
-<summary>**Shared Drive, Sharing & Backup**</summary>
-
-**[Data & Cloud Storage and Sharing](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533){target="_blank"}**  
-Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:   
-- [ ] [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260){target="_blank"} 
-- [ ] [Microsoft SharePoint](https://mytwu.sharepoint.com/){target="_blank"}   
-- [ ] [OwnCloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681){target="_blank"}  
-
-The responsibility for storing TWU documents and files lies with the person who stores the data. Judgment is required about how and where TWU data will be stored.  
-
-TWU has a formal Information Security Policy and related Information Security Guidelines. This article provides some additional direction based on this set of policy and guidelines.  
-Different data is governed by different regulations, laws, agreements, and rules; each requires different means of protection and reporting.  
- 
-**What about other 3rd party cloud storage solutions (Dropbox, Google Drive, Box, WeChat etc...)?**
-In general, the use of unauthorized 3rd party cloud storage is not a good idea. TWU provides faculty and staff with the tools needed to collaborate internally and externally. The reasons below elaborate on the reasoning behind this position.  
-
-*Lack of Visibility* - Since these software are not integrated into our network, there is no way we can retrieve data stored in these systems if an employee or faculty member leaves the institution and fails to disclose the usage of that account, or has it attached to a personal email account. If TWU data are present in those accounts, then it can be easily lost or compromised, which can lead to institutional and legal consequences.
-
-*Lack of Accountability* - There is no way to effectively manage information security if a faculty or staff member is using unauthorized cloud storage. Additionally, there is no way to know if those data have been compromised and no ability for our forensics team to conduct analyses on these data in the event of a security incident.
-
-*Lack of Support* - We don't offer technical support to these services. So, if something goes wrong, is lost or compromised, IT will have no way to help users who have lost data or been locked out of accounts.
-
-*Collaboration* - We each have our own preferences when it comes to the various technologies we like to work with. There is not always a best tool for everyone. However, collaboration becomes more difficult when each individual or department selects there own collaboration platforms, prioritizing individual needs above the whole.
-
-*Student Centred* - We will put students first. These guidelines ensure we are protecting information and ultimately protecting our students. We have been entrusted with a great deal of personal and private information and must ensure the decisions we make are protecting that information. 
- 
-**How to Share Data**
-With Microsoft OneDrive and SharePoint, you can securely share files internally and externally. However, it is important to understand the different Data Classification levels and acceptable ways to share your files (Data Protection Guidelines).
-
-Guidance Table for Sharing Data
-
-| **Link Type**                        | **Confidential**             | **Sensitive**                | **Public**                                   |
-|--------------------------------------|------------------------------|------------------------------|----------------------------------------------|
-| **Specific People Internal User**    | Acceptable                   | Acceptable                   | Acceptable                                   |
-| **Specific People External User**    | Acceptable Use good judgment | Acceptable Use good judgment | Acceptable                                   |
-| **People in TWU (Internal Link)**    | Never                        | Acceptable Not Advisable     | Acceptable                                   |
-| **Anyone with the link (Open Link)** | Never                        | Never                        | Acceptable Use expiration date when possible |
-
-</details>
-
-<details>
-<summary>**Other Common Tools Supported at TWU**</summary>
-
-Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create e-portolfios, or develop other media.  We recommend the following:  
-
-- [MS Teams](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353){target="_blank"}  
-- [MS Stream](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23454){target="_blank"}  
-- [Zoom](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478){target="_blank"}  
-- [Survey Monkey](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=47076){target="_blank"}    
-- [WordPress](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4746){target="_blank"}    
-Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940){target="_blank"} for Audio editing, Video editing, and other media tips.  
-
-</details>
-
-
-#### Learning Tools {-}
-
-In this course, you have had the chance to explore a number of learning tools, including: [Obsidian](https://obsidian.md){target="_blank"}, [Hypothes.is](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146716){target="_blank"}, [Zotero](https://www.zotero.org/){target="_blank"}, [LitMaps](https://www.litmaps.com/){target="_blank"}, [WordPress](https://create.twu.ca/){target="_blank"} and more!
-
-We anticipate these tools will help you think critically, collaborate, and ultimately succeed in your studies.
-
-There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, etc.).
-
-
-### Activity: Tools for Learning in University  {-}
+### Activity: Learning in Community {-}
 
 ```{block2, type='reflect'}
 
-Search for the following apps/websites using the key words listed below.  Try adding "top" "best" "free" "university" "students" and see how that changes your search results.
+Below are several resources that explain how we learn in community.
 
-- Note-taking Apps
-- Annotate Web Resources
-- Collaborative Tools
-- Project Management Tools
-- Graphic Organizers
-- Study Tools
-- Focus Tools
-- Research Tools
-- Writing Tools
+- [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/)
+- [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)/02%3A_Social_Learning_Theories)
+- [Social networking, knowledge sharing, and student learning: The case of university students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872)
+- [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/)
 
-On your blog or in Discourse, share some tools that you've used, or that you plan to use to help in your studies.
+Watch [What is social learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"}
 
-<!--
-give examples?
-[Coggle: Simple Collaborative Mind Maps & Flow Charts](https://coggle.it/){target="_blank"}
-[MindMup](https://app.mindmup.com/){target="_blank"}
-[Canva](https://www.canva.com/){target="_blank"}
+<div class ="video-container">
 
--->
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iY4UhfQefdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+At TWU, you may be asked to participate in various group activities, such as group work, partner projects, team presentations, etc.  Have a look at this resource that explains examples and reasons for these activities: [Group work: Using cooperative learning groups effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/)
+
+Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:
+- [TWU Media + Communications students showcase their work at student film festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival)
+- [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news)
+
+
+What do you think? How have you experienced social learning in your educational experiences?  How did it help or hinder your learning? What are your goals for sharing your learning in your TWU classes and beyond? Share your thoughts by posting a comment on Discourse, for example: "Sharing learning in academica is valuable because ..."
+
 
 ```
 
-## Learning Online 
-
-In addition to selecting digital tools to help you succeed in your studies, what do you need to know about learning online?  How can you learn effectively in the online environment?  The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
-
-Online learning requires additional skills differing from face-to-face learning, and since online learning is typically self-directed, an absence of these skills will make a students’ learning experience difficult. These skills include:
-
-- Time management (i.e. effectively managing deadlines, schedules)   
-- Organization (i.e. creating a dedicated study space, ability to easily access material)  
-- Self-motivation (i.e. scheduling set times for coursework, peer study accountability)  
-- Self-regulation (i.e. strategies can include breaks, physical activity, meditation)  
-- Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed)  
-
-In face-to-face teaching environments, the requirement to physically attend class, coupled with community accountability, makes a learners’ individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor may notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
-
-
-### Activity: Learning Online Effectively  {-}
+### Activity: Preparing For the Future  {-}
 
 ```{block2, type='reflect'}
 
-First, read the blog post, [Self-motivation for online students](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/)
+Throughout your studies at TWU you will share your learning with instructors, your peers, and the community.  You will also practice and master various skills, including digital skills, leadership skills, communication skills, and critical thinking skills.  Why are these important?  Take a look at the image below that depicts the Top 10 Employee Skills for 2025.  How do your studies and activities at TWU prepare you to meet those necessary skills?  
 
-Next, search online for websites or videos on how to be a successful online student.  You might use phrases such as "tips for online learning" or "strategies for learning online".
+![Top 10 Employee Skills for 2025](assets/u6/Top Employee Skills 2025.png)
 
-Here are a couple of videos to get you started.  As you watch, be sure to take notes in Obsidian.
 
-Watch [How to Make the Most of Online Courses](https://www.youtube.com/watch?v=eF-Z1hJ67-Y)
+TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development) that aims to equip students for their future careers.  Have a look at their Career Ready Framework in the graphic below.
 
-<div class ="video-container">
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eF-Z1hJ67-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+![Career Ready Framework](assets/u6/Competency Framework.png)
 
-</div>
-
-Watch [Time management case study using Pomodoro method](https://www.youtube.com/watch?v=z7e7gtU3PHY)
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z7e7gtU3PHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-After reading articles online and watching pertinent videos, what tips will you implement in your online studies?
-Make a list of your Top Ten Study Tips for Online Learning.  Next, reflect on how you can make the most of your online courses.  What are your goals? What steps will you take to achieve your goals?
 
 
 ```
+
 
 ## Digital Practices in the Workplace  
 
@@ -1474,6 +1290,8 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 9. Prepare a paragraph on practical implications, for instance, learning in a digital age or your current role.  
 10. Draft the conclusion.  
 
+
+```
 
 
 ## Digital Wisdom

@@ -1,9 +1,7 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 introduction-to-digital-literacies-for-online-learning
-understanding-the-digital
-digital-literacies
-visitors-and-residents
+learning-with-technology-at-twu
 digital-privacy-safety
 discovering-and-curating-resources
 finding-and-selecting-resources
@@ -13,9 +11,6 @@ connecting-ideas-for-learning
 sense-making-through-hyperlinks
 sense-making-through-tags
 note-taking
-topic
-topic-1
-topic-2
 building-your-online-presence
 personal-learning-environments
 building-a-learning-blog
@@ -27,8 +22,7 @@ online-communities
 connecting-and-learning-through-social-media
 connecting-to-the-twu-community
 sharing-your-knowledge
-learning-with-technology-at-twu
-learning-online
+sharing-learning-at-twu
 digital-practices-in-the-workplace
 societal-issues-and-the-internet
 website-tracking

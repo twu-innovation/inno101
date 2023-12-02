@@ -43,6 +43,31 @@ You are strongly encouraged to complete them.
 
 ```
 
+
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment</span>
+
+- See the Assessment section in Moodle for assignment details and due dates.
+
+```
+
+
+
+### Resources {-}
+
+- All resources will be provided online in the unit.  
+
+
+
+
+<!--
+comment
+-->
+
+
+
 ## Sense-making Through Hyperlinks
 
 In higher education, your task as an undergraduate is to build on the skills you bring from high school and apply those skills in a much more focussed field of study. Previously, you might have been able to succeed in school by having a great memory, but increasingly in university, you will be asked to do much more. You will be required to understand the theoretical basis of ideas (analysis) and also make connections between ideas to create new ideas (synthesis). This may feel challenging at first, but you will learn.
@@ -224,90 +249,41 @@ We recommend that you use the Chrome browser (download here) and install the Hyp
 ```
 
 
-```{block2, type='assessment'}
 
-<span class="blockhead">Assessment</span>
+#### Digital Tools to Support Learning {-}
 
-- See the Assessment section in Moodle for assignment details and due dates.
+In this course, you have had opportunities to explore a number of learning tools, including [Obsidian](https://obsidian.md){target="_blank"}, [Hypothes.is](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146716){target="_blank"}, [Zotero](https://www.zotero.org/){target="_blank"}, and [LitMaps](https://www.litmaps.com/){target="_blank"}.
 
-```
+We anticipate these tools will help you think critically, collaborate, and ultimately succeed in your studies.
 
-
-
-### Resources {-}
-
-- All resources will be provided online in the unit.  
+There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, etc.).
 
 
-## Topic
-
-content
-
-<!--
-comment
--->
-
-
-
-### Activity:  {-}
+### Activity: Tools for Learning in University  {-}
 
 ```{block2, type='reflect'}
 
-Watch/read...
+Search for the following apps/websites using the key words listed below.  Try adding "top" "best" "free" "university" "students" and see how that changes your search results.
 
-<span class="blockhead">Questions to Consider</span>
+- Note-taking Apps
+- Annotate Web Resources
+- Collaborative Tools
+- Project Management Tools
+- Graphic Organizers
+- Study Tools
+- Focus Tools
+- Research Tools
+- Writing Tools
 
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
-
-## Topic
-
-content
-
-<!--
-comment
--->
-
-
-
-### Activity:  {-}
-
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
-
-```
-
-## Topic
-
-content
+In Discourse, share some tools that you've used, or that you plan to use to help in your studies.
 
 <!--
-comment
+give examples?
+[Coggle: Simple Collaborative Mind Maps & Flow Charts](https://coggle.it/){target="_blank"}
+[MindMup](https://app.mindmup.com/){target="_blank"}
+[Canva](https://www.canva.com/){target="_blank"}
+
 -->
-
-
-
-### Activity:  {-}
-
-```{block2, type='reflect'}
-
-Watch/read...
-
-<span class="blockhead">Questions to Consider</span>
-
-After completing the activities above, answer the following questions:
-
-- ...
 
 ```
 
