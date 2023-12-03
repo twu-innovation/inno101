@@ -124,8 +124,8 @@ Watch [What is social learning?](https://www.youtube.com/watch?v=AB-_822TRms){ta
 
 At TWU, you may be asked to participate in various group activities, such as group work, partner projects, team presentations, etc.  Have a look at this resource that explains examples and reasons for these activities: [Group work: Using cooperative learning groups effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/)
 
-Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:
-- [TWU Media + Communications students showcase their work at student film festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival)
+Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:  
+- [TWU Media + Communications students showcase their work at student film festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival)  
 - [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news)
 
 
@@ -146,7 +146,7 @@ Throughout your studies at TWU you will share your learning with instructors, yo
 TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development) that aims to equip students for their future careers.  Have a look at their Career Ready Framework in the graphic below.
 
 
-![Career Ready Framework](assets/u6/Competency Framework.png)
+![Career Ready Framework](assets/u6/Competency Framework.png)(assets/u6/Competency Framework.png)  
 
 What competencies do you see that relate to social learning and digital skills?  As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
 

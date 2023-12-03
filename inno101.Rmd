@@ -384,12 +384,6 @@ Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, w
 
 In this first topic we focus on the digital tools you should be familiar with as you start university.  Let's dive in to some common technology tools in academia. 
 
-```{block, type='feedback'}
-
-Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267) is here to help!  Please reach out if you have any questions. TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/) website with guides on technology tools you will likely need to use.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747) section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800) section for help with the tools mentioned below.
-
-```
-
 Below is a checklist of the technical skills, hardware, software, accessories, and other tools required for study at TWU.  Click on the titles below for information on the tools and skills you are most interested in:
 
 <details>
@@ -515,6 +509,12 @@ Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDCli
 </details>
 
 
+```{block, type='feedback'}
+
+Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267){target="_blank"} is here to help!  Please reach out if you have any questions. TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/){target="_blank"} website with guides on technology tools you will likely need to use.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747){target="_blank"} section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800){target="_blank"} section for help with the tools mentioned below.
+
+```
+
 
 ## Learning Online 
 
@@ -535,21 +535,27 @@ In face-to-face teaching environments, the requirement to physically attend clas
 
 ```{block2, type='reflect'}
 
-First, read the blog post, [Self-motivation for online students](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/)
+If you search online for "how to be a successful online student" or "tips for online learning" or "strategies for learning online" you will find several great tips to set you up for success.  Take a quick look at the following resources.  As you skim the content, what are some common tipss you notice that you might apply to your online learning routine?
 
-Next, search online for websites or videos on how to be a successful online student.  You might use phrases such as "tips for online learning" or "strategies for learning online".
+- [Self-motivation for online students](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/){target="_blank"}  
+- [Tips for Success Online](https://www.unlv.edu/online/tips){target="_blank"}  
+- [Tips for Taking Classes and Studying Online at Home](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}  
+- [15 Tips to Succeed in an Online Class](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}  
+- [Tips for Taking Online Classes: 8 Strategies for Success](https://graduate.northeastern.edu/resources/tips-for-taking-online-classes/){target="_blank"}  
+- [Tips for Learning Online](https://scpd.stanford.edu/tips-learning-online){target="_blank"}  
+- [How to be a Successful Online Learner](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"}  
 
-Here are a couple of videos to get you started.  
 
-Watch [How to Make the Most of Online Courses](https://www.youtube.com/watch?v=eF-Z1hJ67-Y)
+Next, watch [Study Tips to Succeed as an Online Student](https://www.youtube.com/watch?v=-1DRETk-mns){target="_blank"}.
+
 
 <div class ="video-container">
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eF-Z1hJ67-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1DRETk-mns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 </div>
 
-Watch [Time management case study using Pomodoro method](https://www.youtube.com/watch?v=z7e7gtU3PHY)
+Here is another interesting perspective on studying online. Watch [Time management case study using Pomodoro method](https://www.youtube.com/watch?v=z7e7gtU3PHY){target="_blank"}.
 
 <div class ="video-container">
 
@@ -557,9 +563,24 @@ Watch [Time management case study using Pomodoro method](https://www.youtube.com
 
 </div>
 
+Finally, view the following infographic explaining how to be a successful online student.
+
+![Study Tips for Online Students](assets/u1/5-Great-Study-Tips-For-Online-Students-Infographic.jpg)
+
+
 After reading articles online and watching pertinent videos, what tips will you implement in your online studies?
 Make a list of your Top Ten Study Tips for Online Learning.  Next, reflect on how you can make the most of your online courses.  What are your goals? What steps will you take to achieve your goals?
 
+
+```
+
+### Activity: Online Discussions  {-}
+
+```{block2, type='reflect'}
+
+A key activity in many online courses is discussing concepts with your peers.  This may take place in a Moodle Discussion Forum, a WordPress blog, a Discourse post, or other discussion tools.  Below are some tips and considerations for participating in discusssions online:
+
+- [Online Discussions: Tips for Students](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/online-discussions-tips-students)
 
 ```
 
@@ -3297,8 +3318,8 @@ Watch [What is social learning?](https://www.youtube.com/watch?v=AB-_822TRms){ta
 
 At TWU, you may be asked to participate in various group activities, such as group work, partner projects, team presentations, etc.  Have a look at this resource that explains examples and reasons for these activities: [Group work: Using cooperative learning groups effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/)
 
-Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:
-- [TWU Media + Communications students showcase their work at student film festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival)
+Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:  
+- [TWU Media + Communications students showcase their work at student film festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival)  
 - [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news)
 
 
@@ -3319,7 +3340,7 @@ Throughout your studies at TWU you will share your learning with instructors, yo
 TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development) that aims to equip students for their future careers.  Have a look at their Career Ready Framework in the graphic below.
 
 
-![Career Ready Framework](assets/u6/Competency Framework.png)
+![Career Ready Framework](assets/u6/Competency Framework.png)(assets/u6/Competency Framework.png)  
 
 What competencies do you see that relate to social learning and digital skills?  As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
 
