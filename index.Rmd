@@ -12,7 +12,6 @@ biblio-style: apalike
 
 #  Welcome {-}
 
-
 This is the course book for LDRS 101: Learning with Technology. This book is divided into 6 units of study to help you engage with the course learning outcomes and prepare for the course assessment.  
 
 On the page below you will find a summary of the course syllabus, as well as how to navigate this book.  Please also refer the schedule in Moodle, as well as the Assessment section in Moodle for instructions on assignments.

@@ -4,10 +4,6 @@
 
 Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally-saturated society. It is our intent to provide you with opportunities to start your university career with an emerging set of skills and literacies related to digital tools for learning. Within your academic pursuits, you will encounter a vast amount of information, and integrating digital tools into your learning journey might be difficult. Your chosen discipline will provide ample learning possibilities, and incorporating digital tools to enhance your learning may prove challenging. This course will give you a head start on using digital tools to build a workflow that will allow you to stay organized and to make your process of learning visible for yourself and your instructors. We will also lead you through readings and thoughts about your digital identity, privacy and security, and sharing your new knowledge in ethical ways.
 
-<!--
-//todo #2
--->
-
 There will be two primary branches of the course and the tools that we will show you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your 'ownership' over your work.
 
 In this first unit, there will be both theoretical and practical work for you to do. In order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalites to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
@@ -23,17 +19,6 @@ This unit is divided into the following topics:
 1. Digital Literacies  
 1. Digital Privacy and Safety  
 
-
-<!--
-@cmadland I see you have digital identity here...does it overlap with Unit 4? https://twu-innovation.github.io/inno101/building-a-network-of-ideas.html#online-identity-for-learning
-
--->
-
-
-<!--
-//todo #3 
--->
-
 ### Learning Outcomes {-}
 
 When you have completed this unit, you should be able to:
@@ -45,8 +30,6 @@ When you have completed this unit, you should be able to:
 - Examine privacy concerns related to various platforms and tools  
 - Describe how to protect yourself and others in the digital environment.  
 - Identify the literacies you plan to improve and what steps you will take to achieve your goals.
-
-
 
 ### Activity Checklist {-}
 
@@ -74,8 +57,6 @@ You will be directed to complete these activities as they come.
 
 ```
 
-
-
 ```{block2, type='assessment'}
 
 <span class="blockhead">Assessment</span>
@@ -83,7 +64,6 @@ You will be directed to complete these activities as they come.
 - **Assignment 1: Learning Journal** - submit after you have completed Units 1-3.
 
 *See the Assessment section in Moodle for assignment details.*
-
 
 ```
 <!--
@@ -125,13 +105,9 @@ You are strongly encouraged to complete them.
 ```
 -->
 
-
-
-
 ### Resources {-}
 
 - All resources will be provided online in the unit.  
-
 
 ## Learning with Technology at TWU 
 
@@ -173,57 +149,60 @@ In this first topic we focus on the digital tools you should be familiar with as
 Below is a checklist of the technical skills, hardware, software, accessories, and other tools required for study at TWU.  Click on the titles below for information on the tools and skills you are most interested in:
 
 <details>
+
 <summary>**Technology Proficency**</summary>
 
 First, let's tackle what technical skills you will need as you start your studies.  As you read, check off skills you have acquired and feel comfortable using.
 
 - Basic computer skills  
-- Sending/receiving email 
-- Sending and receiving attachments via email 
-- Using a web browser 
-- Finding resources through search engines (e.g. Chrome or Firefox) 
-- Downloading and installing software 
-- Familiarity with using browser plug-ins (e.g. PDF reader, video, audio) 
-- Using a word processing, presentation software, or other productivity applications 
-- Experience/familiarity with a variety of file formats such as: .pdf "Portable Document Format", .rtf "Rich Text Format", .doc or .docx "Microsoft Word Document", or .txt "Text document" 
-- The ability to be self-directed in learning new technology skills (e.g. following a handout, a step-by-step tutorial, online video help, or access to support to learn necessary skills) 
+- Sending/receiving email  
+- Sending and receiving attachments via email  
+- Using a web browser  
+- Finding resources through search engines (e.g. Chrome or Firefox)  
+- Downloading and installing software  
+- Familiarity with using browser plug-ins (e.g. PDF reader, video, audio)  
+- Using a word processing, presentation software, or other productivity applications  
+- Experience/familiarity with a variety of file formats such as: .pdf "Portable Document Format", .rtf "Rich Text Format", .doc or .docx "Microsoft Word Document", or .txt "Text document"  
+- The ability to be self-directed in learning new technology skills (e.g. following a handout, a step-by-step tutorial, online video help, or access to support to learn necessary skills)  
 
 This last skill is essential, as you will likely come across some tech tool that you need to figure out.  Consider how much you've learned in this course so far. You've got this!
 
 </details>
 
 <details>
+
 <summary>**Basic Hardware, Software & Accessories**</summary>
 
 This next section will outline basic hardware and software, and accessories you will likely need as a TWU student. As you read, check off items you have, and/or feel comfortable using.
 
-##### Hardware {-}  
-- Computer - PC, Mac, Chromebook or tablet 
+##### Hardware {-}
+- Computer - PC, Mac, Chromebook or tablet  
 
-##### Software {-}  
-- Windows 10 or newer   
-- Mac OS 10.14 or newer   
-- Microsoft 365   
+##### Software {-}
+- Windows 10 or newer  
+- Mac OS 10.14 or newer  
+- Microsoft 365  
 
 ##### Recommended Accessories {-}  
-- Speakers, Microphone or Headphones   
-- Video Camera (Webcam)   
-- Scanner or Camera	   
+- Speakers, Microphone or Headphones  
+- Video Camera (Webcam)  
+- Scanner or Camera	  
 
 </details>
 
 <details>
+
 <summary>**Internet Access, Browsers & Connection Speed**</summary>
- 
+
 - Wi-Fi  
 - High speed Broadband Internet Connection is Required  
 - Internet Browser: The most recent release of Chrome or Firefox is recommended.  
 
-***Recommended Internet speeds:***   
+***Recommended Internet speeds:***  
+
 - Download speed of at least 25 mbps  
 - Upload speed of at least 3 mbps  
 - Ping response of less than 100ms  
-
 
 ```{block, type='feedback'}
 
@@ -231,8 +210,8 @@ Test your Internet speed using [speedtest.net](speedtest.net)
 
 ```
 
-
 Please consider the following while participating in online/hybrid courses:  
+
 - Using a shared Internet connection will impact connectivity, such as additional household members use of streaming TV, gaming, and other Internet usage.  
 - Wireless connections may be impacted by the distance from the router and interference from microwaves and other electronics. (Wired connections are recommended.)  
 - Your Internet Service Provider’s performance may vary throughout the day based on community usage.
@@ -240,36 +219,40 @@ Please consider the following while participating in online/hybrid courses:
 </details>
 
 <details>
+
 <summary>**Shared Drive, Sharing & Backup**</summary>
 
 **[Data & Cloud Storage and Sharing](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533){target="_blank"}**  
-Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:   
-- [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260){target="_blank"} 
-- [Microsoft SharePoint](https://mytwu.sharepoint.com/){target="_blank"}   
+
+Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:  
+
+- [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260){target="_blank"}  
+- [Microsoft SharePoint](https://mytwu.sharepoint.com/){target="_blank"}  
 - [OwnCloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681){target="_blank"}  
 
 The responsibility for storing TWU documents and files lies with the person who stores the data. Judgment is required about how and where TWU data will be stored.  
 
 TWU has a formal Information Security Policy and related Information Security Guidelines. This article provides some additional direction based on this set of policy and guidelines.  
+
 Different data is governed by different regulations, laws, agreements, and rules; each requires different means of protection and reporting.  
- 
+
 **What about other 3rd party cloud storage solutions (Dropbox, Google Drive, Box, WeChat etc...)?**
 In general, the use of unauthorized 3rd party cloud storage is not a good idea. TWU provides faculty and staff with the tools needed to collaborate internally and externally. The reasons below elaborate on the reasoning behind this position.  
 
-*Lack of Visibility* - Since these software are not integrated into our network, there is no way we can retrieve data stored in these systems if an employee or faculty member leaves the institution and fails to disclose the usage of that account, or has it attached to a personal email account. If TWU data are present in those accounts, then it can be easily lost or compromised, which can lead to institutional and legal consequences.
+*Lack of Visibility* - Since these software are not integrated into our network, there is no way we can retrieve data stored in these systems if an employee or faculty member leaves the institution and fails to disclose the usage of that account, or has it attached to a personal email account. If TWU data are present in those accounts, then it can be easily lost or compromised, which can lead to institutional and legal consequences.  
 
-*Lack of Accountability* - There is no way to effectively manage information security if a faculty or staff member is using unauthorized cloud storage. Additionally, there is no way to know if those data have been compromised and no ability for our forensics team to conduct analyses on these data in the event of a security incident.
+*Lack of Accountability* - There is no way to effectively manage information security if a faculty or staff member is using unauthorized cloud storage. Additionally, there is no way to know if those data have been compromised and no ability for our forensics team to conduct analyses on these data in the event of a security incident.  
 
-*Lack of Support* - We don't offer technical support to these services. So, if something goes wrong, is lost or compromised, IT will have no way to help users who have lost data or been locked out of accounts.
+*Lack of Support* - We don't offer technical support to these services. So, if something goes wrong, is lost or compromised, IT will have no way to help users who have lost data or been locked out of accounts.  
 
-*Collaboration* - We each have our own preferences when it comes to the various technologies we like to work with. There is not always a best tool for everyone. However, collaboration becomes more difficult when each individual or department selects there own collaboration platforms, prioritizing individual needs above the whole.
+*Collaboration* - We each have our own preferences when it comes to the various technologies we like to work with. There is not always a best tool for everyone. However, collaboration becomes more difficult when each individual or department selects there own collaboration platforms, prioritizing individual needs above the whole.  
 
-*Student Centred* - We will put students first. These guidelines ensure we are protecting information and ultimately protecting our students. We have been entrusted with a great deal of personal and private information and must ensure the decisions we make are protecting that information. 
- 
+*Student Centred* - We will put students first. These guidelines ensure we are protecting information and ultimately protecting our students. We have been entrusted with a great deal of personal and private information and must ensure the decisions we make are protecting that information.  
+
 **How to Share Data**
-With Microsoft OneDrive and SharePoint, you can securely share files internally and externally. However, it is important to understand the different Data Classification levels and acceptable ways to share your files (Data Protection Guidelines).
+With Microsoft OneDrive and SharePoint, you can securely share files internally and externally. However, it is important to understand the different Data Classification levels and acceptable ways to share your files (Data Protection Guidelines).  
 
-Guidance Table for Sharing Data
+Guidance Table for Sharing Data  
 
 | **Link Type**                        | **Confidential**             | **Sensitive**                | **Public**                                   |
 |--------------------------------------|------------------------------|------------------------------|----------------------------------------------|
@@ -281,6 +264,7 @@ Guidance Table for Sharing Data
 </details>
 
 <details>
+
 <summary>**Other Common Tools Supported at TWU**</summary>
 
 Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create e-portolfios, or develop other media.  We recommend the following:  
@@ -294,22 +278,19 @@ Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDCli
 
 </details>
 
-
 ```{block, type='feedback'}
 
 Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267){target="_blank"} is here to help!  Please reach out if you have any questions. TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/){target="_blank"} website with guides on technology tools you will likely need to use.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747){target="_blank"} section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800){target="_blank"} section for help with the tools mentioned below.
 
-
 ```
 
-
-## Learning Online 
+## Learning Online {-}
 
 Now that you are aware of some technical tools needed for your studies, what do you need to know about learning online?  How can you learn effectively in the online environment?  The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
 
 Online learning requires additional skills differing from face-to-face learning, and since online learning is typically self-directed, an absence of these skills will make a students’ learning experience difficult. These skills include:
 
-- Time management (i.e. effectively managing deadlines, schedules)   
+- Time management (i.e. effectively managing deadlines, schedules)  
 - Organization (i.e. creating a dedicated study space, ability to easily access material)  
 - Self-motivation (i.e. scheduling set times for coursework, peer study accountability)  
 - Self-regulation (i.e. strategies can include breaks, physical activity, meditation)  
@@ -334,7 +315,6 @@ If you search online for "how to be a successful online student" or "tips for on
 
 
 Next, watch [Study Tips to Succeed as an Online Student](https://www.youtube.com/watch?v=-1DRETk-mns){target="_blank"}.
-
 
 <div class ="video-container">
 
@@ -378,65 +358,53 @@ If you're interested in why discussions are included in online courses, have a q
 
 #### Discussion Guidelines for LDRS 101  {-}
 
-<p>In this course, we ask you to discuss ideas with your peers via <span>Discourse, WordPress and other social media platforms.  These discussions are <b><i>ungraded</i></b> and an important part of your assignments in this course. </span> Consider for example, two course learning outcomes that relate to online discussions:</p>
-<ul>
-<li>Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.</li>
-<li>Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.</li>
-</ul>
-<p><span style="font-size: 1rem;"><span>Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment 3: Digital Literacy Portfolio).</span></span></p>
-<p><span style="font-size: 1rem;">Here are some common discussion instructions in online classes:</span></p>
-<ul>
-<li>Most discussion postings should be no more than 250 words. You are also asked to read your fellow learner’s postings and then respond to at least two other people.</li>
-<li>All postings should be carefully written and edited before being posted. Opinions should be well supported. Your responses should also be communicated in professional language, respectful of others, and to the point. </li>
-</ul>
-<p><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';">As you discuss, be sure to respond substantively.</span></p>
-<p></p>
-<p><i>Substantive responses may include:</i></p>
-<ul>
-<ul>
-<ul>
-<li>Providing a new thought, idea, or perspective;</li>
-<li>Citing an experience or example of what we are learning;</li>
-<li>Adding a new twist on a perspective;</li>
-<li>Critically thinking about an idea/concept;</li>
-<li>Questioning or challenging a principle/perspective;</li>
-<li>Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said;</li>
-<li>Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning;</li>
-<li>Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment. Or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion.</li>
-</ul>
-</ul>
-</ul>
-<p> </p>
-<p>What Substantive Participation is NOT:</p>
-<ul>
-<ul>
-<ul>
-<li>Very basic comments such as “I agree” or “I disagree;”</li>
-<li>Restating what has been said <i>(unless there is a direct purpose in doing so);</i></li>
-<li>Disrespectfully disagreeing;</li>
-<li>Pat answers that are not thought-provoking or do not move the dialogue forward;</li>
-</ul>
-</ul>
-</ul>
-<p> </p>
-<p>Below are examples of how to stimulate your own and others’ thinking:</p>
-<ul>
-<ul>
-<ul>
-<li>What would happen if…</li>
-<li>Other times it may be helpful to…</li>
-<li>It is my understanding…what is your experience with this?</li>
-<li>You might approach this from…</li>
-<li>Is it possible that…</li>
-<li>Would you consider…</li>
-<li>Maybe…</li>
-<li>Possibly…</li>
-<li>Sometimes…</li>
-<li>I’m wondering if…</li>
-<li>Do you think…</li>
-</ul>
-</ul>
-</ul>
+In this course, we ask you to discuss ideas with your peers via Discourse, WordPress and other social media platforms. These discussions are <b><i>ungraded</i></b> and an important part of your assignments in this course. Consider for example, two course learning outcomes that relate to online discussions:
+
+- Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
+- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.  
+
+Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment 3: Digital Literacy Portfolio).
+
+Here are some common discussion instructions in online classes:  
+
+- Most discussion postings should be no more than 250 words. You are also asked to read your fellow learner’s postings and then respond to at least two other people.  
+
+- All postings should be carefully written and edited before being posted. Opinions should be well supported. Your responses should also be communicated in professional language, respectful of others, and to the point.  
+
+As you discuss, be sure to respond substantively.  
+
+Substantive responses may include:
+
+- Providing a new thought, idea, or perspective;  
+- Citing an experience or example of what we are learning;  
+- Adding a new twist on a perspective;  
+- Critically thinking about an idea/concept;  
+- Questioning or challenging a principle/perspective;  
+- Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said;  
+- Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning;  
+- Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment. Or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion.  
+
+What Substantive Participation is NOT:
+
+- Very basic comments such as “I agree” or “I disagree;”  
+- Restating what has been said <i>(unless there is a direct purpose in doing so);  
+- Disrespectfully disagreeing;  
+- Pat answers that are not thought-provoking or do not move the dialogue forward;  
+
+Below are examples of how to stimulate your own and others’ thinking:
+
+- What would happen if…
+- Other times it may be helpful to…  
+- It is my understanding…what is your experience with this?  
+- You might approach this from…  
+- Is it possible that…  
+- Would you consider…  
+- Maybe…  
+- Possibly…  
+- Sometimes…  
+- I’m wondering if…  
+- Do you think…  
+
 <p><span style="font-size: 1rem;"> </span></p>
 <p><b><i>In LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.</i></b></p>
 
