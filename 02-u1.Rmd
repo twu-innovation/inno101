@@ -299,6 +299,7 @@ Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDCli
 
 Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267){target="_blank"} is here to help!  Please reach out if you have any questions. TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/){target="_blank"} website with guides on technology tools you will likely need to use.  Please see the [Online Learning](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4747){target="_blank"} section and the [Information Technology](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=21800){target="_blank"} section for help with the tools mentioned below.
 
+
 ```
 
 
@@ -366,14 +367,92 @@ Make a list of your Top Ten Study Tips for Online Learning.  Next, reflect on ho
 
 A key activity in many online courses is discussing concepts with your peers.  This may take place in a Moodle Discussion Forum, a WordPress blog, a Discourse post, or other discussion tools.  Below are some tips and considerations for participating in discusssions online:
 
-- [Online Discussions: Tips for Students](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/online-discussions-tips-students)
+- [Online Discussions: Tips for Students](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/online-discussions-tips-students){target="_blank"}  
+
+If you're interested in why discussions are included in online courses, have a quick read of these  articles:   
+- [Asynchronous discussions – how and why](https://www.timeshighereducation.com/campus/asynchronous-discussions-how-and-why){target="_blank"}  
+- [What are the Benefits of Asynchronous Discussion?](https://adjunctworld.com/blog/what-are-the-benefits-of-asynchronous-discussion/){target="_blank"}  
+- [Students' engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1096751619304105&site=eds-live&scope=site){target="_blank"} from *The Internet and Higher Education*, October 2019.  Feel free to skim this article, paying particular attention to the Introduction, Discussion, and Conclusion.  
+
+```
+
+#### Discussion Guidelines for LDRS 101  {-}
+
+<p>In this course, we ask you to discuss ideas with your peers via <span>Discourse, WordPress and other social media platforms.  These discussions are <b><i>ungraded</i></b> and an important part of your assignments in this course. </span> Consider for example, two course learning outcomes that relate to online discussions:</p>
+<ul>
+<li>Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.</li>
+<li>Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.</li>
+</ul>
+<p><span style="font-size: 1rem;"><span>Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment 3: Digital Literacy Portfolio).</span></span></p>
+<p><span style="font-size: 1rem;">Here are some common discussion instructions in online classes:</span></p>
+<ul>
+<li>Most discussion postings should be no more than 250 words. You are also asked to read your fellow learner’s postings and then respond to at least two other people.</li>
+<li>All postings should be carefully written and edited before being posted. Opinions should be well supported. Your responses should also be communicated in professional language, respectful of others, and to the point. </li>
+</ul>
+<p><span style="font-size: 0.9375rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';">As you discuss, be sure to respond substantively.</span></p>
+<p></p>
+<p><i>Substantive responses may include:</i></p>
+<ul>
+<ul>
+<ul>
+<li>Providing a new thought, idea, or perspective;</li>
+<li>Citing an experience or example of what we are learning;</li>
+<li>Adding a new twist on a perspective;</li>
+<li>Critically thinking about an idea/concept;</li>
+<li>Questioning or challenging a principle/perspective;</li>
+<li>Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said;</li>
+<li>Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning;</li>
+<li>Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment. Or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion.</li>
+</ul>
+</ul>
+</ul>
+<p> </p>
+<p>What Substantive Participation is NOT:</p>
+<ul>
+<ul>
+<ul>
+<li>Very basic comments such as “I agree” or “I disagree;”</li>
+<li>Restating what has been said <i>(unless there is a direct purpose in doing so);</i></li>
+<li>Disrespectfully disagreeing;</li>
+<li>Pat answers that are not thought-provoking or do not move the dialogue forward;</li>
+</ul>
+</ul>
+</ul>
+<p> </p>
+<p>Below are examples of how to stimulate your own and others’ thinking:</p>
+<ul>
+<ul>
+<ul>
+<li>What would happen if…</li>
+<li>Other times it may be helpful to…</li>
+<li>It is my understanding…what is your experience with this?</li>
+<li>You might approach this from…</li>
+<li>Is it possible that…</li>
+<li>Would you consider…</li>
+<li>Maybe…</li>
+<li>Possibly…</li>
+<li>Sometimes…</li>
+<li>I’m wondering if…</li>
+<li>Do you think…</li>
+</ul>
+</ul>
+</ul>
+<p><span style="font-size: 1rem;"> </span></p>
+<p><b><i>In LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.</i></b></p>
+
+
+### Activity: Start a Conversation!  {-}
+
+```{block2, type='reflect'}
+
+Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about something that has interested you in this topic.  Or perhaps, share your goals as an online learner.  How will you stay motivated in this course?  What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
+
 
 ```
 
 ## Understanding the Digital
 
 Our next topic is an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology. 
-
 
 
 <!--
