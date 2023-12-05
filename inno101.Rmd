@@ -499,7 +499,7 @@ Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDC
 
 ## Learning Online {-}
 
-Now that you are aware of some technical tools needed for your studies, what do you need to know about learning online?  How can you learn effectively in the online environment?  The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
+Having acquainted yourself with the essential technical tools required for your studies, it's time to delve into the crucial aspects of effective online learning. The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
 
 Online learning requires additional skills differing from face-to-face learning, and since online learning is typically self-directed, an absence of these skills will make a students’ learning experience difficult. These skills include:
 
@@ -516,7 +516,7 @@ In face-to-face teaching environments, the requirement to physically attend clas
 
 ```{block2, type='reflect'}
 
-If you search online for "how to be a successful online student" or "tips for online learning" or "strategies for learning online" you will find several great tips to set you up for success.  Take a quick look at the following resources.  As you skim the content, what are some common tipss you notice that you might apply to your online learning routine?
+If you search online for "tips for online learning" or "strategies for learning online" you will find some good advice to set you up for success in your online studies.  Take a quick look at the following resources.  As you skim the content, what tips do you see that could work for your online learning routine?
 
 - [Self-motivation for online students](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/){target="_blank"}  
 - [Tips for Success Online](https://www.unlv.edu/online/tips){target="_blank"}  
@@ -549,7 +549,7 @@ Finally, view the following infographic explaining how to be a successful online
 
 
 After reading articles online and watching pertinent videos, what tips will you implement in your online studies?
-Make a list of your Top Ten Study Tips for Online Learning.  Next, reflect on how you can make the most of your online courses.  What are your goals? What steps will you take to achieve your goals?
+Make a list of your ***Top Ten Study Tips for Online Learning***.  Next, reflect on how you can make the most of your online courses.  What are your goals? What steps will you take to achieve your goals?
 
 
 ```
@@ -558,30 +558,39 @@ Make a list of your Top Ten Study Tips for Online Learning.  Next, reflect on ho
 
 ```{block2, type='reflect'}
 
-A key activity in many online courses is discussing concepts with your peers.  This may take place in a Moodle Discussion Forum, a WordPress blog, a Discourse post, or other discussion tools.  Below are some tips and considerations for participating in discusssions online:
+Engaging in discussions with your peers is a vital component of numerous online courses, whether through a Moodle Discussion Forum, a WordPress blog, a Discourse post, or other platforms. Here are some tips and considerations to enhance your participation in online discussions:
 
 - [Online Discussions: Tips for Students](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/online-discussions-tips-students){target="_blank"}  
+- [Engaging in Online Discussions: Top 10 Tips for Students](https://blogs.qub.ac.uk/digitaldiscovery/2020/07/21/engaging-in-online-discussions-tips-for-students/){target="_blank"} 
 
-If you're interested in why discussions are included in online courses, have a quick read of these  articles:   
+If you're interested in why discussions are included in online courses, skim these articles:   
 - [Asynchronous discussions – how and why](https://www.timeshighereducation.com/campus/asynchronous-discussions-how-and-why){target="_blank"}  
 - [What are the Benefits of Asynchronous Discussion?](https://adjunctworld.com/blog/what-are-the-benefits-of-asynchronous-discussion/){target="_blank"}  
 - [Students' engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1096751619304105&site=eds-live&scope=site){target="_blank"} from *The Internet and Higher Education*, October 2019.  Feel free to skim this article, paying particular attention to the Introduction, Discussion, and Conclusion.  
+
+Another important concept in online dicussions is Netiquette.  Watch [What is Netiquette?](https://www.youtube.com/watch?v=CWbtbycHZok){target="_blank"} and consider the guidelines you feel are important in online discussions.  
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CWbtbycHZok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
 
 ```
 
 #### Discussion Guidelines for LDRS 101  {-}
 
-In this course, we ask you to discuss ideas with your peers via Discourse, WordPress and other social media platforms. These discussions are <b><i>ungraded</i></b> and an important part of your assignments in this course. Consider for example, two course learning outcomes that relate to online discussions:
+In this course, we will ask you to discuss ideas with your peers via Discourse, WordPress and other social media platforms. These discussions are <b><i>ungraded</i></b> and an important part of your assignments in this course. Consider for example, two course learning outcomes that relate to online discussions:
 
 - Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
 - Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.  
 
-Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment 3: Digital Literacy Portfolio).
+Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
-Here are some common discussion instructions in online classes:  
+In LDRS 101, we do not require a word count and are not grading discussion posts.  However, you may encounter some online courses that have specific guidelines for graded online discussions:  
 
 - Most discussion postings should be no more than 250 words. You are also asked to read your fellow learner’s postings and then respond to at least two other people.  
-
 - All postings should be carefully written and edited before being posted. Opinions should be well supported. Your responses should also be communicated in professional language, respectful of others, and to the point.  
 
 As you discuss, be sure to respond substantively.  
@@ -619,7 +628,9 @@ Below are examples of how to stimulate your own and others’ thinking:
 - Do you think…  
 
 <p><span style="font-size: 1rem;"> </span></p>
-<p><b><i>In LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.</i></b></p>
+<p><b><i>Again, in LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.</i></b></p>
+
+```
 
 
 ### Activity: Start a Conversation!  {-}
@@ -627,7 +638,6 @@ Below are examples of how to stimulate your own and others’ thinking:
 ```{block2, type='reflect'}
 
 Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about something that has interested you in this topic.  Or perhaps, share your goals as an online learner.  How will you stay motivated in this course?  What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
-
 
 ```
 
