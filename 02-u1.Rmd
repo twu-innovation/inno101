@@ -284,7 +284,7 @@ Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDC
 
 ```
 
-## Learning Online {-}
+## Learning Online 
 
 Having acquainted yourself with the essential technical tools required for your studies, it's time to delve into the crucial aspects of effective online learning. The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
 
@@ -350,10 +350,10 @@ Engaging in discussions with your peers is a vital component of numerous online 
 - [Online Discussions: Tips for Students](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/online-discussions-tips-students){target="_blank"}  
 - [Engaging in Online Discussions: Top 10 Tips for Students](https://blogs.qub.ac.uk/digitaldiscovery/2020/07/21/engaging-in-online-discussions-tips-for-students/){target="_blank"} 
 
-If you're interested in why discussions are included in online courses, skim these articles:   
-- [Asynchronous discussions – how and why](https://www.timeshighereducation.com/campus/asynchronous-discussions-how-and-why){target="_blank"}  
-- [What are the Benefits of Asynchronous Discussion?](https://adjunctworld.com/blog/what-are-the-benefits-of-asynchronous-discussion/){target="_blank"}  
-- [Students' engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1096751619304105&site=eds-live&scope=site){target="_blank"} from *The Internet and Higher Education*, October 2019.  Feel free to skim this article, paying particular attention to the Introduction, Discussion, and Conclusion.  
+If you're interested in why discussions are included in online courses, skim these articles: 
+- [Asynchronous discussions – how and why](https://www.timeshighereducation.com/campus/asynchronous-discussions-how-and-why){target="_blank"} 
+- [What are the Benefits of Asynchronous Discussion?](https://adjunctworld.com/blog/what-are-the-benefits-of-asynchronous-discussion/){target="_blank"} 
+- [Students' engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1096751619304105&site=eds-live&scope=site){target="_blank"} from *The Internet and Higher Education*, October 2019.  Feel free to skim this article, paying particular attention to the Introduction, Discussion, and Conclusion. 
 
 Another important concept in online dicussions is Netiquette.  Watch [What is Netiquette?](https://www.youtube.com/watch?v=CWbtbycHZok){target="_blank"} and consider the guidelines you feel are important in online discussions.  
 
@@ -375,12 +375,11 @@ In this course, we will ask you to discuss ideas with your peers via Discourse,
 
 Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
-In LDRS 101, we do not require a word count and are not grading discussion posts.  However, you may encounter some online courses that have specific guidelines for graded online discussions:  
+In LDRS 101, we do not require a specific word count, proper APA formatting, or a certain amount of references, although you may take some courses with these guidelines.  
 
-- Most discussion postings should be no more than 250 words. You are also asked to read your fellow learner’s postings and then respond to at least two other people.  
-- All postings should be carefully written and edited before being posted. Opinions should be well supported. Your responses should also be communicated in professional language, respectful of others, and to the point.  
+All postings should be carefully written and edited before being posted. Opinions should be well supported. Responses should also be communicated in professional language, respectful of others, and to the point.  
 
-As you discuss, be sure to respond substantively.  
+In online discussion forums, learners are encouraged to respond substantively. What does this mean?
 
 Substantive responses may include:
 
@@ -396,7 +395,7 @@ Substantive responses may include:
 What Substantive Participation is NOT:
 
 - Very basic comments such as “I agree” or “I disagree;”  
-- Restating what has been said <i>(unless there is a direct purpose in doing so);  
+- Restating what has been said (unless there is a direct purpose in doing so);  
 - Disrespectfully disagreeing;  
 - Pat answers that are not thought-provoking or do not move the dialogue forward;  
 
@@ -414,10 +413,10 @@ Below are examples of how to stimulate your own and others’ thinking:
 - I’m wondering if…  
 - Do you think…  
 
-<p><span style="font-size: 1rem;"> </span></p>
-<p><b><i>Again, in LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.</i></b></p>
+For more on substantive participation, read [Writing A Substantive Discussion Post for An Online Class Forum]{target="_blank"}. 
 
-```
+Again, in LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.
+
 
 
 ### Activity: Start a Conversation!  {-}

@@ -2,6 +2,10 @@ fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 introduction-to-digital-literacies-for-online-learning
 learning-with-technology-at-twu
+learning-online
+understanding-the-digital
+digital-literacies
+visitors-and-residents
 digital-privacy-safety
 discovering-and-curating-resources
 finding-and-selecting-resources
