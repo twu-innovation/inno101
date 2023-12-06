@@ -109,10 +109,10 @@ In this course we have promoted the use of tools that allow you to share your le
 
 Below are several resources that explain how we learn in community.
 
-- [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/)
-- [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)/02%3A_Social_Learning_Theories)
-- [Social networking, knowledge sharing, and student learning: The case of university students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872)
-- [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/)
+- [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} 
+- [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)/02%3A_Social_Learning_Theories){target="_blank"} 
+- [Social networking, knowledge sharing, and student learning: The case of university students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872){target="_blank"} 
+- [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/){target="_blank"} 
 
 Watch [What is social learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"}
 
@@ -122,17 +122,59 @@ Watch [What is social learning?](https://www.youtube.com/watch?v=AB-_822TRms){ta
 
 </div>
 
-At TWU, you may be asked to participate in various group activities, such as group work, partner projects, team presentations, etc.  Have a look at this resource that explains examples and reasons for these activities: [Group work: Using cooperative learning groups effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/)
+At TWU, you may be asked to participate in various group activities, such as group work, partner projects, team presentations, etc.  Have a look at this resource that explains examples and reasons for these activities: [Group work: Using cooperative learning groups effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/){target="_blank"} 
 
 Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:  
-- [TWU Media + Communications students showcase their work at student film festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival)  
-- [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news)
+- [TWU Media + Communications students showcase their work at student film festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival){target="_blank"}   
+- [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news){target="_blank"} 
 
 
 What do you think? How have you experienced social learning in your educational experiences?  How did it help or hinder your learning? What are your goals for sharing your learning in your TWU classes and beyond? Share your thoughts by posting a comment on Discourse, for example: "Sharing learning in academica is valuable because ..."
 
 
 ```
+
+#### Hypothes.is
+
+Hypothes.is an open sourse platform that allows users to annotate any website, communicate with others, and collaborate with peers.      
+
+### Activity: Introduction to Hypothesis {-}
+
+```{block2, type='reflect'}
+
+First, head over the the [Hypothes.is website](https://web.hypothes.is/){target="_blank"}  and have a quick read of what the tool is and how it works.
+
+Next, watch [How to Annotate the Web with hypothes.is](https://www.youtube.com/watch?v=e235JwmmEcQ){target="_blank"} 
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e235JwmmEcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Finally, skim these articles highlighting the benefits of using annotative tools like Hypthes.is: 
+-  [Sharing Notes Is Encouraged: Annotating and Cocreating with Hypothes.is and Google Docs](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsdoj&AN=edsdoj.12d6cddd34714c51bc1f6f8d6d9dea39&site=eds-live&scope=site){target="_blank"} 
+- [Jottings in the Margines - Using Digital Annotation to Support 21st Century Learning](https://www.thescopes.org/assets/scopes/SCOPE_104-Wood_LT9.pdf){target="_blank"} 
+
+
+```
+
+### Activity: Annotating & Collaborating in Hypothes.is {-}
+
+```{block2, type='reflect'}
+
+In this activity, we will practice using Hypothes.is by annotating an article on the difference between digital skills and digital literacies.
+
+1. Read the Hypothes.is [Quick start guide for students](https://web.hypothes.is/quick-start-guide-for-students/){target="_blank"} 
+1. Create an account on Hypothes.is. We recommend that you use the Chrome browser and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: [How to use Hypothes.is on mobile devices](https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/){target="_blank"} .
+1. Read the following article: Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both
+1. Activate the annotations after logging in to Hypothes.is and click on the search icon () and enter the course code (LiDA101) to filter posts for this course from the public feed.
+1. Annotate or reply to posts by visiting the annotation page (You will need to be logged into the Hypothes.is site to post.)
+1. Remember to tag your posts using the course code: LDRS101 (The course tag is required to harvest posts for the course feed.)
+
+```
+
+
 
 ### Activity: Preparing For the Future  {-}
 
