@@ -318,7 +318,7 @@ Next, watch [Study Tips to Succeed as an Online Student](https://www.youtube.com
 
 <div class ="video-container">
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1DRETk-mns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-1DRETk-mns?si=8GzM-pxoA4Wmtfiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
