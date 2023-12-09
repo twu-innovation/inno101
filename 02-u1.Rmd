@@ -631,9 +631,6 @@ The JISC guide defines digital literacies as “those capabilities which fit an 
 
 ![Career Ready Framework](assets/u1/7-digital-literacy-elements.png) 
 
-<a href="/assets/u1/7-digital-literacy-elements.png" class="highslide floatrightm" onclick="return hs.expand(this)" style="max-width:30%">
- <img src="/assets/u1/7-digital-literacy-elements.png" class="img-responsive" alt="filmstrip" title="Click to enlarge">
-</a>
 
 Do you agree that these are the key literacies you need to live, learn and work in today's society?  What would you add?
 
@@ -983,8 +980,18 @@ This journal entry can be used to demonstrate your understanding of the course l
 
 In this first unit, you have had the opportunity to learn about some of the impacts of *the digital* on your life; you've started to build an academic knowledge management workflow, and how to protect yourself in digital and online contexts. 
 
+## Assessment {-}
 
 
+```{block2, type='assessment'}
+
+<span class="blockhead">Assignment 1: Learning Journal</span>
+
+The learning activities in this unit are designed to support you as you build your *Learning Journal* (Assignment 1).  Please see the Assessment section in Moodle for details on this assignment.  Note the activities also relate to your Digital Literacy Portfolio (Assignment 3), so be intentional about completing each activity in this unit to support your in these assignments.
+
+All assignment details, including the grading rubrics, are located in the Assessment section in Moodle.  Please read the instructions carefully and don't hestitate to reach out for support.
+
+```
 
 ## Checking your Learning {-}
 

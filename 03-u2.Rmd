@@ -401,6 +401,18 @@ And here is an article you can read (for free) from the British organization Won
 In this unit, you have had the opportunity to develop crucial skills for navigating the digital resource landscape. You are now able to effectively find and evaluate resources, manage citations, and understand the importance of openness in education. These skills will enhance your ability to use digital resources for academic and professional growth responsibly and effectively.
 
 
+## Assessment {-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assignment 1: Learning Journal</span>
+
+The learning activities in this unit are designed to support you as you build your *Learning Journal* (Assignment 1).  Please see the Assessment section in Moodle for details on this assignment.  Note the activities also relate to your Digital Literacy Portfolio (Assignment 3), so be intentional about completing each activity in this unit to support your in these assignments.
+
+All assignment details, including the grading rubrics, are located in the Assessment section in Moodle.  Please read the instructions carefully and don't hestitate to reach out for support.
+
+```
+
 
 ## Checking your Learning {-}
 

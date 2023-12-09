@@ -3,6 +3,7 @@
 
 ## Overview {-}
 
+Welcome to our third unit in *Learning with Technology*, where we explore the symbiotic relationship between technology and knowledge synthesis. In this unit, we will unravel the intricacies of sense-making through hyperlinks and tags, discovering their pivotal roles in creating a cohesive web of information. You will delve into the transformative realm of digital note-taking, learning how to capture, organize, and review key ideas efficiently. As we progress, we will unlock the potential of visual representations through concept maps, using digital tools to illustrate complex relationships and hierarchies that foster a deeper understanding of interconnected ideas. Moreover, we'll venture into a curated selection of digital tools designed to support and augment the learning process, evaluating their benefits in catering to diverse learning styles and preferences.  By the conclusion of this unit, you will not only have mastered the art of connecting ideas through hyperlinks, tags, note-taking, and concept maps, but you will also be equipped with a toolkit of digital resources to enrich your learning journey.
 
 ### Topics {-}
 
@@ -295,19 +296,26 @@ give examples?
 
 ## Summary {-}
 
-In this unit, you have had the opportunity to learn about ...
+As we conclude our unit, reflect on the your learning. Throughout this unit, you've acquired a multifaceted skill set that empowers you to harness the potential of technology in synthesizing and organizing knowledge. From understanding the intricate dance of hyperlinks and tags to mastering the art of digital note-taking, you've explored tools and strategies that redefine how we connect ideas in the digital age.
 
+Concept maps have become your canvas, allowing you to visually articulate complex relationships and hierarchies with precision and clarity. The curated digital tools we've explored are now at your disposal, enhancing your learning experience and catering to your unique preferences. Remember, this unit isn't just about understanding concepts; it's about applying these newfound skills in real-world scenarios.
+
+As you move forward, carry this digital toolkit with you, leveraging technology as a powerful ally in your ongoing pursuit of knowledge. Your ability to connect ideas seamlessly through hyperlinks, tags, note-taking, and concept maps positions you as a dynamic learner in an ever-evolving educational landscape. The skills you've honed here are not just for this course but are lifelong assets that will continue to enrich your learning journey.
 
 
 ## Assessment {-}
 
+
 ```{block2, type='assessment'}
 
-<span class="blockhead">Quizzes 1 & 2</span>
+<span class="blockhead">Assignment 1: Learning Journal</span>
 
-After completing this unit, including the learning activities, you are asked to complete ...
+The learning activities in this unit are designed to support you as you build your *Learning Journal* (Assignment 1).  Please see the Assessment section in Moodle for details on this assignment.  Note the activities also relate to your Digital Literacy Portfolio (Assignment 3), so be intentional about completing each activity in this unit to support your in these assignments.
+
+All assignment details, including the grading rubrics, are located in the Assessment section in Moodle.  Please read the instructions carefully and don't hestitate to reach out for support.
 
 ```
+
 
 ## Checking your Learning {-}
 
@@ -315,8 +323,9 @@ After completing this unit, including the learning activities, you are asked to 
 
 Before you move on to the next unit, check that you are able to:
 
-- ...
-- ...
+- Build and customize technology-integrated workflows to enhance and enrich your learning journey.  
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge.  
+- Evaluate digital tools, platforms, and interactions based on ethical principles.  
  
 
 ```
