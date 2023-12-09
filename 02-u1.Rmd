@@ -351,6 +351,7 @@ Engaging in discussions with your peers is a vital component of numerous online 
 - [Engaging in Online Discussions: Top 10 Tips for Students](https://blogs.qub.ac.uk/digitaldiscovery/2020/07/21/engaging-in-online-discussions-tips-for-students/){target="_blank"} 
 
 If you're interested in why discussions are included in online courses, skim these articles: 
+
 - [Asynchronous discussions – how and why](https://www.timeshighereducation.com/campus/asynchronous-discussions-how-and-why){target="_blank"} 
 - [What are the Benefits of Asynchronous Discussion?](https://adjunctworld.com/blog/what-are-the-benefits-of-asynchronous-discussion/){target="_blank"} 
 - [Students' engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1096751619304105&site=eds-live&scope=site){target="_blank"} from *The Internet and Higher Education*, October 2019.  Feel free to skim this article, paying particular attention to the Introduction, Discussion, and Conclusion. 
@@ -413,7 +414,7 @@ Below are examples of how to stimulate your own and others’ thinking:
 - I’m wondering if…  
 - Do you think…  
 
-For more on substantive participation, read [Writing A Substantive Discussion Post for An Online Class Forum]{target="_blank"}. 
+For more on substantive participation, read [Writing A Substantive Discussion Post for An Online Class Forum](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"}. 
 
 Again, in LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.
 
@@ -581,7 +582,7 @@ Let's take a look at the definitions of digital literacy and digital skills on t
 ```
 
 
-### Activity: Forum – Why digital literacy matters {-}
+### Activity: Why Digital Literacy Matters {-}
 
 ```{block2, type='reflect'}
 
@@ -600,7 +601,7 @@ Watch: [Digital literacy and why it matters](https://www.youtube.com/watch?v=p2k
 </div>
 
 Next, go to the LDRS 101 section in Discourse.  Post a contribution to the discussion on digital literacies and why they are important for you  
-Try to post one or two replies to interesting contributions (You should also “like” good contributions, use @username when replying, and if appropriate quote a reply when responding.)  
+Try to post one or two replies to interesting contributions. (You should also “like” good contributions, use the person's username when replying, and if appropriate quote a reply when responding.)  
 
 ```
 
@@ -614,10 +615,23 @@ As you explore the concept, you will find online resources which confuse digital
 
 ```{block2, type='reflect'}
 
-Watch educator and researcher Doug Belsahw as he discusses his digital literacies framework: [The essential elements of digital literacies](https://www.youtube.com/watch?v=A8yQPoTcZ78)
+Watch educator and researcher Doug Belsahw as he discusses his digital literacies framework: [The essential elements of digital literacies](https://www.youtube.com/watch?v=A8yQPoTcZ78){target="_blank"}
 
-Take a look at the graphic below.  Do you agree that these are the key literacies you need in today's workplace?  What would you add?
-<a title="The 8 Essential Elements of Digital Literacies #digilit" href="https://flickr.com/photos/aaron_davis/21332179175"><img src="https://live.staticflickr.com/5738/21332179175_c5dab9d75c.jpg" alt="The 8 Essential Elements of Digital Literacies #digilit" /></a><br /><small><a title="The 8 Essential Elements of Digital Literacies #digilit" href="https://flickr.com/photos/aaron_davis/21332179175">The 8 Essential Elements of Digital Literacies #digilit</a> flickr photo by <a href="https://flickr.com/people/aaron_davis">mrkrndvs</a> shared under a <a href="https://creativecommons.org/licenses/by-sa/2.0/">Creative Commons (BY-SA) license</a></small>
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A8yQPoTcZ78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+
+Next, read [Quick guide - Developing students’ digital literacy](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"} 
+
+The JISC guide defines digital literacies as “those capabilities which fit an individual for living, learning and working in a digital society”. Furthermore, this report distinguishes between seven types of digital literacies:
+
+
+![Career Ready Framework](assets/u1/7-digital-literacy-elements.png) 
+
+Do you agree that these are the key literacies you need to live, learn and work in today's society?  What would you add?
 
 Conduct a quick Google search for "digital literacies" and throw in terms such as "essential", "top", "21st century".  What other literacies or skills are emphasized?  What would your list be for digital literacies that are important for you?
 
