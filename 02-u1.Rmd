@@ -631,6 +631,10 @@ The JISC guide defines digital literacies as “those capabilities which fit an 
 
 ![Career Ready Framework](assets/u1/7-digital-literacy-elements.png) 
 
+<a href="/assets/u1/7-digital-literacy-elements.png" class="highslide floatrightm" onclick="return hs.expand(this)" style="max-width:30%">
+ <img src="/assets/u1/7-digital-literacy-elements.png" class="img-responsive" alt="filmstrip" title="Click to enlarge">
+</a>
+
 Do you agree that these are the key literacies you need to live, learn and work in today's society?  What would you add?
 
 Conduct a quick Google search for "digital literacies" and throw in terms such as "essential", "top", "21st century".  What other literacies or skills are emphasized?  What would your list be for digital literacies that are important for you?
