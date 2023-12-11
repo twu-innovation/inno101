@@ -1270,12 +1270,11 @@ This unit is divided into the following topics:
 
 When you have completed this unit, you should have made progress toward the following course outcomes:
 
-- Build and customize technology-integrated workflows to enhance and enrich your learning journey
+- Develop effective search strategies to locate scholarly resources using various academic databases and online repositories. 
+- Utilize citation management tools effectively to organize references, generate bibliographies, and streamline the citation process. 
+- Describe the principles of openness in education, including open educational resources (OER) and open access.
+- Build and customize technology-integrated workflows to enhance and enrich your learning journey.
 - Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study.
-- Evaluate digital tools, platforms, and interactions based on ethical principles
-
-
- 
 
 
 ### Activity Checklist {-}
@@ -1470,14 +1469,14 @@ Some of your best advocates on campus or online are the librarians who work at t
 
 Take some time to browse the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} website.  
 
-See if you can find the answer to the following questions: 
- - Is it possible to borrow or download an e-book? 
- - I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?  
- - Do you have books in languages other than English?  
- - Do you have e-books?  
- - Can I Email a Trinity Western librarian anytime with my research questions?   
- - What is AskAway? 
- - What do I do if I have trouble logging in to library databases from off-campus?  
+See if you can find the answer to the following questions:  
+- Is it possible to borrow or download an e-book? 
+- I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?  
+- Do you have books in languages other than English?  
+- Do you have e-books?  
+- Can I Email a Trinity Western librarian anytime with my research questions?   
+- What is AskAway? 
+- What do I do if I have trouble logging in to library databases from off-campus?  
 
 ```
 
@@ -1514,12 +1513,12 @@ This activity focuses on searching database repositories. Most databases provide
 
 1. View the following resources on searching using databases.  
 
-- [Top ten database search tips](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/) published by Berkley City College Library.  
-- [Searching in databases](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases) published by the University of Queensland Library.  
-- [Directory of Open Access Journals (DOAJ)](https://doaj.org/) – see also FAQs  
-- [BASE Advanced Search](https://mobile.base-search.net/Search/Advanced/)  
+- [Top ten database search tips](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"} published by Berkley City College Library.  
+- [Searching in databases](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"} published by the University of Queensland Library.  
+- [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} – see also FAQs  
+- [BASE Advanced Search](https://mobile.base-search.net/Search/Advanced/){target="_blank"}  
 
-2. View the following video on using the [Directory of Open Access Journals (DOAJ)](https://www.youtube.com/watch?v=ndvLm9MIfKA).
+2. View the following video on using the [Directory of Open Access Journals (DOAJ)](https://www.youtube.com/watch?v=ndvLm9MIfKA){target="_blank"}.
 
 
 
@@ -1538,8 +1537,83 @@ This activity focuses on searching database repositories. Most databases provide
 How was your progress with this activity? Feel free to share your thoughts in Obsidian. For example:
 
 - Finding resources for my topic was …  
- I found …. helpful.  
+- I found …. helpful.  
 - Database search tip: When …  
+
+```
+
+## Evaluating Resources
+
+A key part of finding and selecting resources is evaluating the resource. There is a great deal of information available on the Internet. Some of it is very credible and useful. However, there is a lot of misinformation and poorly researched information online too. As you become more skilled at academic online searching and locating materials you will become quicker at determining what information is useful and credible. 
+
+So how do you evaluate the sources to ensure you are using credible sources?  The following technique called, the CRAAP test, will help you evaluate the sources you find.
+
+C - Currency
+R - Relevance
+A - Authority
+A - Accuracy
+P – Purpose
+
+### Activity: Using the CRAAP Test {-}
+
+```{block2, type='reflect'}
+
+Watch [How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)](https://www.youtube.com/watch?v=_M1-aMCJHFg){target="_blank"} that illustrates a set of steps you could take to evaluate sources.
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_M1-aMCJHFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+#### Questions to Consider {-}  
+After completing the activity above, consider the following questions:  
+- Which part of the CRAAP test did you find most useful in evaluating sources?  
+- What steps can you take when you evaluate any sources you find?  
+
+
+```
+
+
+### Reliability of Wikipedia {-}  
+
+Wikipedia is the free online encyclopedia created through collaborative effort of contributors from around the globe. Wikipedia is one of the most popular websites in the world. When conducting general Internet searches, Wikipedia articles will frequently be listed in the top results.
+
+Anyone registered on the Wikipedia site can create a new article page. Anyone can edit a Wikipedia article, and registration is not required to edit existing articles.
+
+There have been a number of studies examining the accuracy of Wikipedia articles. Notwithstanding the outcomes of these studies, many educational institutions will not accept the use of Wikipedia as a credible source for academic writing and research. In this section we invite learners to evaluate whether Wikipedia is a trustworthy resource and to form a justified opinion on its use as a reliable resource for academic writing.
+
+### Activity: Wikipedia: Why or Why Not? {-}
+
+```{block2, type='reflect'}
+
+Consider the following statement:
+
+> Wikipedia is a reliable source for academic study
+
+Do you agree?  Have you cited Wikipedia in any academic work?  Why or why not?
+
+Read the following:
+
+- [Is Wikipedia a Trustworthy Academic Resource? Scientists Think So](https://edtechmagazine.com/higher/article/2017/12/wikipedia-trustworthy-academic-resource-scientists-think-so){target="_blank"} published by EdTech Magazine. 
+- [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} article on Wikipedia.  
+- [Should university students use Wikipedia?](https://www.theguardian.com/education/2013/may/13/should-university-students-use-wikipedia){target="_blank"} published by theguardian.com. 
+Optional reading annotations: Conduct a search for credible and reliable resources on the topic of the reliability and credibility of Wikipedia articles.
+
+Next, watch [Using Wikipedia for Academic Research (CLIP)](https://www.youtube.com/watch?v=Cql_yVUYj6A){target="_blank"}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Cql_yVUYj6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+Drawing on your study of the reliability and credibility of online resources share your advice to fellow learners on this course regarding use of Wikipedia for academic purposes by posting a comment on Discourse. For example:
+
+- You can use Wikipedia for … because … 
+- You should not use Wikipedia for … because … 
 
 ```
 
@@ -1549,17 +1623,27 @@ How was your progress with this activity? Feel free to share your thoughts in Ob
 
 Now that you have a handful of references to keep track of, it's time to get started with Zotero to help you manage your references. I promise that learning to use a reference manager like Zotero will save you MANY hours per semester, and likely days or weeks over the course of your degree. Do *Future You* a huge favour and get in this habit now.
 
+Before you explore the next essential tool, watch [Benefits of Using Citation Management Tools](https://www.youtube.com/watch?v=sy9PVZAbSAQ){target="_blank"}
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sy9PVZAbSAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
 ### Download and Install Zotero {-}
 
 The RIS file you exported from LitMaps isn't going to be very useful unless you have software that can read it properly. Your best option is Zotero as it is free and open source and has a good number of plugins and integrations you can use to connect with other apps.
 
-Go to [zotero.org](https://zotero.org) and click the red 'Download' button. Then follow the instructions to install Zotero on your computer. If you want to sign up for free storage (300MB) and backup for your library, you can also do that here.
+Go to [zotero.org](https://zotero.org){target="_blank"} and click the red 'Download' button. Then follow the instructions to install Zotero on your computer. If you want to sign up for free storage (300MB) and backup for your library, you can also do that here.
 
 Once you have installed Zotero, there are some plugins that will help you in your studies. These are listed below with links to instructions on how to install and configure the plugin.
 
-1. [Zotfile](http://zotfile.com/#how-to-install--set-up-zotfile) - allows you to find and manage PDFs in your Zotero library
-2. [Citation Counts Manager](https://github.com/eschnett/zotero-citationcounts#installing) - automatically update citation counts for items in your library
-3. [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation) - provides a breakdown of how references are cited in the literature
+1. [Zotfile](http://zotfile.com/#how-to-install--set-up-zotfile){target="_blank"} - allows you to find and manage PDFs in your Zotero library
+2. [Citation Counts Manager](https://github.com/eschnett/zotero-citationcounts#installing){target="_blank"} - automatically update citation counts for items in your library
+3. [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
 
 Now that you have Zotero ready to go, it's time to import your first references. Find the 'untitled.ris' file in your downloads folder and double-click it to open. You might have to confirm that you want to open with Zotero.
 
@@ -1569,7 +1653,7 @@ Keep in mind that each journal system will name the downloaded file differently,
 
 LitMaps is not the only way that you can connect to Zotero. You can also export items directly from a search in the library databases.
 
-Go to [twu.ca/library](https://twu.ca/library) and search for 'transformational servant leadership'. On the results page, you might notice that you are prompted to sign in to see certain items. There is a yellow banner at the top of the page with a link to login.
+Go to [twu.ca/library](https://twu.ca/library){target="_blank"} and search for 'transformational servant leadership'. On the results page, you might notice that you are prompted to sign in to see certain items. There is a yellow banner at the top of the page with a link to login.
 
 Click on the top item in the list of results
 
@@ -1591,7 +1675,7 @@ From here on to the day you graduate with your BA, then your MA, and finally you
 
 Now that you have connected LitMaps to Zotero, let's explore how to use Zotero in your studies.  
 
-1. Let's review the basics of Zotero by watching [What is Zotero?](https://www.youtube.com/watch?v=5xClqW2Jv04)
+1. Let's review the basics of Zotero by watching [What is Zotero?](https://www.youtube.com/watch?v=5xClqW2Jv04){target="_blank"}
 
 <div class ="video-container">
 
@@ -1599,11 +1683,23 @@ Now that you have connected LitMaps to Zotero, let's explore how to use Zotero i
 
 </div>
 
-2. Now, let's start using it!  Go to the TWU Library or Google Scholar and find articles that interest you.  
+2. Now, let's start using it!  Go to the LitMaps, TWU Library or Google Scholar and find articles that interest you.  
 
-3. Add a couple of articles to your Zotero library by using the Zotero plugin.
+3. Populate your library with the following resources to support a research topic that interests you.   
 
-4. Next, play with some of the Zotero annotation features.  Watch [How to Annotate PDFs in Zotero | Highlight, create notes, and capture PDF screenshots](https://www.youtube.com/watch?v=lGeJCsNHBR4) for instructions.
+- Manual entry for a published book 
+- Manual entry for a chapter within an edited book (note that the library record for a book section or chapter should must have separate fields for the author(s) and editor(s)) 
+- Automatic harvesting of bibliographic information for a journal article (if supported by a browser extension or bookmarklet by your preferred citation management tool). 
+- Automatic harvesting of bibliographic information for a newspaper article (if supported by a browser extension or bookmarklet by your preferred citation management tool). 
+- Automatic harvesting of a useful resource from the resource bank (Tip: Link through to the source website before harvesting the bibliographic information.) 
+
+> In each case, review that all relevant fields required for the bibliography have been completed correctly. Don’t rely on the accuracy of the automatic features as this is dependant on the metadata and adherence to open standards on the source website. Pay particular attention to punctuation and consistent use of capitalisation.
+
+- Add descriptive tags. This will enhance searching of your library database. 
+- Organise your resources using folders. 
+
+
+4. Next, play with some of the Zotero annotation features.  Watch [How to Annotate PDFs in Zotero | Highlight, create notes, and capture PDF screenshots](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} for instructions.
 
 <div class ="video-container">
 
@@ -1612,7 +1708,7 @@ Now that you have connected LitMaps to Zotero, let's explore how to use Zotero i
 </div>
 
 
-5. If you want to take the next step, let's make your tools work together!  Watch the video [Zotero Obsidian Integration](https://www.youtube.com/watch?v=CGGeMrtyjBI) and see the features offered when you integrate these tools.
+5. If you want to take the next step, let's make your tools work together!  Watch the video [Zotero Obsidian Integration](https://www.youtube.com/watch?v=CGGeMrtyjBI){target="_blank"} and see the features offered when you integrate these tools.
 
 <div class ="video-container">
 
@@ -1639,13 +1735,119 @@ And here is an article you can read (for free) from the British organization Won
 
 
 
-[Reflective Writing](https://www.youtube.com/watch?v=QoI67VeE3ds)
+OER, or Open Educational Resources, refers to freely accessible and openly licensed educational materials that can be used, shared, and modified without cost. These resources include a variety of digital assets, such as textbooks, lecture notes, multimedia content, and assessment tools. The key features of OER include their open licenses, which typically allow users to ***retain, reuse, revise, remix***, and ***redistribute*** the content.
 
+### The 5 R's of Openess {-}  
+
+**Retain**
+the right to make, own, and control copies of the content
+
+**Reuse**
+the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+
+**Revise**
+the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+
+**Remix**
+the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)
+
+**Redistribute**
+the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend) 
+
+*This material was created by David Wiley and published freely under a Creative Commons Attribution 4.0 license. [Source](http://opencontent.org/blog/archives/3221){target="_blank"}
+
+
+Why use OER? The usefulness of OER in higher education can be attributed to several compelling reasons:
+
+- **Affordability**: OER mitigates financial barriers for students by providing access to educational materials at no cost. This is particularly significant as the high cost of traditional textbooks and learning resources can be a substantial financial burden for students.  
+
+- **Accessibility**: OER promotes equitable access to educational content globally. Anyone with an internet connection can benefit from OER, fostering inclusivity and addressing issues of accessibility in higher education.
+
+- **Customized Learning Materials**: Instructors can tailor OER to align seamlessly with course requirements, creating a personalized learning experience for students.
+
+- **Community Collaboration**: OER encourages collaborative knowledge-sharing among educators and students, fostering a sense of shared learning within the academic community.
+
+- **Current and Relevant Content: OER's adaptable nature facilitates easy updates, ensuring educational materials reflect the latest advancements, providing students with up-to-date information.  
+
+- **Global Perspectives: The inclusive design of OER integrates diverse global viewpoints, enhancing cultural awareness and expanding students' understanding of various academic frameworks.
+
+- **Ethical Usage: OER operates with transparent licensing, ensuring ethical use of materials and upholding the principles of academic integrity.
+
+In summary, OER offers a cost-effective, flexible, and collaborative approach to educational resource development, making it a valuable and impactful asset in higher education. Its adoption aligns with the broader goals of enhancing accessibility, affordability, and inclusivity in the learning experience.
+
+### Activity: Finding OERs {-}
+
+```{block2, type='reflect'}
+
+Go to the [Open Educational Resources Libguide](https://libguides.twu.ca/oer){target="_blank"} from the TWU Library. Watch the introduction to OER video and then browse through the category of OERs provided.  Take some time to find an OER that relates to a topic that interests you.
+
+In your Obsidian Learning Journal, create an entry about an OER resource you found.  Use the CRAAP test to evaluate it, and explain why this resource interests you.
+
+```
+
+### Activity: Reflecting on Your Resource {-}
+
+```{block2, type='reflect'}
+
+We've reached the end of Unit 2, where you have explored several tools and practiced digital skills to help you find and select resources for academic study.  As you have practiced the activities in this unit, you have curated a resource bank about the topic of your choice.  In this activity, we ask you to write a paragraph about this topic, utilizing the resources you have found. 
+
+1. Read How to write a good paragraph published by Ashford University. 
+2. Draft a paragraph using your word processor on an issue relating to your research topic. 
+
+Your paragraph must contain: 
+- A verbatim quotation extract from one of your sources 
+- A paraphrased fact from one of your sources 
+
+3. Use the features of your citation management software to integrate 
+- the in-text reference for your quotation 
+- the in-text reference for the paraphrased fact 
+- the automatically generated reference list using the APA style. 
+
+4. Consult the Quick APA guide to review your formatting. 
+5. Generate a pdf version of your paragraph. 
+6. Prepare a short journal entre of about 150 words sharing your experiences in using citation management software. For example: What worked well?, Did you struggle with any of the instructions? Did you learn any new skills? 
+
+Note that this reflection can be uses for your assessment in this course. 
+
+```
+
+
+### Activity: Annotated Bibliography {-}
+
+```{block2, type='reflect'} 
+
+In this activity you will create an annotated bibliography related to a research topic of your choice. 
+
+Read the following resources:  
+
+*Evaluating online sources:* 
+
+- [How to (seriously) read an academic paper](https://www.science.org/content/article/how-seriously-read-scientific-paper){target="_blank"} 
+
+*Preparing an annotated bibliography:* 
+
+- [Writing an annotated bibliography](https://advice.writing.utoronto.ca/types-of-writing/annotated-bibliography/){target="_blank"}, by Deborah Knott, New College Writing Centre, University of Toronto. 
+- [How to prepare an annotated bibliography](https://library.concordia.ca/help/writing/annotated-bibliography.php){target="_blank"}, published by Concordia University. 
+
+*Example:*
+
+- [Examples of annotated bibliography](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html){target="_blank"} (Published Purdue University). 
+
+
+Next, create an annotated bibliography in Obsidian for two sources which must include a journal article and a book chapter from an edited collection of chapters from multiple authors. 
+
+- You can select resources already saved in your library or search for new ones in support of your research topic. 
+- Use the note or comment feature of your citation management software to record a copy of your annotation. 
+- You must use Zotero to generate the reference using the APA format. 
+
+```
 
 
 ## Summary {-}
 
 In this unit, you have had the opportunity to develop crucial skills for navigating the digital resource landscape. You are now able to effectively find and evaluate resources, manage citations, and understand the importance of openness in education. These skills will enhance your ability to use digital resources for academic and professional growth responsibly and effectively.
+
+In addition, exploring Openness in Education broadened your understanding of the transformative power of freely accessible educational resources. By delving into the principles of open educational resources (OER) and open access, we hope to have conveyed their significance in making education more accessible. This newfound awareness not only empowers you as a learner but also places you in a role as a contributor to a global academic community. As you conclude this unit with refined skills in resource navigation, citation management, and a deeper appreciation for openness in education, you are well-equipped to responsibly and effectively leverage digital resources for ongoing academic and professional growth. These skills are not just tools for immediate success but enduring assets, shaping your lifelong journey in the ever-evolving realm of digital knowledge.
 
 
 ## Assessment {-}
@@ -4827,30 +5029,4 @@ Choose one or two of the following readings (feel free to annotate using Hypothe
 -->
 
 <!--chapter:end:07-u6.Rmd-->
-
-# Course Map {-}
-
-See the following course map outlining key topics, questions, and competencies.
-
-
-<iframe width='853' height='480' src='https://embed.coggle.it/diagram/ZTCp5q_HfWTHX1u4/ffff1ed3a6aa9343bae1142afabcc9343e604c3b557e90c36469a5ce844849a3' frameborder='0' allowfullscreen></iframe>
-
-
-<!--
-
-
-e.g. 
-
-<iframe width='780' height='500' src='https://embed.coggle.it/diagram/XmZC8uMesCWdXGt6/70b78931eae4a12991c10df0f7f2f49f498e58ad68cc66e3f82da43b57951f3e' frameborder='0' allowfullscreen></iframe>
-
-
-from https://phgrosjean.sciviews.org/bookdown-test/a-coggle-mind-map.html
-
-code here: https://github.com/phgrosjean/bookdown-test/blob/master/01-Introduction.Rmd
-
-(also see special blocks: https://phgrosjean.sciviews.org/bookdown-test/special-blocks.html)
-
--->
-
-<!--chapter:end:89-course-map.Rmd-->
 
