@@ -77,9 +77,6 @@ You can also download an offline copy of this books in a pdf format. If you are 
 - Learning activities to help you engage with the concepts and practice digital skills. These often include key readings, videos, exploring digital tools, and reflective prompts.
 - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.
 
- ```{block, type='caution'}
- Note that assessments, including assignments and discussion posts will be submitted in Moodle and in WordPress.  See the Assessment tab in Moodle for assignment details and dropboxes.
- ```
 
 ### Course Activities{-}
 
@@ -116,7 +113,7 @@ This course is about learning with technology. Digital literacies are closely li
 
 #### An open philosophy of inclusion {-}
 
-Learning with Technology incorporates a wide range of online technologies and software applications. In this course we want to promote free and open source software because we believe that no learner should be denied access to learning for lack of funds to purchase a proprietary software license.  Nor do we believe that you should be forced to sacrifice your freedoms in software choice.
+*Learning with Technology* incorporates a wide range of online technologies and software applications. In this course we want to promote free and open source software because we believe that no learner should be denied access to learning for lack of funds to purchase a proprietary software license.  Nor do we believe that you should be forced to sacrifice your freedoms in software choice.
 
 The course resources and interaction technologies are based entirely on free and open source software and you will be able to complete all the learning activities using open source applications without the need to purchase any software. You are free to use proprietary technology applications of your choice, but you can also use this course to explore and experiment with open technology.
 
@@ -131,8 +128,9 @@ The following table provides a summary of the main technologies used in this cou
 | Discourse   | Discourse is a free, open source social network which is hosted at <https://twu.discourse.group/> (bookmark this page).  We use Discourse in this course for discussions. Go to the [LDRS101 forums](https://twu.discourse.group/c/ldrs101/10) in Discourse to explore some of the topics you might engage with during this course.       |
 | Obsidian    | Obsidian is a free note-taking and mind-mapping app. We introduce this digital tool early on in the course as you will use it often for your journal reflections, and for your assignments.   |
 | Litmaps | Litmaps is a web app that you can use to discover and manage resources. In this course you will use Litmaps to build a map of the literature related to topics you want to research.    |
+| Zotero | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.    |
 | Hypothes.is | We use [Hypothes.is](https://hypothes.is/), an open source web-service that enables users to annotate, discuss and share reflections on web site pages on the Internet.   |
-| WordPress    | In Unit 4 we introduce WordPress, a free, open-source platoform used to create websites and blogs. Learners are invited to establish their own **personal course blog**. In this way you will retain control over your own data even when the course is finished.  We recommend WordPress as this tool is supported by TWU, but you may use a blogging platform of your choice.      |
+| WordPress    | In Unit 4 we introduce WordPress, a free, open-source platform used to create websites and blogs. Learners are invited to establish their own **personal course blog**. In this way you will retain control over your own data even when the course is finished.  We recommend WordPress as this tool is supported by TWU, but you may use a blogging platform of your choice.      |
 | Zoom     | Zoom is a communications platform that allows you to connect via video, audio, phone, or chat. Note the GX Live sessions may use Zoom for the Learning Lab sessions. GX Prime students are encouraged to take advantage of the Learning Hub, which will have weekly Zoom meetings as well.    |
 
 <!--
@@ -213,11 +211,11 @@ If your course is using Hypothes.is to  instructions will be given in the course
 
 ## Overview {-}
 
-Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally-saturated society. It is our intent to provide you with opportunities to start your university career with an emerging set of skills and literacies related to digital tools for learning. Within your academic pursuits, you will encounter a vast amount of information, and integrating digital tools into your learning journey might be difficult. Your chosen discipline will provide ample learning possibilities, and incorporating digital tools to enhance your learning may prove challenging. This course will give you a head start on using digital tools to build a workflow that will allow you to stay organized and to make your process of learning visible for yourself and your instructors. We will also lead you through readings and thoughts about your digital identity, privacy and security, and sharing your new knowledge in ethical ways.
+Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally-saturated society. It is our intent to equip you with an emerging set of skills and literacies related to digital tools for learning. Within your academic pursuits, you will encounter a vast amount of information, and integrating digital tools into your learning journey, though challenging, is essential for harnessing the ample learning possibilities offered by your chosen discipline. This course will give you a head start on using digital tools to build a workflow, enabling you to stay organized and to make your learning process visible to both yourself and your instructors. We will also lead you through readings and discussions on topics such as digital identity, privacy, security, and ethical ways of sharing newfound knowledge.
 
-There will be two primary branches of the course and the tools that we will show you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your 'ownership' over your work.
+There will be two primary branches of the course, each focusing on specific tools that we will introduce to you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your 'ownership' over your work.
 
-In this first unit, there will be both theoretical and practical work for you to do. In order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalites to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
+In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online.  Then, in order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalites to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
 
 ### Topics {-}
 
@@ -253,12 +251,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Reflect on why you chose TWU and share your expecations with your peers.
 - Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse.  
 - Search online for learning tools to help with note-taking, project managment, writing, etc. Share your findings on Discourse.
-- Download and install [Obsidian](https://obsidian.md){target="_blank"}  
+- Download and install [Obsidian](https://obsidian.md){target="_blank"}.  
 - Download and open the course vault in Obsidian. Activate the plugins that came with the Obsidian vault.  
-- View the resources provided on the 21st century learner
-- Create a Visitors and Residents diagram  
-- Get a password manager  
-- Use the Terms of Service: Didn’t Read site to look up each of the apps we will learn in this course. 
+- View the resources provided on the 21st century learner.
+- Create a Visitors and Residents diagram.  
+- Get a password manager.  
+- Use the *Terms of Service: Didn’t Read* website to look up each of the apps we will learn in this course. 
 - Write a reflection on digital literacies in your learning journal.
 
 You will be directed to complete these activities as they come.  
@@ -369,14 +367,14 @@ First, let's tackle what technical skills you will need as you start your studie
 - Sending/receiving email  
 - Sending and receiving attachments via email  
 - Using a web browser  
-- Finding resources through search engines (e.g. Chrome or Firefox)  
+- Utilizing search engines, such as Google Chrome or Mozilla Firefox, to locate resources.  
 - Downloading and installing software  
-- Familiarity with using browser plug-ins (e.g. PDF reader, video, audio)  
+- Being familiar with browser plug-ins, such as PDF readers, video, and audio players.  
 - Using a word processing, presentation software, or other productivity applications  
-- Experience/familiarity with a variety of file formats such as: .pdf "Portable Document Format", .rtf "Rich Text Format", .doc or .docx "Microsoft Word Document", or .txt "Text document"  
-- The ability to be self-directed in learning new technology skills (e.g. following a handout, a step-by-step tutorial, online video help, or access to support to learn necessary skills)  
+- Having experience or familiarity with various file formats, including .pdf (Portable Document Format), .rtf (Rich Text Format), .doc or .docx (Microsoft Word Document), and .txt (Text document).  
+- Being self-directed in learning new technology skills, such as following a handout, a step-by-step tutorial, online video assistance, or accessing support for acquiring necessary skills.    
 
-This last skill is essential, as you will likely come across some tech tool that you need to figure out.  Consider how much you've learned in this course so far. You've got this!
+This skill is crucial, especially when encountering unfamiliar tech tools that you need to navigate. Throughout this course you will have ample opportunity to practice these digital skills.  
 
 </details>
 
@@ -384,7 +382,7 @@ This last skill is essential, as you will likely come across some tech tool that
 
 <summary>**Basic Hardware, Software & Accessories**</summary>
 
-This next section will outline basic hardware and software, and accessories you will likely need as a TWU student. As you read, check off items you have, and/or feel comfortable using.
+This section provides an overview of fundamental hardware, software, and accessories you will likely need as a TWU student. As you go through the list, note the items you have, and/or feel comfortable using. 
 
 ##### Hardware {-}
 - Computer - PC, Mac, Chromebook or tablet  
@@ -478,7 +476,7 @@ Guidance Table for Sharing Data
 
 <summary>**Other Common Tools Supported at TWU**</summary>
 
-Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create e-portolfios, or develop other media.  We recommend the following:  
+Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create e-portfolios, or develop other media.  The following is a list of common tools that you might need to acquaint yourself with. In this course, we will utilize Zoom and WordPress, introducing these tools as they become relevant.
 
 - [MS Teams](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353){target="_blank"}  
 - [MS Stream](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23454){target="_blank"}  
@@ -497,7 +495,7 @@ Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDC
 
 ## Learning Online 
 
-Having acquainted yourself with the essential technical tools required for your studies, it's time to delve into the crucial aspects of effective online learning. The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
+After familiarizing yourself with the essential technical tools needed for your studies, let's explore the crucial aspects of effective online learning.  The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
 
 Online learning requires additional skills differing from face-to-face learning, and since online learning is typically self-directed, an absence of these skills will make a students’ learning experience difficult. These skills include:
 
@@ -509,12 +507,36 @@ Online learning requires additional skills differing from face-to-face learning,
 
 In face-to-face teaching environments, the requirement to physically attend class, coupled with community accountability, makes a learners’ individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor may notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
 
+Here are a couple more ways you can hone your online learning skills:  
+1. Active Participation: 
+Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
+
+1. **Regular Communication with Instructors:** 
+Establish clear lines of communication with instructors, seeking clarification when needed and participating in office hours or virtual meetings. 
+
+1. **Utilize Online Resources:** 
+Take advantage of digital resources provided by the university, including online libraries, research databases, and academic support services. 
+
+1. **Tech Preparedness:** 
+Ensure your computer and internet connection are reliable, and familiarize yourself with the required software tools for the course. 
+
+1. **Active Reading and Note-Taking:** 
+Develop effective reading strategies and take concise notes to enhance comprehension and retain key information. 
+
+1. **Collaborate with Peers:** 
+Foster virtual collaboration with classmates through group projects, study groups, and peer discussions to enrich your learning experience. 
+
+1. **Regular Self-Assessment:** 
+Reflect on your progress regularly, assess your understanding of the material, and adjust your study strategies accordingly. 
+
+Remember, flexibility and adaptability are key in the online learning environment. Tailor these tips to your individual needs and the specific requirements of your courses.  Note also that you will have opportunities to practice these skills throughout the course. 
+
 
 ### Activity: Learning Online Effectively  {-}
 
 ```{block2, type='reflect'}
 
-If you search online for "tips for online learning" or "strategies for learning online" you will find some good advice to set you up for success in your online studies.  Take a quick look at the following resources.  As you skim the content, what tips do you see that could work for your online learning routine?
+When searching online for "tips for online learning" or "strategies for learning online," you'll come across valuable advice to enhance your success in your online studies. Quickly review the following resources. As you skim through the content, identify tips that resonate with you and consider integrating them into your online learning routine. 
 
 - [Self-motivation for online students](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/){target="_blank"}  
 - [Tips for Success Online](https://www.unlv.edu/online/tips){target="_blank"}  
@@ -546,8 +568,7 @@ Finally, view the following infographic explaining how to be a successful online
 ![Study Tips for Online Students](assets/u1/5-Great-Study-Tips-For-Online-Students-Infographic.jpg)
 
 
-After reading articles online and watching pertinent videos, what tips will you implement in your online studies?
-Make a list of your ***Top Ten Study Tips for Online Learning***.  Next, reflect on how you can make the most of your online courses.  What are your goals? What steps will you take to achieve your goals?
+Having viewed articles and relevant videos, consider the tips you find most beneficial for your online studies. Compile a list of your Top Ten Study Tips for Online Learning. Following this, reflect on how you can maximize your online courses. What are your goals, and what specific steps will you take to achieve them?
 
 
 ```
@@ -580,7 +601,7 @@ Another important concept in online dicussions is Netiquette.  Watch [What is Ne
 
 #### Discussion Guidelines for LDRS 101  {-}
 
-In this course, we will ask you to discuss ideas with your peers via Discourse, WordPress and other social media platforms. These discussions are <b><i>ungraded</i></b> and an important part of your assignments in this course. Consider for example, two course learning outcomes that relate to online discussions:
+In this course, we will ask you to discuss ideas with your peers via Discourse, WordPress and other social media platforms. These discussions are <b><i>ungraded</i></b> and yet an important part of your assignments in this course. Consider for example, two course learning outcomes that relate to online discussions:
 
 - Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
 - Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.  
@@ -635,7 +656,7 @@ Again, in LDRS 101, we do not specify a word count or evaluate your grammar.  W
 
 ```{block2, type='reflect'}
 
-Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about something that has interested you in this topic.  Or perhaps, share your goals as an online learner.  How will you stay motivated in this course?  What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
+Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about something that has interested you about learning online.  Share your goals for your academic studies.  How will you stay motivated in this course?  What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
 
 ```
 
@@ -861,12 +882,12 @@ Digital literacies encompasses a wide range of capabilities which extend beyond 
 1. Next, use your searching skills to discover online tests for assessing your digital literacies (Don’t spend more than 15 to 20 minutes on the self-assessment activity).  
    - Conduct a Google search using: “digital literacy self-assessment”  
    - Choose a link to conduct a self-assessment of your digital literacy.  
-   - **Alternatively, you can choose from these resources:**  
+  **Alternatively, you can choose from these resources:**  
    - Take the [Digital Literacy Self-Assessment](https://supportedemployment.ca/training-and-events/certificate-programs/digital-literacy/digital-literacy-self-assessment/) from the Canadian Association for Supported Employment**or**  
    - Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/) from the Digital Literacy Guide.
-   - Explore the What is digital literacy? page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php) developed by the University of Southampton.  
+   - Explore the *What is digital literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php) developed by the University of Southampton.  
 
-<span class="blockhead">Questions to consider</span>
+<span class="blockhead">Questions to Consider</span>
 
 - Did the self-assessment you chose focus on digital skills or digital literacies?
 - What did you learn from this exercise?
@@ -1119,7 +1140,7 @@ Feel free to add components to the template.
 
 ```{block2, type='reflect'}
 
-For the final activity of Unit 1 you will be asked to write a reflective journal entry in Obsidian on the topic of Digital Literacy. This entry relates to Assignment 1: Learning Journal.
+For the final activity of Unit 1 you will be asked to write a reflective journal entry in Obsidian on the topic of Digital Literacy. This entry can be used as part of **Assignment 1: Learning Journal**.
 
 Prior to completing this activity, let's discuss the practice of writing in a Reflective Journal.  
 
@@ -1189,7 +1210,7 @@ This journal entry can be used to demonstrate your understanding of the course l
 
 ## Summary {-}
 
-In this first unit, you have had the opportunity to learn about some of the impacts of *the digital* on your life; you've started to build an academic knowledge management workflow, and how to protect yourself in digital and online contexts. 
+In this first unit, you have had the opportunity to learn about some of the impacts of *the digital* on your life. You have started to build an academic knowledge management workflow, a pivotal skill essential for efficiently organizing, accessing, and leveraging information. Throughout the unit, you've actively engaged with the digital tools, shared insights into your personal interactions with digital technology, and begun applying these tools to enhance your academic learning experience. Furthermore, you've developed a personalized understanding of digital literacy and explored how to protect yourself and others in digital and online contexts. As you progress through the course, take a moment to identify the specific literacies you aspire to refine and articulate the concrete steps you intend to take in pursuit of these goals. 
 
 ## Assessment {-}
 
@@ -1198,7 +1219,7 @@ In this first unit, you have had the opportunity to learn about some of the impa
 
 <span class="blockhead">Assignment 1: Learning Journal</span>
 
-The learning activities in this unit are designed to support you as you build your *Learning Journal* (Assignment 1).  Please see the Assessment section in Moodle for details on this assignment.  Note the activities also relate to your Digital Literacy Portfolio (Assignment 3), so be intentional about completing each activity in this unit to support your in these assignments.
+The learning activities in this unit are designed to support you as you build your *Learning Journal* (Assignment 1).  Please see the Assessment section in Moodle for details on this assignment.  Note the activities also relate to your Digital Literacy Portfolio (Assignment 3), so be intentional about completing each activity in this unit to support the learning artifact you will present in these assignments.
 
 All assignment details, including the grading rubrics, are located in the Assessment section in Moodle.  Please read the instructions carefully and don't hestitate to reach out for support.
 
@@ -1210,12 +1231,13 @@ All assignment details, including the grading rubrics, are located in the Assess
 
 Before you move on to the next unit, check that you are able to:
 
+- Explore common digital tools used at Trinity Western University
 - Describe your engagement with digital technology  
 - Apply digital tools to support learning in an academic environment  
 - Explain what digital literacy means to you  
 - Examine privacy concerns related to various platforms and tools  
 - Describe how to protect yourself and others in the digital environment.  
-- Identify the literacies you plan to improve and what steps you will take to achieve your goals.
+- Identify the literacies you plan to improve and what steps you will take to achieve your goals. 
 
 
 ```
