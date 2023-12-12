@@ -134,45 +134,6 @@ What do you think? How have you experienced social learning in your educational 
 
 ```
 
-#### Hypothes.is
-
-Hypothes.is an open sourse platform that allows users to annotate any website, communicate with others, and collaborate with peers.      
-
-### Activity: Introduction to Hypothesis {-}
-
-```{block2, type='reflect'}
-
-First, head over the the [Hypothes.is website](https://web.hypothes.is/){target="_blank"}  and have a quick read of what the tool is and how it works.
-
-Next, watch [How to Annotate the Web with hypothes.is](https://www.youtube.com/watch?v=e235JwmmEcQ){target="_blank"} 
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e235JwmmEcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-Finally, skim these articles highlighting the benefits of using annotative tools like Hypthes.is: 
--  [Sharing Notes Is Encouraged: Annotating and Cocreating with Hypothes.is and Google Docs](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsdoj&AN=edsdoj.12d6cddd34714c51bc1f6f8d6d9dea39&site=eds-live&scope=site){target="_blank"} 
-- [Jottings in the Margines - Using Digital Annotation to Support 21st Century Learning](https://www.thescopes.org/assets/scopes/SCOPE_104-Wood_LT9.pdf){target="_blank"} 
-
-
-```
-
-### Activity: Annotating & Collaborating in Hypothes.is {-}
-
-```{block2, type='reflect'}
-
-In this activity, we will practice using Hypothes.is by annotating an article on the difference between digital skills and digital literacies.
-
-1. Read the Hypothes.is [Quick start guide for students](https://web.hypothes.is/quick-start-guide-for-students/){target="_blank"} 
-1. Create an account on Hypothes.is. We recommend that you use the Chrome browser and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: [How to use Hypothes.is on mobile devices](https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/){target="_blank"} .
-1. Read the following article: Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both
-1. Activate the annotations after logging in to Hypothes.is and click on the search icon () and enter the course code (LiDA101) to filter posts for this course from the public feed.
-1. Annotate or reply to posts by visiting the annotation page (You will need to be logged into the Hypothes.is site to post.)
-1. Remember to tag your posts using the course code: LDRS101 (The course tag is required to harvest posts for the course feed.)
-
-```
 
 
 

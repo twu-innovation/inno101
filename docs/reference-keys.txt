@@ -16,6 +16,7 @@ connecting-ideas-for-learning
 sense-making-through-hyperlinks
 sense-making-through-tags
 note-taking
+digital-tools-to-support-learning
 building-your-online-presence
 personal-learning-environments
 building-a-learning-blog
@@ -28,7 +29,6 @@ connecting-and-learning-through-social-media
 connecting-to-the-twu-community
 sharing-your-knowledge
 sharing-learning-at-twu
-hypothes.is
 digital-practices-in-the-workplace
 societal-issues-and-the-internet
 website-tracking

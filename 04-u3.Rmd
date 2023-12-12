@@ -256,9 +256,9 @@ In this activity you will read an academic article and write a summary in Obsidi
 
 
 
-#### Digital Tools to Support Learning {-}
+## Digital Tools to Support Learning
 
-In this course, you have had opportunities to explore a number of learning tools, including [Obsidian](https://obsidian.md){target="_blank"}, [Hypothes.is](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=146716){target="_blank"}, [Zotero](https://www.zotero.org/){target="_blank"}, and [LitMaps](https://www.litmaps.com/){target="_blank"}.
+So far in this course you have had opportunities to explore a number of learning tools, including [Obsidian](https://obsidian.md){target="_blank"}, [Zotero](https://www.zotero.org/){target="_blank"}, and [LitMaps](https://www.litmaps.com/){target="_blank"}.
 
 We anticipate these tools will help you think critically, collaborate, and ultimately succeed in your studies.
 

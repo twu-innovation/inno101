@@ -150,17 +150,16 @@ Read through the following resources in order to refine your own definition of w
 **Step 1: Online Search:**  
 
 - Read the introductory section of the Wikipedia article: [Digital citizen](https://en.wikipedia.org/wiki/Digital_citizen){target="_blank"}  
-- Conduct a general search for “definition of digital citizen.” Choose the two best definitions and add these to the library of your citation management tool (Hypothes.is / Zotero / Obsidian), or keep a record for citation purposes.  
+- Conduct a general search for “definition of digital citizen.” Choose the two best definitions and add these to the library of your citation management tool (Zotero / Obsidian), or keep a record for citation purposes.  
 - Try and locate one recent scholarly definition for “digital citizen.” Record the reference for citation purposes. How recent is the reference?  
 
 **Step 2: Social Media Search:** 
 
 - Explore the recent tweets (on X or whichever social media app you prefer) using the following hashtags: #digitalcitizenship, #digiciz, and #digicit.  Compile a list of elements relating to the concept of digital citizenship.  
 
-**Step 3: Read & Comment:** 
-- Login to hypothes.is.  
+**Step 3: Search & Read:** 
 - Read [Nine elements of digital citizenship](https://www.digitalcitizenship.net/nine-elements.html){target="_blank"} by Mike Ribble  
-- Feel free to add or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: #LDRS101 (This is needed to harvest posts for the course feed.)  
+- Search for other academic articles on digital citizenship using Google Scholar, LitMaps, or the TWU Library.
 
 
 **Step 4: Apply the Elements** 
@@ -215,7 +214,6 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 
 - Conduct a search through the TWU library for [Digital Rights and Responsibilities](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&bquery=digital+rights+and+responsibility&cli0=FT1&clv0=Y&type=0&searchMode=And&site=eds-live&scope=site){target="_blank"}
 
-*Remember to annotate and comment on the Hypothes.is and tag your contributions using the course code: #LDRS101*
 
 2. **Blog:** Prepare a table summarising the primary rights and responsibilities for university learning in a digital age.  
 
@@ -461,6 +459,67 @@ Now, with a focus on networking, create your own Social Map.  See the following 
 
 ```
 
+
+#### Collaboration & Annotation Tools {-}
+
+Another way to join an online community or discussion forum is to annotate the web.  Hypothes.is is one tool used at TWU for students to collaborate and discuss online resources.
+
+Hypothes.is an open sourse platform that allows users to annotate any website, communicate with others, and collaborate with peers.      
+
+### Activity: Introduction to Hypothesis {-}
+
+```{block2, type='reflect'}
+
+First, head over the the [Hypothes.is website](https://web.hypothes.is/){target="_blank"}  and have a quick read of what the tool is and how it works.
+
+Next, watch [How to Annotate the Web with hypothes.is](https://www.youtube.com/watch?v=e235JwmmEcQ){target="_blank"} 
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e235JwmmEcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+Finally, skim these articles highlighting the benefits of using annotative tools like Hypthes.is: 
+-  [Sharing Notes Is Encouraged: Annotating and Cocreating with Hypothes.is and Google Docs](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsdoj&AN=edsdoj.12d6cddd34714c51bc1f6f8d6d9dea39&site=eds-live&scope=site){target="_blank"} 
+- [Jottings in the Margines - Using Digital Annotation to Support 21st Century Learning](https://www.thescopes.org/assets/scopes/SCOPE_104-Wood_LT9.pdf){target="_blank"} 
+
+
+```
+
+### Activity: Annotating & Collaborating in Hypothes.is {-}
+
+```{block2, type='reflect'}
+
+In this activity, we will practice using Hypothes.is by annotating an article on the difference between digital skills and digital literacies.
+
+1. Read the Hypothes.is [Quick start guide for students](https://web.hypothes.is/quick-start-guide-for-students/){target="_blank"} 
+1. Create an account on Hypothes.is. We recommend that you use the Chrome browser and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: [How to use Hypothes.is on mobile devices](https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/){target="_blank"}.
+1. Read the following article: [Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both](https://www.literacyworldwide.org/blog/literacy-now/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both).  
+1. Activate the annotations after logging in to Hypothes.is and click on the search icon () and enter the course code (LiDA101) to filter posts for this course from the public feed.
+1. Annotate or reply to posts by visiting the annotation page (You will need to be logged into the Hypothes.is site to post.)
+1. Remember to tag your posts using the course code: LDRS101 (The course tag is required to harvest posts for the course feed.)
+
+```
+
+### Activity: Hypothes.is Challenge! {-}
+
+```{block2, type='reflect'}
+
+In this course we have provided numerous articles, websites, videos, and other resources to support your learning.  Perhaps you have added these resource links to Obsidian and/or Zotero for future reference (e.g. preparing for citations needed for course assingments).  
+
+Here is one more step we encourage you to take advantage of.  
+
+1. Review the course learning outcomes.
+1. Refer to the Course Book table of contents and look at the Unit topics, subtopics, and activities listed. 
+1. Recall any resources that stood out to you.  What article, video, website do you want to engage with further?  What key points would you like to discuss with your peers?
+1. Select 3 or more resources to reread and annotate using Hypothes.is.
+1. Be sure to reply to posts by visiting the annotation page (You will need to be logged into the Hypothes.is site to post.)
+1. Remember to tag your posts using the course code: LDRS101 (The course tag is required to harvest posts for the course feed.)
+
+```
+
+
 ### Activity: Social Media for Connecting and Learning {-}
 
 ```{block2, type='reflect'}
@@ -492,6 +551,7 @@ Also refer to the graphic below listing numerous apps for listening, learning, a
 Feel free to annotate the articles you read, or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: LDRS101.  
 
 ```
+
 
 ### Activity: Social Media, Online Identity, and Learning {-}
 
