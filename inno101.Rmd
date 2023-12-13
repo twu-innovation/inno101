@@ -1262,6 +1262,7 @@ Finally, we'll discuss the concept of openness in education. We'll explore open 
 This unit is divided into the following topics:
 
 1. Finding & Selecting Resources  
+2. Evaluating Resources
 2. Citation Management  
 3. Openness in Education
   
@@ -1271,6 +1272,7 @@ This unit is divided into the following topics:
 When you have completed this unit, you should have made progress toward the following course outcomes:
 
 - Develop effective search strategies to locate scholarly resources using various academic databases and online repositories. 
+- Apply strategies to assess, analyse, and evaluate the reliability of resources, including reporting in the mass media. 
 - Utilize citation management tools effectively to organize references, generate bibliographies, and streamline the citation process. 
 - Describe the principles of openness in education, including open educational resources (OER) and open access.
 - Build and customize technology-integrated workflows to enhance and enrich your learning journey.
@@ -1619,6 +1621,59 @@ Drawing on your study of the reliability and credibility of online resources sha
 
 
 
+<!--
+
+adding content...
+see https://course.oeru.org/lida104/learning-pathways/introduction-to-media-literacy/overview/
+
+
+Fact-Checking Online Resources
+
+
+Media, as a form of communication, is never ideologically neutral. Therefore,  it is important to develop critical skills to analyse and evaluate media online. Media literacy also encompasses the skills of creating media, so we encourage learners to participate in the optional photo challenge for each pathway in this micro-course.
+
+
+Fact-checking websites:
+
+https://en.wikipedia.org/wiki/List_of_fact-checking_websites 
+
+https://pressbooks.pub/webliteracy/ 
+
+https://pressbooks.pub/webliteracy/chapter/fact-checking-sites/ 
+
+
+
+Info on Disinformation:
+- https://www.canada.ca/en/campaign/online-disinformation.html?utm_campaign=csec-ctsc-online-disinformation-23-24&utm_medium=sem&utm_source=ggl&utm_content=ad-text-en&utm_term=fake%20news%20sites&adv=2324-472201&id_campaign=20556416294&id_source=156443934711&id_content=674167645142&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JuxREQ1xjjQsKG6LGhaxXIQ_NqHx1HxRdoTVvxMYyqgcVDr5m_7ecBoC4EYQAvD_BwE&gclsrc=aw.ds 
+
+- https://guides.lib.uw.edu/bothell/news/misinfo 
+
+Reporting in the mass media
+
+Getting into the controversial subjects here...
+
+Science Issues
+https://www.factcheck.org/scicheck/
+
+Select from these resources that contradict each other.  Note - in a basic search it is difficult to find diverse opinions on this issue. Why is that?  As you read the articles below, consider the source.  What are the credentials of the authors? What biases can you identify?
+
+Mainstream Views 
+- [Climate Feedback](https://climatefeedback.org/) 
+- [Strategies for mitigation of climate change: a review](https://link.springer.com/article/10.1007/s10311-020-01059-w) 
+- [United Nations: Climate Action](https://www.un.org/en/climatechange) 
+
+Alternative Views 
+- [Climate gains are ‘inconvenient truth’ — it’s not all bad news about the environment](https://nypost.com/2022/09/06/theres-plenty-of-good-news-about-the-environment/) 
+- [Climate Change & the Uncertainty Monster](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsjsr&AN=edsjsr.26218617&site=eds-live&scope=site) 
+- [The Predictions Are Wrong | Dr. Judith Curry | EP 329](https://www.youtube.com/watch?v=9Q2YHGIlUDk) 
+- [Climate Change Hasn’t Set the World on Fire](https://www.wsj.com/articles/climate-change-hasnt-set-the-world-on-fire-global-warming-burn-record-low-713ad3a6) 
+
+
+-->
+
+
+
+
 ## Citation Management
 
 Now that you have a handful of references to keep track of, it's time to get started with Zotero to help you manage your references. I promise that learning to use a reference manager like Zotero will save you MANY hours per semester, and likely days or weeks over the course of your degree. Do *Future You* a huge favour and get in this habit now.
@@ -1782,6 +1837,24 @@ In summary, OER offers a cost-effective, flexible, and collaborative approach to
 Go to the [Open Educational Resources Libguide](https://libguides.twu.ca/oer){target="_blank"} from the TWU Library. Watch the introduction to OER video and then browse through the category of OERs provided.  Take some time to find an OER that relates to a topic that interests you.
 
 In your Obsidian Learning Journal, create an entry about an OER resource you found.  Use the CRAAP test to evaluate it, and explain why this resource interests you.
+
+```
+
+### Activity: Advocating for OER {-}
+
+```{block2, type='reflect'}
+
+So how do Open Educational Resources affect you as a student?  Why should you care?  We've shared some of the benefits of openness in education, but there are several other reasons OER benefit students.  
+
+Watch [A Review of the Effectiveness & Perceptions of Open Educational Resources As Compared to Textbooks](https://www.youtube.com/watch?v=SX0K0hb_xKE){target="_blank"}
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lGeJCsNHBR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
 
 ```
 
