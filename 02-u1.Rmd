@@ -326,7 +326,7 @@ Here is some additional advice from TWU students. Watch [Learning Online: Studen
 
 <div class="video-container">
 
-<iframe src="https://player.vimeo.com/video/493206161&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Module 2 – Get Connected"></iframe>
+<iframe src="https://player.vimeo.com/video/493206161?h=5dd87e1837" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 </div>  
 
