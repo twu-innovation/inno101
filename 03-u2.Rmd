@@ -44,7 +44,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Explore [Litmaps](https://litmaps.com){target="_blank"} to find articles of interest.
 - Visit the TWU Library and view the libguides.
-- Download and Install Zotero
+- Practice using the Google advanced search operators to help you search for resources.
+- Search open databases (BASE & DOAJ) to find open academic resources.
+- Use the CRAAP Test to help evaluate resources.
+- Discuss the reasons you should or should not use Wikipedia, and for what purposes.
+- Download and Install Zotero and explore how you can use this tool.
+- Explore Open Educational Resources and reflect on how you might advocate for OER.
 
  
 **Note:** The learning activities in this course are designed to prepare you for the graded assigments in this course.  You are strongly encouraged to complete them.
@@ -603,7 +608,7 @@ Watch [A Review of the Effectiveness & Perceptions of Open Educational Resources
 
 <div class ="video-container">
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lGeJCsNHBR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SX0K0hb_xKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 </div>
 
