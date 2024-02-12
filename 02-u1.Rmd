@@ -126,6 +126,7 @@ To give you some idea of what life is like at TWU, and why people choose TWU, wa
 
 </div>
 
+<span class="blockhead">Questions to Consider</span>
 
 What do you think? Consider the following prompts:
 
@@ -154,18 +155,28 @@ Below is a checklist of the technical skills, hardware, software, accessories, a
 
 First, let's tackle what technical skills you will need as you start your studies.  As you read, check off skills you have acquired and feel comfortable using.
 
-- Basic computer skills  
-- Sending/receiving email  
-- Sending and receiving attachments via email  
-- Using a web browser  
-- Utilizing search engines, such as Google Chrome or Mozilla Firefox, to locate resources.  
-- Downloading and installing software  
-- Being familiar with browser plug-ins, such as PDF readers, video, and audio players.  
-- Using a word processing, presentation software, or other productivity applications  
-- Having experience or familiarity with various file formats, including .pdf (Portable Document Format), .rtf (Rich Text Format), .doc or .docx (Microsoft Word Document), and .txt (Text document).  
-- Being self-directed in learning new technology skills, such as following a handout, a step-by-step tutorial, online video assistance, or accessing support for acquiring necessary skills.    
+1. Basic computer skills   
+ - Operating system navigation (e.g., Windows, macOS, Linux) 
+ - File management (creating, saving, organizing files and folders) 
+ - Keyboard shortcuts (copy, paste, cut, undo, etc.) 
+2. Email etiquette and management: 
+ - Composing professional emails 
+ - Attaching files to emails 
+ - Organizing and managing email inbox (folders, filters, labels) 
+3. Internet proficiency: 
+ - Navigating websites efficiently
+ - Utilizing search engines, such as Google Chrome or Mozilla Firefox, to locate resources.  
+ - Downloading and installing software  
+ - Being familiar with browser plug-ins, such as PDF readers, video, and audio players.  
+4. Word processing and document creation:
+ - Formatting text (font styles, sizes, alignment)
+ - Creating and formatting tables
+ - Inserting images and other multimedia elements
+ - Spell check and grammar check
+ - Familiar with various file formats, including .pdf (Portable Document Format), .rtf (Rich Text Format), .doc or .docx (Microsoft Word Document), and .txt (Text document).  
 
-This skill is crucial, especially when encountering unfamiliar tech tools that you need to navigate. Throughout this course you will have ample opportunity to practice these digital skills.  
+
+Throughout this course you will have ample opportunity to practice these digital skills, and many more. As you encounter new technologies, we encourage you to seek out additional support, such as online video tutorials or instructions.  The skill of being a self-directed learner is crucial, especially when encountering unfamiliar tech tools that you need to navigate. 
 
 </details>
 
@@ -299,7 +310,8 @@ Online learning requires additional skills differing from face-to-face learning,
 In face-to-face teaching environments, the requirement to physically attend class, coupled with community accountability, makes a learners’ individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor may notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
 
 Here are a couple more ways you can hone your online learning skills:  
-1. Active Participation: 
+
+1. **Active Participation:** 
 Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
 
 1. **Regular Communication with Instructors:** 
@@ -366,6 +378,7 @@ Finally, view the following infographic explaining how to be a successful online
 
 ![Study Tips for Online Students](assets/u1/5-Great-Study-Tips-For-Online-Students-Infographic.jpg)
 
+<span class="blockhead">Questions to Consider</span>
 
 Having viewed articles and relevant videos, consider the tips you find most beneficial for your online studies. Compile a list of your Top Ten Study Tips for Online Learning. Following this, reflect on how you can maximize your online courses. What are your goals, and what specific steps will you take to achieve them?
 
@@ -376,7 +389,7 @@ Having viewed articles and relevant videos, consider the tips you find most bene
 
 ```{block2, type='reflect'}
 
-Engaging in discussions with your peers is a vital component of numerous online courses, whether through a Moodle Discussion Forum, a WordPress blog, a Discourse post, or other platforms. Here are some tips and considerations to enhance your participation in online discussions:
+Participating in discussions with your peers is an essential aspect of many online courses, facilitated through platforms such as Moodle Discussion Forums, WordPress blogs, Discourse posts, and others. Below are some suggestions and points to enhance your engagement in online discussions: 
 
 - [Online Discussions: Tips for Students](https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/online-discussions-tips-students){target="_blank"}  
 - [Engaging in Online Discussions: Top 10 Tips for Students](https://blogs.qub.ac.uk/digitaldiscovery/2020/07/21/engaging-in-online-discussions-tips-for-students/){target="_blank"} 
@@ -603,7 +616,9 @@ Let's take a look at the definitions of digital literacy and digital skills on t
 1. What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?
 1. Read: [What is digital literacy?](http://pomo.com.au/blog/digital-literacy/){target="_blank"} published by POMO – Is this a reliable source?
 1. How would you rate the academic quality of the definitions you found (e.g. low / high quality)?
-1. What did you discover? Share your thoughts and experiences by posting on the LDRS 101 Discourse chat.  For example:
+1. What did you discover? 
+
+Share your thoughts and experiences by posting on the LDRS 101 Discourse chat.  For example:
 
 - The major difference between digital skills and literacies is …
 - I didn’t realise that …
@@ -612,29 +627,6 @@ Let's take a look at the definitions of digital literacy and digital skills on t
 
 ```
 
-
-### Activity: Why Digital Literacy Matters {-}
-
-```{block2, type='reflect'}
-
-A key component of digital literacy and networked learning relates to the ability to engage meaningfully in online learning communities.
-
-This learning activity will provide you with another opportunity to connect with your peers in Discourse and contribute to online learning discussions.
-
-Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
-
-Watch: [Digital literacy and why it matters](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"}
-
-<div class="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p2k3C-iB88w?si=qEFFGcjTJi20t6Ll" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-Next, go to the LDRS 101 section in Discourse.  Post a contribution to the discussion on digital literacies and why they are important for you  
-Try to post one or two replies to interesting contributions. (You should also “like” good contributions, use the person's username when replying, and if appropriate quote a reply when responding.)  
-
-```
 
 ### Digital Literacies & Skills {-}
 
@@ -666,6 +658,30 @@ The JISC guide defines digital literacies as “those capabilities which fit an 
 Do you agree that these are the key literacies you need to live, learn and work in today's society?  What would you add?
 
 Conduct a quick Google search for "digital literacies" and throw in terms such as "essential", "top", "21st century".  What other literacies or skills are emphasized?  What would your list be for digital literacies that are important for you?
+
+```
+
+
+
+### Activity: Why Digital Literacy Matters {-}
+
+```{block2, type='reflect'}
+
+A key component of digital literacy and networked learning relates to the ability to engage meaningfully in online learning communities.
+
+This learning activity will provide you with another opportunity to connect with your peers in Discourse and contribute to online learning discussions.
+
+Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
+
+Watch: [Digital literacy and why it matters](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p2k3C-iB88w?si=qEFFGcjTJi20t6Ll" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+Next, go to the LDRS 101 section in Discourse.  Post a contribution to the discussion on digital literacies and why they are important for you. Try to post one or two replies to interesting contributions. (You should also “like” good contributions, use the person's username when replying, and if appropriate quote a reply when responding.)  
 
 ```
 
