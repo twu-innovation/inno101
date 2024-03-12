@@ -6,7 +6,7 @@ Welcome to Unit 1 of Learning with Technology! This course will introduce you to
 
 There will be two primary branches of the course, each focusing on specific tools that we will introduce to you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your 'ownership' over your work.
 
-In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online.  Then, in order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalites to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
+In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online.  Then, in order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalities to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
 
 ### Topics {-}
 
@@ -144,7 +144,7 @@ What do you think? Consider the following prompts:
 
 ```{block2, type='reflect'}
 
-Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, which is an app called *Discourse* that we use to build community among learners in the GX program. Find the *Leadership 101* category and respond to the *Welcome* forum.  As you introduce yourself, share your thoughts and questions you have about TWU.
+Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, which is an app called *Discourse* that we use to build community among learners in online courses. Find the *Leadership 101* category and respond to the *Welcome* forum.  As you introduce yourself, share your thoughts and questions you have about TWU.
 
 ```
 
@@ -156,7 +156,7 @@ Below is a checklist of the technical skills, hardware, software, accessories, a
 
 <summary>**Technology Proficency**</summary>
 
-First, let's tackle what technical skills you will need as you start your studies.  As you read, check off skills you have acquired and feel comfortable using.
+First, let's tackle what technical skills you will need as you start your studies.  As you read, make a note of skills you have acquired and feel comfortable using, as well as those with which you are not familiar.
 
 1. Basic computer skills   
  - Operating system navigation (e.g., Windows, macOS, Linux) 
@@ -168,15 +168,16 @@ First, let's tackle what technical skills you will need as you start your studie
  - Organizing and managing email inbox (folders, filters, labels) 
 3. Internet proficiency: 
  - Navigating websites efficiently
- - Utilizing search engines, such as Google Chrome or Mozilla Firefox, to locate resources.  
+ - Utilizing search engines, such as Duckduckgo, Google, or others, to locate resources.  
  - Downloading and installing software  
  - Being familiar with browser plug-ins, such as PDF readers, video, and audio players.  
 4. Word processing and document creation:
- - Formatting text (font styles, sizes, alignment)
+ - using templates to create APA- or MLA-formatted documents
+ - Formatting text with styles
  - Creating and formatting tables
  - Inserting images and other multimedia elements
  - Spell check and grammar check
- - Familiar with various file formats, including .pdf (Portable Document Format), .rtf (Rich Text Format), .doc or .docx (Microsoft Word Document), and .txt (Text document).  
+ - Familiar with various file formats, including .pdf (Portable Document Format), .rtf (Rich Text Format), .docx (Microsoft Word Document), .md (Markdown) and .txt (Text document).  
 
 
 Throughout this course you will have ample opportunity to practice these digital skills, and many more. As you encounter new technologies, we encourage you to seek out additional support, such as online video tutorials or instructions.  The skill of being a self-directed learner is crucial, especially when encountering unfamiliar tech tools that you need to navigate. 
@@ -190,17 +191,21 @@ Throughout this course you will have ample opportunity to practice these digital
 This section provides an overview of fundamental hardware, software, and accessories you will likely need as a TWU student. As you go through the list, note the items you have, and/or feel comfortable using. 
 
 ##### Hardware {-}
-- Computer - PC, Mac, Chromebook or tablet  
+- Computer - PC, Mac, Chromebook or tablet 
+  - some academic disciplines and courses may require computers with more capabilities than are available on a Chromebook or tablet. Check with your department.
 
 ##### Software {-}
-- Windows 10 or newer  
-- Mac OS 10.14 or newer  
-- Microsoft 365  
+- Up-to-date versions of the operating system for your computer
+  - Windows
+  - macOS
+  - Linux  
+- Microsoft Office 365  
+  - [Office 365 is available for free if you are a TWU student.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15119)
 
 ##### Recommended Accessories {-}  
-- Speakers, Microphone or Headphones  
+- Speakers or Headphones
+- Microphone  
 - Video Camera (Webcam)  
-- Scanner or Camera	  
 
 </details>
 
@@ -210,7 +215,7 @@ This section provides an overview of fundamental hardware, software, and accesso
 
 - Wi-Fi  
 - High speed Broadband Internet Connection is Required  
-- Internet Browser: The most recent release of Chrome or Firefox is recommended.  
+- Internet Browser: The most recent release of Firefox is recommended.  
 
 ***Recommended Internet speeds:***  
 
@@ -226,9 +231,11 @@ Test your Internet speed using [speedtest.net](speedtest.net)
 
 Please consider the following while participating in online/hybrid courses:  
 
-- Using a shared Internet connection will impact connectivity, such as additional household members use of streaming TV, gaming, and other Internet usage.  
+- Using a shared Internet connection, such as additional household members use of streaming TV, gaming, and other Internet usage, will impact the speed of your connection.  
 - Wireless connections may be impacted by the distance from the router and interference from microwaves and other electronics. (Wired connections are recommended.)  
 - Your Internet Service Provider’s performance may vary throughout the day based on community usage.
+- If you are connecting to a web-conferencing meeting (Zoom, Teams, etc.) please make sure you are in a quiet place, not a coffee shop or other place with lots of background noise.
+  - If you don't have a quiet place, make sure your mic is muted, and instead use the text chat.
 
 </details>
 
@@ -251,11 +258,11 @@ TWU has a formal Information Security Policy and related Information Security Gu
 Different data is governed by different regulations, laws, agreements, and rules; each requires different means of protection and reporting.  
 
 **What about other 3rd party cloud storage solutions (Dropbox, Google Drive, Box, WeChat etc...)?**
-In general, the use of unauthorized 3rd party cloud storage is not a good idea. TWU provides faculty and staff with the tools needed to collaborate internally and externally. The reasons below elaborate on the reasoning behind this position.  
+In general, the use of unauthorized 3rd party cloud storage is not a good idea. TWU provides students, faculty, and staff with the tools needed to collaborate internally and externally. The reasons below elaborate on the reasoning behind this position.  
 
-*Lack of Visibility* - Since these software are not integrated into our network, there is no way we can retrieve data stored in these systems if an employee or faculty member leaves the institution and fails to disclose the usage of that account, or has it attached to a personal email account. If TWU data are present in those accounts, then it can be easily lost or compromised, which can lead to institutional and legal consequences.  
+*Lack of Visibility* - Since these software systems are not integrated into our network, there is no way we can retrieve data stored in these systems if a student, employee, or faculty member leaves the institution and fails to disclose the usage of that account, or has it attached to a personal email account. If TWU data are present in those accounts, then it can be easily lost or compromised, which can lead to institutional and legal consequences.  
 
-*Lack of Accountability* - There is no way to effectively manage information security if a faculty or staff member is using unauthorized cloud storage. Additionally, there is no way to know if those data have been compromised and no ability for our forensics team to conduct analyses on these data in the event of a security incident.  
+*Lack of Accountability* - There is no way to effectively manage information security if a student, faculty, or staff member is using unauthorized cloud storage. Additionally, there is no way to know if those data have been compromised and no ability for our forensics team to conduct analyses on these data in the event of a security incident.  
 
 *Lack of Support* - We don't offer technical support to these services. So, if something goes wrong, is lost or compromised, IT will have no way to help users who have lost data or been locked out of accounts.  
 
