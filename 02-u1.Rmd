@@ -1,37 +1,37 @@
 # Introduction to Digital Literacies for Online Learning
 
-## Overview {-}
+## Overview {.unnumbered}
 
 Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally-saturated society. It is our intent to equip you with an emerging set of skills and literacies related to digital tools for learning. Within your academic pursuits, you will encounter a vast amount of information, and integrating digital tools into your learning journey, though challenging, is essential for harnessing the ample learning possibilities offered by your chosen discipline. This course will give you a head start on using digital tools to build a workflow, enabling you to stay organized and to make your learning process visible to both yourself and your instructors. We will also lead you through readings and discussions on topics such as digital identity, privacy, security, and ethical ways of sharing newfound knowledge.
 
 There will be two primary branches of the course, each focusing on specific tools that we will introduce to you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your 'ownership' over your work.
 
-In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online.  Then, in order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalities to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
+In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online. Then, in order to build a theoretical understanding of digital tools for learning, we will explore the idea of *the digital* in the context of contemporary society. At the same time, there are some important practicalities to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.
 
-### Topics {-}
+### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
-1. Learning with Technology at TWU  
-1. Learning Online
-1. Understanding the Digital  
-1. Starting your Workflow  
-1. Digital Literacies  
-1. Digital Privacy and Safety  
+1.  Learning with Technology at TWU\
+2.  Learning Online
+3.  Understanding the Digital\
+4.  Starting your Workflow\
+5.  Digital Literacies\
+6.  Digital Privacy and Safety
 
-### Learning Outcomes {-}
+### Learning Outcomes {.unnumbered}
 
 When you have completed this unit, you should be able to:
 
-- Explore common digital tools used at Trinity Western University
-- Describe your engagement with digital technology  
-- Apply digital tools to support learning in an academic environment  
-- Explain what digital literacy means to you  
-- Examine privacy concerns related to various platforms and tools  
-- Describe how to protect yourself and others in the digital environment.  
-- Identify the literacies you plan to improve and what steps you will take to achieve your goals.
+-   Explore common digital tools used at Trinity Western University
+-   Describe your engagement with digital technology\
+-   Apply digital tools to support learning in an academic environment\
+-   Explain what digital literacy means to you\
+-   Examine privacy concerns related to various platforms and tools\
+-   Describe how to protect yourself and others in the digital environment.\
+-   Identify the literacies you plan to improve and what steps you will take to achieve your goals.
 
-### Activity Checklist {-}
+### Activity Checklist {.unnumbered}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
@@ -69,6 +69,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 *See the Assessment section in Moodle for assignment details.*
 
 ```
+
+```{=html}
 <!--
 
 During this unit you will:
@@ -81,7 +83,8 @@ During this unit you will:
 You will be directed to complete these activities as they come. 
 
 -->
-
+```
+````{=html}
 <!--
 ```{block2, type='reflect'}
 
@@ -107,14 +110,15 @@ You are strongly encouraged to complete them.
 
 ```
 -->
+````
 
-### Resources {-}
+### Resources {.unnumbered}
 
-- All resources will be provided online in the unit.  
+-   All resources will be provided online in the unit.
 
-## Learning with Technology at TWU 
+## Learning with Technology at TWU
 
-### Activity: Why TWU? {-}
+### Activity: Why TWU? {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -140,7 +144,7 @@ What do you think? Consider the following prompts:
 
 ```
 
-### Activity: Join the Hub!  {-}
+### Activity: Join the Hub! {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -148,39 +152,45 @@ Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, w
 
 ```
 
-In this first topic we focus on the digital tools you should be familiar with as you start university.  Let's dive in to some common technology tools in academia. 
+In this first topic we focus on the digital tools you should be familiar with as you start university. Let's dive in to some common technology tools in academia.
 
-Below is a checklist of the technical skills, hardware, software, accessories, and other tools required for study at TWU.  Click on the titles below for information on the tools and skills you are most interested in:
+Below is a checklist of the technical skills, hardware, software, accessories, and other tools required for study at TWU. Click on the titles below for information on the tools and skills you are most interested in:
 
 <details>
 
 <summary>**Technology Proficency**</summary>
 
-First, let's tackle what technical skills you will need as you start your studies.  As you read, make a note of skills you have acquired and feel comfortable using, as well as those with which you are not familiar.
+First, let's tackle what technical skills you will need as you start your studies. As you read, make a note of skills you have acquired and feel comfortable using, as well as those with which you are not familiar.
 
-1. Basic computer skills   
- - Operating system navigation (e.g., Windows, macOS, Linux) 
- - File management (creating, saving, organizing files and folders) 
- - Keyboard shortcuts (copy, paste, cut, undo, etc.) 
-2. Email etiquette and management: 
- - Composing professional emails 
- - Attaching files to emails 
- - Organizing and managing email inbox (folders, filters, labels) 
-3. Internet proficiency: 
- - Navigating websites efficiently
- - Utilizing search engines, such as Duckduckgo, Google, or others, to locate resources.  
- - Downloading and installing software  
- - Being familiar with browser plug-ins, such as PDF readers, video, and audio players.  
-4. Word processing and document creation:
- - using templates to create APA- or MLA-formatted documents
- - Formatting text with styles
- - Creating and formatting tables
- - Inserting images and other multimedia elements
- - Spell check and grammar check
- - Familiar with various file formats, including .pdf (Portable Document Format), .rtf (Rich Text Format), .docx (Microsoft Word Document), .md (Markdown) and .txt (Text document).  
+1.  Basic computer skills\
 
+-   Operating system navigation (e.g., Windows, macOS, Linux)
+-   File management (creating, saving, organizing files and folders)
+-   Keyboard shortcuts (copy, paste, cut, undo, etc.)
 
-Throughout this course you will have ample opportunity to practice these digital skills, and many more. As you encounter new technologies, we encourage you to seek out additional support, such as online video tutorials or instructions.  The skill of being a self-directed learner is crucial, especially when encountering unfamiliar tech tools that you need to navigate. 
+2.  Email etiquette and management:
+
+-   Composing professional emails
+-   Attaching files to emails
+-   Organizing and managing email inbox (folders, filters, labels)
+
+3.  Internet proficiency:
+
+-   Navigating websites efficiently
+-   Utilizing search engines, such as Duckduckgo, Google, or others, to locate resources.\
+-   Downloading and installing software\
+-   Being familiar with browser plug-ins, such as PDF readers, video, and audio players.\
+
+4.  Word processing and document creation:
+
+-   using templates to create APA- or MLA-formatted documents
+-   Formatting text with styles
+-   Creating and formatting tables
+-   Inserting images and other multimedia elements
+-   Spell check and grammar check
+-   Familiar with various file formats, including .pdf (Portable Document Format), .rtf (Rich Text Format), .docx (Microsoft Word Document), .md (Markdown) and .txt (Text document).
+
+Throughout this course you will have ample opportunity to practice these digital skills, and many more. As you encounter new technologies, we encourage you to seek out additional support, such as online video tutorials or instructions. The skill of being a self-directed learner is crucial, especially when encountering unfamiliar tech tools that you need to navigate.
 
 </details>
 
@@ -188,24 +198,27 @@ Throughout this course you will have ample opportunity to practice these digital
 
 <summary>**Basic Hardware, Software & Accessories**</summary>
 
-This section provides an overview of fundamental hardware, software, and accessories you will likely need as a TWU student. As you go through the list, note the items you have, and/or feel comfortable using. 
+This section provides an overview of fundamental hardware, software, and accessories you will likely need as a TWU student. As you go through the list, note the items you have, and/or feel comfortable using.
 
-##### Hardware {-}
-- Computer - PC, Mac, Chromebook or tablet 
-  - some academic disciplines and courses may require computers with more capabilities than are available on a Chromebook or tablet. Check with your department.
+##### Hardware {.unnumbered}
 
-##### Software {-}
-- Up-to-date versions of the operating system for your computer
-  - Windows
-  - macOS
-  - Linux  
-- Microsoft Office 365  
-  - [Office 365 is available for free if you are a TWU student.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15119)
+-   Computer - PC, Mac, Chromebook or tablet
+    -   some academic disciplines and courses may require computers with more capabilities than are available on a Chromebook or tablet. Check with your department.
 
-##### Recommended Accessories {-}  
-- Speakers or Headphones
-- Microphone  
-- Video Camera (Webcam)  
+##### Software {.unnumbered}
+
+-   Up-to-date versions of the operating system for your computer
+    -   Windows
+    -   macOS
+    -   Linux\
+-   Microsoft Office 365
+    -   [Office 365 is available for free if you are a TWU student.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15119)
+
+##### Recommended Accessories {.unnumbered}
+
+-   Speakers or Headphones
+-   Microphone\
+-   Video Camera (Webcam)
 
 </details>
 
@@ -213,15 +226,15 @@ This section provides an overview of fundamental hardware, software, and accesso
 
 <summary>**Internet Access, Browsers & Connection Speed**</summary>
 
-- Wi-Fi  
-- High speed Broadband Internet Connection is Required  
-- Internet Browser: The most recent release of Firefox is recommended.  
+-   Wi-Fi\
+-   High speed Broadband Internet Connection is Required\
+-   Internet Browser: The most recent release of Firefox is recommended.
 
-***Recommended Internet speeds:***  
+***Recommended Internet speeds:***
 
-- Download speed of at least 25 mbps  
-- Upload speed of at least 3 mbps  
-- Ping response of less than 100ms  
+-   Download speed of at least 25 mbps\
+-   Upload speed of at least 3 mbps\
+-   Ping response of less than 100ms
 
 ```{block, type='feedback'}
 
@@ -229,13 +242,13 @@ Test your Internet speed using [speedtest.net](speedtest.net)
 
 ```
 
-Please consider the following while participating in online/hybrid courses:  
+Please consider the following while participating in online/hybrid courses:
 
-- Using a shared Internet connection, such as additional household members use of streaming TV, gaming, and other Internet usage, will impact the speed of your connection.  
-- Wireless connections may be impacted by the distance from the router and interference from microwaves and other electronics. (Wired connections are recommended.)  
-- Your Internet Service Provider’s performance may vary throughout the day based on community usage.
-- If you are connecting to a web-conferencing meeting (Zoom, Teams, etc.) please make sure you are in a quiet place, not a coffee shop or other place with lots of background noise.
-  - If you don't have a quiet place, make sure your mic is muted, and instead use the text chat.
+-   Using a shared Internet connection, such as additional household members use of streaming TV, gaming, and other Internet usage, will impact the speed of your connection.\
+-   Wireless connections may be impacted by the distance from the router and interference from microwaves and other electronics. (Wired connections are recommended.)\
+-   Your Internet Service Provider’s performance may vary throughout the day based on community usage.
+-   If you are connecting to a web-conferencing meeting (Zoom, Teams, etc.) please make sure you are in a quiet place, not a coffee shop or other place with lots of background noise.
+    -   If you don't have a quiet place, make sure your mic is muted, and instead use the text chat.
 
 </details>
 
@@ -243,40 +256,38 @@ Please consider the following while participating in online/hybrid courses:
 
 <summary>**Shared Drive, Sharing & Backup**</summary>
 
-**[Data & Cloud Storage and Sharing](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533){target="_blank"}**  
+[**Data & Cloud Storage and Sharing**](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533){target="_blank"}
 
-Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:  
+Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:
 
-- [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260){target="_blank"}  
-- [Microsoft SharePoint](https://mytwu.sharepoint.com/){target="_blank"}  
-- [OwnCloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681){target="_blank"}  
+-   [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260){target="_blank"}\
+-   [Microsoft SharePoint](https://mytwu.sharepoint.com/){target="_blank"}\
+-   [OwnCloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681){target="_blank"}
 
-The responsibility for storing TWU documents and files lies with the person who stores the data. Judgment is required about how and where TWU data will be stored.  
+The responsibility for storing TWU documents and files lies with the person who stores the data. Judgment is required about how and where TWU data will be stored.
 
-TWU has a formal Information Security Policy and related Information Security Guidelines. This article provides some additional direction based on this set of policy and guidelines.  
+TWU has a formal Information Security Policy and related Information Security Guidelines. This article provides some additional direction based on this set of policy and guidelines.
 
-Different data is governed by different regulations, laws, agreements, and rules; each requires different means of protection and reporting.  
+Different data is governed by different regulations, laws, agreements, and rules; each requires different means of protection and reporting.
 
-**What about other 3rd party cloud storage solutions (Dropbox, Google Drive, Box, WeChat etc...)?**
-In general, the use of unauthorized 3rd party cloud storage is not a good idea. TWU provides students, faculty, and staff with the tools needed to collaborate internally and externally. The reasons below elaborate on the reasoning behind this position.  
+**What about other 3rd party cloud storage solutions (Dropbox, Google Drive, Box, WeChat etc...)?** In general, the use of unauthorized 3rd party cloud storage is not a good idea. TWU provides students, faculty, and staff with the tools needed to collaborate internally and externally. The reasons below elaborate on the reasoning behind this position.
 
-*Lack of Visibility* - Since these software systems are not integrated into our network, there is no way we can retrieve data stored in these systems if a student, employee, or faculty member leaves the institution and fails to disclose the usage of that account, or has it attached to a personal email account. If TWU data are present in those accounts, then it can be easily lost or compromised, which can lead to institutional and legal consequences.  
+*Lack of Visibility* - Since these software systems are not integrated into our network, there is no way we can retrieve data stored in these systems if a student, employee, or faculty member leaves the institution and fails to disclose the usage of that account, or has it attached to a personal email account. If TWU data are present in those accounts, then it can be easily lost or compromised, which can lead to institutional and legal consequences.
 
-*Lack of Accountability* - There is no way to effectively manage information security if a student, faculty, or staff member is using unauthorized cloud storage. Additionally, there is no way to know if those data have been compromised and no ability for our forensics team to conduct analyses on these data in the event of a security incident.  
+*Lack of Accountability* - There is no way to effectively manage information security if a student, faculty, or staff member is using unauthorized cloud storage. Additionally, there is no way to know if those data have been compromised and no ability for our forensics team to conduct analyses on these data in the event of a security incident.
 
-*Lack of Support* - We don't offer technical support to these services. So, if something goes wrong, is lost or compromised, IT will have no way to help users who have lost data or been locked out of accounts.  
+*Lack of Support* - We don't offer technical support to these services. So, if something goes wrong, is lost or compromised, IT will have no way to help users who have lost data or been locked out of accounts.
 
-*Collaboration* - We each have our own preferences when it comes to the various technologies we like to work with. There is not always a best tool for everyone. However, collaboration becomes more difficult when each individual or department selects there own collaboration platforms, prioritizing individual needs above the whole.  
+*Collaboration* - We each have our own preferences when it comes to the various technologies we like to work with. There is not always a best tool for everyone. However, collaboration becomes more difficult when each individual or department selects there own collaboration platforms, prioritizing individual needs above the whole.
 
-*Student Centred* - We will put students first. These guidelines ensure we are protecting information and ultimately protecting our students. We have been entrusted with a great deal of personal and private information and must ensure the decisions we make are protecting that information.  
+*Student Centred* - We will put students first. These guidelines ensure we are protecting information and ultimately protecting our students. We have been entrusted with a great deal of personal and private information and must ensure the decisions we make are protecting that information.
 
-**How to Share Data**
-With Microsoft OneDrive and SharePoint, you can securely share files internally and externally. However, it is important to understand the different Data Classification levels and acceptable ways to share your files (Data Protection Guidelines).  
+**How to Share Data** With Microsoft OneDrive and SharePoint, you can securely share files internally and externally. However, it is important to understand the different Data Classification levels and acceptable ways to share your files (Data Protection Guidelines).
 
-Guidance Table for Sharing Data  
+Guidance Table for Sharing Data
 
 | **Link Type**                        | **Confidential**             | **Sensitive**                | **Public**                                   |
-|--------------------------------------|------------------------------|------------------------------|----------------------------------------------|
+|------------------|-----------------|-----------------|---------------------|
 | **Specific People Internal User**    | Acceptable                   | Acceptable                   | Acceptable                                   |
 | **Specific People External User**    | Acceptable Use good judgment | Acceptable Use good judgment | Acceptable                                   |
 | **People in TWU (Internal Link)**    | Never                        | Acceptable Not Advisable     | Acceptable                                   |
@@ -288,14 +299,14 @@ Guidance Table for Sharing Data
 
 <summary>**Other Common Tools Supported at TWU**</summary>
 
-Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create e-portfolios, or develop other media.  The following is a list of common tools that you might need to acquaint yourself with. In this course, we will utilize Zoom and WordPress, introducing these tools as they become relevant.
+Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create e-portfolios, or develop other media. The following is a list of common tools that you might need to acquaint yourself with. In this course, we will utilize Zoom and WordPress, introducing these tools as they become relevant.
 
-- [MS Teams](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353){target="_blank"}  
-- [MS Stream](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23454){target="_blank"}  
-- [Zoom](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478){target="_blank"}  
-- [Survey Monkey](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=47076){target="_blank"}    
-- [WordPress](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4746){target="_blank"}    
-Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940){target="_blank"} for Audio editing, Video editing, and other media tips.  
+-   [MS Teams](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353){target="_blank"}\
+-   [MS Stream](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23454){target="_blank"}\
+-   [Zoom](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478){target="_blank"}\
+-   [Survey Monkey](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=47076){target="_blank"}\
+-   [WordPress](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4746){target="_blank"}\
+    Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940){target="_blank"} for Audio editing, Video editing, and other media tips.
 
 </details>
 
@@ -305,97 +316,63 @@ Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDC
 
 ```
 
-## Learning Online 
+## Learning Online
 
-After familiarizing yourself with the essential technical tools needed for your studies, let's explore the crucial aspects of effective online learning.  The following tips are from [Learning to Learn  Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
+After familiarizing yourself with the essential technical tools needed for your studies, let's explore the crucial aspects of effective online learning. The following tips are from [Learning to Learn Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
 
-Online learning requires additional skills differing from face-to-face learning, and since online learning is typically self-directed, an absence of these skills will make a students’ learning experience difficult. These skills include:
+Online learning requires additional skills differing from face-to-face learning, and since online learning is often self-paced, an absence of these skills will make a student's learning experience difficult. These skills include:
 
-- Time management (i.e. effectively managing deadlines, schedules)  
-- Organization (i.e. creating a dedicated study space, ability to easily access material)  
-- Self-motivation (i.e. scheduling set times for coursework, peer study accountability)  
-- Self-regulation (i.e. strategies can include breaks, physical activity, meditation)  
-- Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed)  
+-   Time management (i.e. effectively managing deadlines, schedules)\
+-   Organization (i.e. creating a dedicated study space, ability to easily access material)\
+-   Self-motivation (i.e. scheduling set times for coursework, peer study accountability)\
+-   Self-regulation (i.e. strategies can include breaks, physical activity, meditation)\
+-   Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed)
 
-In face-to-face teaching environments, the requirement to physically attend class, coupled with community accountability, makes a learners’ individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor may notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
+In face-to-face teaching environments, the requirement to physically attend class, coupled with community accountability, makes a learner's individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor may notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.
 
-Here are a couple more ways you can hone your online learning skills:  
+Here are a couple more ways you can hone your online learning skills:
 
-1. **Active Participation:** 
-Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
+1.  **Active Participation:** Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.
 
-1. **Regular Communication with Instructors:** 
-Establish clear lines of communication with instructors, seeking clarification when needed and participating in office hours or virtual meetings. 
+2.  **Regular Communication with Instructors:** Establish clear lines of communication with instructors, seeking clarification when needed and participating in office hours or virtual meetings.
 
-1. **Utilize Online Resources:** 
-Take advantage of digital resources provided by the university, including online libraries, research databases, and academic support services. 
+3.  **Utilize Online Resources:** Take advantage of digital resources provided by the university, including online libraries, research databases, and academic support services.
 
-1. **Tech Preparedness:** 
-Ensure your computer and internet connection are reliable, and familiarize yourself with the required software tools for the course. 
+4.  **Tech Preparedness:** Ensure your computer and internet connection are reliable, and familiarize yourself with the required software tools for the course.
 
-1. **Active Reading and Note-Taking:** 
-Develop effective reading strategies and take concise notes to enhance comprehension and retain key information. 
+5.  **Active Reading and Note-Taking:** Develop effective reading strategies and take concise notes to enhance comprehension and retain key information.
 
-1. **Collaborate with Peers:** 
-Foster virtual collaboration with classmates through group projects, study groups, and peer discussions to enrich your learning experience. 
+6.  **Collaborate with Peers:** Foster virtual collaboration with classmates through group projects, study groups, and peer discussions to enrich your learning experience.
 
-1. **Regular Self-Assessment:** 
-Reflect on your progress regularly, assess your understanding of the material, and adjust your study strategies accordingly. 
+7.  **Regular Self-Assessment:** Reflect on your progress regularly, assess your understanding of the material, and adjust your study strategies accordingly.
 
-Remember, flexibility and adaptability are key in the online learning environment. Tailor these tips to your individual needs and the specific requirements of your courses.  Note also that you will have opportunities to practice these skills throughout the course. 
+Remember, flexibility and adaptability are key in the online learning environment. Tailor these tips to your individual needs and the specific requirements of your courses. Note also that you will have opportunities to practice these skills throughout the course.
 
 Here is some additional advice from TWU students. Watch [Learning Online: Student Tips for Success](https://vimeo.com/493206161){target="_blank"}.
 
-<div class="video-container">
+::: video-container
+<iframe src="https://player.vimeo.com/video/493206161?h=5dd87e1837" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
 
-<iframe src="https://player.vimeo.com/video/493206161?h=5dd87e1837" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</iframe>
+:::
 
-</div>  
-
-
-### Activity: Learning Online Effectively  {-}
+### Activity: Learning Online Effectively {.unnumbered}
 
 ```{block2, type='reflect'}
 
-When searching online for "tips for online learning" or "strategies for learning online," you'll come across valuable advice to enhance your success in your online studies. Quickly review the following resources. As you skim through the content, identify tips that resonate with you and consider integrating them into your online learning routine. 
+There are thousands of websites that offer 'Tips for online learning', or 'How to succeed in your online class' advice, and some of those sites are good (see [here](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/){target="_blank"}, [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the Liberated Learner project, which was created primarily by Ontario university and college students like you. There are four main sections in the Liberated Learner resource, and we will explore 'The Learner' in this activity.
 
-- [Self-motivation for online students](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/){target="_blank"}  
-- [Tips for Success Online](https://www.unlv.edu/online/tips){target="_blank"}  
-- [Tips for Taking Classes and Studying Online at Home](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}  
-- [15 Tips to Succeed in an Online Class](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}  
-- [Tips for Taking Online Classes: 8 Strategies for Success](https://graduate.northeastern.edu/resources/tips-for-taking-online-classes/){target="_blank"}  
-- [Tips for Learning Online](https://scpd.stanford.edu/tips-learning-online){target="_blank"}  
-- [How to be a Successful Online Learner](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"}  
+Take some time to work through [The Learner](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"}. There are activities that you can complete, and they are for your reflections.
 
-
-Next, watch [Study Tips to Succeed as an Online Student](https://www.youtube.com/watch?v=-1DRETk-mns){target="_blank"}.
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-1DRETk-mns?si=8GzM-pxoA4Wmtfiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-Here is another interesting perspective on studying online. Watch [Time management case study using Pomodoro method](https://www.youtube.com/watch?v=z7e7gtU3PHY){target="_blank"}.
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z7e7gtU3PHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-Finally, view the following infographic explaining how to be a successful online student.
-
-![Study Tips for Online Students](assets/u1/5-Great-Study-Tips-For-Online-Students-Infographic.jpg)
 
 <span class="blockhead">Questions to Consider</span>
 
-Having viewed articles and relevant videos, consider the tips you find most beneficial for your online studies. Compile a list of your Top Ten Study Tips for Online Learning. Following this, reflect on how you can maximize your online courses. What are your goals, and what specific steps will you take to achieve them?
+Having worked through *The Learner*, consider the ideas you think would be most beneficial for your online studies. To record your thoughts, you could create a list of your Top Ten Study Tips for Online Learning, or maybe write a message to a friend or sibling who is considering attending TWU next year. Following this, reflect on how you can work to ensure your own success in your online courses. What are your goals, and what specific steps will you take to achieve them?
 
 
 ```
 
-### Activity: Online Discussions  {-}
+### Activity: Online Discussions {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -421,60 +398,58 @@ Another important concept in online dicussions is Netiquette.  Watch [What is Ne
 
 ```
 
-#### Discussion Guidelines for LDRS 101  {-}
+#### Discussion Guidelines for LDRS 101 {.unnumbered}
 
 In this course, we will ask you to discuss ideas with your peers via Discourse, WordPress and other social media platforms. These discussions are <b><i>ungraded</i></b> and yet an important part of your assignments in this course. Consider for example, two course learning outcomes that relate to online discussions:
 
-- Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
-- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.  
+-   Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.\
+-   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
 Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
-In LDRS 101, we do not require a specific word count, proper APA formatting, or a certain amount of references, although you may take some courses with these guidelines.  
+In LDRS 101, we do not require a specific word count, proper APA formatting, or a certain amount of references, although you may take some courses with these guidelines.
 
-All postings should be carefully written and edited before being posted. Opinions should be well supported. Responses should also be communicated in professional language, respectful of others, and to the point.  
+All postings should be carefully written and edited before being posted. Opinions should be well supported. Responses should also be communicated in professional language, respectful of others, and to the point.
 
 In online discussion forums, learners are encouraged to respond substantively. What does this mean?
 
 Substantive responses may include:
 
-- Providing a new thought, idea, or perspective;  
-- Citing an experience or example of what we are learning;  
-- Adding a new twist on a perspective;  
-- Critically thinking about an idea/concept;  
-- Questioning or challenging a principle/perspective;  
-- Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said;  
-- Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning;  
-- Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment. Or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion.  
+-   Providing a new thought, idea, or perspective;\
+-   Citing an experience or example of what we are learning;\
+-   Adding a new twist on a perspective;\
+-   Critically thinking about an idea/concept;\
+-   Questioning or challenging a principle/perspective;\
+-   Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said;\
+-   Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning;\
+-   Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment. Or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion.
 
 What Substantive Participation is NOT:
 
-- Very basic comments such as “I agree” or “I disagree;”  
-- Restating what has been said (unless there is a direct purpose in doing so);  
-- Disrespectfully disagreeing;  
-- Pat answers that are not thought-provoking or do not move the dialogue forward;  
+-   Very basic comments such as “I agree” or “I disagree;”\
+-   Restating what has been said (unless there is a direct purpose in doing so);\
+-   Disrespectfully disagreeing;\
+-   Pat answers that are not thought-provoking or do not move the dialogue forward;
 
 Below are examples of how to stimulate your own and others’ thinking:
 
-- What would happen if…
-- Other times it may be helpful to…  
-- It is my understanding…what is your experience with this?  
-- You might approach this from…  
-- Is it possible that…  
-- Would you consider…  
-- Maybe…  
-- Possibly…  
-- Sometimes…  
-- I’m wondering if…  
-- Do you think…  
+-   What would happen if…
+-   Other times it may be helpful to…\
+-   It is my understanding…what is your experience with this?\
+-   You might approach this from…\
+-   Is it possible that…\
+-   Would you consider…\
+-   Maybe…\
+-   Possibly…\
+-   Sometimes…\
+-   I’m wondering if…\
+-   Do you think…
 
-For more on substantive participation, read [Writing A Substantive Discussion Post for An Online Class Forum](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"}. 
+For more on substantive participation, read [Writing A Substantive Discussion Post for An Online Class Forum](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"}.
 
 Again, in LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.
 
-
-
-### Activity: Start a Conversation!  {-}
+### Activity: Start a Conversation! {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -484,9 +459,9 @@ Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on
 
 ## Understanding the Digital
 
-Our next topic is an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology. 
+Our next topic is an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology.
 
-
+```{=html}
 <!--
 rewrote this:
 
@@ -497,44 +472,37 @@ to this: The COVID-19 pandemic underscored this digital impact, with mobile phon
 Then I deleted it.  Do we need this reference to covid times?  It could be a trigger for so many.
 
 -->
+```
+Modern universities are also deeply impacted by *the digital*. Every system involved in higher education has been digitized in some manner, including recruitment, accounting, and fundraising. As you begin your university career, here are some digital systems you will likely encounter:
 
-Modern universities are also deeply impacted by *the digital*. Every system involved in higher education has been digitized in some manner, including recruitment, accounting, and fundraising.  As you begin your university career, here are some digital systems you will likely encounter: 
-
-- courses are designed and often delivered digitally, 
-- course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE) (e.g. Moodle), 
-- assignments must often be created digitally (word processors, presentation software, video editors, website builders),
-- research data is gathered, stored, analyzed, and shared digitally.
+-   courses are designed and often delivered digitally,
+-   course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE) (e.g. Moodle),
+-   assignments must often be created digitally (word processors, presentation software, video editors, website builders),
+-   research data is gathered, stored, analyzed, and shared digitally.
 
 There are many other processes and procedures that rely on *the digital* in higher education, but the important thing for you to realize as you begin your higher education journey is that there are many tools that you will be required to learn and use throughout your journey. Some are more obvious, like word processors, presentation software, email, the library website, and LMSs, but some are less obvious and won't necessarily be taught specifically, other than in this course.
 
 Some of the digital tools we will introduce to you will help you build a *workflow* for you to manage the huge amount of information and resources that you will have to sort through to complete many of your assignments. You will learn to use AI to find *relevant* resources on whatever your topic might be. As you know from searching Google, a simple search of the web can turn up thousands or millions of hits, but there are tools that can help you highlight the 20 most relevant resources in just a few clicks. Once you find resources, we will show you tools that will allow you to track all your references, create citations in your writing quickly and easily, and then create a perfectly formatted reference list. Do not waste your time creating your own bibliographies! This one tool will save you days and likely weeks of work during your degree (quite literally). We will show you another tool that will allow you to make connections between ideas and notes so that you build a network of connected ideas. Curating this network of ideas is possibly one of the most useful things you can do in higher ed. You will end up with a searchable network of everything you've learned, and be able to visualize it at the click of a button. We will help you think through the implications of how you present yourself on the web so that you can make wise decisions about what you share and how you share it. We will also help you make connections on the web that could become a key resource for your learning and working in your career.
 
-
 ## Digital Literacies
 
-
-> ::: {.definition name="Digital Literacy" #diglit}
-Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. From [B.C.’s Post-Secondary Digital Learning Strategy](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/digital_learning_strategy.pdf){target="_blank”}
-:::
+> ::: {#diglit .definition name="Digital Literacy"}
+> Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. From [B.C.’s Post-Secondary Digital Learning Strategy](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/digital_learning_strategy.pdf){target="\"_blank”"}
+> :::
 
 Literacy, as we commonly understand it, is the ability to *understand* the meaning of texts. It is more than just being able to 'read'. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools *ethically*, to *access, interpret, evaluate, create, construct, and communicate* information and knowledge.
 
+> “In today’s world, being literate requires much, much more than the traditional literacy of yesterday.” —Rebecca Alber
 
+What digital tools do you use to help you make meaning? What is your "go-to" app for note-taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app. Before you go through the instructions in the activity below, watch the following video [This is Obsidian](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="\"_blank”"}.
 
->“In today’s world, being literate requires much, much more than the traditional literacy of yesterday.”
->—Rebecca Alber
+::: video-container
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d2FNqEDGc8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
-What digital tools do you use to help you make meaning?  What is your "go-to" app for note-taking, organizing files, tracking references, and connecting ideas?  One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app.  Before you go through the instructions in the activity below, watch the following video [This is Obsidian](https://www.youtube.com/watch?v=d2FNqEDGc8g){target="_blank”}.
+</iframe>
+:::
 
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d2FNqEDGc8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-
-### Activity: Getting Started with Obsidian {-}
+### Activity: Getting Started with Obsidian {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -553,7 +521,7 @@ If you are having any difficulty in installing Obsidian, feel free to reach out 
 
 Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/c/ldrs101/10){target="_blank"} or talk your your instructor or facilitator for help with this.
 
-### Activity: Download the Starter Vault {-}
+### Activity: Download the Starter Vault {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -575,12 +543,11 @@ To give you a head start, we have created a **starter vault** for you to downloa
 
 ```
 
-Now that you have a place to record your course notes, let's jump back into the discussion about digital literacy.  Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In the activity below you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
+Now that you have a place to record your course notes, let's jump back into the discussion about digital literacy. Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In the activity below you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.
 
+### Activity: Reflection on the 21st Century Learner {.unnumbered}
 
-### Activity: Reflection on the 21st Century Learner {-}
-
-```{block2, type='reflect'} 
+```{block2, type='reflect'}
 
 The following video, published by the MacArthur Foundation, questions how digital media are changing the way young people learn, play, socialize, and participate in civic life. John Seely Brown a researcher with particular interests in radical innovation and digital culture suggests that today’s gaming oriented children want to be measured and feel that if they are not learning, it is not fun. How does this relate to how you feel about learning?
 
@@ -608,11 +575,11 @@ Notice that tags start with a hashtag and contain no spaces. Separate words with
 
 ```
 
-Let's dive a little deeper into this topic of digital literacy.  What is it?  How would you define digital literacy?
+Let's dive a little deeper into this topic of digital literacy. What is it? How would you define digital literacy?
 
 In the next activity, you will start to unpack this term and prepare your own initial definition of digital literacy.
 
-### Activity: Definining Digital Literacy {-}
+### Activity: Definining Digital Literacy {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -637,14 +604,13 @@ Share your thoughts and experiences by posting on the LDRS 101 Discourse chat.  
 
 ```
 
+### Digital Literacies & Skills {.unnumbered}
 
-### Digital Literacies & Skills {-}
+Digital literacies for academic learning involves more than Facebook, Snapchat or X (Twitter) and the associated technical skills in using these technologies.
 
-Digital literacies for academic learning involves more than Facebook, Snapchat or X (Twitter) and the associated technical skills in using these technologies. 
+As you explore the concept, you will find online resources which confuse digital skills with digital literacies. The activities which follow aim to provide an initial introduction to the wide range of digital literacies associated with academic learning. We will explore the concept of digital literacies in greater depth as we progress with the course. When exploring these online resources, we encourage you to differentiate between skills and literacies and to develop a critical disposition. Digtial literacies involve issues, norms, and habits of mind surrounding technologies used for a particular purpose. However, these literacies are closely related to technical proficiency in using a range of digital applications.
 
-As you explore the concept, you will find online resources which confuse digital skills with digital literacies. The activities which follow aim to provide an initial introduction to the wide range of digital literacies associated with academic learning. We will explore the concept of digital literacies in greater depth as we progress with the course. When exploring these online resources, we encourage you to differentiate between skills and literacies and to develop a critical disposition. Digtial literacies involve issues, norms, and habits of mind surrounding technologies used for a particular purpose. However, these literacies are closely related to technical proficiency in using a range of digital applications.  
-
-### Activity: What Are Digital Literacies? {-}
+### Activity: What Are Digital Literacies? {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -671,9 +637,7 @@ Conduct a quick Google search for "digital literacies" and throw in terms such a
 
 ```
 
-
-
-### Activity: Why Digital Literacy Matters {-}
+### Activity: Why Digital Literacy Matters {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -695,8 +659,7 @@ Next, go to the LDRS 101 section in Discourse.  Post a contribution to the discu
 
 ```
 
-
-### Activity: Am I Digitally Literate? {-}
+### Activity: Am I Digitally Literate? {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -725,8 +688,9 @@ Digital literacies encompasses a wide range of capabilities which extend beyond 
 
 One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*. To complete this activity, we'll first discuss some key concepts.
 
-Have you encountered the terms 'digital natives' and 'digital immigrants'?  What are your initial thoughts on their definitions?
+Have you encountered the terms 'digital natives' and 'digital immigrants'? What are your initial thoughts on their definitions?
 
+```{=html}
 <!--
 
 Thinking of a high school, first year uni student... they may not have encountered this conversation.
@@ -736,31 +700,29 @@ It is likely that you have encountered and may believe that there is a distincti
 also changing *kids these days* below and "those of us whose formative years pre-date the advent of the internet"
 
 -->
-
-
-
-
+```
 ```{block2, type='caution'}
 
  **Note:**  [Marc Prensky](https://marcprensky.com/) coined the terms 'digital natives' and 'digital immigrants'. We recognize that the term 'native' should not be used to talk about people.
 
 ```
 
-
 The essential argument is that certain generations have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those generations whose formative years pre-date the advent of the internet are forever at a disadvantage compared to *kids*. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky's original article.
 
 <a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+```{=html}
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+```
 Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but this doesn't imply a superior aptitude for learning technology compared to older generations or an inherent proficiency in doing so. For example, are most 1st-year university students proficient in using a spreadsheet to create a budget? If they have created a budget, it's more likely they use an app than a spreadsheet.
 
 We'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a *visitor* in some web spaces and a *resident* in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
 
 Alternately, there are places and spaces on the web, where *you* reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or X (formerly Twitter), or maybe it's a blog, or social site. The important distinction is that these are places where you connect with other people; where you are socially *present*.
 
-At the same time, if we can imagine the visitor <--> resident continuum on a horizontal axis, there is also a personal <--> professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
+At the same time, if we can imagine the visitor \<--\> resident continuum on a horizontal axis, there is also a personal \<--\> professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
 
-### Activity: Where Am I Online? {-}
+### Activity: Where Am I Online? {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -783,10 +745,12 @@ Feel free to jot down your notes in Obsidian.
 
 
 ```
+
 Now to the task of creating your own *Visitors and Residents Diagram*.
 
-See the VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. Or perhaps your VR diagram has a plethora of tools you use regularly.  The key idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about which tools you may have tried or are interested in pursuing.  From there, we can begin to plan for tools we can use that afford us the opportunity to reside there.
+See the VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. Or perhaps your VR diagram has a plethora of tools you use regularly. The key idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about which tools you may have tried or are interested in pursuing. From there, we can begin to plan for tools we can use that afford us the opportunity to reside there.
 
+```{=html}
 <!--
 
 original text:
@@ -796,16 +760,14 @@ I've shared my VR Diagram below...keep in mind that this diagram represents a se
 
 
 -->
-
-
-
+```
 ![Visitor-Resident Diagram](assets/u1/vr-diagram-2.png)
 
 It is certainly notable that I am very much a visitor in Moodle! This does not mean that I don't spend much time there, I spend a significant portion of every day working in Moodle, rather, the work that I do there leaves very little trace of my personality. You will (hopefully) see Moodle as much more of a place where you reside. But this foregrounds the question of whether Moodle is actually designed to promote residencies. Certainly the forums allow for users to project their persona into the system, as do a few of the other features, but the system itself is very heavily templated. There are profiles that can be edited, but users are limited to one very tiny image and virtually no opportunity to determine for themselves what they want to share. There is little room for customization, and every time a course ends, every single user must recreate their persona in a new course site (or five).
 
-
 For many university students, a Learning Management System (LMS) like Moodle is a perfectly reasonable place to reside and they feel comfortable accessing course materials, finding their grades, communicating with classmates, etc. And just like our physical homes, the quality of the community that lives there isn't determined by the features of the house itself, but by the people who share the space and how they structure their time and interactions.
 
+```{=html}
 <!--
 
 original text:
@@ -825,8 +787,8 @@ Read the following blog post which I believe provides a fitting summary of this 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 -->
-
-### Activity: Visitor and Resident Diagram {-}
+```
+### Activity: Visitor and Resident Diagram {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -845,33 +807,32 @@ This VR diagram can be used to demonstrate your understanding of the course lear
 
 ```
 
-
+````{=html}
 <!--
 
 
 ```
 
 <!-- @cmadland, I'm moving the PLE, blog, & digital footprint sections to unit 4 -->
-
-
+````
 
 ## Digital Privacy & Safety
 
-Now that you have assessed  some of your digital skills or literacies, let's focus our attention on privacy and safety. In this section we summarize important practices as a reminder to remain vigilant in protecting your privacy and security online. If you are unsure about good security practices, there are a wealth of online resources you can (and should) consult.  
+Now that you have assessed some of your digital skills or literacies, let's focus our attention on privacy and safety. In this section we summarize important practices as a reminder to remain vigilant in protecting your privacy and security online. If you are unsure about good security practices, there are a wealth of online resources you can (and should) consult.
 
-#### Privacy  {-}
+#### Privacy {.unnumbered}
 
-Your privacy is fragile, easy to lose instantaneously, and difficult to retrieve in an environment that requires so much online interaction.  
+Your privacy is fragile, easy to lose instantaneously, and difficult to retrieve in an environment that requires so much online interaction.
 
-- [**Identity theft**](https://en.wikipedia.org/wiki/Identity_theft){target="_blank"} happens, frequently.  
-  - Never put your social security number, your birthday, your mother’s maiden name, or any other personal facts, anywhere online. Everyone on the Internet will be able to access this information.  
-  - Always assume that anything you write online (including email) can, and probably will, eventually leak. Keep your email address private – to avoid receiving spam. If your email is published in a plain form anywhere online, even if it is part of an archived email list, spammers will “harvest” it for their databases.  
-- **Spam email [(at least half of all email being sent)](https://securelist.com/spam-report-2019/96527/){target="_blank"}** – is an unfortunate fact of our modern lives.  
-  - If you must publish your email address online, consider creating a “sacrificial” email address, or one you only use to publish online. You can create an email “alias,” which you can set to automatically forward to your primary email, and easily disable if your spam volumes increases.  Many email services will automatically generate random email addresses that you can use to hide your true address.
-  - Another approach is to avoid publishing the email address as something like *myname@somewebdomain.net*... Instead you might use more confusing text, such as myname-at-somewebdomain-net. Some websites support using these types of obfuscation methods, but the spammers who "scrape" email addresses from websites to populate their spam databases use increasingly sophisticated methods to defeat these methods.  
-  - Basically, avoid publishing the email addresses you value online to decrease the amount of spam you receive.  
+-   [**Identity theft**](https://en.wikipedia.org/wiki/Identity_theft){target="_blank"} happens, frequently.
+    -   Never put your social security number, your birthday, your mother’s maiden name, or any other personal facts, anywhere online. Everyone on the Internet will be able to access this information.\
+    -   Always assume that anything you write online (including email) can, and probably will, eventually leak. Keep your email address private – to avoid receiving spam. If your email is published in a plain form anywhere online, even if it is part of an archived email list, spammers will “harvest” it for their databases.\
+-   **Spam email [(at least half of all email being sent)](https://securelist.com/spam-report-2019/96527/){target="_blank"}** – is an unfortunate fact of our modern lives.
+    -   If you must publish your email address online, consider creating a “sacrificial” email address, or one you only use to publish online. You can create an email “alias,” which you can set to automatically forward to your primary email, and easily disable if your spam volumes increases. Many email services will automatically generate random email addresses that you can use to hide your true address.
+    -   Another approach is to avoid publishing the email address as something like *myname\@somewebdomain.net*... Instead you might use more confusing text, such as myname-at-somewebdomain-net. Some websites support using these types of obfuscation methods, but the spammers who "scrape" email addresses from websites to populate their spam databases use increasingly sophisticated methods to defeat these methods.\
+    -   Basically, avoid publishing the email addresses you value online to decrease the amount of spam you receive.
 
-#### Passwords {-}
+#### Passwords {.unnumbered}
 
 What about passwords? Many people have just one, or maybe a few. Given the number of websites and web services which require password-based authentication, this is not good enough to avoid an identity disaster.
 
@@ -879,13 +840,13 @@ The problem with having only a few passwords is that even resource-rich and secu
 
 Other ways someone can get your password include:
 
-- Sniffing traffic when you log into a non-secure website that uses http:// rather than https:// – the “s” stands for secure because your data transmission’s encrypted. Look for the Lock icon.png in your address bar.  
-- Sniffing emails – your email, unless encrypted, is not secure. Never send a login and password along with the web address of a service (similarly, don’t send credit card numbers).  
-- [Phishing](https://en.wikipedia.org/wiki/Phishing){target="_blank"} attacks – where someone sends you an email that looks like it is from a trusted sender, such as from a friend, your bank, an online store you frequent, or a government agency, and they ask you to enter your password to confirm it. No one should ever ask you to enter your password via email.  
-- Always check the web address (hover over the link) to make sure it corresponds to the right place, or call the sender to confirm the request over the phone.  
-- Brute force – hackers often use computers to guess your password, beginning with a list of [common passwords](https://www.passwordrandom.com/most-popular-passwords){target="_blank"}, and try different combinations until they get it right, or until the system locks them out for trying too many times.  
-- “How secure is my password” sites – you should avoid these sites and never type your password into a website or email response that is not appropriate, especially when you know the sender also knows your email.  
-- Once your email and any password combination are known, identity thieves will try to use them at various websites, because they know most people only use a few passwords. A thief who discovers a password you created for a website you rarely use will try to compromise the security of a website that is important to you – such as your email system, your workplace, social media accounts, or bank account.  
+-   Sniffing traffic when you log into a non-secure website that uses http:// rather than https:// – the “s” stands for secure because your data transmission’s encrypted. Look for the Lock icon.png in your address bar.\
+-   Sniffing emails – your email, unless encrypted, is not secure. Never send a login and password along with the web address of a service (similarly, don’t send credit card numbers).\
+-   [Phishing](https://en.wikipedia.org/wiki/Phishing){target="_blank"} attacks – where someone sends you an email that looks like it is from a trusted sender, such as from a friend, your bank, an online store you frequent, or a government agency, and they ask you to enter your password to confirm it. No one should ever ask you to enter your password via email.\
+-   Always check the web address (hover over the link) to make sure it corresponds to the right place, or call the sender to confirm the request over the phone.\
+-   Brute force – hackers often use computers to guess your password, beginning with a list of [common passwords](https://www.passwordrandom.com/most-popular-passwords){target="_blank"}, and try different combinations until they get it right, or until the system locks them out for trying too many times.\
+-   “How secure is my password” sites – you should avoid these sites and never type your password into a website or email response that is not appropriate, especially when you know the sender also knows your email.\
+-   Once your email and any password combination are known, identity thieves will try to use them at various websites, because they know most people only use a few passwords. A thief who discovers a password you created for a website you rarely use will try to compromise the security of a website that is important to you – such as your email system, your workplace, social media accounts, or bank account.
 
 Here is a table that shows how quickly passwords can be cracked using brute force methods. Note that the best passwords are both long and include a mix of numbers, lower-case and upper-case letters, and symbols.
 
@@ -895,13 +856,13 @@ There are services you can use to check if your email is part of a leaked passwo
 
 **Password Managers**
 
-Get a [password manager](https://en.wikipedia.org/wiki/Password_manager){target="_blank"}. They are incredibly helpful and convenient now that many of us use several computers and mobile devices. Password managers help you manage your passwords.  
+Get a [password manager](https://en.wikipedia.org/wiki/Password_manager){target="_blank"}. They are incredibly helpful and convenient now that many of us use several computers and mobile devices. Password managers help you manage your passwords.
 
-- When you choose a password manager, make sure you create one [strong password](https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/){target="_blank"}, such as a full sentence with some numbers and special characters. This is all you need to remember – the password manager remembers the others. The ensures you generate a different, fully-random password for each website you use that requires a password.  
-- Good password managers only ever store your details in an encrypted form, where even the company that stores it cannot see your passwords. To access your passwords, you log into the password manager service using your single, strong password (via a secure web link – usually the default, but always check!).  
-- There are many [password manager options](https://www.google.co.nz/search?q=password+managers&bshm=rimc/1){target="_blank"}. Some widely used proprietary options include [Lastpass](https://www.lastpass.com/){target="_blank"} and [1password](https://1password.com/){target="_blank"}. Open source options also exist, such as [Bitwarden](https://bitwarden.com/){target="_blank"}. Sadly, some of the most popular password managers have suffered from software bugs that have exposed user passwords.
+-   When you choose a password manager, make sure you create one [strong password](https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/){target="_blank"}, such as a full sentence with some numbers and special characters. This is all you need to remember – the password manager remembers the others. The ensures you generate a different, fully-random password for each website you use that requires a password.\
+-   Good password managers only ever store your details in an encrypted form, where even the company that stores it cannot see your passwords. To access your passwords, you log into the password manager service using your single, strong password (via a secure web link – usually the default, but always check!).\
+-   There are many [password manager options](https://www.google.co.nz/search?q=password+managers&bshm=rimc/1){target="_blank"}. Some widely used proprietary options include [Lastpass](https://www.lastpass.com/){target="_blank"} and [1password](https://1password.com/){target="_blank"}. Open source options also exist, such as [Bitwarden](https://bitwarden.com/){target="_blank"}. Sadly, some of the most popular password managers have suffered from software bugs that have exposed user passwords.
 
-### Activity: Get a Password Manager {-}
+### Activity: Get a Password Manager {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -917,40 +878,40 @@ If you don’t already use a password manager, set up an account with [Lastpass]
 
 ```
 
-#### Good Messaging Hygiene  {-}
+#### Good Messaging Hygiene {.unnumbered}
 
-Always assume that anyone can and will read anything you write in an email. Email is not a secure form of communication. Few people encrypt their email, because it is an extra step that even the most technically-inclined users are reluctant to take. Both sender and recipient have to be technically proficient.  
+Always assume that anyone can and will read anything you write in an email. Email is not a secure form of communication. Few people encrypt their email, because it is an extra step that even the most technically-inclined users are reluctant to take. Both sender and recipient have to be technically proficient.
 
-Text messages and instant messaging, such as Facebook messenger, are also insecure. Anyone, including government officials and the organization that runs the service, such as Facebook employees, can read it.  
+Text messages and instant messaging, such as Facebook messenger, are also insecure. Anyone, including government officials and the organization that runs the service, such as Facebook employees, can read it.
 
-**Secure your Own Privacy**  
+**Secure your Own Privacy**
 
-Never send any sensitive data, such as your social security number, credit card number, password, or other personal information via email or text. Call the person to provide this information over the phone.  
+Never send any sensitive data, such as your social security number, credit card number, password, or other personal information via email or text. Call the person to provide this information over the phone.
 
-You can use a secure, encrypted, text message service, such as Signal if necessary. It is available at no cost, works on most platforms, and encrypts text messages on your phone. If you text someone else with Signal installed, the entire transaction is encrypted.  
+You can use a secure, encrypted, text message service, such as Signal if necessary. It is available at no cost, works on most platforms, and encrypts text messages on your phone. If you text someone else with Signal installed, the entire transaction is encrypted.
 
-**Secure the Privacy of Others** 
+**Secure the Privacy of Others**
 
-Another element of good digital hygiene is to protect the identity of others. For example, never send group emails using To: or CC: (carbon copy) for each email address. You will reveal the email addresses for everyone on your list. This is especially problematic if you or another person saves the email message and displays it on the web, such as in a mailing list archive. This makes it easy for spammers and hackers to access and download all of those email addresses.  
+Another element of good digital hygiene is to protect the identity of others. For example, never send group emails using To: or CC: (carbon copy) for each email address. You will reveal the email addresses for everyone on your list. This is especially problematic if you or another person saves the email message and displays it on the web, such as in a mailing list archive. This makes it easy for spammers and hackers to access and download all of those email addresses.
 
-Use BCC: (blind carbon copy), to hide the email addresses from your recipients, to protect everyone’s privacy. Use your own email address, and BCC the rest of the recipients, if your email software requires you to insert an email address into the To: box.  
+Use BCC: (blind carbon copy), to hide the email addresses from your recipients, to protect everyone’s privacy. Use your own email address, and BCC the rest of the recipients, if your email software requires you to insert an email address into the To: box.
 
-When using an email mailing list, where you send messages to a single email address to a list of people, never CC: someone else in the same message. This will compromise the privacy of every CC’d recipient and the privacy of the list. Always check with the people on the list to ensure you are not taking unacceptable liberties.  
+When using an email mailing list, where you send messages to a single email address to a list of people, never CC: someone else in the same message. This will compromise the privacy of every CC’d recipient and the privacy of the list. Always check with the people on the list to ensure you are not taking unacceptable liberties.
 
-If someone asks you to share an email address of a friend or colleague, you should ask permission to share their email address, and state why the third party is requesting their email.  
+If someone asks you to share an email address of a friend or colleague, you should ask permission to share their email address, and state why the third party is requesting their email.
 
-**Be a Thoughtful Sceptic**  
+**Be a Thoughtful Sceptic**
 
-So how can we protect ourselves if new threats are emerging all the time?  
+So how can we protect ourselves if new threats are emerging all the time?
 
-- Be conscious of where you put information that is “private” to you.  
-- Beware of the terms of service of social media providers, such as Facebook. Use a service like “[TOSDR](https://tosdr.org/){target="_blank"}" to help identify risky, overreaching services. You may be able to use certain privacy settings to protect your information.  
-- Always check the identity of a website before you enter any passwords or personal information. Secure certificates are generally trustworthy, but be sure check the names and details.  
-- Always ask whether you should trust a provider or a government agency. Always ask “who benefits when I do this?” What are their incentives?  
-- Protect your own data and be even more protective of others’ private information. For example, be cautious before posting information about yourself or someone else. Be especially cautious when posting pictures or videos of their children.  
-- Remember, complacency and unwarranted trust are your biggest enemies. A healthy paranoia is good for your digital health. Think about the great amount of time and effort it will take to regain your identity (and credit rating) if your information is compromised.  
+-   Be conscious of where you put information that is “private” to you.\
+-   Beware of the terms of service of social media providers, such as Facebook. Use a service like “[TOSDR](https://tosdr.org/){target="_blank"}" to help identify risky, overreaching services. You may be able to use certain privacy settings to protect your information.\
+-   Always check the identity of a website before you enter any passwords or personal information. Secure certificates are generally trustworthy, but be sure check the names and details.\
+-   Always ask whether you should trust a provider or a government agency. Always ask “who benefits when I do this?” What are their incentives?\
+-   Protect your own data and be even more protective of others’ private information. For example, be cautious before posting information about yourself or someone else. Be especially cautious when posting pictures or videos of their children.\
+-   Remember, complacency and unwarranted trust are your biggest enemies. A healthy paranoia is good for your digital health. Think about the great amount of time and effort it will take to regain your identity (and credit rating) if your information is compromised.
 
-### Activity: ToS Analysis {-}
+### Activity: ToS Analysis {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -960,8 +921,7 @@ Feel free to add components to the template.
 
 ```
 
-
-### Activity: Introduction to the Reflective Journaling {-}
+### Activity: Introduction to the Reflective Journaling {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -992,6 +952,7 @@ As you continue your studies with TWU, you will likely be asked to write in a Re
 
 ```
 
+```{=html}
 <!--
 
 @cmadland I replaced the video, as it seemed a bit long and couldn't hold my attention.  There's another video on Reflective Writing I use in unit 5: https://twu-innovation.github.io/inno101/building-a-network-of-people.html#part-1-written-reflection.  Should we use that here? 
@@ -1002,8 +963,8 @@ please watch the following video on how to write reflectively. Keep in mind that
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/whKSAKSMFs8?si=uq8v9HnkEOqe2QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -->
-
-### Activity: Digital Literacies for Online Learning {-}
+```
+### Activity: Digital Literacies for Online Learning {.unnumbered}
 
 ```{block2, type='reflect'}
 
@@ -1032,13 +993,11 @@ This journal entry can be used to demonstrate your understanding of the course l
 
 ```
 
+## Summary {.unnumbered}
 
-## Summary {-}
+In this first unit, you have had the opportunity to learn about some of the impacts of *the digital* on your life. You have started to build an academic knowledge management workflow, a pivotal skill essential for efficiently organizing, accessing, and leveraging information. Throughout the unit, you've actively engaged with the digital tools, shared insights into your personal interactions with digital technology, and begun applying these tools to enhance your academic learning experience. Furthermore, you've developed a personalized understanding of digital literacy and explored how to protect yourself and others in digital and online contexts. As you progress through the course, take a moment to identify the specific literacies you aspire to refine and articulate the concrete steps you intend to take in pursuit of these goals.
 
-In this first unit, you have had the opportunity to learn about some of the impacts of *the digital* on your life. You have started to build an academic knowledge management workflow, a pivotal skill essential for efficiently organizing, accessing, and leveraging information. Throughout the unit, you've actively engaged with the digital tools, shared insights into your personal interactions with digital technology, and begun applying these tools to enhance your academic learning experience. Furthermore, you've developed a personalized understanding of digital literacy and explored how to protect yourself and others in digital and online contexts. As you progress through the course, take a moment to identify the specific literacies you aspire to refine and articulate the concrete steps you intend to take in pursuit of these goals. 
-
-## Assessment {-}
-
+## Assessment {.unnumbered}
 
 ```{block2, type='assessment'}
 
@@ -1050,7 +1009,7 @@ All assignment details, including the grading rubrics, are located in the Assess
 
 ```
 
-## Checking your Learning {-}
+## Checking your Learning {.unnumbered}
 
 ```{block2, type='progress'}
 
@@ -1066,4 +1025,3 @@ Before you move on to the next unit, check that you are able to:
 
 
 ```
-
