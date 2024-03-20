@@ -69,7 +69,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 comment
 -->
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TQXMl4GycD0?si=Yjnvq-F1udPaUrsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Sense-making Through Hyperlinks
 
@@ -160,39 +160,23 @@ Add to your reflective journal your thoughts and experience on using tags.  What
 
 ```
 
+## Sense-Making Through Concept Maps {-}
+
+As you watched at the beginning of this unit, sense-making is the **work** of learning. There is no way around the work of learning because learning is work. It takes time and cognitive effort. As much as we wish to be able to 'learn' like Neo in *The Matrix*, we can't (see one of my favourite scenes in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0YhJxJZOWBw?si=Qe8jDUf0t5f-sv1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tags and links in Obsidian can be visualized using the graph view, but as this is an algorithmically generated map of the connections between ideas and files in your vault, there is little you can do to customize it. Fortunately, Obsidian also features a tool called the `Canvas`, which is a blank space that you can use to manually connect ideas in a visual format, allowing you to see connections and relationships that make sense to you. The following video is a brief explanation of how to use the Canvas in Obsidian.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eHI-Szjpafk?si=7qZEiZRgjG6g7ho5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <!--
 notes below from LIDA https://course.oeru.org/lida101/learning-pathways/learning-in-a-digital-age/reading-and-note-taking/
 
 -->
 
-## Note-Taking
-
-In this section we will discuss note-taking strategies and effective ways to use digital tools to organize your notes. 
-
-
-
-Some learners prefer taking notes with pen and paper, but in this activity you will be required to use a note-taking application. You can, always use pen and paper to prepare your first draft before recording a digital text version of your notes. Most citation management tools provide note taking capabilities which you can associate with items stored in your library, however for the purposes of this activity you will directed to use Simplenote (an open source tool) because we will be using features of this tool for other course activities.
-
-### Activity: Listening & Note-taking {-}
-
-```{block2, type='reflect'}
-
-Read the following articles: 
-- [What’s the best, most effective way to take notes?](https://theconversation.com/whats-the-best-most-effective-way-to-take-notes-41961){target="_blank"} published by The Conversation. 
-- [Effective listening and note taking](https://www.student.unsw.edu.au/note-taking-skills){target="_blank"} published by University of New South Wales. 
-
-Next, watch [How to take Cornell Notes in Obsidian: Full Workflow](https://www.youtube.com/watch?v=WkfEKI469J8){target="_blank"}
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WkfEKI469J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-
-
-```
 
 ### Activity: Open Video and Audio Lectures {-}
 

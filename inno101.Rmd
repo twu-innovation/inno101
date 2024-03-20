@@ -614,11 +614,17 @@ In this course, we will ask you to discuss ideas with your peers via Discourse,
 
 Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
-//todo #5 In LDRS 101, we do not require a specific word count, proper APA formatting, or a certain amount of references, although you will take some courses with these guidelines.
+<!--
+//todo #5 
+-->
 
-All postings should be carefully written and edited before being posted. Opinions should be well supported. Responses should also be communicated in professional language, respectful of others, and to the point.
+In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, if I wanted to cite an idea from the article in the previous activity, it would look like the following ([Galikyan & Admiraal, 2019](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#)), and at the bottom of the post, I would include a 'References' heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). [Please consult the APAStyle website for the essentials](https://apastyle.apa.org/style-grammar-guidelines).
 
-In online discussion forums, learners are encouraged to respond substantively. What does this mean?
+It is ***highly*** recommended^[For real...using Zotero will literally save you days of tedious work during your university career!] that you begin using a reference manager, and we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but [if you want to get started, you can download Zotero for free.](https://www.zotero.org/)
+
+In short, similar to a live classroom discussion, you need to be polite and professional, and you need to provide evidence for your views, but, like in a normal conversation, you won't have all of the formalities of academic writing. In LDRS 101, you should consider your forum posts as a time to practice and test your ideas. The stakes are very low, so it is fine to make mistakes.
+
+In online discussion forums, learners are encouraged to respond *substantively*. What does this mean?
 
 Substantive responses may include:
 
@@ -654,32 +660,25 @@ Below are examples of how to stimulate your own and others’ thinking:
 
 For more on substantive participation, read [Writing A Substantive Discussion Post for An Online Class Forum](https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/){target="_blank"}.
 
-Again, in LDRS 101, we do not specify a word count or evaluate your grammar.  We want to encourage you to use discussion forums as opportunities to connect with your peers and practice your digital literacy skills.
 
 ### Activity: Start a Conversation! {.unnumbered}
 
 ```{block2, type='reflect'}
 
-Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about something that has interested you about learning online.  Share your goals for your academic studies.  How will you stay motivated in this course?  What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
+Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about one of the following (or something else relevant):
+
+- something that has interested you about learning online.  
+- your goals for your academic studies.  
+- How will you stay motivated in this course?  
+- What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?
+- a 'Wow' and a 'Wonder' about online learning.
 
 ```
 
 ## Understanding the Digital
 
-Our next topic is an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology.
+Our next topic is an introduction to the idea of *the digital*. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they *Google* it. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, two-factor authentication for some websites, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology.
 
-```{=html}
-<!--
-rewrote this:
-
-"It is deeper than that, though, as the COVID-19 pandemic led to many jurisdictions relying on mobile phones for allowing people to confirm their vaccination status in order to access restaurants or other public venues in the midst of restrictions creating barriers for those who don't have mobile phones."
-
-to this: The COVID-19 pandemic underscored this digital impact, with mobile phones becoming crucial for verifying vaccination status and accessing public spaces, which created barriers for those who don't have mobile phones. 
-
-Then I deleted it.  Do we need this reference to covid times?  It could be a trigger for so many.
-
--->
-```
 Modern universities are also deeply impacted by *the digital*. Every system involved in higher education has been digitized in some manner, including recruitment, accounting, and fundraising. As you begin your university career, here are some digital systems you will likely encounter:
 
 -   courses are designed and often delivered digitally,
@@ -736,14 +735,18 @@ To give you a head start, we have created a **starter vault** for you to downloa
 
 1. [Click this link to download the vault.](https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip){target="_blank"}
     - This will download a file called `ldrs101-vault-main.zip` to your computer.
-2. Move the file to your `Documents` folder.
-3. Unzip or extract the contents of the file.
-4. Rename the folder to `ldrs101`.
+    - The `.zip` extension means that this is a compressed file and it contains multiple other files inside.
+2. Move the compressed file to your `Documents` folder.
+3. Unzip or extract the contents of the file. You should see a list of files similar to the image below.
+
+![Screenshot of the contents of the extracted files.](assets/u1/vault-contents.png)
+
+4. Rename the folder to `ldrs101-[firstname-lastname]` (use all lowercase letters and a dash instead of spaces).
 5. Open the **Obsidian** app and click the `Open another vault` icon in the bottom left corner.
 
 ![screenshot of the 'open another vault' button](assets/digital-literacy/obsidian2.png)
 
-6. Choose the `ldrs101` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
+6. Choose the `ldrs101-[firstame-lastname]` folder, and then Obsidian will ask you to trust this vault. Click 'Trust author and enable plugins'.
 7. Once you are in the vault, feel free to take a look around. You will notice a `HOME` page, a `Tools` folder with some files in it, and a `VR Diagram Canvas`.
 
 
@@ -776,7 +779,13 @@ Reflect on the following writing prompts:
 - Higher education students of the future will need to …  
 - … is an important 21st century skill for future employment  
 
-To complete this activity, click 'Open Today's Daily Note' in your Obsidian vault and write your reflections. Feel free to add images and other media! Please make sure you add tags to your note. Suggested tags might be #digital-literacy #ldrs101 #macarthur-foundation #john-seely-brown.
+To complete this activity, click 'Open Today's Daily Note' in your Obsidian vault and write your reflections. 
+
+![Screenshot of where to find 'Open Today's Daily Note'](assets/u1/tdn.png)
+
+- Style your text using Markdown codes. [Click here for the basic Markdown syntax.](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax){target="_blank"}
+- Feel free to add images and other media! 
+- Please make sure you add tags to your note. Suggested tags might be #digital-literacy #ldrs101 #macarthur-foundation #john-seely-brown.
 
 Notice that tags start with a hashtag and contain no spaces. Separate words with a hyphen.
 
@@ -790,7 +799,7 @@ In the next activity, you will start to unpack this term and prepare your own in
 
 ```{block2, type='reflect'}
 
-Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference.  Follow the steps below and feel free to jot down some notes in your Obsidian journal.
+Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference.  Follow the steps below and feel free to jot down some notes in your Obsidian journal. If you are completing this activity on a new day, create a new daily note.
 
 1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} – Is this a good description?
 1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03){target="_blank"} hashtag on X (Twitter) – Did you find any valuable links to defining digital literacy?
@@ -927,7 +936,7 @@ We'd like to introduce you to a different way to conceptualize your relationship
 
 Alternately, there are places and spaces on the web, where *you* reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or X (formerly Twitter), or maybe it's a blog, or social site. The important distinction is that these are places where you connect with other people; where you are socially *present*.
 
-At the same time, if we can imagine the visitor \<--\> resident continuum on a horizontal axis, there is also a personal \<--\> professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
+At the same time, if we can imagine the visitor $\leftrightarrow$  resident continuum on a horizontal axis, there is also a personal  [$\updownarrow$] professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
 
 ### Activity: Where Am I Online? {.unnumbered}
 
@@ -1232,6 +1241,10 @@ Before you move on to the next unit, check that you are able to:
 
 
 ```
+
+## References
+
+Galikyan, I., & Admiraal, W. (2019). Students’ engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance. The Internet and Higher Education, 43, 100692. https://doi.org/10.1016/j.iheduc.2019.100692
 
 <!--chapter:end:02-u1.Rmd-->
 
@@ -1671,7 +1684,7 @@ Alternative Views
 
 
 
-## Citation Management
+## Reference Management
 
 Now that you have a handful of references to keep track of, it's time to get started with Zotero to help you manage your references. I promise that learning to use a reference manager like Zotero will save you MANY hours per semester, and likely days or weeks over the course of your degree. Do *Future You* a huge favour and get in this habit now.
 
@@ -2024,7 +2037,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 comment
 -->
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TQXMl4GycD0?si=Yjnvq-F1udPaUrsh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Sense-making Through Hyperlinks
 
@@ -2115,39 +2128,23 @@ Add to your reflective journal your thoughts and experience on using tags.  What
 
 ```
 
+## Sense-Making Through Concept Maps {-}
+
+As you watched at the beginning of this unit, sense-making is the **work** of learning. There is no way around the work of learning because learning is work. It takes time and cognitive effort. As much as we wish to be able to 'learn' like Neo in *The Matrix*, we can't (see one of my favourite scenes in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0YhJxJZOWBw?si=Qe8jDUf0t5f-sv1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tags and links in Obsidian can be visualized using the graph view, but as this is an algorithmically generated map of the connections between ideas and files in your vault, there is little you can do to customize it. Fortunately, Obsidian also features a tool called the `Canvas`, which is a blank space that you can use to manually connect ideas in a visual format, allowing you to see connections and relationships that make sense to you. The following video is a brief explanation of how to use the Canvas in Obsidian.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eHI-Szjpafk?si=7qZEiZRgjG6g7ho5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <!--
 notes below from LIDA https://course.oeru.org/lida101/learning-pathways/learning-in-a-digital-age/reading-and-note-taking/
 
 -->
 
-## Note-Taking
-
-In this section we will discuss note-taking strategies and effective ways to use digital tools to organize your notes. 
-
-
-
-Some learners prefer taking notes with pen and paper, but in this activity you will be required to use a note-taking application. You can, always use pen and paper to prepare your first draft before recording a digital text version of your notes. Most citation management tools provide note taking capabilities which you can associate with items stored in your library, however for the purposes of this activity you will directed to use Simplenote (an open source tool) because we will be using features of this tool for other course activities.
-
-### Activity: Listening & Note-taking {-}
-
-```{block2, type='reflect'}
-
-Read the following articles: 
-- [What’s the best, most effective way to take notes?](https://theconversation.com/whats-the-best-most-effective-way-to-take-notes-41961){target="_blank"} published by The Conversation. 
-- [Effective listening and note taking](https://www.student.unsw.edu.au/note-taking-skills){target="_blank"} published by University of New South Wales. 
-
-Next, watch [How to take Cornell Notes in Obsidian: Full Workflow](https://www.youtube.com/watch?v=WkfEKI469J8){target="_blank"}
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WkfEKI469J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-
-
-```
 
 ### Activity: Open Video and Audio Lectures {-}
 

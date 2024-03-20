@@ -434,7 +434,7 @@ Alternative Views
 
 
 
-## Citation Management
+## Reference Management
 
 Now that you have a handful of references to keep track of, it's time to get started with Zotero to help you manage your references. I promise that learning to use a reference manager like Zotero will save you MANY hours per semester, and likely days or weeks over the course of your degree. Do *Future You* a huge favour and get in this habit now.
 

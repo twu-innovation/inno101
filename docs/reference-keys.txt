@@ -7,15 +7,15 @@ understanding-the-digital
 digital-literacies
 visitors-and-residents
 digital-privacy-safety
+references
 discovering-and-curating-resources
 finding-and-selecting-resources
 evaluating-resources
-citation-management
+reference-management
 openness-in-education
 connecting-ideas-for-learning
 sense-making-through-hyperlinks
 sense-making-through-tags
-note-taking
 digital-tools-to-support-learning
 building-your-online-presence
 personal-learning-environments
