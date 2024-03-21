@@ -4,9 +4,10 @@ author: "Course Developed by Colin Madland & Kelly Marjanovic"
 date: "Last updated `r format(Sys.time(), '%b %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
+bibliography: [refs.bib]
 url: https://twu-innovation.github.io/inno101
 biblio-style: apalike
+csl: apa.csl
 ---
 
 
