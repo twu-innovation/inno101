@@ -22,11 +22,11 @@ This unit is divided into the following topics:
 
 When you have completed this unit, you should be able to:
 
--   Explore common digital tools used at Trinity Western University
--   Describe your engagement with digital technology\
--   Apply digital tools to support learning in an academic environment\
--   Explain what digital literacy means to you\
--   Examine privacy concerns related to various platforms and tools\
+-   Explore common digital tools used at Trinity Western University.\
+-   Describe your engagement with digital technology.\
+-   Apply digital tools to support learning in an academic environment.\
+-   Explain what digital literacy means to you.\
+-   Examine privacy concerns related to various platforms and tools.\
 -   Describe how to protect yourself and others in the digital environment.\
 -   Identify the literacies you plan to improve and what steps you will take to achieve your goals.
 
@@ -118,6 +118,13 @@ Online learning requires additional skills differing from face-to-face learning,
 > -   Self-regulation (i.e. strategies can include breaks, physical activity, meditation)\
 > -   Strong written and oral communication (i.e. technical writing skills, ability to communicate with others and ask for assistance if needed) [@crozierLearningLearnOnline2020]
 
+<!--
+
+@cmadland - since half of this course is from LIDA courses...how should we cite chunks of content copied/modified.  e.g. the above2 paragraphs come from bc campus.  Should we be more explicit?  e.g.:
+
+> Modified from [Learning to Learn Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}.
+
+-->
 
 
 Here are a couple more ways you can hone your online learning skills:
@@ -170,9 +177,17 @@ Participating in discussions with your peers, what higher education folks like t
 
 Here is an article, by Galikyan and Admiraal [-@galikyanStudentsEngagementAsynchronous2019], for you to read that will introduce you to some key ideas about discussion forums.
 
-Galikyan, I., & Admiraal, W. (2019). [Students’ engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance.](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#) *The Internet and Higher Education,* 43, 100692. 
+Galikyan, I., & Admiraal, W. (2019). [Students’ engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance.](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S1096751619304105&site=eds-live&scope=site){target="_blank"} *The Internet and Higher Education,* 43, 100692. 
 
-- you may need to sign in to the TWU library to access this article. [You can find help here.](https://libguides.twu.ca/help)
+<!--
+
+This link didn't work for me.  https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#
+
+checking if the permalink will work now.
+
+-->
+
+Note: You may need to sign in to the TWU library to access this article. [You can find help here.](https://libguides.twu.ca/help){target="_blank"}
 
 ***Write while you read!***
 
@@ -200,9 +215,9 @@ Your discussion posts may be used as learning artifacts to demonstrate your unde
 //todo #5 
 -->
 ```
-In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, if I wanted to cite an idea from the article in the previous activity, it would look like the following ([Galikyan & Admiraal, 2019](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#)), and at the bottom of the post, I would include a 'References' heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). [Please consult the APAStyle website for the essentials](https://apastyle.apa.org/style-grammar-guidelines).
+In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, if I wanted to cite an idea from the article in the previous activity, it would look like the following ([Galikyan & Admiraal, 2019](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#){target="_blank"}), and at the bottom of the post, I would include a 'References' heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). [Please consult the APAStyle website for the essentials](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"}.
 
-It is ***highly*** recommended^[For real...using Zotero will literally save you days of tedious work during your university career!] that you begin using a reference manager, and we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but [if you want to get started, you can download Zotero for free.](https://www.zotero.org/)
+It is ***highly*** recommended^[For real...using Zotero will literally save you days of tedious work during your university career!] that you begin using a reference manager, and we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but [if you want to get started, you can download Zotero for free.](https://www.zotero.org/){target="_blank"}
 
 In short, similar to a live classroom discussion, you need to be polite and professional, and you need to provide evidence for your views, but, like in a normal conversation, you won't have all of the formalities of academic writing. In LDRS 101, you should consider your forum posts as a time to practice and test your ideas. The stakes are very low, so it is fine to make mistakes.
 
@@ -427,6 +442,10 @@ The JISC guide defines digital literacies as “those capabilities which fit an 
 
 ![Career Ready Framework](assets/u1/7-digital-literacy-elements.png) 
 
+<!--
+@cmadland can we have a click to enlarge feature for this graphic?
+-->
+
 
 Do you agree that these are the key literacies you need to live, learn and work in today's society?  What would you add?
 
@@ -467,10 +486,12 @@ Digital literacies encompasses a wide range of capabilities which extend beyond 
 1. Next, use your searching skills to discover online tests for assessing your digital literacies (Don’t spend more than 15 to 20 minutes on the self-assessment activity).  
    - Conduct a Google search using: “digital literacy self-assessment”  
    - Choose a link to conduct a self-assessment of your digital literacy.  
+  
+  
   **Alternatively, you can choose from these resources:**  
-   - Take the [Digital Literacy Self-Assessment](https://supportedemployment.ca/training-and-events/certificate-programs/digital-literacy/digital-literacy-self-assessment/) from the Canadian Association for Supported Employment**or**  
+   - Take the [Digital Literacy Self-Assessment](https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/){target="_blank"} from the Canadian Association for Supported Employment **or**  
    - Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/) from the Digital Literacy Guide.
-   - Explore the *What is digital literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php) developed by the University of Southampton.  
+   - Explore the *What is digital literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php){target="_blank"} developed by the University of Southampton.  
 
 <span class="blockhead">Questions to Consider</span>
 
@@ -481,7 +502,7 @@ Digital literacies encompasses a wide range of capabilities which extend beyond 
 
 ```
 
-### Visitors and Residents
+### Visitors and Residents {.unnumbered}
 
 One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a *Visitors and Residents Diagram*. To complete this activity, we'll first discuss some key concepts.
 
@@ -500,7 +521,7 @@ also changing *kids these days* below and "those of us whose formative years pre
 ```
 ```{block2, type='caution'}
 
- **Note:**  [Marc Prensky](https://marcprensky.com/) coined the terms 'digital natives' and 'digital immigrants'. We recognize that the term 'native' should not be used to talk about people.
+ **Note:**  [Marc Prensky](https://marcprensky.com/){target="_blank"} coined the terms 'digital natives' and 'digital immigrants'. We recognize that the term 'native' should not be used to talk about people.
 
 ```
 
@@ -592,7 +613,7 @@ Read the following blog post which I believe provides a fitting summary of this 
 I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with each other. Do the tools you use fall on the visitor or the resident end of your continuum? How do these tools impact your learning?
 
 
-- **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171)  
+- **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"}  
 - Create a new 'Canvas' in your Obsidian vault and create your own ***Visitor/Resident*** map. We have created a sample VR Diagram in the vault. 
 
 
