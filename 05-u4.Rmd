@@ -417,7 +417,6 @@ Next, select from these resources to inform your views:
 
 - [Students turn to Internet to build online presence, showcase work](https://www.huffpost.com/entry/students-turn-to-internet_b_3518598){target="_blank"}, published on Huffingtonpost.
 - [Your Online Presence](https://help.open.ac.uk/your-online-presence){target="_blank"} published by the Open University
-- [10 Ways to Build your Online Identity](https://www.careercast.com/career-news/10-ways-build-your-online-identity){target="_blank"}
 - UBC's [Digital Tattoo project](https://digitaltattoo.ubc.ca/){target="_blank"}
 - [Policy Brief: Privacy](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} from the Internet Society
 
