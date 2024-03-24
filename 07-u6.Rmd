@@ -152,6 +152,11 @@ TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics
 
 ![Career Ready Framework](assets/u6/Competency Framework.png) 
 
+<!--
+@cmadland - We need a click to enlarge feature here.
+-->
+
+
 What competencies do you see that relate to social learning and digital skills?  As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
 
 Consider the following questions:
@@ -269,20 +274,14 @@ Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us
 
 Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies.  For example, the University of Toronto's guidelines for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"}
 
-Here are some guidelines you may receive from your instructors at TWU:
+Here are some guidelines you may receive from your instructors at TWU: 
 
-• Students are encouraged to make use of technology, including generative artificial intelligence
-tools, to contribute to their understanding of course materials.
-• Students must submit, as an appendix with their assignments, any content produced by an
-artificial intelligence tool, and the prompt used to generate the content.
-• Any content produced by an artificial intelligence tool must be cited appropriately. Many
-organizations that publish standard citation formats are now providing information on citing
-generative AI (e.g., MLA: https://style.mla.org/citing-generative-ai/){target="_blank"}.  
-• Students may use artificial intelligence tools for creating an outline for an assignment, but the
-final submitted assignment must be original work produced by the individual student alone.  
-• Students may not use artificial intelligence tools for taking tests, writing research papers,
-creating computer code, or completing major course assignments. However, these tools may be
-useful when gathering information from across sources and assimilating it for understanding.  
+• Students are encouraged to make use of technology, including generative artificial intelligence tools, to contribute to their understanding of course materials. 
+• Students must submit, as an appendix with their assignments, any content produced by an artificial intelligence tool, and the prompt used to generate the content. 
+• Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats are now providing information on citing generative AI (e.g., MLA: https://style.mla.org/citing-generative-ai/){target="_blank"}.   
+• Students may use artificial intelligence tools for creating an outline for an assignment, but the final submitted assignment must be original work produced by the individual student alone.   
+• Students may not use artificial intelligence tools for taking tests, writing research papers, creating computer code, or completing major course assignments. However, these tools may be useful when gathering information from across sources and assimilating it for understanding.   
+
 
 If you have any question about the use of AI applications for course work, please speak with your instructor.
 
@@ -303,9 +302,11 @@ Here is one more article that discusses the pros and cons for English Learners u
 
 ```{block2, type='reflect'}
 
-Explore the infographic below by Ryan Morrison.
+Explore the infographic below by Ryan Morrison.  
+*Tip: You may want to view the resource full screen (Click on the three dots on the bottom right, and then select the full screen arrows.)*
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
 
 Consider trying out ChatGPT to see if you can spot the ways to identify AI generated writing.
 
