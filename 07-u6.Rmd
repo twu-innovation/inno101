@@ -305,7 +305,7 @@ Here is one more article that discusses the pros and cons for English Learners u
 Explore the infographic below by Ryan Morrison.  
 *Tip: You may want to view the resource full screen (Click on the three dots on the bottom right, and then select the full screen arrows.)*
 
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+//todo <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 
 Consider trying out ChatGPT to see if you can spot the ways to identify AI generated writing.
