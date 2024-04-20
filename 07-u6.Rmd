@@ -60,10 +60,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Publish an editorial on your blog about an issue that interests you.
 - View the resources on digital wisdom and reflect on your use of technology.
 
- 
-**Notes:** 
-- The learning activities in this course are designed to prepare you for the graded assigments in this course.  You are strongly encouraged to complete them. 
-- If you plan to complete this course in 6 weeks, this unit should take 20-30 hours to complete. 
+*The learning activities in this course are designed to prepare you for the graded assigments in this course.  You are strongly encouraged to complete them. 
+If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*  
 
 
 ```
@@ -78,12 +76,17 @@ Here is a checklist of learning activities you will benefit from in completing t
 ```
 
 
-
 ### Resources {-}
 
 - All resources will be provided online in the unit.  
 
+```{block, type='feedback'}
 
+***Resource Reminders***  
+- Remember to continuously add resources to your Zotero library that align with your learning goals.
+- Utilize your community—peers, coworkers, and online communities—as valuable resources! Stay engaged to seek assistance and exchange helpful resources and insights.  
+
+```
 
 
 <!--
@@ -1348,11 +1351,11 @@ Answer the following questions in your personal journal:
 
 ## Summary {-}
 
-As you complete this course and continue on your learning journey we hope you have acquired skills that will prepare you for your academic studies and professional career.  
+As you complete this course and continue on your learning journey we trust that you have acquired skills that will not only prepare you for your academic studies but also for your professional goals.  
 
-We began this final unit by emphasizing the value of community in online learning. Throughout the course we have encouraged you to connect with others - fellow TWU students, instructors, co-workers, family members, friends, or other online communities.  How have these connections impacted your learning?  In this unit we also explored the impact of technology in the workplace and how you might use tools effectively in your business practices or feild of study.  We've provided opportunties for you to engage as global digital citizens, using technology to discover and share knowledge. We looked at emerging societal issues and online behaviors and discusses how we can tackle these challenges effectively. 
+We began this final unit by emphasizing the value of community in online learning. Throughout the course we have encouraged you to connect with others - fellow TWU students, instructors, colleagues, family, friends, and other online communities.  Reflect on how these connections have influenced your learning experience. Additionally, we discussed the impact of technology in the workplace and how you might use tools effectively in your business practices or field of study.  You have had opportunties to engagee as global digital citizens by using technology to discover and share knowledge. Furthermore, we examined emerging societal issues and online behaviors, discussing strategies to address these challenges effectively.
 
-Finally, we've presented the idea of digital wisdom.  As you continue learning with technology, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before you evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relate to you and what you can offer to serve others and glorify God.
+Finally, we introducted the concept of digital wisdom.  As you continue to integrate technology into your learning journey, we encourage you to consider how your online contributions can positively impact others.  Reflect on TWU's mission and vision statements and how they resonate with you and guide your commitment to serving others and glorifying God.
 
 > "The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life."
 
