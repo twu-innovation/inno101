@@ -121,6 +121,11 @@ Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
 #### Log in to Litmaps.com {-}
 
+<!--
+@cmadland it's not clear to me whether we're asking students to go to the site an explore - or sign up to create an account for this app.  Can they test this out without signing up?
+
+--> 
+
 [Link to LitMaps](https://litmaps.com)
 
 Paste the DOI.

@@ -1180,6 +1180,11 @@ Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
 #### Log in to Litmaps.com {-}
 
+<!--
+@cmadland it's not clear to me whether we're asking students to go to the site an explore - or sign up to create an account for this app.  Can they test this out without signing up?
+
+--> 
+
 [Link to LitMaps](https://litmaps.com)
 
 Paste the DOI.
@@ -2709,7 +2714,7 @@ In this unit, you have had the opportunity to learn about your personal learning
 
 <span class="blockhead">Assignments 2 and 3: Blog and Portfolio</span>
 
-The learning activities in this unit are designed to support you as you create your *Digital Citizenship Blog* (Assignment 2), as well as your *Digital Literacy Portfolio* (Assignment 3).  Please see Unit 5 for more details on Assignment 2, and Unit 6 for details on your Portfolio.
+The learning activities in this unit are designed to support you as you create your *Digital Citizenship Blog* (Assignment 2), as well as your *Digital Literacy Portfolio* (Assignment 3).  You are encouraged to submit your blog for grading once you have completed all the Unit 5 activities.  Your portfolio can be submitted as you complete Unit 6.
 
 All assignment details, including the grading rubrics, are located in the Assessment section in Moodle.  Please read the instructions carefully and don't hestitate to reach out for support.
 
@@ -3430,7 +3435,7 @@ For more guidance on this assignment, including the grading rubric, see the Asse
 
 <span class="blockhead">Assignment 3: Digital Literacy Portfolio</span>
 
-The learning activities in this unit are designed to support you as you build your *Digital Literacy Portfolio* (Assignment 3).  Please see Unit 6 for details on your Portfolio.
+The learning activities in this unit are designed to support you as you create your *Digital Citizenship Blog* (Assignment 2), as well as your *Digital Literacy Portfolio* (Assignment 3).  You are encouraged to submit your blog for grading once you have completed all the Unit 5 activities.  Your portfolio can be submitted as you complete Unit 6.
 
 All assignment details, including the grading rubrics, are located in the Assessment section in Moodle.  Please read the instructions carefully and don't hestitate to reach out for support.
 
@@ -3765,10 +3770,9 @@ Here is one more article that discusses the pros and cons for English Learners u
 
 Explore the infographic below by Ryan Morrison.  
 *Tip: You may want to view the resource full screen (Click on the three dots on the bottom right, and then select the full screen arrows.)*
-
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-
-
+ 
+//todo <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+  
 Consider trying out ChatGPT to see if you can spot the ways to identify AI generated writing.
 
 Next, watch the video from Mark Lyda [Plagiarizing ChatGPT - Is it Illegal?](https://www.youtube.com/watch?v=zuvN8_6QIKk)
@@ -4810,16 +4814,11 @@ Answer the following questions in your personal journal:
 
 ## Summary {-}
 
-In this unit, you have had the opportunity to learn about ...
+As you complete this course and continue on your learning journey we hope you have acquired skills that will prepare you for your academic studies and professional career.  
 
-Finally, we've presented the idea of digital wisdom.  As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before your evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relate to you and what you can offer to serve others and glorify God.
+We began this final unit by emphasizing the value of community in online learning. Throughout the course we have encouraged you to connect with others - fellow TWU students, instructors, co-workers, family members, friends, or other online communities.  How have these connections impacted your learning?  In this unit we also explored the impact of technology in the workplace and how you might use tools effectively in your business practices or feild of study.  We've provided opportunties for you to engage as global digital citizens, using technology to discover and share knowledge. We looked at emerging societal issues and online behaviors and discusses how we can tackle these challenges effectively. 
 
-As you complete this course and continue on your learning journey we hope you have aquired skills that will prepare you for your academic studies and professional career.  
-
-... tools are more prepared for (and moticvated to) be an engaged digital global citizen.
-
-Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.  
-Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and 
+Finally, we've presented the idea of digital wisdom.  As you continue learning with technology, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.  As a final thought before you evaluate your own learning in this unit, consider TWU's mission and vision statements and how they relate to you and what you can offer to serve others and glorify God.
 
 > "The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life."
 
@@ -4830,9 +4829,11 @@ Develop personal and professional learning networks to discover and share knowle
 
 ```{block2, type='assessment'}
 
-<span class="blockhead">Quizzes 1 & 2</span>
+<span class="blockhead">Assignment 3: Digital Literacy Portfolio</span>
 
-After completing this unit, including the learning activities, you are asked to complete ...
+The learning activities in this unit are designed to support you as you build your *Digital Literacy Portfolio* (Assignment 3).  
+
+All assignment details, including the grading rubrics, are located in your syllabus and in the Assessment section in Moodle.  Please read the instructions carefully and don't hestitate to reach out for support.
 
 ```
 
