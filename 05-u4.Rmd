@@ -53,14 +53,14 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Learning Activities</span>
 
-- Reflect on your Personal Learning Enviroment as you view the resources on PLEs.  
+- Reflect on your Personal Learning Enviroment as you engage with the resources on PLEs.  
 - Create a new blog on WordPress and personalise your blog site.  
-- Conduct a Digital Footprint Audit  
-- Document and share your learning experience by posting a blog entry.  
+- Conduct a Digital Footprint Audit to assess your online presence.  
+- Document and share your learning experience by publishing a blog entry.  
 - Evaluate a digital tool, considering the ethical implications  
-- Read the artical on Digital Wisdom, and reflect on how we use technology for our own benefit and to benefit others.  
+ 
 
-*The learning activities in this course are designed to prepare you for the graded assigments in this course.  You are strongly encouraged to complete them. 
+*Learning activities are designed to prepare you for graded assigments.  You are strongly encouraged to complete them.  
 If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.* 
 
 ```
@@ -69,7 +69,7 @@ If you plan to complete this course in 12 weeks, this unit should take 9-12 hour
 
 <span class="blockhead">Assessment</span>
 
-- **Assignment 2: Digital Citizenship Blog** (Submit as you complete Unit 5)
+- **Assignment 2: Digital Citizenship Blog** (Submit after you complete Unit 5)  
 *See the Assessment section in Moodle for assignment details.*
 
 ```
@@ -92,7 +92,7 @@ If you plan to complete this course in 12 weeks, this unit should take 9-12 hour
 
 ## Personal Learning Environments 
 
-The primary purpose of this topic is to enable you to set up your own Learning Blog, which will form the hub of your Personal Learning Environment (PLE). Blog posts are a useful way of reflecting on your learning and a means to network with your peers. It also provides our TWU learning community with a way to see how you are engaging with the course and to help where we can. The purpose of a PLE is to put the learner at the centre of the online learning environment, which will be enabled by establishing a personal blog for this course. 
+This unit aims to guide you in creating your Learning Blog, the central component of your Personal Learning Environment (PLE). Blog posts serve as reflections on your learning journey and facilitate networking with peers. Your blog also provides instructors and facilitators with valuable insights into your course engagement and learning process. Ultimately, the goal of a PLE is to put the learner at the centre of the online learning environment. 
 
 **So what is a Personal Learning Environment?**
 
@@ -100,7 +100,7 @@ The primary purpose of this topic is to enable you to set up your own Learning B
 
 > A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#){target="_blank"}) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction){target="_blank"}.
 
-What elements of the two definitions resonate with you?  How do you organize your daily interations and influx of information? How do you share your learning with others? What are your learning goals? 
+Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?
 
 
 ### Activity: What is a PLE? {-}
@@ -131,6 +131,28 @@ Finally, consider the approach taken at TWU as it supports inquiry-rich learning
 </div>
 
 ```
+
+### Activity: What is your PLE? {-}
+
+```{block2, type='reflect'}
+
+1. Take a couple minutes to brainstorm the tools, services and communities that you use to pursue your educational goals. Use your notetaking tool (e.g. Obsidian) to create your list.
+2. Next, create a graphic organizer to visualize your PLE.  You can use Obsidian, or see [Best Graphic Organizers for Education](https://www.techlearning.com/news/best-graphic-organizers-for-education){target="_blank”} for other free options.
+
+Note that you completed a [Visitor and Resident Diagram Activity](https://twu-innovation.github.io/inno101/introduction-to-digital-literacies-for-online-learning.html#activity-visitor-and-resident-diagram){target="_blank”} in Unit 1.  Feel free to use  that graphic organizer and add other tools use use for learning, or that you have been introduced to in this course.
+
+
+<!--
+
+insert H5P image slider to show [PLE examples](https://www.notion.so/twuid/Personal-Learning-Network-1d485cd0fb6f462082d681d6efdb9e7d)
+
+-->
+
+You will be encouraged to post your PLE graphic on your blog...which you will start in the next activity!
+
+
+```
+
 
 ## Building a Learning Blog
 
