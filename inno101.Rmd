@@ -4866,8 +4866,13 @@ All assignment details, including the grading rubrics, are located in your sylla
 
 Before you move on to the next unit, check that you are able to:
 
-- ...
-- ...
+- Discuss how technology has changed business practices in your field of interest or career.  
+- Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens  
+- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner  
+- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
+- Create a personalized narrative to document and express your learning process
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge
+
  
 
 ```
