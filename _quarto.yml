@@ -1,15 +1,38 @@
 project:
-  title: "Project title"
-  output-dir: reports
+  type: book
+  title: "Leadership 101"
+  output-dir: docs
+
+book:
+  author: "Colin Madland and Kelly Marjanovic"
+  date: "last-modified"
+  date-format: "MMM D, YYYY"
+  chapters:
+    - index.qmd
+    - u1.qmd
+    - u2.qmd
+    - u3.qmd
+    - u4.qmd
+    - u5.qmd
+    - u6.qmd    
+    - assessment.qmd
+    - references.qmd
+
+bibliography: references.bib
+
 format:
   html:
+    css: https://twuonline.github.io/course-materials/quarto/twu_styles.css
     theme:
       - lumen
-      - assets/styles.scss
+    include-in-header:
+      - text: |
+          <script src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
+          <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
     highlight-style: github
     toc: true
-    toc-depth: 3
-    toc-location: left
+    toc-depth: 4
+    # toc-location: left
     self-contained: true
     code-tools: true
     grid:
@@ -17,3 +40,7 @@ format:
       body-width: 1000px
       margin-width: 300px
       gutter-width: 1.5rem
+
+fig-cap-location: top
+lightbox:
+  desc-position: top

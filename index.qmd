@@ -1,0 +1,194 @@
+#  Welcome {.unnumbered}
+
+This is the course book for LDRS 101: Learning with Technology. This book is divided into 6 units of study to help you engage with the course learning outcomes and prepare for the course assessment.  
+
+On the page below you will find a summary of the course syllabus, as well as how to navigate this book.  Please also refer the schedule in Moodle, as well as the Assessment section in Moodle for instructions on assignments.
+
+If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
+
+> The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus, which you will find in Moodle. For information on how to navigate through this course on Moodle, see [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=8214).
+
+
+### Course Description  {-}
+
+Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in 'the digital' throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
+
+### Course Learning Outcomes  {-}
+
+1.	Build and customize technology-integrated workflows to enhance and enrich your learning journey.  
+2.	Apply digital literacy skills to evaluate the legitimacy, credibility, and reliability of online resources for academic study.  
+3.	Practice evaluative judgment to document your process of learning in complex domains of knowledge.  
+4.	Create a personalized narrative to document and express your learning process.  
+5.	Evaluate digital tools, platforms, and interactions based on ethical principles.  
+6.	Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.  
+7.	Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.  
+
+
+<!--
+
+### Meet Your Instructors {-}
+
+[insert]
+
+-->
+
+
+## Course Notes {-}
+
+### How To Navigate This Book {-}
+
+Take a moment to experiment with the controls in the toolbar at the top of the page. You can search this book for a word or phrase (for example, to look up a definition). To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, adjust the typeface, the font size, and the background colour to make the text easier to read. 
+
+```{r, echo=F, fig.cap="Top menu bar", fig.show="hold", results='asis'}
+
+knitr::include_graphics("assets/course-intro/menu.png")
+
+```
+
+The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
+
+```{r, echo=F, fig.cap="Left and right navigation arrows", fig.show="hold", results='asis'}
+
+knitr::include_graphics("assets/course-intro/left_arrow.png")
+knitr::include_graphics("assets/course-intro/right_arrow.png")
+```
+
+You can also download an offline copy of this books in a pdf format. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at [elearning@twu.ca](mailto:elearning@twu.ca)
+
+
+### Course Units{-}
+
+ This course is organized into 6 units. Each unit of the course will provide you with the following information:
+
+- A general overview of the key concepts and skills that will be addressed during the unit.
+- Specific learning outcomes and topics for the unit.
+- Learning activities to help you engage with the concepts and practice digital skills. These often include key readings, videos, exploring digital tools, and reflective prompts.
+- The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.
+
+
+### Course Activities{-}
+
+Below is some key information on features you will see throughout the course. 
+
+:::{.callout-note}
+***Learning Activity***  
+This box will prompt you to engage in course concepts, often by viewing resources, applying concepts, and reflecting on your learning experience. Learning activities are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.
+:::
+
+:::{.callout-note}
+***Assessment***  
+This box will signify an assignment you will submit to your instructor for grading and feedback.  Note that assignments demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
+:::
+
+:::{.callout-note}
+***Checking Your Learning***  
+This box is for checking your understanding, to make sure you are ready for the next unit.
+:::
+
+:::{.callout-note}
+***Note***  
+This box signifies key notes, important quotes, or case studies. It may also warn you of possible problems or pitfalls you may encounter!
+:::
+
+<!--
+@cmadland could I suggest this tech table from https://course.oeru.org/lida101/course-guide/course-technologies/ instead of introducing Hypothes.is instructions here?  
+
+-->
+
+### Course Technologies{-}
+
+This course is about learning with technology. Digital literacies are closely linked but not limited to digital skills. Consequently, this course will use a number of different online communication and publishing technologies to support your learning.
+
+#### An open philosophy of inclusion {-}
+
+*Learning with Technology* incorporates a wide range of online technologies and software applications. In this course we want to promote free and open source software because we believe that no learner should be denied access to learning for lack of funds to purchase a proprietary software license.  Nor do we believe that you should be forced to sacrifice your freedoms in software choice.
+
+The course resources and interaction technologies are based entirely on free and open source software and you will be able to complete all the learning activities using open source applications without the need to purchase any software. You are free to use proprietary technology applications of your choice, but you can also use this course to explore and experiment with open technology.
+
+#### Summary of technologies used on this course {-}
+
+The following table provides a summary of the main technologies used in this course.
+
+| **Technology**       | **Details**             |
+|----------------------|----------------------------------------|
+| [Moodle](https://learn.twu.ca/)      | TWU uses Moodle as our Learning Management System. For LDRS 101, your course notes, assignment instructions, assignment dropboxes will be found in Moodle. Note that some assignments require you to complete your work in WordPress and Discourse.                                                                                                                                                                                                       |
+| Course Book  | Course materials are organized into the Course Book tab in Moodle and contain the instructions to guide your learning. Bookmark this page in your browser.  |
+| [Discourse](https://twu.discourse.group/)   | Discourse is a free, open source social network which is hosted at <https://twu.discourse.group/> (bookmark this page).  We use Discourse in this course for discussions. Go to the [LDRS101 forums](https://twu.discourse.group/c/ldrs101/10) in Discourse to explore some of the topics you might engage with during this course.       |
+| [Obsidian](https://obsidian.md/)    | Obsidian is a free note-taking and mind-mapping app. We introduce this digital tool early on in the course as you will use it often for your journal reflections, and for your assignments.   |
+| [Litmaps](https://www.litmaps.com/) | Litmaps is a web app that you can use to discover and manage resources. In this course you will use Litmaps to build a map of the literature related to topics you want to research.    |
+| Zotero | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.    |
+| [Hypothes.is](https://hypothes.is/) | We use Hypothes.is, an open source web-service that enables users to annotate, discuss and share reflections on web site pages on the Internet.   |
+| [WordPress](https://create.twu.ca/)    | In Unit 4 we introduce WordPress, a free, open-source platform used to create websites and blogs. Learners are invited to establish their own **personal course blog**. In this way you will retain control over your own data even when the course is finished.  We recommend WordPress as this tool is supported by TWU, but you may use a blogging platform of your choice.      |
+| Zoom     | Zoom is a communications platform that allows you to connect via video, audio, phone, or chat. Note the Live version of this course may use Zoom for class sessions. Students are also encouraged to attend Learning Hub workshops via Zoom.    |
+
+<!--
+
+| Course feed          | The [Course feed](https://course.oeru.org/lida101/interactions/course-feed) is a unique feature of OERu courses. Course comments and posts tagged with the course code (LiDA101) on the course forums, your course blog, the resource bank, our social network and [Hypothes.is](https://hypothes.is/) will be harvested and incorporated into the live course feed. This is the hub for keeping track of the distributed course interactions on the web. |
+| Course resource bank | The [resource bank](https://bookmarks.oeru.org/search.php/all/lida101) is a site used to share web links and summaries of useful resources you find online. We encourage learners to share links publicly with your peers. Remember to vote for links you find useful on the site. Search using the course tag: “LDRS101”   
+
+-->
+
+
+#### Learn by Doing {-}
+
+Some learners will be familiar with these technologies, while others will be using them for the first time. We use a learn by doing approach and you will be prompted in the course materials when to interact with these different technologies.
+
+Initially the use of different technologies distributed on the web may be confusing. However, this is a course about learning on the Internet and once you have completed this course, you will become a competent user of these online technologies.
+
+Have fun and enjoy the learning experience!
+
+
+<!--
+
+@cmadland could I suggest this tech table from https://course.oeru.org/lida101/course-guide/course-technologies/ instead of introducing Hypothes.is instructions here?  
+
+
+
+The following tools will be introduced in this course. Feel free to explore the links below, or wait until they are introduced in the particular unit in which the tool is required.
+
+#### Course Annotations{-}
+
+[Hypothes.is](https://web.hypothes.is/) is our annotation tool. With hypothes.is you can annotate web pages on the Internet as well as keeping private notes when using the highlight feature.
+
+Hypothes.is enables you to:
+
+- Select text to annotate.  
+- Add tags and post publicly or save privately.  - 
+Reply to or share any annotation.  
+- Link to notes or whole pages.  
+- Annotate together in groups.  
+- Collaborate privately with others.  
+- Search your notes.  
+- Explore all public annotations and profiles.  
+
+
+##### How to annotate a web-page {-}
+
+Four steps to annotating web pages using hypothes.is:
+
+Step 1: [Create an account](https://hypothes.is/signup) on the Hypothes.is website.
+Step 2: Add Hypothes.is to your browser. ([Install](https://web.hypothes.is/start/#) the add-on for Chrome or bookmarklet for other browsers).
+Step 3: Go to any web page, launch Hypothesis (using the Chrome add-on or browser bookmarklet) and log in using the account you created at Hypothes.is.
+Step 4: Highlight the text you want to annotate (see [how to highlight text](https://www.computerhope.com/issues/ch001669.htm) published by computerhope.com), click on the “Annotate” button which appears when you highlight the text, type your annotation and click “Post to Public”.
+The following video provides a brief overview of how to post an annotation. Watch [Hypothesis Web Annotations](https://www.youtube.com/watch?v=BFPYqXubTsE)
+
+
+
+<div class ="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFPYqXubTsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+</div>
+
+
+
+##### Resources {-}
+
+Go to the [Get Started](https://web.hypothes.is/start/) page to sign up.
+- [Quick Start Guide for Students](https://web.hypothes.is/quick-start-guide-for-students/)
+- [Student resource guide](https://web.hypothes.is/student-resource-guide/)
+- [Annotating as a group](https://web.hypothes.is/help/annotating-with-groups/) (i.e. share annotations on a page or pages)
+If your course is using Hypothes.is to  instructions will be given in the course. Instructions on this can be found here
+
+
+-->
