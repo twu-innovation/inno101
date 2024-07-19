@@ -1,528 +1,282 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
-<head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>LDRS 101: Learning with Technology</title>
-  <meta name="description" content="LDRS 101: Learning with Technology" />
-  <meta name="generator" content="bookdown 0.39 and GitBook 2.6.7" />
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.54">
 
-  <meta property="og:title" content="LDRS 101: Learning with Technology" />
-  <meta property="og:type" content="book" />
-  
-  
-  
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="LDRS 101: Learning with Technology" />
-  
-  
-  
+<meta name="author" content="Colin Madland &amp; Kelly Marjanovic">
 
-<meta name="author" content="Course Developed by Colin Madland &amp; Kelly Marjanovic" />
-
-
-
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-  
-  
-
-<link rel="next" href="introduction-to-digital-literacies-for-online-learning.html"/>
-<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
-<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
-
-
-
-
-
-
-
-<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
-<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
-
-
-
-<style type="text/css">
-  
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-</style>
-<style type="text/css">
-/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
+<title>INNO 101</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
 }
 </style>
 
-<link rel="stylesheet" href="https://twuonline.github.io/course-materials/bookdown_styles.css" type="text/css" />
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./u1.html" rel="next">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
+<link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
+
+
+<link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
 </head>
 
-<body>
+<body class="nav-sidebar floating">
 
-
-
-  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
-
-    <div class="book-summary">
-      <nav role="navigation">
-
-<ul class="summary">
-<li><a href="./">Innovation 101</a></li>
-
-<li class="divider"></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Welcome</a>
-<ul>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#course-description"><i class="fa fa-check"></i>Course Description</a></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#course-learning-outcomes"><i class="fa fa-check"></i>Course Learning Outcomes</a></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#course-notes"><i class="fa fa-check"></i>Course Notes</a>
-<ul>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#how-to-navigate-this-book"><i class="fa fa-check"></i>How To Navigate This Book</a></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#course-units"><i class="fa fa-check"></i>Course Units</a></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#course-activities"><i class="fa fa-check"></i>Course Activities</a></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#course-technologies"><i class="fa fa-check"></i>Course Technologies</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="1" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html"><i class="fa fa-check"></i><b>1</b> Introduction to Digital Literacies for Online Learning</a>
-<ul>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#overview"><i class="fa fa-check"></i>Overview</a>
-<ul>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#topics"><i class="fa fa-check"></i>Topics</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#learning-outcomes"><i class="fa fa-check"></i>Learning Outcomes</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-checklist"><i class="fa fa-check"></i>Activity Checklist</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#resources"><i class="fa fa-check"></i>Resources</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-why-twu"><i class="fa fa-check"></i>Activity: Why TWU?</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-join-the-hub"><i class="fa fa-check"></i>Activity: Join the Hub!</a></li>
-</ul></li>
-<li class="chapter" data-level="1.1" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#learning-online"><i class="fa fa-check"></i><b>1.1</b> Learning Online</a>
-<ul>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-learning-online-effectively"><i class="fa fa-check"></i>Activity: Learning Online Effectively</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-online-discussions"><i class="fa fa-check"></i>Activity: Online Discussions</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-start-a-conversation"><i class="fa fa-check"></i>Activity: Start a Conversation!</a></li>
-</ul></li>
-<li class="chapter" data-level="1.2" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#understanding-the-digital"><i class="fa fa-check"></i><b>1.2</b> Understanding the Digital</a></li>
-<li class="chapter" data-level="1.3" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#digital-literacies"><i class="fa fa-check"></i><b>1.3</b> Digital Literacies</a>
-<ul>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-getting-started-with-obsidian"><i class="fa fa-check"></i>Activity: Getting Started with Obsidian</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-download-the-starter-vault"><i class="fa fa-check"></i>Activity: Download the Starter Vault</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-reflection-on-the-21st-century-learner"><i class="fa fa-check"></i>Activity: Reflection on the 21st Century Learner</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-definining-digital-literacy"><i class="fa fa-check"></i>Activity: Definining Digital Literacy</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#digital-literacies-skills"><i class="fa fa-check"></i>Digital Literacies &amp; Skills</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-what-are-digital-literacies"><i class="fa fa-check"></i>Activity: What Are Digital Literacies?</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-why-digital-literacy-matters"><i class="fa fa-check"></i>Activity: Why Digital Literacy Matters</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-am-i-digitally-literate"><i class="fa fa-check"></i>Activity: Am I Digitally Literate?</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#visitors-and-residents"><i class="fa fa-check"></i>Visitors and Residents</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-where-am-i-online"><i class="fa fa-check"></i>Activity: Where Am I Online?</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-visitor-and-resident-diagram"><i class="fa fa-check"></i>Activity: Visitor and Resident Diagram</a></li>
-</ul></li>
-<li class="chapter" data-level="1.4" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#digital-privacy-safety"><i class="fa fa-check"></i><b>1.4</b> Digital Privacy &amp; Safety</a>
-<ul>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-get-a-password-manager"><i class="fa fa-check"></i>Activity: Get a Password Manager</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-tos-analysis"><i class="fa fa-check"></i>Activity: ToS Analysis</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-introduction-to-the-reflective-journaling"><i class="fa fa-check"></i>Activity: Introduction to the Reflective Journaling</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#activity-digital-literacies-for-online-learning"><i class="fa fa-check"></i>Activity: Digital Literacies for Online Learning</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#summary"><i class="fa fa-check"></i>Summary</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#assessment"><i class="fa fa-check"></i>Assessment</a></li>
-<li class="chapter" data-level="" data-path="introduction-to-digital-literacies-for-online-learning.html"><a href="introduction-to-digital-literacies-for-online-learning.html#checking-your-learning"><i class="fa fa-check"></i>Checking your Learning</a></li>
-</ul></li>
-<li class="chapter" data-level="2" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html"><i class="fa fa-check"></i><b>2</b> Discovering and Curating Resources</a>
-<ul>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#overview-1"><i class="fa fa-check"></i>Overview</a>
-<ul>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#topics-1"><i class="fa fa-check"></i>Topics</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#learning-outcomes-1"><i class="fa fa-check"></i>Learning Outcomes</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-checklist-1"><i class="fa fa-check"></i>Activity Checklist</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#resources-1"><i class="fa fa-check"></i>Resources</a></li>
-</ul></li>
-<li class="chapter" data-level="2.1" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#finding-and-selecting-resources"><i class="fa fa-check"></i><b>2.1</b> Finding and Selecting Resources</a>
-<ul>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#finding-resources"><i class="fa fa-check"></i>Finding Resources</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-using-litmaps"><i class="fa fa-check"></i>Activity: Using Litmaps</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-the-twu-library"><i class="fa fa-check"></i>Activity: The TWU Library</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-advanced-search"><i class="fa fa-check"></i>Activity: Advanced Search</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-database-search"><i class="fa fa-check"></i>Activity: Database search</a></li>
-</ul></li>
-<li class="chapter" data-level="2.2" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#evaluating-resources"><i class="fa fa-check"></i><b>2.2</b> Evaluating Resources</a>
-<ul>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-using-the-craap-test"><i class="fa fa-check"></i>Activity: Using the CRAAP Test</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#reliability-of-wikipedia"><i class="fa fa-check"></i>Reliability of Wikipedia</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-wikipedia-why-or-why-not"><i class="fa fa-check"></i>Activity: Wikipedia: Why or Why Not?</a></li>
-</ul></li>
-<li class="chapter" data-level="2.3" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#reference-management"><i class="fa fa-check"></i><b>2.3</b> Reference Management</a>
-<ul>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#download-and-install-zotero"><i class="fa fa-check"></i>Download and Install Zotero</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#zotero-and-the-library"><i class="fa fa-check"></i>Zotero and the Library</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-using-zotero"><i class="fa fa-check"></i>Activity: Using Zotero</a></li>
-</ul></li>
-<li class="chapter" data-level="2.4" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#openness-in-education"><i class="fa fa-check"></i><b>2.4</b> Openness in Education</a>
-<ul>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#the-5-rs-of-openess"><i class="fa fa-check"></i>The 5 R’s of Openess</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-finding-oers"><i class="fa fa-check"></i>Activity: Finding OERs</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-advocating-for-oer"><i class="fa fa-check"></i>Activity: Advocating for OER</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-reflecting-on-your-resource"><i class="fa fa-check"></i>Activity: Reflecting on Your Resource</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#activity-annotated-bibliography"><i class="fa fa-check"></i>Activity: Annotated Bibliography</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#summary-1"><i class="fa fa-check"></i>Summary</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#assessment-1"><i class="fa fa-check"></i>Assessment</a></li>
-<li class="chapter" data-level="" data-path="discovering-and-curating-resources.html"><a href="discovering-and-curating-resources.html#checking-your-learning-1"><i class="fa fa-check"></i>Checking your Learning</a></li>
-</ul></li>
-<li class="chapter" data-level="3" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html"><i class="fa fa-check"></i><b>3</b> Connecting Ideas for Learning</a>
-<ul>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#overview-2"><i class="fa fa-check"></i>Overview</a>
-<ul>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#topics-2"><i class="fa fa-check"></i>Topics</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#learning-outcomes-2"><i class="fa fa-check"></i>Learning Outcomes</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#activity-checklist-2"><i class="fa fa-check"></i>Activity Checklist</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#resources-2"><i class="fa fa-check"></i>Resources</a></li>
-</ul></li>
-<li class="chapter" data-level="3.1" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#sense-making-through-hyperlinks"><i class="fa fa-check"></i><b>3.1</b> Sense-making Through Hyperlinks</a>
-<ul>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#linking-in-obsidian"><i class="fa fa-check"></i>Linking in Obsidian</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#why-link"><i class="fa fa-check"></i>Why link?</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#activity-link-connect-reflect"><i class="fa fa-check"></i>Activity: Link, Connect &amp; Reflect</a></li>
-</ul></li>
-<li class="chapter" data-level="3.2" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#sense-making-through-tags"><i class="fa fa-check"></i><b>3.2</b> Sense-making Through Tags</a>
-<ul>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#activity-tag-link-connect-reflect"><i class="fa fa-check"></i>Activity: Tag, Link, Connect &amp; Reflect</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#sense-making-through-concept-maps"><i class="fa fa-check"></i>Sense-Making Through Concept Maps</a>
-<ul>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#activity-open-video-and-audio-lectures"><i class="fa fa-check"></i>Activity: Open Video and Audio Lectures</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#activity-reading-note-taking"><i class="fa fa-check"></i>Activity: Reading &amp; Note-taking</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#activity-writing-a-summary-of-your-readings"><i class="fa fa-check"></i>Activity: Writing a Summary of your Readings</a></li>
-</ul></li>
-<li class="chapter" data-level="3.3" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#digital-tools-to-support-learning"><i class="fa fa-check"></i><b>3.3</b> Digital Tools to Support Learning</a>
-<ul>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#activity-tools-for-learning-in-university"><i class="fa fa-check"></i>Activity: Tools for Learning in University</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#summary-2"><i class="fa fa-check"></i>Summary</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#assessment-2"><i class="fa fa-check"></i>Assessment</a></li>
-<li class="chapter" data-level="" data-path="connecting-ideas-for-learning.html"><a href="connecting-ideas-for-learning.html#checking-your-learning-2"><i class="fa fa-check"></i>Checking your Learning</a></li>
-</ul></li>
-<li class="chapter" data-level="4" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html"><i class="fa fa-check"></i><b>4</b> Building Your Online Presence</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#overview-3"><i class="fa fa-check"></i>Overview</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#topics-3"><i class="fa fa-check"></i>Topics</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#learning-outcomes-3"><i class="fa fa-check"></i>Learning Outcomes</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-checklist-3"><i class="fa fa-check"></i>Activity Checklist</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#resources-3"><i class="fa fa-check"></i>Resources</a></li>
-</ul></li>
-<li class="chapter" data-level="4.1" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#personal-learning-environments"><i class="fa fa-check"></i><b>4.1</b> Personal Learning Environments</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-what-is-a-ple"><i class="fa fa-check"></i>Activity: What is a PLE?</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-what-is-your-ple"><i class="fa fa-check"></i>Activity: What is your PLE?</a></li>
-</ul></li>
-<li class="chapter" data-level="4.2" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#building-a-learning-blog"><i class="fa fa-check"></i><b>4.2</b> Building a Learning Blog</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-setting-up-your-learning-blog"><i class="fa fa-check"></i>Activity: Setting Up Your Learning Blog</a></li>
-</ul></li>
-<li class="chapter" data-level="4.3" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#my-digital-footprint"><i class="fa fa-check"></i><b>4.3</b> My Digital Footprint</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-what-is-a-digital-footprint"><i class="fa fa-check"></i>Activity: What is a Digital Footprint?</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-who-am-i-onlineand-why-should-i-care"><i class="fa fa-check"></i>Activity: Who am I Online…and Why Should I Care?</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-digital-footprint-audit"><i class="fa fa-check"></i>Activity: Digital Footprint Audit</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-blog-my-digital-footprint"><i class="fa fa-check"></i>Activity: Blog: My Digital Footprint</a></li>
-</ul></li>
-<li class="chapter" data-level="4.4" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#evaluating-online-tools"><i class="fa fa-check"></i><b>4.4</b> Evaluating Online Tools</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-what-are-my-criteria"><i class="fa fa-check"></i>Activity: What Are My Criteria?</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#activity-evaluate-a-digital-tool"><i class="fa fa-check"></i>Activity: Evaluate a Digital Tool</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#summary-3"><i class="fa fa-check"></i>Summary</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#assessment-3"><i class="fa fa-check"></i>Assessment</a></li>
-<li class="chapter" data-level="" data-path="building-your-online-presence.html"><a href="building-your-online-presence.html#checking-your-learning-3"><i class="fa fa-check"></i>Checking your Learning</a></li>
-</ul></li>
-<li class="chapter" data-level="5" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html"><i class="fa fa-check"></i><b>5</b> Building a Network of People</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#overview-4"><i class="fa fa-check"></i>Overview</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#topics-4"><i class="fa fa-check"></i>Topics</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#learning-outcomes-4"><i class="fa fa-check"></i>Learning Outcomes</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-checklist-4"><i class="fa fa-check"></i>Activity Checklist</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#resources-4"><i class="fa fa-check"></i>Resources</a></li>
-</ul></li>
-<li class="chapter" data-level="5.1" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#digital-citizenship"><i class="fa fa-check"></i><b>5.1</b> Digital Citizenship</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-reflecting-on-digital-citizenship"><i class="fa fa-check"></i>Activity: Reflecting on Digital Citizenship</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#defining-digital-citizenship"><i class="fa fa-check"></i>Defining Digital Citizenship</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-podcast-on-digital-citizenship"><i class="fa fa-check"></i>Activity: Podcast on Digital Citizenship</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#guiding-framework"><i class="fa fa-check"></i>Guiding framework</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-refined-definition-of-digital-citizenship"><i class="fa fa-check"></i>Activity: Refined Definition of Digital Citizenship</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#rights-and-responsibilities"><i class="fa fa-check"></i>Rights and Responsibilities</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-rights-responsibilities-of-digital-citizens"><i class="fa fa-check"></i>Activity: Rights &amp; Responsibilities of Digital Citizens</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#personal-and-professional-identity"><i class="fa fa-check"></i>Personal and Professional Identity</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-professional-online-identity-and-digital-citizenship"><i class="fa fa-check"></i>Activity: Professional Online Identity and Digital Citizenship</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-blog-professional-online-identity-and-digital-citizenship"><i class="fa fa-check"></i>Activity: Blog: Professional online identity and digital citizenship</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-blog-my-online-biography"><i class="fa fa-check"></i>Activity: Blog: My Online Biography</a></li>
-</ul></li>
-<li class="chapter" data-level="5.2" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#online-communities"><i class="fa fa-check"></i><b>5.2</b> Online Communities</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#research-on-online-communities"><i class="fa fa-check"></i>Research on Online Communities</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#communities-of-practice"><i class="fa fa-check"></i>Communities of Practice</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-what-is-a-community-of-practice"><i class="fa fa-check"></i>Activity: What Is a Community of Practice?</a></li>
-</ul></li>
-<li class="chapter" data-level="5.3" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#connecting-and-learning-through-social-media"><i class="fa fa-check"></i><b>5.3</b> Connecting and Learning through Social Media</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-mapping-my-social-network"><i class="fa fa-check"></i>Activity: Mapping My Social Network</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-introduction-to-hypothesis"><i class="fa fa-check"></i>Activity: Introduction to Hypothesis</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-annotating-collaborating-in-hypothes.is"><i class="fa fa-check"></i>Activity: Annotating &amp; Collaborating in Hypothes.is</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-hypothes.is-challenge"><i class="fa fa-check"></i>Activity: Hypothes.is Challenge!</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-social-media-for-connecting-and-learning"><i class="fa fa-check"></i>Activity: Social Media for Connecting and Learning</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-social-media-online-identity-and-learning"><i class="fa fa-check"></i>Activity: Social Media, Online Identity, and Learning</a></li>
-</ul></li>
-<li class="chapter" data-level="5.4" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#connecting-to-the-twu-community"><i class="fa fa-check"></i><b>5.4</b> Connecting to the TWU Community</a>
-<ul>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#activity-twus-learning-community"><i class="fa fa-check"></i>Activity: TWU’s Learning Community</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#summary-4"><i class="fa fa-check"></i>Summary</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#assessment-4"><i class="fa fa-check"></i>Assessment</a></li>
-<li class="chapter" data-level="" data-path="building-a-network-of-people.html"><a href="building-a-network-of-people.html#checking-your-learning-4"><i class="fa fa-check"></i>Checking your Learning</a></li>
-</ul></li>
-<li class="chapter" data-level="6" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html"><i class="fa fa-check"></i><b>6</b> Sharing Your Knowledge</a>
-<ul>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#overview-5"><i class="fa fa-check"></i>Overview</a>
-<ul>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#topics-5"><i class="fa fa-check"></i>Topics</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#learning-outcomes-5"><i class="fa fa-check"></i>Learning Outcomes</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-checklist-5"><i class="fa fa-check"></i>Activity Checklist</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#resources-5"><i class="fa fa-check"></i>Resources</a></li>
-</ul></li>
-<li class="chapter" data-level="6.1" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#sharing-learning-at-twu"><i class="fa fa-check"></i><b>6.1</b> Sharing Learning at TWU</a>
-<ul>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-learning-in-community"><i class="fa fa-check"></i>Activity: Learning in Community</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-preparing-for-the-future"><i class="fa fa-check"></i>Activity: Preparing For the Future</a></li>
-</ul></li>
-<li class="chapter" data-level="6.2" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#digital-practices-in-the-workplace"><i class="fa fa-check"></i><b>6.2</b> Digital Practices in the Workplace</a>
-<ul>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-the-future-of-work"><i class="fa fa-check"></i>Activity: The Future of Work</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#technology-and-change"><i class="fa fa-check"></i>Technology and Change</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-newspaper-and-music-industry-in-a-digital-age"><i class="fa fa-check"></i>Activity: Newspaper and Music Industry in a Digital Age</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-impact-of-digital-technology-on-business"><i class="fa fa-check"></i>Activity: Impact of Digital Technology on Business</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#artificial-intelligence"><i class="fa fa-check"></i>Artificial Intelligence</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-how-can-i-use-ai-as-a-student"><i class="fa fa-check"></i>Activity: How Can I Use AI as a Student?</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-how-to-identify-ai-generated-text"><i class="fa fa-check"></i>Activity: How To Identify AI Generated Text</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#jobs-and-automation"><i class="fa fa-check"></i>Jobs and Automation</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-impact-of-automation-ai-in-the-workplace"><i class="fa fa-check"></i>Activity: Impact of Automation &amp; AI in the Workplace</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-the-price-of-ai"><i class="fa fa-check"></i>Activity: The Price of AI</a></li>
-</ul></li>
-<li class="chapter" data-level="6.3" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#societal-issues-and-the-internet"><i class="fa fa-check"></i><b>6.3</b> Societal Issues and the Internet</a>
-<ul>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-problematic-online-behaviours---key-terms-quiz"><i class="fa fa-check"></i>Activity: Problematic Online Behaviours - Key terms quiz</a></li>
-<li class="chapter" data-level="6.3.1" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#website-tracking"><i class="fa fa-check"></i><b>6.3.1</b> Website Tracking</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-the-true-cost-of-free-websites"><i class="fa fa-check"></i>Activity: The True Cost of Free Websites</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-website-tracking-resources"><i class="fa fa-check"></i>Activity: Website Tracking Resources</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-forum-philanthropy-and-corporate-advertising"><i class="fa fa-check"></i>Activity: Forum: Philanthropy and Corporate Advertising</a></li>
-<li class="chapter" data-level="6.3.2" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#online-impersonation"><i class="fa fa-check"></i><b>6.3.2</b> Online Impersonation</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-identify-the-imposter"><i class="fa fa-check"></i>Activity: Identify the Imposter!</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-how-to-spot-a-scammer"><i class="fa fa-check"></i>Activity: How to Spot A Scammer</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-case-study-on-catfishing"><i class="fa fa-check"></i>Activity: Case study on Catfishing</a></li>
-<li class="chapter" data-level="6.3.3" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#internet-trolling"><i class="fa fa-check"></i><b>6.3.3</b> Internet Trolling</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-trolling-in-social-media"><i class="fa fa-check"></i>Activity: Trolling in Social Media</a></li>
-<li class="chapter" data-level="6.3.4" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#online-harassment"><i class="fa fa-check"></i><b>6.3.4</b> Online Harassment</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-the-state-of-online-harassment"><i class="fa fa-check"></i>Activity: The State of Online Harassment</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-the-response-from-social-media"><i class="fa fa-check"></i>Activity: The Response From Social Media</a></li>
-<li class="chapter" data-level="6.3.5" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#psychological-issues"><i class="fa fa-check"></i><b>6.3.5</b> Psychological Issues</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-how-online-personas-are-redefining-human-connection"><i class="fa fa-check"></i>Activity: How online personas are redefining human connection</a></li>
-<li class="chapter" data-level="6.3.6" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#net-neutrality"><i class="fa fa-check"></i><b>6.3.6</b> Net Neutrality</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-the-meaning-of-net-neutrality"><i class="fa fa-check"></i>Activity: The Meaning of Net Neutrality</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-perspectives-on-net-neutrality"><i class="fa fa-check"></i>Activity: Perspectives on Net Neutrality</a></li>
-<li class="chapter" data-level="6.3.7" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#digital-redlining"><i class="fa fa-check"></i><b>6.3.7</b> Digital Redlining</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-case-study---indigenous-communities-in-canada"><i class="fa fa-check"></i>Activity: Case Study - Indigenous Communities in Canada</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-where-do-you-see-digital-redlining"><i class="fa fa-check"></i>Activity: Where Do You See Digital Redlining?</a></li>
-<li class="chapter" data-level="6.3.8" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#diversity-equity-inclusion"><i class="fa fa-check"></i><b>6.3.8</b> Diversity, Equity &amp; Inclusion</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-gender-discrimination"><i class="fa fa-check"></i>Activity: Gender Discrimination</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#what-is-dei"><i class="fa fa-check"></i>What is DEI?</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-perspectives-on-dei"><i class="fa fa-check"></i>Activity: Perspectives on DEI</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-dei-practising-christian-hospitality"><i class="fa fa-check"></i>Activity: DEI &amp; Practising Christian Hospitality</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-editorial-societal-issues-on-the-internet"><i class="fa fa-check"></i>Activity: Editorial Societal Issues on the Internet</a></li>
-</ul></li>
-<li class="chapter" data-level="6.4" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#digital-wisdom"><i class="fa fa-check"></i><b>6.4</b> Digital Wisdom</a>
-<ul>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#activity-digital-wisdom"><i class="fa fa-check"></i>Activity: Digital Wisdom</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#summary-5"><i class="fa fa-check"></i>Summary</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#assessment-5"><i class="fa fa-check"></i>Assessment</a></li>
-<li class="chapter" data-level="" data-path="sharing-your-knowledge.html"><a href="sharing-your-knowledge.html#checking-your-learning-5"><i class="fa fa-check"></i>Checking your Learning</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="skills-list.html"><a href="skills-list.html"><i class="fa fa-check"></i>Skills List</a></li>
-<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
-<li class="divider"></li>
-<li><a href="https://github.com/twu-innovation/inno101" target="blank">Published with bookdown</a></li>
-
-</ul>
-
-      </nav>
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Welcome</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
     </div>
-
-    <div class="book-body">
-      <div class="body-inner">
-        <div class="book-header" role="navigation">
-          <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">LDRS 101: Learning with Technology</a>
-          </h1>
+  </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+    <div class="quarto-title-banner page-columns page-full">
+        <div class="quarto-title page-columns page-full">
+            <h1 class="title column-body">INNO 101</h1>
+            
         </div>
+        <div class="quarto-title-meta">
+            <div>
+                            <div class="quarto-title-meta-heading"><p>Authors</p></div>
+                            <div class="quarto-title-meta-contents"><p>Colin Madland &amp; Kelly Marjanovic</p></div>
+                        </div>
+              <div>
+                            <div class="quarto-title-meta-heading"><p>Last Modified</p></div>
+                            <div class="quarto-title-meta-contents"><p>Jul 19, 2024</p></div>
+                        </div>
+        </div>
+    </div>
+</header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">INNO 101</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Welcome</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction To Digital Literacies for Online Learning</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Discovering and Curating Resources</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Connecting Ideas for Learning</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Building Your Online Presence</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Building a Network of People</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u6.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Sharing Your Knowledge</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./assessment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assessment</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On This Page</h2>
+   
+  <ul>
+  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a>
+  <ul>
+  <li><a href="#course-notes" id="toc-course-notes" class="nav-link" data-scroll-target="#course-notes">Course Notes</a>
+  <ul class="collapse">
+  <li><a href="#course-technologies" id="toc-course-technologies" class="nav-link" data-scroll-target="#course-technologies">Course Technologies</a>
+  <ul class="collapse">
+  <li><a href="#an-open-philosophy-of-inclusion" id="toc-an-open-philosophy-of-inclusion" class="nav-link" data-scroll-target="#an-open-philosophy-of-inclusion">An Open Philosophy of Inclusion</a></li>
+  <li><a href="#summary-of-technologies-used-on-this-course" id="toc-summary-of-technologies-used-on-this-course" class="nav-link" data-scroll-target="#summary-of-technologies-used-on-this-course">Summary of Technologies Used on This Course</a></li>
+  <li><a href="#learn-by-doing" id="toc-learn-by-doing" class="nav-link" data-scroll-target="#learn-by-doing">Learn by Doing</a></li>
+  </ul></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
-        <div class="page-wrapper" tabindex="-1" role="main">
-          <div class="page-inner">
 
-            <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">LDRS 101: Learning with Technology</h1>
-<p class="author"><em>Course Developed by Colin Madland &amp; Kelly Marjanovic</em></p>
-<p class="date"><em>Last updated Jun 2024</em></p>
-</div>
-<div id="welcome" class="section level1 unnumbered hasAnchor">
-<h1>Welcome<a href="index.html#welcome" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>This is the course book for LDRS 101: Learning with Technology. This book is divided into 6 units of study to help you engage with the course learning outcomes and prepare for the course assessment.</p>
-<p>On the page below you will find a summary of the course syllabus, as well as how to navigate this book. Please also refer the schedule in Moodle, as well as the Assessment section in Moodle for instructions on assignments.</p>
-<p>If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.</p>
-<blockquote>
-<p>The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus, which you will find in Moodle. For information on how to navigate through this course on Moodle, see <a href="https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=8214">here</a>.</p>
+
+
+<section id="welcome" class="level1 unnumbered">
+<h1 class="unnumbered">Welcome</h1>
+<p>This is the course book for <em>LDRS 101: Learning with Technology</em>. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.</p>
+<blockquote class="blockquote">
+<p>Below you will find information about how to navigate this book. Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies.</p>
 </blockquote>
-<div id="course-description" class="section level3 unnumbered hasAnchor">
-<h3>Course Description<a href="index.html#course-description" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in ‘the digital’ throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.</p>
-</div>
-<div id="course-learning-outcomes" class="section level3 unnumbered hasAnchor">
-<h3>Course Learning Outcomes<a href="index.html#course-learning-outcomes" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<ol style="list-style-type: decimal">
-<li>Build and customize technology-integrated workflows to enhance and enrich your learning journey.<br />
-</li>
-<li>Apply digital literacy skills to evaluate the legitimacy, credibility, and reliability of online resources for academic study.<br />
-</li>
-<li>Practice evaluative judgment to document your process of learning in complex domains of knowledge.<br />
-</li>
-<li>Create a personalized narrative to document and express your learning process.<br />
-</li>
-<li>Evaluate digital tools, platforms, and interactions based on ethical principles.<br />
-</li>
-<li>Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.<br />
-</li>
-<li>Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.</li>
-</ol>
-<!--
-
-### Meet Your Instructors {-}
-
-[insert]
-
--->
-</div>
-<div id="course-notes" class="section level2 unnumbered hasAnchor">
-<h2>Course Notes<a href="index.html#course-notes" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<div id="how-to-navigate-this-book" class="section level3 unnumbered hasAnchor">
-<h3>How To Navigate This Book<a href="index.html#how-to-navigate-this-book" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Take a moment to experiment with the controls in the toolbar at the top of the page. You can search this book for a word or phrase (for example, to look up a definition). To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, adjust the typeface, the font size, and the background colour to make the text easier to read.</p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-1"></span>
-<img src="assets/course-intro/menu.png" alt="Top menu bar"  />
-<p class="caption">
-Figure 0.1: Top menu bar
-</p>
-</div>
-<p>The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:</p>
-<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-2"></span>
-<img src="assets/course-intro/left_arrow.png" alt="Left and right navigation arrows"  /><img src="assets/course-intro/right_arrow.png" alt="Left and right navigation arrows"  />
-<p class="caption">
-Figure 0.2: Left and right navigation arrows
-</p>
-</div>
-<p>You can also download an offline copy of this books in a pdf format. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at <a href="mailto:elearning@twu.ca">elearning@twu.ca</a></p>
-</div>
-<div id="course-units" class="section level3 unnumbered hasAnchor">
-<h3>Course Units<a href="index.html#course-units" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>This course is organized into 6 units. Each unit of the course will provide you with the following information:</p>
-<ul>
-<li>A general overview of the key concepts and skills that will be addressed during the unit.</li>
-<li>Specific learning outcomes and topics for the unit.</li>
-<li>Learning activities to help you engage with the concepts and practice digital skills. These often include key readings, videos, exploring digital tools, and reflective prompts.</li>
-<li>The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.</li>
-</ul>
-</div>
-<div id="course-activities" class="section level3 unnumbered hasAnchor">
-<h3>Course Activities<a href="index.html#course-activities" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<section id="course-notes" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="course-notes">Course Notes</h2>
 <p>Below is some key information on features you will see throughout the course.</p>
-<div class="reflect">
-<p>
-<strong><em>Learning Activity</em></strong><br />
-This box will prompt you to engage in course concepts, often by viewing
-resources, applying concepts, and reflecting on your learning
-experience. Learning activities are designed to prepare you for the
-graded assigments in this course. You are strongly encouraged to
-complete them.
-</p>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
 </div>
-<div class="assessment">
-<p>
-<strong><em>Assessment</em></strong><br />
-This box will signify an assignment you will submit to your instructor
-for grading and feedback. Note that assignments demonstrate your
-understanding of the course learning outcomes. Be sure to review the
-grading rubrics for each assignment.
-</p>
+<div class="callout-body-container">
+<p><strong><em>Learning Activity</em></strong></p>
+<p>This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.</p>
 </div>
-<div class="progress">
-<p>
-<strong><em>Checking Your Learning</em></strong><br />
-This box is for checking your understanding, to make sure you are ready
-for the next unit.
-</p>
 </div>
-<div class="feedback">
-<p>
-<strong><em>Note</em></strong><br />
-This box signifies key notes, important quotes, or case studies. It may
-also warn you of possible problems or pitfalls you may encounter!
-</p>
 </div>
-<!--
-@cmadland could I suggest this tech table from https://course.oeru.org/lida101/course-guide/course-technologies/ instead of introducing Hypothes.is instructions here?  
-
--->
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
 </div>
-<div id="course-technologies" class="section level3 unnumbered hasAnchor">
-<h3>Course Technologies<a href="index.html#course-technologies" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div class="callout-body-container">
+<p><strong><em>Assessment</em></strong></p>
+<p>This box will signify an assignment or discussion post you will submit in Moodle. Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-warning no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong><em>Checking your Learning</em></strong></p>
+<p>This box is for checking your understanding, to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion. These activities are not graded but are critical for you to be able to begin to develop evaluative judgement in this domain of knowledge.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-important no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong><em>Note</em></strong></p>
+<p>This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!</p>
+</div>
+</div>
+</div>
+<p>If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.</p>
+<section id="course-technologies" class="level3">
+<h3 class="anchored" data-anchor-id="course-technologies">Course Technologies</h3>
 <p>This course is about learning with technology. Digital literacies are closely linked but not limited to digital skills. Consequently, this course will use a number of different online communication and publishing technologies to support your learning.</p>
-<div id="an-open-philosophy-of-inclusion" class="section level4 unnumbered hasAnchor">
-<h4>An open philosophy of inclusion<a href="index.html#an-open-philosophy-of-inclusion" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<section id="an-open-philosophy-of-inclusion" class="level4">
+<h4 class="anchored" data-anchor-id="an-open-philosophy-of-inclusion">An Open Philosophy of Inclusion</h4>
 <p><em>Learning with Technology</em> incorporates a wide range of online technologies and software applications. In this course we want to promote free and open source software because we believe that no learner should be denied access to learning for lack of funds to purchase a proprietary software license. Nor do we believe that you should be forced to sacrifice your freedoms in software choice.</p>
 <p>The course resources and interaction technologies are based entirely on free and open source software and you will be able to complete all the learning activities using open source applications without the need to purchase any software. You are free to use proprietary technology applications of your choice, but you can also use this course to explore and experiment with open technology.</p>
-</div>
-<div id="summary-of-technologies-used-on-this-course" class="section level4 unnumbered hasAnchor">
-<h4>Summary of technologies used on this course<a href="index.html#summary-of-technologies-used-on-this-course" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+</section>
+<section id="summary-of-technologies-used-on-this-course" class="level4">
+<h4 class="anchored" data-anchor-id="summary-of-technologies-used-on-this-course">Summary of Technologies Used on This Course</h4>
 <p>The following table provides a summary of the main technologies used in this course.</p>
-<table>
-<colgroup>
-<col width="35%" />
-<col width="64%" />
-</colgroup>
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th><strong>Technology</strong></th>
@@ -531,189 +285,464 @@ also warn you of possible problems or pitfalls you may encounter!
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="https://learn.twu.ca/">Moodle</a></td>
+<td><a href="https://learn.twu.ca/" target="_blank">Moodle</a></td>
 <td>TWU uses Moodle as our Learning Management System. For LDRS 101, your course notes, assignment instructions, assignment dropboxes will be found in Moodle. Note that some assignments require you to complete your work in WordPress and Discourse.</td>
-</tr>
-<tr class="even">
-<td>Course Book</td>
-<td>Course materials are organized into the Course Book tab in Moodle and contain the instructions to guide your learning. Bookmark this page in your browser.</td>
-</tr>
-<tr class="odd">
-<td><a href="https://twu.discourse.group/">Discourse</a></td>
-<td>Discourse is a free, open source social network which is hosted at <a href="https://twu.discourse.group/" class="uri">https://twu.discourse.group/</a> (bookmark this page). We use Discourse in this course for discussions. Go to the <a href="https://twu.discourse.group/c/ldrs101/10">LDRS101 forums</a> in Discourse to explore some of the topics you might engage with during this course.</td>
-</tr>
-<tr class="even">
-<td><a href="https://obsidian.md/">Obsidian</a></td>
-<td>Obsidian is a free note-taking and mind-mapping app. We introduce this digital tool early on in the course as you will use it often for your journal reflections, and for your assignments.</td>
-</tr>
-<tr class="odd">
-<td><a href="https://www.litmaps.com/">Litmaps</a></td>
-<td>Litmaps is a web app that you can use to discover and manage resources. In this course you will use Litmaps to build a map of the literature related to topics you want to research.</td>
-</tr>
-<tr class="even">
-<td>Zotero</td>
-<td>Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.</td>
-</tr>
-<tr class="odd">
-<td><a href="https://hypothes.is/">Hypothes.is</a></td>
-<td>We use Hypothes.is, an open source web-service that enables users to annotate, discuss and share reflections on web site pages on the Internet.</td>
-</tr>
-<tr class="even">
-<td><a href="https://create.twu.ca/">WordPress</a></td>
-<td>In Unit 4 we introduce WordPress, a free, open-source platform used to create websites and blogs. Learners are invited to establish their own <strong>personal course blog</strong>. In this way you will retain control over your own data even when the course is finished. We recommend WordPress as this tool is supported by TWU, but you may use a blogging platform of your choice.</td>
-</tr>
-<tr class="odd">
-<td>Zoom</td>
-<td>Zoom is a communications platform that allows you to connect via video, audio, phone, or chat. Note the Live version of this course may use Zoom for class sessions. Students are also encouraged to attend Learning Hub workshops via Zoom.</td>
 </tr>
 </tbody>
 </table>
-<!--
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-| Course feed          | The [Course feed](https://course.oeru.org/lida101/interactions/course-feed) is a unique feature of OERu courses. Course comments and posts tagged with the course code (LiDA101) on the course forums, your course blog, the resource bank, our social network and [Hypothes.is](https://hypothes.is/) will be harvested and incorporated into the live course feed. This is the hub for keeping track of the distributed course interactions on the web. |
-| Course resource bank | The [resource bank](https://bookmarks.oeru.org/search.php/all/lida101) is a site used to share web links and summaries of useful resources you find online. We encourage learners to share links publicly with your peers. Remember to vote for links you find useful on the site. Search using the course tag: “LDRS101”   
-
+[Moodle](https://learn.twu.ca/){target="_blank"}
 -->
-</div>
-<div id="learn-by-doing" class="section level4 unnumbered hasAnchor">
-<h4>Learn by Doing<a href="index.html#learn-by-doing" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<!-- | Course feed | The [Course feed](https://course.oeru.org/lida101/interactions/course-feed){target="_blank"} is a unique feature of OERu courses. Course comments and posts tagged with the course code (LiDA101) on the course forums, your course blog, the resource bank, our social network and [Hypothes.is](https://hypothes.is/){target="_blank"} will be harvested and incorporated into the live course feed. This is the hub for keeping track of the distributed course interactions on the web. | | Course resource bank | The [resource bank](https://bookmarks.oeru.org/search.php/all/lida101){target="_blank"} is a site used to share web links and summaries of useful resources you find online. We encourage learners to share links publicly with your peers. Remember to vote for links you find useful on the site. Search using the course tag: “LDRS101” -->
+</section>
+<section id="learn-by-doing" class="level4">
+<h4 class="anchored" data-anchor-id="learn-by-doing">Learn by Doing</h4>
 <p>Some learners will be familiar with these technologies, while others will be using them for the first time. We use a learn by doing approach and you will be prompted in the course materials when to interact with these different technologies.</p>
 <p>Initially the use of different technologies distributed on the web may be confusing. However, this is a course about learning on the Internet and once you have completed this course, you will become a competent user of these online technologies.</p>
 <p>Have fun and enjoy the learning experience!</p>
-<!--
-
-@cmadland could I suggest this tech table from https://course.oeru.org/lida101/course-guide/course-technologies/ instead of introducing Hypothes.is instructions here?  
+<!-- @cmadland could I suggest this tech table from [https://course.oeru.org/lida101/course-guide/course-technologies/](https://course.oeru.org/lida101/course-guide/course-technologies/){target="_blank"} instead of introducing Hypothes.is instructions here? The following tools will be introduced in this course. Feel free to explore the links below, or wait until they are introduced in the particular unit in which the tool is required. #### Course Annotations [Hypothes.is](https://web.hypothes.is/){target="_blank"} is our annotation tool. With hypothes.is you can annotate web pages on the Internet as well as keeping private notes when using the highlight feature. Hypothes.is enables you to: - Select text to annotate. - Add tags and post publicly or save privately. - Reply to or share any annotation. - Link to notes or whole pages. - Annotate together in groups. - Collaborate privately with others. - Search your notes. - Explore all public annotations and profiles. ##### How to annotate a web-page Four steps to annotating web pages using hypothes.is: Step 1: [Create an account](https://hypothes.is/signup){target="_blank"} on the Hypothes.is website. Step 2: Add Hypothes.is to your browser. ([Install](https://web.hypothes.is/start/#){target="_blank"} the add-on for Chrome or bookmarklet for other browsers). Step 3: Go to any web page, launch Hypothesis (using the Chrome add-on or browser bookmarklet) and log in using the account you created at Hypothes.is. Step 4: Highlight the text you want to annotate (see [how to highlight text](https://www.computerhope.com/issues/ch001669.htm){target="_blank"} published by computerhope.com), click on the “Annotate” button which appears when you highlight the text, type your annotation and click “Post to Public”. The following video provides a brief overview of how to post an annotation. Watch [Hypothesis Web Annotations](https://www.youtube.com/watch?v=BFPYqXubTsE){target="_blank"} <div class ="video-container"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFPYqXubTsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div> ##### Resources Go to the [Get Started](https://web.hypothes.is/start/){target="_blank"} page to sign up. - [Quick Start Guide for Students](https://web.hypothes.is/quick-start-guide-for-students/){target="_blank"} - [Student resource guide](https://web.hypothes.is/student-resource-guide/){target="_blank"} - [Annotating as a group](https://web.hypothes.is/help/annotating-with-groups/){target="_blank"} (i.e. share annotations on a page or pages) If your course is using Hypothes.is to instructions will be given in the course. Instructions on this can be found here -->
 
 
+</section>
+</section>
+</section>
+</section>
 
-The following tools will be introduced in this course. Feel free to explore the links below, or wait until they are introduced in the particular unit in which the tool is required.
-
-#### Course Annotations{-}
-
-[Hypothes.is](https://web.hypothes.is/) is our annotation tool. With hypothes.is you can annotate web pages on the Internet as well as keeping private notes when using the highlight feature.
-
-Hypothes.is enables you to:
-
-- Select text to annotate.  
-- Add tags and post publicly or save privately.  - 
-Reply to or share any annotation.  
-- Link to notes or whole pages.  
-- Annotate together in groups.  
-- Collaborate privately with others.  
-- Search your notes.  
-- Explore all public annotations and profiles.  
-
-
-##### How to annotate a web-page {-}
-
-Four steps to annotating web pages using hypothes.is:
-
-Step 1: [Create an account](https://hypothes.is/signup) on the Hypothes.is website.
-Step 2: Add Hypothes.is to your browser. ([Install](https://web.hypothes.is/start/#) the add-on for Chrome or bookmarklet for other browsers).
-Step 3: Go to any web page, launch Hypothesis (using the Chrome add-on or browser bookmarklet) and log in using the account you created at Hypothes.is.
-Step 4: Highlight the text you want to annotate (see [how to highlight text](https://www.computerhope.com/issues/ch001669.htm) published by computerhope.com), click on the “Annotate” button which appears when you highlight the text, type your annotation and click “Post to Public”.
-The following video provides a brief overview of how to post an annotation. Watch [Hypothesis Web Annotations](https://www.youtube.com/watch?v=BFPYqXubTsE)
-
-
-
-<div class ="video-container">
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFPYqXubTsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
-</div>
-
-
-
-##### Resources {-}
-
-Go to the [Get Started](https://web.hypothes.is/start/) page to sign up.
-- [Quick Start Guide for Students](https://web.hypothes.is/quick-start-guide-for-students/)
-- [Student resource guide](https://web.hypothes.is/student-resource-guide/)
-- [Annotating as a group](https://web.hypothes.is/help/annotating-with-groups/) (i.e. share annotations on a page or pages)
-If your course is using Hypothes.is to  instructions will be given in the course. Instructions on this can be found here
-
-
--->
-
-</div>
-</div>
-</div>
-</div>
-            </section>
-
-          </div>
-        </div>
-      </div>
-
-<a href="introduction-to-digital-literacies-for-online-learning.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
-    </div>
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
   </div>
-<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
-<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
-<script>
-gitbook.require(["gitbook"], function(gitbook) {
-gitbook.start({
-"sharing": {
-"github": false,
-"facebook": true,
-"twitter": true,
-"linkedin": false,
-"weibo": false,
-"instapaper": false,
-"vk": false,
-"whatsapp": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
-},
-"fontsettings": {
-"theme": "white",
-"family": "sans",
-"size": 2
-},
-"edit": {
-"link": null,
-"text": null
-},
-"history": {
-"link": null,
-"text": null
-},
-"view": {
-"link": null,
-"text": null
-},
-"download": null,
-"search": {
-"engine": "fuse",
-"options": null
-},
-"toc": {
-"collapse": "section",
-"scroll_highlight": true
-}
-});
-});
-</script>
+  <div class="nav-page nav-page-next">
+      <a href="./u1.html" class="pagination-link" aria-label="Introduction To Digital Literacies for Online Learning">
+        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction To Digital Literacies for Online Learning</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    var src = "true";
-    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:")
-      if (/^https?:/.test(src))
-        src = src.replace(/^https?:/, '');
-    script.src = src;
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
-</body>
 
-</html>
+
+
+</body></html>

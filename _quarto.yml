@@ -1,19 +1,70 @@
+# version 1.3
+
 project:
-  title: "Project title"
-  output-dir: reports
+  type: book
+  output-dir: docs
+
+# Changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
+published-title: "Last Modified"
+author-title: "Authors"
+
+book:
+  title: "INNO 101"
+  author: "Colin Madland & Kelly Marjanovic"
+  date: "last-modified"
+  date-format: "MMM D, YYYY"
+  search: true
+  chapters:
+    - index.qmd
+    - u1.qmd
+    - u2.qmd
+    - u3.qmd
+    - u4.qmd
+    - u5.qmd
+    - u6.qmd
+    - assessment.qmd
+# Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
+    - references.qmd
+
+# References
+bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
+csl: https://twuonline.github.io/course-materials/quarto/apa.csl
+link-bibliography: true
+link-citations: true
+
+# Add templete for block
+title-block-banner: true
+# Formats
 format:
+# Format - HTML
   html:
-    theme:
-      - lumen
-      - assets/styles.scss
-    highlight-style: github
+    template-partials:
+      header-assets/title-block.html
+      
+    sidebar:
+      style: "docked"
+      search: true
+    css: https://twuonline.github.io/course-materials/quarto/twu_styles.css
+    toc-depth: 4
     toc: true
-    toc-depth: 3
-    toc-location: left
-    self-contained: true
-    code-tools: true
-    grid:
-      sidebar-width: 300px
-      body-width: 1000px
-      margin-width: 300px
-      gutter-width: 1.5rem
+    toc-title: On This Page
+    theme: cosmo
+    include-in-header:
+    - text: |
+        <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
+        <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
+        
+# Format - PDF
+  pdf:
+    documentclass: scrreprt
+# Format - Doc
+  docx:
+    toc: false
+    number-sections: true
+    highlight-style: github
+    #cite-method: biblatex
+# Fig captions
+fig-cap-location: top
+lightbox:
+  desc-position: top
+

@@ -1,0 +1,1604 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.54">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>1&nbsp; Introduction To Digital Literacies for Online Learning – INNO 101</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./u2.html" rel="next">
+<link href="./index.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
+<link rel="shortcut icon" href="https://twuonline.github.io/course-materials/quarto/favicon.ico">
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="https://twuonline.github.io/course-materials/quarto/twu_styles.css">
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./u1.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction To Digital Literacies for Online Learning</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+    <div class="quarto-title-banner page-columns page-full">
+        <div class="quarto-title page-columns page-full">
+            <h1 class="title column-body"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction To Digital Literacies for Online Learning</span></h1>
+            
+        </div>
+        <div class="quarto-title-meta">
+            
+              
+        </div>
+    </div>
+</header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">INNO 101</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Welcome</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u1.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction To Digital Literacies for Online Learning</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Discovering and Curating Resources</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Connecting Ideas for Learning</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Building Your Online Presence</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Building a Network of People</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./u6.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Sharing Your Knowledge</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./assessment.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assessment</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On This Page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a>
+  <ul>
+  <li><a href="#topics" id="toc-topics" class="nav-link" data-scroll-target="#topics">Topics</a></li>
+  <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link" data-scroll-target="#learning-outcomes">Learning Outcomes</a></li>
+  <li><a href="#activity-checklist" id="toc-activity-checklist" class="nav-link" data-scroll-target="#activity-checklist">Activity Checklist</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  <li><a href="#activity-why-twu" id="toc-activity-why-twu" class="nav-link" data-scroll-target="#activity-why-twu"><span class="header-section-number">1.0.1</span> Activity: Why Twu?</a></li>
+  <li><a href="#activity-join-the-hub" id="toc-activity-join-the-hub" class="nav-link" data-scroll-target="#activity-join-the-hub"><span class="header-section-number">1.0.2</span> Activity: Join the Hub!</a></li>
+  </ul></li>
+  <li><a href="#learning-online" id="toc-learning-online" class="nav-link" data-scroll-target="#learning-online"><span class="header-section-number">1.1</span> Learning Online</a>
+  <ul>
+  <li><a href="#activity-learning-online-effectively" id="toc-activity-learning-online-effectively" class="nav-link" data-scroll-target="#activity-learning-online-effectively"><span class="header-section-number">1.1.1</span> Activity: Learning Online Effectively</a></li>
+  <li><a href="#activity-online-discussions" id="toc-activity-online-discussions" class="nav-link" data-scroll-target="#activity-online-discussions"><span class="header-section-number">1.1.2</span> Activity: Online Discussions</a>
+  <ul class="collapse">
+  <li><a href="#discussion-guidelines-for-ldrs-101" id="toc-discussion-guidelines-for-ldrs-101" class="nav-link" data-scroll-target="#discussion-guidelines-for-ldrs-101">Discussion Guidelines for Ldrs 101</a></li>
+  </ul></li>
+  <li><a href="#activity-start-a-conversation" id="toc-activity-start-a-conversation" class="nav-link" data-scroll-target="#activity-start-a-conversation"><span class="header-section-number">1.1.3</span> Activity: Start a Conversation!</a></li>
+  </ul></li>
+  <li><a href="#understanding-the-digital" id="toc-understanding-the-digital" class="nav-link" data-scroll-target="#understanding-the-digital"><span class="header-section-number">1.2</span> Understanding the Digital</a></li>
+  <li><a href="#digital-literacies" id="toc-digital-literacies" class="nav-link" data-scroll-target="#digital-literacies"><span class="header-section-number">1.3</span> Digital Literacies</a>
+  <ul>
+  <li><a href="#activity-getting-started-with-obsidian" id="toc-activity-getting-started-with-obsidian" class="nav-link" data-scroll-target="#activity-getting-started-with-obsidian"><span class="header-section-number">1.3.1</span> Activity: Getting Started With Obsidian</a></li>
+  <li><a href="#activity-download-the-starter-vault" id="toc-activity-download-the-starter-vault" class="nav-link" data-scroll-target="#activity-download-the-starter-vault"><span class="header-section-number">1.3.2</span> Activity: Download the Starter Vault</a></li>
+  <li><a href="#activity-reflection-on-the-21st-century-learner" id="toc-activity-reflection-on-the-21st-century-learner" class="nav-link" data-scroll-target="#activity-reflection-on-the-21st-century-learner"><span class="header-section-number">1.3.3</span> Activity: Reflection on the 21st Century Learner</a></li>
+  <li><a href="#activity-definining-digital-literacy" id="toc-activity-definining-digital-literacy" class="nav-link" data-scroll-target="#activity-definining-digital-literacy"><span class="header-section-number">1.3.4</span> Activity: Definining Digital Literacy</a></li>
+  <li><a href="#digital-literacies-skills" id="toc-digital-literacies-skills" class="nav-link" data-scroll-target="#digital-literacies-skills"><span class="header-section-number">1.3.5</span> Digital Literacies &amp; Skills</a></li>
+  <li><a href="#activity-what-are-digital-literacies" id="toc-activity-what-are-digital-literacies" class="nav-link" data-scroll-target="#activity-what-are-digital-literacies"><span class="header-section-number">1.3.6</span> Activity: What Are Digital Literacies?</a></li>
+  <li><a href="#activity-why-digital-literacy-matters" id="toc-activity-why-digital-literacy-matters" class="nav-link" data-scroll-target="#activity-why-digital-literacy-matters"><span class="header-section-number">1.3.7</span> Activity: Why Digital Literacy Matters</a></li>
+  <li><a href="#activity-am-i-digitally-literate" id="toc-activity-am-i-digitally-literate" class="nav-link" data-scroll-target="#activity-am-i-digitally-literate"><span class="header-section-number">1.3.8</span> Activity: Am I Digitally Literate?</a></li>
+  <li><a href="#visitors-and-residents" id="toc-visitors-and-residents" class="nav-link" data-scroll-target="#visitors-and-residents"><span class="header-section-number">1.3.9</span> Visitors and Residents</a></li>
+  <li><a href="#activity-where-am-i-online" id="toc-activity-where-am-i-online" class="nav-link" data-scroll-target="#activity-where-am-i-online"><span class="header-section-number">1.3.10</span> Activity: Where Am I Online?</a></li>
+  <li><a href="#activity-visitor-and-resident-diagram" id="toc-activity-visitor-and-resident-diagram" class="nav-link" data-scroll-target="#activity-visitor-and-resident-diagram"><span class="header-section-number">1.3.11</span> Activity: Visitor and Resident Diagram</a></li>
+  </ul></li>
+  <li><a href="#digital-privacy-safety" id="toc-digital-privacy-safety" class="nav-link" data-scroll-target="#digital-privacy-safety"><span class="header-section-number">1.4</span> Digital Privacy &amp; Safety</a>
+  <ul>
+  <li><a href="#privacy" id="toc-privacy" class="nav-link" data-scroll-target="#privacy">Privacy</a></li>
+  <li><a href="#passwords" id="toc-passwords" class="nav-link" data-scroll-target="#passwords">Passwords</a></li>
+  <li><a href="#activity-get-a-password-manager" id="toc-activity-get-a-password-manager" class="nav-link" data-scroll-target="#activity-get-a-password-manager"><span class="header-section-number">1.4.1</span> Activity: Get a Password Manager</a>
+  <ul class="collapse">
+  <li><a href="#good-messaging-hygiene" id="toc-good-messaging-hygiene" class="nav-link" data-scroll-target="#good-messaging-hygiene">Good Messaging Hygiene</a></li>
+  </ul></li>
+  <li><a href="#activity-tos-analysis" id="toc-activity-tos-analysis" class="nav-link" data-scroll-target="#activity-tos-analysis"><span class="header-section-number">1.4.2</span> Activity: Tos Analysis</a></li>
+  <li><a href="#activity-introduction-to-the-reflective-journaling" id="toc-activity-introduction-to-the-reflective-journaling" class="nav-link" data-scroll-target="#activity-introduction-to-the-reflective-journaling"><span class="header-section-number">1.4.3</span> Activity: Introduction To the Reflective Journaling</a></li>
+  <li><a href="#activity-digital-literacies-for-online-learning" id="toc-activity-digital-literacies-for-online-learning" class="nav-link" data-scroll-target="#activity-digital-literacies-for-online-learning"><span class="header-section-number">1.4.4</span> Activity: Digital Literacies for Online Learning</a></li>
+  </ul></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#assessment" id="toc-assessment" class="nav-link" data-scroll-target="#assessment">Assessment</a></li>
+  <li><a href="#checking-your-learning" id="toc-checking-your-learning" class="nav-link" data-scroll-target="#checking-your-learning">Checking Your Learning</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<section id="overview" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="overview">Overview</h2>
+<p>Welcome to Unit 1 of Learning with Technology! This course will introduce you to some ideas related to living, learning, and working in our digitally-saturated society. It is our intent to equip you with an emerging set of skills and literacies related to digital tools for learning. Within your academic pursuits, you will encounter a vast amount of information, and integrating digital tools into your learning journey, though challenging, is essential for harnessing the ample learning possibilities offered by your chosen discipline. This course will give you a head start on using digital tools to build a workflow, enabling you to stay organized and to make your learning process visible to both yourself and your instructors. We will also lead you through readings and discussions on topics such as digital identity, privacy, security, and ethical ways of sharing newfound knowledge.</p>
+<p>There will be two primary branches of the course, each focusing on specific tools that we will introduce to you. The first branch will be a workflow that is private to you because it takes place primarily on your own computer, and the second branch is shared as publicly as you are comfortable sharing. You will have control over how public your work is, but we will think about the importance of sharing knowledge and how to do that easily and in ways that preserve your ‘ownership’ over your work.</p>
+<p>In this first unit, there will be both theoretical and practical work for you to do. We start with some basic instructions and advice on technology and learning online. Then, in order to build a theoretical understanding of digital tools for learning, we will explore the idea of <em>the digital</em> in the context of contemporary society. At the same time, there are some important practicalities to manage in order to get set up for the course, so we will lead you through installing some apps on your computer that you will use extensively in this course, and which hopefully will become the backbone of your digital workflow throughout your time in higher education and beyond.</p>
+<section id="topics" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="topics">Topics</h3>
+<p>This unit is divided into the following topics:</p>
+<ol type="1">
+<li>Learning Online</li>
+<li>Understanding the Digital</li>
+<li>Starting your Workflow</li>
+<li>Digital Literacies</li>
+<li>Digital Privacy and Safety</li>
+</ol>
+</section>
+<section id="learning-outcomes" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="learning-outcomes">Learning Outcomes</h3>
+<p>When you have completed this unit, you should be able to:</p>
+<ul>
+<li>Explore common digital tools used at Trinity Western University.</li>
+<li>Describe your engagement with digital technology.</li>
+<li>Apply digital tools to support learning in an academic environment.</li>
+<li>Explain what digital literacy means to you.</li>
+<li>Examine privacy concerns related to various platforms and tools.</li>
+<li>Describe how to protect yourself and others in the digital environment.</li>
+<li>Identify the literacies you plan to improve and what steps you will take to achieve your goals.</li>
+</ul>
+</section>
+<section id="activity-checklist" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="activity-checklist">Activity Checklist</h3>
+<p>Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.</p>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Learning Activities</strong></p>
+<ul>
+<li>Reflect on why you chose TWU and share your expecations with your peers.</li>
+<li>Write an introduction post on <a href="https://twu.discourse.group" target="_blank">the Learning Hub</a> in Discourse.</li>
+<li>Search online for learning tools to help with note-taking, project managment, writing, etc. Share your findings on Discourse.</li>
+<li>Download and install <a href="https://obsidian.md" target="_blank">Obsidian</a>.</li>
+<li>Download and open the course vault in Obsidian. Activate the plugins that came with the Obsidian vault.</li>
+<li>View the resources provided on the 21st century learner.</li>
+<li>Create a Visitors and Residents diagram.</li>
+<li>Get a password manager.</li>
+<li>Use the <em>Terms of Service: Didn’t Read</em> website to look up each of the apps we will learn in this course.</li>
+<li>Write a reflection on digital literacies in your learning journal.</li>
+</ul>
+<blockquote class="blockquote">
+<p><strong>Notes:</strong></p>
+<ul>
+<li><em>You will be directed to complete these activities as they come up in the unit.</em></li>
+<li><em>The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.</em></li>
+<li><em>If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.</em></li>
+</ul>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Assessment</strong></p>
+<ul>
+<li><strong>Assignment 1: Learning Journal</strong> - submit after you have completed Units 1-3.</li>
+</ul>
+<blockquote class="blockquote">
+<p><em>See the Assessment section in Moodle for assignment details.</em></p>
+</blockquote>
+</div>
+</div>
+</div>
+</section>
+<section id="resources" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="resources">Resources</h3>
+<ul>
+<li>All resources will be provided online in the unit.</li>
+</ul>
+</section>
+<section id="activity-why-twu" class="level3" data-number="1.0.1">
+<h3 data-number="1.0.1" class="anchored" data-anchor-id="activity-why-twu"><span class="header-section-number">1.0.1</span> Activity: Why Twu?</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Before we dive in to some digital tools you may use in your academic studies at Trinity, let’s pause and think about what TWU means to you. Why did you choose TWU? What do you hope to achieve during your time here?</p>
+<p>To give you some idea of what life is like at TWU, and why people choose TWU, watch the following video: <a href="https://youtu.be/Xlqpgb_3cR4?feature=shared" target="_blank"><em>Discover Undergraduate Studies at Trinity Western University</em></a> <!-- Auto title, auto embed--></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/Xlqpgb_3cR4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p><strong>Questions to Consider</strong></p>
+<p>What do you think? Consider the following prompts:</p>
+<ul>
+<li>I’m excited to join the TWU community because …</li>
+<li>I have questions about TWU: …</li>
+<li>I am confident that …</li>
+<li>I am concerned about …</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="activity-join-the-hub" class="level3" data-number="1.0.2">
+<h3 data-number="1.0.2" class="anchored" data-anchor-id="activity-join-the-hub"><span class="header-section-number">1.0.2</span> Activity: Join the Hub!</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Head over to <a href="https://twu.discourse.group" target="_blank">the Learning Hub</a>, which is an app called <em>Discourse</em> that we use to build community among learners in online courses. Find the <em>Leadership 101</em> category and respond to the <em>Welcome</em> forum. As you introduce yourself, share your thoughts and questions you have about TWU.</p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="learning-online" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="learning-online"><span class="header-section-number">1.1</span> Learning Online</h2>
+<p>In face-to-face teaching environments, the requirement to physically attend class, coupled with community accountability, makes a learner’s individual learning skills less relevant for academic success. However, when learning online there is less instructor oversight, motivation, and accountability, requiring the student to have the skills required to learn effectively. While a face-to-face instructor may notice that their student is absent, confused, or falling behind, and will check in on their well-being and offer support for their success, an online instructor often has less opportunity to do this. The learner is therefore required to have strong learning skills, recognize their responsibility as a self-directed learner, and practice these skills accordingly.</p>
+<p>Online learning requires additional skills differing from face-to-face learning, and since online learning is often self-paced, an absence of these skills will make a student’s learning experience difficult. These skills include:</p>
+<blockquote class="blockquote">
+<ul>
+<li>Time management (i.e.&nbsp;effectively managing deadlines, schedules)</li>
+<li>Organization (i.e.&nbsp;creating a dedicated study space, ability to easily access material)</li>
+<li>Self-motivation (i.e.&nbsp;scheduling set times for coursework, peer study accountability)</li>
+<li>Self-regulation (i.e.&nbsp;strategies can include breaks, physical activity, meditation)</li>
+<li>Strong written and oral communication (i.e.&nbsp;technical writing skills, ability to communicate with others and ask for assistance if needed) <span class="citation" data-cites="crozierLearningLearnOnline2020">(<a href="references.html#ref-crozierLearningLearnOnline2020" role="doc-biblioref">Crozier &amp; Lake, 2020</a>)</span></li>
+</ul>
+</blockquote>
+<!-- @cmadland - since half of this course is from LIDA courses...how should we cite chunks of content copied/modified. e.g. the above2 paragraphs come from bc campus. Should we be more explicit? e.g.: > Modified from [Learning to Learn Online](https://pressbooks.bccampus.ca/learningtolearnonlinereview/chapter/learning-skills/){target="_blank"}. -->
+<p>Here are a couple more ways you can hone your online learning skills:</p>
+<ol type="1">
+<li><strong>Active Participation:</strong> Actively engage in online discussions, forums, and virtual class sessions to enhance your understanding and connect with peers.</li>
+<li><strong>Regular Communication with Instructors:</strong> Establish clear lines of communication with instructors, seeking clarification when needed and participating in office hours or virtual meetings.</li>
+<li><strong>Utilize Online Resources:</strong> Take advantage of digital resources provided by the university, including online libraries, research databases, and academic support services.</li>
+<li><strong>Tech Preparedness:</strong> Ensure your computer and internet connection are reliable, and familiarize yourself with the required software tools for the course.</li>
+<li><strong>Active Reading and Note-Taking:</strong> Develop effective reading strategies and take concise notes to enhance comprehension and retain key information.</li>
+<li><strong>Collaborate with Peers:</strong> Foster virtual collaboration with classmates through group projects, study groups, and peer discussions to enrich your learning experience.</li>
+<li><strong>Regular Self-Assessment:</strong> Reflect on your progress regularly, assess your understanding of the material, and adjust your study strategies accordingly.</li>
+</ol>
+<p>Remember, flexibility and adaptability are key in the online learning environment. Tailor these tips to your individual needs and the specific requirements of your courses. Note also that you will have opportunities to practice these skills throughout the course.</p>
+<p>Here is some additional advice from TWU students. Watch <a href="https://vimeo.com/493206161" target="_blank">Learning Online: Student Tips for Success</a>.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://player.vimeo.com/video/493206161" frameborder="0" title="" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="activity-learning-online-effectively" class="level3" data-number="1.1.1">
+<h3 data-number="1.1.1" class="anchored" data-anchor-id="activity-learning-online-effectively"><span class="header-section-number">1.1.1</span> Activity: Learning Online Effectively</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>There are thousands of websites that offer ‘Tips for online learning’, or ‘How to succeed in your online class’ advice, and some of those sites are good (see <a href="https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/" target="_blank">here</a>, <a href="https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html" target="_blank">here</a>, <a href="https://online.umn.edu/story/15-tips-succeed-online-class" target="_blank">here</a>, and <a href="https://www.trentu.ca/online/student-support/be-a-successful-online-learner" target="_blank">here</a> ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the Liberated Learner project, which was created primarily by Ontario university and college students like you. There are four main sections in the Liberated Learner resource, and we will explore ‘The Learner’ in this activity.</p>
+<p>Take some time to work through <a href="https://ecampusontario.pressbooks.pub/learner/part/learner/" target="_blank">The Learner</a>. There are activities that you can complete, and they are for your reflections.</p>
+<p><strong>Questions to Consider</strong></p>
+<p>Having worked through <em>The Learner</em>, consider the ideas you think would be most beneficial for your online studies. To record your thoughts, you could create a list of your Top Ten Study Tips for Online Learning, or maybe write a message to a friend or sibling who is considering attending TWU next year. Following this, reflect on how you can work to ensure your own success in your online courses. What are your goals, and what specific steps will you take to achieve them?</p>
+</div>
+</div>
+</div>
+</section>
+<section id="activity-online-discussions" class="level3" data-number="1.1.2">
+<h3 data-number="1.1.2" class="anchored" data-anchor-id="activity-online-discussions"><span class="header-section-number">1.1.2</span> Activity: Online Discussions</h3>
+<p>Participating in discussions with your peers, what higher education folks like to call <em>discourse</em> (a verb), is an essential aspect of effective online courses, facilitated through platforms such as Moodle discussion forums, WordPress blogs, Discourse (a noun referring to the app called Discourse) posts, and others. We all know that discussion forums can sometimes be tedious, especially when they are assessed the same way a formal paper is assessed. However, the benefits of using asynchronous technologies (where your interactions with others are time-delayed) in well-designed activities can be significant.</p>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Here is an article, by Galikyan and Admiraal <span class="citation" data-cites="galikyanStudentsEngagementAsynchronous2019">(<a href="references.html#ref-galikyanStudentsEngagementAsynchronous2019" role="doc-biblioref">2019</a>)</span>, for you to read that will introduce you to some key ideas about discussion forums.</p>
+<p>Galikyan, I., &amp; Admiraal, W. (2019). <a href="https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=edselp&amp;AN=S1096751619304105&amp;site=eds-live&amp;scope=site" target="_blank">Students’ engagement in asynchronous online discussion: The relationship between cognitive presence, learner prominence, and academic performance.</a> <em>The Internet and Higher Education,</em> 43, 100692.</p>
+<!-- This link didn't work for me. [https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#){target="_blank"} checking if the permalink will work now. -->
+<p>Note: You may need to sign in to the TWU library to access this article. <a href="https://libguides.twu.ca/help" target="_blank">You can find help here.</a></p>
+<p><strong><em>Write while you read!</em></strong></p>
+<ul>
+<li>first of all, don’t get too bogged down in the ‘Method’ section of this article, but carefully read sections 1, 2, 4, 5, 6, and the Appendix.</li>
+<li>while you read, jot down some notes, either in a notebook on paper, or in a file on your computer.</li>
+<li>once you are done, write a 2-3 sentence summary <strong><em>in your own words</em></strong> of the article and how it relates to you and your experience.</li>
+<li>do not hesitate to look up words that you don’t understand, and include the definitions in your notes.</li>
+<li>include at least one question that you have about the article in your notes.</li>
+</ul>
+</div>
+</div>
+</div>
+<section id="discussion-guidelines-for-ldrs-101" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="discussion-guidelines-for-ldrs-101">Discussion Guidelines for Ldrs 101</h4>
+<p>In this course, we will ask you to discuss ideas with your peers via Discourse, WordPress and other social media platforms. These discussions are <strong><em>ungraded</em></strong> and are an important part of your assignments in this course. Consider for example, two course learning outcomes that relate to online discussions:</p>
+<ul>
+<li>Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.</li>
+<li>Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.</li>
+</ul>
+<p>Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).</p>
+<p>In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don’t need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, if I wanted to cite an idea from the article in the previous activity, it would look like the following (<a href="https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&amp;sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&amp;bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#" target="_blank">Galikyan &amp; Admiraal, 2019</a>), and at the bottom of the post, I would include a ‘References’ heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). <a href="https://apastyle.apa.org/style-grammar-guidelines" target="_blank">Please consult the APAStyle website for the essentials</a>.</p>
+<p>It is <strong><em>highly</em></strong> recommended<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> that you begin using a reference manager, and we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but <a href="https://www.zotero.org/" target="_blank">if you want to get started, you can download Zotero for free.</a></p>
+<p>In short, similar to a live classroom discussion, you need to be polite and professional, and you need to provide evidence for your views, but, like in a normal conversation, you won’t have all of the formalities of academic writing. In LDRS 101, you should consider your forum posts as a time to practice and test your ideas. The stakes are very low, so it is fine to make mistakes.</p>
+<p>In online discussion forums, learners are encouraged to respond <em>substantively</em>. What does this mean?</p>
+<p>Substantive responses may include:</p>
+<ul>
+<li>Providing a new thought, idea, or perspective;</li>
+<li>Citing an experience or example of what we are learning;</li>
+<li>Adding a new twist on a perspective;</li>
+<li>Critically thinking about an idea/concept;</li>
+<li>Questioning or challenging a principle/perspective;</li>
+<li>Asking a question or making a comment that shows you are interested in what another person says or encourages another person to elaborate on something they have already said;</li>
+<li>Sharing a resource (a reading, web link, video) not covered in the syllabus that adds new information or perspectives to our learning;</li>
+<li>Making a comment that underscores the link between two people’s contributions and making this link explicit in your comment. Or making a summary observation that takes into account several people’s contributions and that touches on a recurring theme in the discussion.</li>
+</ul>
+<p>What Substantive Participation is NOT:</p>
+<ul>
+<li>Very basic comments such as “I agree” or “I disagree;”</li>
+<li>Restating what has been said (unless there is a direct purpose in doing so);</li>
+<li>Disrespectfully disagreeing;</li>
+<li>Pat answers that are not thought-provoking or do not move the dialogue forward;</li>
+</ul>
+<p>Below are examples of how to stimulate your own and others’ thinking:</p>
+<ul>
+<li>What would happen if…</li>
+<li>Other times it may be helpful to…</li>
+<li>It is my understanding…what is your experience with this?</li>
+<li>You might approach this from…</li>
+<li>Is it possible that…</li>
+<li>Would you consider…</li>
+<li>Maybe…</li>
+<li>Possibly…</li>
+<li>Sometimes…</li>
+<li>I’m wondering if…</li>
+<li>Do you think…</li>
+</ul>
+<p>For more on substantive participation, read <a href="https://apuedge.com/writing-a-substantive-discussion-post-for-an-online-class-forum/" target="_blank">Writing A Substantive Discussion Post for An Online Class Forum</a>.</p>
+</section>
+</section>
+<section id="activity-start-a-conversation" class="level3" data-number="1.1.3">
+<h3 data-number="1.1.3" class="anchored" data-anchor-id="activity-start-a-conversation"><span class="header-section-number">1.1.3</span> Activity: Start a Conversation!</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Head over to <a href="https://twu.discourse.group" target="_blank">the Learning Hub</a> on <em>Discourse</em> and find the <em>Leadership 101</em> category. Start a conversation about one of the following (or something else relevant):</p>
+<ul>
+<li>something that has interested you about learning online.</li>
+<li>your goals for your academic studies.</li>
+<li>How will you stay motivated in this course?</li>
+<li>What digital literacy skills do you hope to gain, and how will those benefit you in your academic and professional career?</li>
+<li>a ‘Wow’ and a ‘Wonder’ about online learning.</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="understanding-the-digital" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="understanding-the-digital"><span class="header-section-number">1.2</span> Understanding the Digital</h2>
+<p>Our next topic is an introduction to the idea of <em>the digital</em>. You may recognize that digital tools are deeply embedded in modern society. It is not uncommon for people of all ages to interact with apps and tools that claim to connect people in conversations or networks, or to perform complex tasks for work, or to control various systems in our vehicles. Digital technology is really everywhere we look. Thinking about these tools is one way to conceptualize how we interact with digital tools, but we can also recognize that our social practices and norms have been impacted by digital tools. An example of this, at least in North America, is that the names of companies have become verbs. If people want to learn something about a topic, they <em>Google</em> it. Mobile phones are often essential tools for communication, social media, internet browsing, messaging, entertainment, photography, navigation, online shopping, mobile banking, productivity, two-factor authentication for some websites, and health and fitness management. In other cases, such as in social media, it is almost impossible to participate in public discourse without access to technology.</p>
+<p>Modern universities are also deeply impacted by <em>the digital</em>. Every system involved in higher education has been digitized in some manner, including recruitment, accounting, and fundraising. As you begin your university career, here are some digital systems you will likely encounter:</p>
+<ul>
+<li>courses are designed and often delivered digitally,</li>
+<li>course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE) (e.g.&nbsp;Moodle),</li>
+<li>assignments must often be created digitally (word processors, presentation software, video editors, website builders),</li>
+<li>research data is gathered, stored, analyzed, and shared digitally.</li>
+</ul>
+<p>There are many other processes and procedures that rely on <em>the digital</em> in higher education, but the important thing for you to realize as you begin your higher education journey is that there are many tools that you will be required to learn and use throughout your journey. Some are more obvious, like word processors, presentation software, email, the library website, and LMSs, but some are less obvious and won’t necessarily be taught specifically, other than in this course.</p>
+<p>Some of the digital tools we will introduce to you will help you build a <em>workflow</em> for you to manage the huge amount of information and resources that you will have to sort through to complete many of your assignments. You will learn to use AI to find <em>relevant</em> resources on whatever your topic might be. As you know from searching Google, a simple search of the web can turn up thousands or millions of hits, but there are tools that can help you highlight the 20 most relevant resources in just a few clicks. Once you find resources, we will show you tools that will allow you to track all your references, create citations in your writing quickly and easily, and then create a perfectly formatted reference list. Do not waste your time creating your own bibliographies! This one tool will save you days and likely weeks of work during your degree (quite literally). We will show you another tool that will allow you to make connections between ideas and notes so that you build a network of connected ideas. Curating this network of ideas is possibly one of the most useful things you can do in higher ed.&nbsp;You will end up with a searchable network of everything you’ve learned, and be able to visualize it at the click of a button. We will help you think through the implications of how you present yourself on the web so that you can make wise decisions about what you share and how you share it. We will also help you make connections on the web that could become a key resource for your learning and working in your career.</p>
+</section>
+<section id="digital-literacies" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="digital-literacies"><span class="header-section-number">1.3</span> Digital Literacies</h2>
+<blockquote class="blockquote">
+<p>Digital literacy is a person’s knowledge, skills, and abilities for using digital tools ethically, effectively, and within a variety of contexts in order to access, interpret, and evaluate information, as well as to create, construct new knowledge, and communicate with others. From <a href="https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/digital_learning_strategy.pdf" target="_blank">B.C.’s Post-Secondary Digital Learning Strategy</a></p>
+</blockquote>
+<p>Literacy, as we commonly understand it, is the ability to <em>understand</em> the meaning of texts. It is more than just being able to ‘read’. In the same way, digital literacy is the ability to make meaning using digital tools. It is more than simply being able to post to Instagram or TikTok, or whatever app you might use. As the definition above indicates, digital literacy involves using tools <em>ethically</em>, to <em>access, interpret, evaluate, create, construct, and communicate</em> information and knowledge.</p>
+<blockquote class="blockquote">
+<p>“In today’s world, being literate requires much, much more than the traditional literacy of yesterday.” —Rebecca Alber</p>
+</blockquote>
+<p>What digital tools do you use to help you make meaning? What is your “go-to” app for note-taking, organizing files, tracking references, and connecting ideas? One valuable tool we are going to show you is called Obsidian, a free note-taking and mind-mapping app. Before you go through the instructions in the activity below, watch the following video <a href="https://www.youtube.com/watch?v=d2FNqEDGc8g" target="_blank">This is Obsidian</a>.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/d2FNqEDGc8g" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<section id="activity-getting-started-with-obsidian" class="level3" data-number="1.3.1">
+<h3 data-number="1.3.1" class="anchored" data-anchor-id="activity-getting-started-with-obsidian"><span class="header-section-number">1.3.1</span> Activity: Getting Started With Obsidian</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Follow the steps below to install Obsidian on your computer.</p>
+<ol type="1">
+<li>Go to <a href="https://obsidian.md/download" target="_blank">obsidian.md</a> and <a href="https://help.obsidian.md/Getting+started/Download+and+install+Obsidian" target="_blank">follow these instructions to install Obsidian on your computer.</a>
+<ul>
+<li>It is recommended that you use a computer, rather than a mobile phone to install Obsidian, but please let your instructor or facilitator know if you are on mobile.</li>
+<li>You do NOT need to purchase any upgrades such as <strong>Obsidian Sync</strong> or <strong>Obsidian Publish</strong>.</li>
+</ul></li>
+<li>Work through the <strong>Getting Started</strong> section of the Obsidian help pages starting with <strong><a href="https://help.obsidian.md/Getting+started/Create+a+vault" target="_blank">Create a vault</a></strong>.
+<ul>
+<li>When you create the vault in this step, we recommend that you name it <strong>TWU</strong> or something similar. Later, you can create as many vaults as you would like.</li>
+</ul></li>
+<li>It is recommended that you <a href="https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices" target="_blank">use one of the sync services listed here</a> so that your files are backed up.</li>
+</ol>
+<p>If you are having any difficulty in installing Obsidian, feel free to reach out for support on <a href="https://twu.discourse.group/c/ldrs101/10" target="_blank">the Learning Hub</a>. There are also several tutorials and videos online, so you are encouraged to seek out these resources. One example is <a href="https://www.youtube.com/watch?v=QgbLb6QCK88" target="_blank">Obsidian for Beginners: Start HERE — How to Use the Obsidian App for Notes</a>. The first minute shows how to set up Obsidian…and if you’d like a sneak peek at the amazing features this tool has to offer, watch on! We’ll get to these additional uses of Obsidian later in the course.</p>
+</div>
+</div>
+</div>
+<p>Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than <em>the cloud</em>, which is just another way of saying <em>someone else’s computer</em>. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. <a href="https://twu.discourse.group/c/ldrs101/10" target="_blank">Please check the Learning Hub</a> or talk your your instructor or facilitator for help with this.</p>
+</section>
+<section id="activity-download-the-starter-vault" class="level3" data-number="1.3.2">
+<h3 data-number="1.3.2" class="anchored" data-anchor-id="activity-download-the-starter-vault"><span class="header-section-number">1.3.2</span> Activity: Download the Starter Vault</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>To give you a head start, we have created a <strong>starter vault</strong> for you to download and use. Follow the instructions below to access the starter vault.</p>
+<ol type="1">
+<li><a href="https://github.com/twu-innovation/ldrs101-vault/archive/refs/heads/main.zip" target="_blank">Click this link to download the vault.</a>
+<ul>
+<li>This will download a file called <code>ldrs101-vault-main.zip</code> to your computer.</li>
+<li>The <code>.zip</code> extension means that this is a compressed file and it contains multiple other files inside.</li>
+</ul></li>
+<li>Move the compressed file to your <code>Documents</code> folder.</li>
+<li>Unzip or extract the contents of the file. You should see a list of files similar to the image below.</li>
+</ol>
+<div id="fig-vaultxcontents" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot of the contents of the extracted files." data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-vaultxcontents-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1.1: Screenshot of the contents of the extracted files.
+</figcaption>
+<div aria-describedby="fig-vaultxcontents-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="assets/u1/vault-contents.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1.1: Screenshot of the contents of the extracted files."><img src="assets/u1/vault-contents.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Screenshot of the contents of the extracted files."></a>
+</div>
+</figure>
+</div>
+<ol start="4" type="1">
+<li>Rename the folder to <code>ldrs101-[firstname-lastname]</code> (use all lowercase letters and a dash instead of spaces).</li>
+<li>Open the <strong>Obsidian</strong> app and click the <code>Open another vault</code> icon in the bottom left corner.</li>
+</ol>
+<div id="fig-obsidian2" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="screenshot of the 'open another vault' button" data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-obsidian2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1.2: screenshot of the ‘open another vault’ button
+</figcaption>
+<div aria-describedby="fig-obsidian2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="assets/u1/obsidian2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Figure&nbsp;1.2: screenshot of the ‘open another vault’ button"><img src="assets/u1/obsidian2.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="screenshot of the 'open another vault' button"></a>
+</div>
+</figure>
+</div>
+<ol start="6" type="1">
+<li>Choose the <code>ldrs101-[firstame-lastname]</code> folder, and then Obsidian will ask you to trust this vault. Click ‘Trust author and enable plugins’.</li>
+<li>Once you are in the vault, feel free to take a look around. You will notice a <code>HOME</code> page, a <code>Tools</code> folder with some files in it, and a <code>VR Diagram Canvas</code>.</li>
+</ol>
+</div>
+</div>
+</div>
+<p>Now that you have a place to record your course notes, let’s jump back into the discussion about digital literacy. Traditionally, literacy was about speaking, listening, reading and writing. Literacy has taken on a much broader and complex meaning. Today there’s also digital literacy, media literacy, new literacy etc. In the activity below you are invited to reflect on how your literacies have changed, when compared to your parents and to speculate on new literacies the next generation of learners may need for the future.</p>
+</section>
+<section id="activity-reflection-on-the-21st-century-learner" class="level3" data-number="1.3.3">
+<h3 data-number="1.3.3" class="anchored" data-anchor-id="activity-reflection-on-the-21st-century-learner"><span class="header-section-number">1.3.3</span> Activity: Reflection on the 21st Century Learner</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>The following video, published by the MacArthur Foundation, questions how digital media are changing the way young people learn, play, socialize, and participate in civic life. John Seely Brown a researcher with particular interests in radical innovation and digital culture suggests that today’s gaming oriented children want to be measured and feel that if they are not learning, it is not fun. How does this relate to how you feel about learning?</p>
+<p>Watch the video and think about:</p>
+<ul>
+<li>What “literacy” skills have you acquired when compared to your parents?</li>
+<li>What “literacy” skills will be important for future learners in higher education?</li>
+</ul>
+<p><a href="https://www.youtube.com/watch?v=c0xa98cy-Rw" target="_blank">Watch: <em>Rethinking Learning: The 21st Century Learner | MacArthur Foundation</em></a> <!-- Auto title, auto embed--></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/c0xa98cy-Rw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Reflect on the following writing prompts:</p>
+<ul>
+<li>My parents did not need to …</li>
+<li>A new literacy I acquired is the ability to …</li>
+<li>Higher education students of the future will need to …</li>
+<li>… is an important 21st century skill for future employment</li>
+</ul>
+<p>To complete this activity, click ‘Open Today’s Daily Note’ in your Obsidian vault and write your reflections.</p>
+<div id="fig-tdn" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot of where to find 'Open Today's Daily Note'" data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-tdn-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1.3: Screenshot of where to find ‘Open Today’s Daily Note’
+</figcaption>
+<div aria-describedby="fig-tdn-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="assets/u1/tdn.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Figure&nbsp;1.3: Screenshot of where to find ‘Open Today’s Daily Note’"><img src="assets/u1/tdn.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Screenshot of where to find 'Open Today's Daily Note'"></a>
+</div>
+</figure>
+</div>
+<ul>
+<li>Style your text using Markdown codes. <a href="https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax" target="_blank">Click here for the basic Markdown syntax.</a></li>
+<li>Feel free to add images and other media!</li>
+<li>Please make sure you add tags to your note. Suggested tags might be #digital-literacy #ldrs101 #macarthur-foundation #john-seely-brown.</li>
+</ul>
+<p>Notice that tags start with a hashtag and contain no spaces. Separate words with a hyphen.</p>
+</div>
+</div>
+</div>
+<p>Let’s dive a little deeper into this topic of digital literacy. What is it? How would you define digital literacy?</p>
+<p>In the next activity, you will start to unpack this term and prepare your own initial definition of digital literacy.</p>
+</section>
+<section id="activity-definining-digital-literacy" class="level3" data-number="1.3.4">
+<h3 data-number="1.3.4" class="anchored" data-anchor-id="activity-definining-digital-literacy"><span class="header-section-number">1.3.4</span> Activity: Definining Digital Literacy</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Let’s take a look at the definitions of digital literacy and digital skills on the web and identify the difference. Follow the steps below and feel free to jot down some notes in your Obsidian journal. If you are completing this activity on a new day, create a new daily note.</p>
+<ol type="1">
+<li>Read Wikipedia’s definition of <a href="https://en.wikipedia.org/wiki/Digital_literacy" target="_blank">Digital literacy</a> – Is this a good description?</li>
+<li>Scan the <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03" target="_blank">#diglit</a> hashtag on X (Twitter) – Did you find any valuable links to defining digital literacy?</li>
+<li>Conduct a Google search for “digital literacy.” Select a few definitions you like and record the urls, for example by adding these to your browser bookmarks.</li>
+<li>Conduct a Google search for “digital skills.” Select one or two definitions you like and record the urls.</li>
+<li>Conduct a Google search for “digital fluency” Select one or two definitions.</li>
+<li>What are the differences between digital literacies, digital fluency, and digital skills? How are these concepts related?</li>
+<li>Read: <a href="http://pomo.com.au/blog/digital-literacy/" target="_blank">What is digital literacy?</a> published by POMO – Is this a reliable source?</li>
+<li>How would you rate the academic quality of the definitions you found (e.g.&nbsp;low / high quality)?</li>
+<li>What did you discover?</li>
+</ol>
+<p>Share your thoughts and experiences by posting on the LDRS 101 Discourse chat. For example:</p>
+<ul>
+<li>The major difference between digital skills and literacies is …</li>
+<li>I didn’t realise that …</li>
+<li>For me, digital literacy means …”</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="digital-literacies-skills" class="level3" data-number="1.3.5">
+<h3 data-number="1.3.5" class="anchored" data-anchor-id="digital-literacies-skills"><span class="header-section-number">1.3.5</span> Digital Literacies &amp; Skills</h3>
+<p>Digital literacies for academic learning involves more than Facebook, Snapchat or X (Twitter) and the associated technical skills in using these technologies.</p>
+<p>As you explore the concept, you will find online resources which confuse digital skills with digital literacies. The activities which follow aim to provide an initial introduction to the wide range of digital literacies associated with academic learning. We will explore the concept of digital literacies in greater depth as we progress with the course. When exploring these online resources, we encourage you to differentiate between skills and literacies and to develop a critical disposition. Digtial literacies involve issues, norms, and habits of mind surrounding technologies used for a particular purpose. However, these literacies are closely related to technical proficiency in using a range of digital applications.</p>
+</section>
+<section id="activity-what-are-digital-literacies" class="level3" data-number="1.3.6">
+<h3 data-number="1.3.6" class="anchored" data-anchor-id="activity-what-are-digital-literacies"><span class="header-section-number">1.3.6</span> Activity: What Are Digital Literacies?</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Watch educator and researcher Doug Belsahw as he discusses his digital literacies framework: <a href="https://www.youtube.com/watch?v=A8yQPoTcZ78" target="_blank">Watch: <em>The essential elements of digital literacies: Doug Belshaw at TEDxWarwick</em></a> <!-- Auto title, auto embed--></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/A8yQPoTcZ78" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Next, read <a href="https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf" target="_blank">Quick guide - Developing students’ digital literacy</a></p>
+<p>The JISC guide defines digital literacies as “those capabilities which fit an individual for living, learning and working in a digital society”. Furthermore, this report distinguishes between seven types of digital literacies:</p>
+<div id="fig-7xdigitalxliteracyxelements" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Career Ready Framework" data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-7xdigitalxliteracyxelements-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1.4: Career Ready Framework
+</figcaption>
+<div aria-describedby="fig-7xdigitalxliteracyxelements-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="assets/u1/7-digital-literacy-elements.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Figure&nbsp;1.4: Career Ready Framework"><img src="assets/u1/7-digital-literacy-elements.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Career Ready Framework"></a>
+</div>
+</figure>
+</div>
+<!-- @cmadland can we have a click to enlarge feature for this graphic? -->
+<p>Do you agree that these are the key literacies you need to live, learn and work in today’s society? What would you add?</p>
+<p>Conduct a quick Google search for “digital literacies” and throw in terms such as “essential”, “top”, “21st century”. What other literacies or skills are emphasized? What would your list be for digital literacies that are important for you?</p>
+</div>
+</div>
+</div>
+</section>
+<section id="activity-why-digital-literacy-matters" class="level3" data-number="1.3.7">
+<h3 data-number="1.3.7" class="anchored" data-anchor-id="activity-why-digital-literacy-matters"><span class="header-section-number">1.3.7</span> Activity: Why Digital Literacy Matters</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>A key component of digital literacy and networked learning relates to the ability to engage meaningfully in online learning communities.</p>
+<p>This learning activity will provide you with another opportunity to connect with your peers in Discourse and contribute to online learning discussions.</p>
+<p>Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.</p>
+<p>Watch: <a href="https://www.youtube.com/watch?v=p2k3C-iB88w" target="_blank">Watch: <em>Digital literacy and why it matters</em></a> <!-- Auto title, auto embed--></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/p2k3C-iB88w" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>Next, go to the LDRS 101 section in Discourse. Post a contribution to the discussion on digital literacies and why they are important for you. Try to post one or two replies to interesting contributions. (You should also “like” good contributions, use the person’s username when replying, and if appropriate quote a reply when responding.)</p>
+</div>
+</div>
+</div>
+</section>
+<section id="activity-am-i-digitally-literate" class="level3" data-number="1.3.8">
+<h3 data-number="1.3.8" class="anchored" data-anchor-id="activity-am-i-digitally-literate"><span class="header-section-number">1.3.8</span> Activity: Am I Digitally Literate?</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Digital literacies encompasses a wide range of capabilities which extend beyond the digital skills associated with different technologies.</p>
+<ol type="1">
+<li>Consider the digital literacies you identified from the previous activity.</li>
+<li>Jot down one or more technologies or tools you would recommend for each of the skills and assess your competence in using each particular technology/tool (e.g.&nbsp;below average, average, above average and excellent).</li>
+<li>Next, use your searching skills to discover online tests for assessing your digital literacies (Don’t spend more than 15 to 20 minutes on the self-assessment activity).
+<ul>
+<li>Conduct a Google search using: “digital literacy self-assessment”</li>
+<li>Choose a link to conduct a self-assessment of your digital literacy.</li>
+</ul></li>
+</ol>
+<p><strong>Alternatively, you can choose from these resources:</strong> - Take the <a href="https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/" target="_blank">Digital Literacy Self-Assessment</a> from the Canadian Association for Supported Employment <strong>or</strong> - Use the <a href="https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/" target="_blank">Digital Literacy Self-Assessment Tool</a> from the Digital Literacy Guide. - Explore the <em>What is digital literacy?</em> page of the <a href="https://www.elanguages.ac.uk/digital_literacies_toolkit.php" target="_blank">Digital Literacies Toolkit</a> developed by the University of Southampton.</p>
+<p><strong>Questions to Consider</strong></p>
+<ul>
+<li>Did the self-assessment you chose focus on digital skills or digital literacies?</li>
+<li>What did you learn from this exercise?</li>
+<li>Share your thoughts by posting on Discourse:</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="visitors-and-residents" class="level3" data-number="1.3.9">
+<h3 data-number="1.3.9" class="anchored" data-anchor-id="visitors-and-residents"><span class="header-section-number">1.3.9</span> Visitors and Residents</h3>
+<p>One way to start thinking about digital literacy is to create a map of the apps and tools that you use, how you use them, and what traces of your presence you leave behind on the web. We call this a <em>Visitors and Residents Diagram</em>. To complete this activity, we’ll first discuss some key concepts.</p>
+<p>Have you encountered the terms ‘digital natives’ and ‘digital immigrants’? What are your initial thoughts on their definitions?</p>
+<!-- Thinking of a high school, first year uni student... they may not have encountered this conversation. It is likely that you have encountered and may believe that there is a distinction between digital 'natives' and 'immigrants'. also changing *kids these days* below and "those of us whose formative years pre-date the advent of the internet" -->
+<div class="callout callout-style-simple callout-important no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Note: <a href="https://marcprensky.com/" target="_blank">Marc Prensky</a> coined the terms ‘digital natives’ and ‘digital immigrants’. We recognize that the term ‘native’ should not be used to talk about people.</p>
+</div>
+</div>
+</div>
+<p>The essential argument is that certain generations have changed in that they have this innate ability to use and learn technology because they have grown up using technology, and those generations whose formative years pre-date the advent of the internet are forever at a disadvantage compared to <em>kids</em>. You can read a bit more about the idea on Wikipedia, linked below. There is also a link in that article to Prensky’s original article.</p>
+<p><a class="embedly-card" data-card-controls="0" href="https://en.wikipedia.org/wiki/Digital_native">Digital native</a></p>
+<script async="" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<p>Aside from the problematic framing of learners as kids, there are some distinct challenges with the idea of digital literacy being a fixed trait rather than a matter of comfort, familiarity, and a skill that can be practiced and learned. It is no secret that more young people are comfortable using social media apps like TikTok, Instagram, SnapChat, Weibo, WeChat, and the like, but this doesn’t imply a superior aptitude for learning technology compared to older generations or an inherent proficiency in doing so. For example, are most 1st-year university students proficient in using a spreadsheet to create a budget? If they have created a budget, it’s more likely they use an app than a spreadsheet.</p>
+<p>We’d like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a <em>visitor</em> in some web spaces and a <em>resident</em> in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don’t leave a public trace of your time there. You don’t spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.</p>
+<p>Alternately, there are places and spaces on the web, where <em>you</em> reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or X (formerly Twitter), or maybe it’s a blog, or social site. The important distinction is that these are places where you connect with other people; where you are socially <em>present</em>.</p>
+<p>At the same time, if we can imagine the visitor <span class="math inline">\(\leftrightarrow\)</span> resident continuum on a horizontal axis, there is also a personal <span class="math inline">\(\updownarrow\)</span> professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.</p>
+</section>
+<section id="activity-where-am-i-online" class="level3" data-number="1.3.10">
+<h3 data-number="1.3.10" class="anchored" data-anchor-id="activity-where-am-i-online"><span class="header-section-number">1.3.10</span> Activity: Where Am I Online?</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>The video below explains a process to help you think about where you reside on the web (7 mins).</p>
+<p><a href="https://www.youtube.com/watch?v=sPOG3iThmRI" target="_blank">Watch: <em>Visitors and Residents</em></a> <!-- Auto title, auto embed--></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/sPOG3iThmRI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p><strong>Questions to Consider</strong></p>
+<ul>
+<li>What surprised you as you watched the video?</li>
+<li>How can you apply the concepts presented to your experience in learning with technology?</li>
+</ul>
+<p>Feel free to jot down your notes in Obsidian.</p>
+</div>
+</div>
+</div>
+<p>Now to the task of creating your own <em>Visitors and Residents Diagram</em>.</p>
+<p>See the VR Diagram below…keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. Or perhaps your VR diagram has a plethora of tools you use regularly. The key idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about which tools you may have tried or are interested in pursuing. From there, we can begin to plan for tools we can use that afford us the opportunity to reside there.</p>
+<!-- original text: I've shared my VR Diagram below...keep in mind that this diagram represents a set of tools that I have been using for a decade or more and that I have invested my career in educational technology. There is a lot here, but yours might look significantly different with only a few tools here and there. The main thing I would like to communicate with this idea of visitors and residents is for you to think about which technologies you use as a resident, and then to think about where your learners reside on the web. From there, we can begin to plan for tools we can use that afford us and our learners the opportunity to reside there. @cmadland- this last part should be rewritten. What's the purpose in this diagram for 1st year students? We need more explicit connections to why this map is important and what it could mean for them starting out at TWU. -->
+<div id="fig-vrxdiagramx2" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Visitor-Resident Diagram" data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-vrxdiagramx2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1.5: Visitor-Resident Diagram
+</figcaption>
+<div aria-describedby="fig-vrxdiagramx2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="assets/u1/vr-diagram-2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Figure&nbsp;1.5: Visitor-Resident Diagram"><img src="assets/u1/vr-diagram-2.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Visitor-Resident Diagram"></a>
+</div>
+</figure>
+</div>
+<p>It is certainly notable that I am very much a visitor in Moodle! This does not mean that I don’t spend much time there, I spend a significant portion of every day working in Moodle, rather, the work that I do there leaves very little trace of my personality. You will (hopefully) see Moodle as much more of a place where you reside. But this foregrounds the question of whether Moodle is actually designed to promote residencies. Certainly the forums allow for users to project their persona into the system, as do a few of the other features, but the system itself is very heavily templated. There are profiles that can be edited, but users are limited to one very tiny image and virtually no opportunity to determine for themselves what they want to share. There is little room for customization, and every time a course ends, every single user must recreate their persona in a new course site (or five).</p>
+<p>For many university students, a Learning Management System (LMS) like Moodle is a perfectly reasonable place to reside and they feel comfortable accessing course materials, finding their grades, communicating with classmates, etc. And just like our physical homes, the quality of the community that lives there isn’t determined by the features of the house itself, but by the people who share the space and how they structure their time and interactions.</p>
+<!-- original text: For many, or most, of you, Moodle is a perfectly reasonable place to reside and you are able to make learners feel at home there. We encourage that. And just like our physical homes, the quality of the community that lives there isn't determined by the features of the house itself, but by the people who share the space and how they structure their time and interactions. deleting - focused on facilitators If you don't already, I encourage you to subscribe to this excellent podcast called *Teaching in Higher Ed* by [Bonni Stachowiak](https://twitter.com/bonni208){target="_blank"}, or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents. <a class="embedly-card" data-card-controls="0" href="https://teachinginhighered.com/podcast/digital-visitors-and-residents/">Digital Visitors and Residents, with David White - Teaching in Higher Ed</a> <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script> deleting - focused on facilitators Read the following blog post which I believe provides a fitting summary of this particular unit. <a class="embedly-card" data-card-controls="0" href="https://www.seanmichaelmorris.com/technology-is-not-pedagogy/">Technology is not Pedagogy</a> <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script> -->
+</section>
+<section id="activity-visitor-and-resident-diagram" class="level3" data-number="1.3.11">
+<h3 data-number="1.3.11" class="anchored" data-anchor-id="activity-visitor-and-resident-diagram"><span class="header-section-number">1.3.11</span> Activity: Visitor and Resident Diagram</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with each other. Do the tools you use fall on the visitor or the resident end of your continuum? How do these tools impact your learning?</p>
+<ul>
+<li><strong>Read</strong> <a href="https://firstmonday.org/ojs/index.php/fm/article/view/3171" target="_blank">Visitors and Residents: A new typology for online engagement</a></li>
+<li>Create a new ‘Canvas’ in your Obsidian vault and create your own <strong><em>Visitor/Resident</em></strong> map. We have created a sample VR Diagram in the vault.</li>
+</ul>
+<blockquote class="blockquote">
+<p><strong><em>Note:</em></strong> <em>This VR diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.</em></p>
+</blockquote>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="digital-privacy-safety" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="digital-privacy-safety"><span class="header-section-number">1.4</span> Digital Privacy &amp; Safety</h2>
+<p>Now that you have assessed some of your digital skills or literacies, let’s focus our attention on privacy and safety. In this section we summarize important practices as a reminder to remain vigilant in protecting your privacy and security online. If you are unsure about good security practices, there are a wealth of online resources you can (and should) consult.</p>
+<section id="privacy" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="privacy">Privacy</h4>
+<p>Your privacy is fragile, easy to lose instantaneously, and difficult to retrieve in an environment that requires so much online interaction.</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Identity_theft" target="_blank"><strong>Identity theft</strong></a> happens, frequently.
+<ul>
+<li>Never put your social security number, your birthday, your mother’s maiden name, or any other personal facts, anywhere online. Everyone on the Internet will be able to access this information.</li>
+<li>Always assume that anything you write online (including email) can, and probably will, eventually leak. Keep your email address private – to avoid receiving spam. If your email is published in a plain form anywhere online, even if it is part of an archived email list, spammers will “harvest” it for their databases.</li>
+</ul></li>
+<li><strong>Spam email <a href="https://securelist.com/spam-report-2019/96527/" target="_blank">(at least half of all email being sent)</a></strong> – is an unfortunate fact of our modern lives.
+<ul>
+<li>If you must publish your email address online, consider creating a “sacrificial” email address, or one you only use to publish online. You can create an email “alias,” which you can set to automatically forward to your primary email, and easily disable if your spam volumes increases. Many email services will automatically generate random email addresses that you can use to hide your true address.</li>
+<li>Another approach is to avoid publishing the email address as something like <em>myname@somewebdomain.net</em>… Instead you might use more confusing text, such as myname-at-somewebdomain-net. Some websites support using these types of obfuscation methods, but the spammers who “scrape” email addresses from websites to populate their spam databases use increasingly sophisticated methods to defeat these methods.</li>
+<li>Basically, avoid publishing the email addresses you value online to decrease the amount of spam you receive.</li>
+</ul></li>
+</ul>
+</section>
+<section id="passwords" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="passwords">Passwords</h4>
+<p>What about passwords? Many people have just one, or maybe a few. Given the number of websites and web services which require password-based authentication, this is not good enough to avoid an identity disaster.</p>
+<p>The problem with having only a few passwords is that even resource-rich and security-critical organizations have <a href="https://gizmodo.com.au/2017/05/over-560-million-passwords-discovered-in-anonymous-online-database/" target="_blank">suffered massive leaks</a>. If even one of them suffers a data leak, identity thieves will obtain your password and try to use it on other websites. It is easy for them to do this using computer technologies.</p>
+<p>Other ways someone can get your password include:</p>
+<ul>
+<li>Sniffing traffic when you log into a non-secure website that uses http:// rather than https:// – the “s” stands for secure because your data transmission’s encrypted. Look for the Lock icon.png in your address bar.</li>
+<li>Sniffing emails – your email, unless encrypted, is not secure. Never send a login and password along with the web address of a service (similarly, don’t send credit card numbers).</li>
+<li><a href="https://en.wikipedia.org/wiki/Phishing" target="_blank">Phishing</a> attacks – where someone sends you an email that looks like it is from a trusted sender, such as from a friend, your bank, an online store you frequent, or a government agency, and they ask you to enter your password to confirm it. No one should ever ask you to enter your password via email.</li>
+<li>Always check the web address (hover over the link) to make sure it corresponds to the right place, or call the sender to confirm the request over the phone.</li>
+<li>Brute force – hackers often use computers to guess your password, beginning with a list of <a href="https://www.passwordrandom.com/most-popular-passwords" target="_blank">common passwords</a>, and try different combinations until they get it right, or until the system locks them out for trying too many times.</li>
+<li>“How secure is my password” sites – you should avoid these sites and never type your password into a website or email response that is not appropriate, especially when you know the sender also knows your email.</li>
+<li>Once your email and any password combination are known, identity thieves will try to use them at various websites, because they know most people only use a few passwords. A thief who discovers a password you created for a website you rarely use will try to compromise the security of a website that is important to you – such as your email system, your workplace, social media accounts, or bank account.</li>
+</ul>
+<p>Here is a table that shows how quickly passwords can be cracked using brute force methods. Note that the best passwords are both long and include a mix of numbers, lower-case and upper-case letters, and symbols.</p>
+<div id="fig-brute" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Hive’s report shows that passphrases with a mix of 18 uppercase and lowercase letters, numbers, and symbols are the most difficult to brute force. Image: Hive Systems" data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-brute-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1.6: Hive’s report shows that passphrases with a mix of 18 uppercase and lowercase letters, numbers, and symbols are the most difficult to brute force. Image: Hive Systems
+</figcaption>
+<div aria-describedby="fig-brute-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="assets/u1/brute.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Figure&nbsp;1.6: Hive’s report shows that passphrases with a mix of 18 uppercase and lowercase letters, numbers, and symbols are the most difficult to brute force. Image: Hive Systems"><img src="assets/u1/brute.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Hive’s report shows that passphrases with a mix of 18 uppercase and lowercase letters, numbers, and symbols are the most difficult to brute force. Image: Hive Systems"></a>
+</div>
+</figure>
+</div>
+<p>There are services you can use to check if your email is part of a leaked password data set. So, what can you do to protect yourself?</p>
+<p><strong>Password Managers</strong></p>
+<p>Get a <a href="https://en.wikipedia.org/wiki/Password_manager" target="_blank">password manager</a>. They are incredibly helpful and convenient now that many of us use several computers and mobile devices. Password managers help you manage your passwords.</p>
+<ul>
+<li>When you choose a password manager, make sure you create one <a href="https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/" target="_blank">strong password</a>, such as a full sentence with some numbers and special characters. This is all you need to remember – the password manager remembers the others. The ensures you generate a different, fully-random password for each website you use that requires a password.</li>
+<li>Good password managers only ever store your details in an encrypted form, where even the company that stores it cannot see your passwords. To access your passwords, you log into the password manager service using your single, strong password (via a secure web link – usually the default, but always check!).</li>
+<li>There are many <a href="https://www.google.co.nz/search?q=password+managers&amp;bshm=rimc/1" target="_blank">password manager options</a>. Some widely used proprietary options include <a href="https://www.lastpass.com/" target="_blank">Lastpass</a> and <a href="https://1password.com/" target="_blank">1password</a>. Open source options also exist, such as <a href="https://bitwarden.com/" target="_blank">Bitwarden</a>. Sadly, some of the most popular password managers have suffered from software bugs that have exposed user passwords.</li>
+</ul>
+</section>
+<section id="activity-get-a-password-manager" class="level3" data-number="1.4.1">
+<h3 data-number="1.4.1" class="anchored" data-anchor-id="activity-get-a-password-manager"><span class="header-section-number">1.4.1</span> Activity: Get a Password Manager</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>If you don’t already use a password manager, set up an account with <a href="https://www.lastpass.com/" target="_blank">Lastpass</a>, <a href="https://1password.com/" target="_blank">1password</a>, or the free password manager, <a href="https://bitwarden.com/" target="_blank">Bitwarden</a> to familiarize yourself with how password managers work.</p>
+<ol type="1">
+<li>Read the instructions in the article: “<a href="https://www.makeuseof.com/how-to-start-using-password-manager/" target="_blank"><em>How to Start Using a Password Manager</em></a>” published by Makeuseof.com</li>
+<li>Create an account on the password manager site and establish a Master Password. (Conduct an online search for advice on choosing a secure Master Password.)</li>
+<li>Install the browser extension for your local browser.</li>
+<li>Choose one of the TWU course websites and set up a new secure password using your password manager.</li>
+<li>Log out of the TWU course website, and log in again using the password manager.</li>
+<li>Install the mobile phone app for your operating system, and/or desktop application for your computer (optional). Synchronize the local app with your online vault.</li>
+<li>Consider using the Password manager for your online accounts so you can easily set up and maintain a unique password for each online account you use.</li>
+</ol>
+</div>
+</div>
+</div>
+<section id="good-messaging-hygiene" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="good-messaging-hygiene">Good Messaging Hygiene</h4>
+<p>Always assume that anyone can and will read anything you write in an email. Email is not a secure form of communication. Few people encrypt their email, because it is an extra step that even the most technically-inclined users are reluctant to take. Both sender and recipient have to be technically proficient.</p>
+<p>Text messages and instant messaging, such as Facebook messenger, are also insecure. Anyone, including government officials and the organization that runs the service, such as Facebook employees, can read it.</p>
+<p><strong>Secure your Own Privacy</strong></p>
+<p>Never send any sensitive data, such as your social security number, credit card number, password, or other personal information via email or text. Call the person to provide this information over the phone.</p>
+<p>You can use a secure, encrypted, text message service, such as Signal if necessary. It is available at no cost, works on most platforms, and encrypts text messages on your phone. If you text someone else with Signal installed, the entire transaction is encrypted.</p>
+<p><strong>Secure the Privacy of Others</strong></p>
+<p>Another element of good digital hygiene is to protect the identity of others. For example, never send group emails using To: or CC: (carbon copy) for each email address. You will reveal the email addresses for everyone on your list. This is especially problematic if you or another person saves the email message and displays it on the web, such as in a mailing list archive. This makes it easy for spammers and hackers to access and download all of those email addresses.</p>
+<p>Use BCC: (blind carbon copy), to hide the email addresses from your recipients, to protect everyone’s privacy. Use your own email address, and BCC the rest of the recipients, if your email software requires you to insert an email address into the To: box.</p>
+<p>When using an email mailing list, where you send messages to a single email address to a list of people, never CC: someone else in the same message. This will compromise the privacy of every CC’d recipient and the privacy of the list. Always check with the people on the list to ensure you are not taking unacceptable liberties.</p>
+<p>If someone asks you to share an email address of a friend or colleague, you should ask permission to share their email address, and state why the third party is requesting their email.</p>
+<p><strong>Be a Thoughtful Sceptic</strong></p>
+<p>So how can we protect ourselves if new threats are emerging all the time?</p>
+<ul>
+<li>Be conscious of where you put information that is “private” to you.</li>
+<li>Beware of the terms of service of social media providers, such as Facebook. Use a service like “<a href="https://tosdr.org/" target="_blank">TOSDR</a>” to help identify risky, overreaching services. You may be able to use certain privacy settings to protect your information.</li>
+<li>Always check the identity of a website before you enter any passwords or personal information. Secure certificates are generally trustworthy, but be sure check the names and details.</li>
+<li>Always ask whether you should trust a provider or a government agency. Always ask “who benefits when I do this?” What are their incentives?</li>
+<li>Protect your own data and be even more protective of others’ private information. For example, be cautious before posting information about yourself or someone else. Be especially cautious when posting pictures or videos of their children.</li>
+<li>Remember, complacency and unwarranted trust are your biggest enemies. A healthy paranoia is good for your digital health. Think about the great amount of time and effort it will take to regain your identity (and credit rating) if your information is compromised.</li>
+</ul>
+</section>
+</section>
+<section id="activity-tos-analysis" class="level3" data-number="1.4.2">
+<h3 data-number="1.4.2" class="anchored" data-anchor-id="activity-tos-analysis"><span class="header-section-number">1.4.2</span> Activity: Tos Analysis</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Use the <a href="https://tosdr.org/" target="_blank">Terms of Service: Didn’t Read</a> site to look up each of the apps we will learn in this course. Each tool currently has it’s own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own exampination of the ToS for each tool.</p>
+<p>Feel free to add components to the template.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="activity-introduction-to-the-reflective-journaling" class="level3" data-number="1.4.3">
+<h3 data-number="1.4.3" class="anchored" data-anchor-id="activity-introduction-to-the-reflective-journaling"><span class="header-section-number">1.4.3</span> Activity: Introduction To the Reflective Journaling</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>For the final activity of Unit 1 you will be asked to write a reflective journal entry in Obsidian on the topic of Digital Literacy. This entry can be used as part of <strong>Assignment 1: Learning Journal</strong>.</p>
+<p>Prior to completing this activity, let’s discuss the practice of writing in a Reflective Journal.</p>
+<p>A reflective journal is simply a record of your thoughts. It is a reflection of the way you think and the manner in which you respond to your learning. Journals can consist of traditional note taking, mind maps, pictures, stream-of-consciousness writing, recordings, quotes, sketches, or drawings: whatever you choose to include. Experiment and have fun. The purpose of journaling is to make you an active participant in your learning experiences as you engage in the various activities throughout the course’s readings, activities, and discussions. Reflecting upon these learning events will help you gain a deeper understanding of the course materials and help integrate your learning into applied practice in your everyday life and work. Throughout the course, we will remind you to write in your journal, as we want to be sure you are actively learning the material. To assist you, we have provided you with questions you can ask yourself in order to get your creative energies flowing. Reflective journaling is an activity you can and should complete on a regular or daily basis, even beyond the prompting in course activities.</p>
+<p>Watch the following video on how to write reflectively: <a href="https://www.youtube.com/watch?v=QoI67VeE3ds" target="_blank"><em>Reflective Writing</em></a> <!-- Auto title, auto embed--></p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/QoI67VeE3ds" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>As you continue your studies with TWU, you will likely be asked to write in a Reflective Journal, or submit a Reflective Essay. Here are some common questions used for Reflective Journaling. As you read them, consider what you have learned in this first unit.</p>
+<ul>
+<li>In your view, what were the most important points in the readings or activities?</li>
+<li>What information did you already know? What skills did you already have?</li>
+<li>What new knowledge, skills, or perspectives have you gained?</li>
+<li>What information was easy to remember or learn? Why?</li>
+<li>What concepts or skills did you find more difficult? Why?</li>
+<li>How can you apply this knowledge to your studies or future career?</li>
+<li>How has this knowledge helped you to make sense of your current or previous experience?</li>
+<li>Has your understanding of a personal or work-related situation changed after studying these concepts?</li>
+<li>Did you agree or disagree with any of the material? If yes, how did you react and why?</li>
+<li>If you could have the opportunity to engage in further learning, what would it be?</li>
+<li>What further questions would like to ask about the concepts presented in this unit?</li>
+<li>What other concepts, resources or discussions would be of interest?</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- @cmadland I replaced the video, as it seemed a bit long and couldn't hold my attention. There's another video on Reflective Writing I use in unit 5: [https://twu-innovation.github.io/inno101/building-a-network-of-people.html#part-1-written-reflection.](https://twu-innovation.github.io/inno101/building-a-network-of-people.html#part-1-written-reflection.){target="_blank"} Should we use that here? please watch the following video on how to write reflectively. Keep in mind that you are not writing an essay for these reflective notes, but the 5Rs will help guide you to creating robust reflective writing. <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/whKSAKSMFs8?si=uq8v9HnkEOqe2QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+</section>
+<section id="activity-digital-literacies-for-online-learning" class="level3" data-number="1.4.4">
+<h3 data-number="1.4.4" class="anchored" data-anchor-id="activity-digital-literacies-for-online-learning"><span class="header-section-number">1.4.4</span> Activity: Digital Literacies for Online Learning</h3>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>In this activity you are asked to write a reflective journal entry on the topic of Digital Literacy.</p>
+<p>First, let’s get you set up in Obsidian.</p>
+<p>Click the little calendar icon in the sidebar of Obsidian to ‘Open today’s daily note’.</p>
+<div id="fig-obsidian1" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot of the Daily note icon in Obsidian." data-fig-align="left">
+<figure class="quarto-float quarto-float-fig figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-obsidian1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1.7: Screenshot of the Daily note icon in Obsidian.
+</figcaption>
+<div aria-describedby="fig-obsidian1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="assets/u1/obsidian1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7" title="Figure&nbsp;1.7: Screenshot of the Daily note icon in Obsidian."><img src="assets/u1/obsidian1.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Screenshot of the Daily note icon in Obsidian."></a>
+</div>
+</figure>
+</div>
+<p>Next, respond to the following prompts:</p>
+<ul>
+<li>Your personal definition of digital literacies justified from your reading of the literature (about 100 to 150 words)</li>
+<li>Describe what digital literacies mean for you in a sentence.</li>
+<li>Create a link to your VR diagram map in your entry.</li>
+<li>Summarise an action plan for improving your digital literacies. Identify the literacies you plan to improve including the reasons why and how you aim to achieve this.</li>
+<li>Ensure that your references are cited appropriately.</li>
+</ul>
+<blockquote class="blockquote">
+<p><strong><em>Note:</em></strong> <em>This journal entry can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.</em></p>
+</blockquote>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="summary" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="summary">Summary</h2>
+<p>In this first unit, you have had the opportunity to learn about some of the impacts of <em>the digital</em> on your life. You have started to build an academic knowledge management workflow, a pivotal skill essential for efficiently organizing, accessing, and leveraging information. Throughout the unit, you’ve actively engaged with the digital tools, shared insights into your personal interactions with digital technology, and begun applying these tools to enhance your academic learning experience. Furthermore, you’ve developed a personalized understanding of digital literacy and explored how to protect yourself and others in digital and online contexts. As you progress through the course, take a moment to identify the specific literacies you aspire to refine and articulate the concrete steps you intend to take in pursuit of these goals.</p>
+</section>
+<section id="assessment" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="assessment">Assessment</h2>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Assignment 1: Learning Journal</strong></p>
+<p>The learning activities in this unit are designed to support you as you build your <em>Learning Journal</em> (Assignment 1). Please see the Assessment section in Moodle for details on this assignment. Note the activities also relate to your Digital Literacy Portfolio (Assignment 3), so be intentional about completing each activity in this unit to support the learning artifact you will present in these assignments.</p>
+<p>All assignment details, including the grading rubrics, are located in the Assessment section in Moodle. Please read the instructions carefully and don’t hestitate to reach out for support.</p>
+</div>
+</div>
+</div>
+</section>
+<section id="checking-your-learning" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="checking-your-learning">Checking Your Learning</h2>
+<div class="callout callout-style-simple callout-warning no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Before you move on to the next unit, check that you are able to:</p>
+<ul>
+<li>Explore common digital tools used at Trinity Western University</li>
+<li>Describe your engagement with digital technology</li>
+<li>Apply digital tools to support learning in an academic environment</li>
+<li>Explain what digital literacy means to you</li>
+<li>Examine privacy concerns related to various platforms and tools</li>
+<li>Describe how to protect yourself and others in the digital environment.</li>
+<li>Identify the literacies you plan to improve and what steps you will take to achieve your goals.</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-crozierLearningLearnOnline2020" class="csl-entry" role="listitem">
+Crozier, N., &amp; Lake, J. (2020). <em>Learning <span>To Learn Online</span></em>. BCcampus. <a href="https://pressbooks.bccampus.ca/learningtolearnonlinereview/">https://pressbooks.bccampus.ca/learningtolearnonlinereview/</a>
+</div>
+<div id="ref-galikyanStudentsEngagementAsynchronous2019" class="csl-entry" role="listitem">
+Galikyan, I., &amp; Admiraal, W. (2019). Students’ engagement in asynchronous online discussion: <span>The</span> relationship between cognitive presence, learner prominence, and academic performance. <em>The Internet and Higher Education</em>, <em>43</em>, 100692. <a href="https://doi.org/10.1016/j.iheduc.2019.100692">https://doi.org/10.1016/j.iheduc.2019.100692</a>
+</div>
+</div>
+</section>
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1"><p>For real…using Zotero will literally save you days of tedious work during your university career!<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./index.html" class="pagination-link" aria-label="Welcome">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Welcome</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./u2.html" class="pagination-link" aria-label="Discovering and Curating Resources">
+        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Discovering and Curating Resources</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"top","openEffect":"zoom","loop":false,"closeEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
+
+
+
+
+</body></html>
