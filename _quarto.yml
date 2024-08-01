@@ -34,7 +34,7 @@ format:
     toc-depth: 4
     # toc-location: left
     self-contained: true
-    code-tools: true
+    code-tools: false
     grid:
       sidebar-width: 300px
       body-width: 1000px

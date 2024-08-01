@@ -4,7 +4,7 @@ This is the course book for LDRS 101: Learning with Technology. This book is div
 
 On the page below you will find a summary of the course syllabus, as well as how to navigate this book.  Please also refer the schedule in Moodle, as well as the Assessment section in Moodle for instructions on assignments.
 
-If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
+If you have any questions, do not hesitate to ask. We are here to  help and be your guide on this journey.
 
 > The syllabus includes key information about the course schedule, assignments, and policies. Please read the full course syllabus, which you will find in Moodle. For information on how to navigate through this course on Moodle, see [here](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=8214).
 
