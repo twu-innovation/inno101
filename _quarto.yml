@@ -4,9 +4,9 @@ project:
   output-dir: docs
 
 book:
-  author: "Colin Madland and Kelly Marjanovic"
-  date: "last-modified"
-  date-format: "MMM D, YYYY"
+  # author: "Colin Madland and Kelly Marjanovic"
+  # date: "last-modified"
+  # date-format: "MMM D, YYYY"
   chapters:
     - index.qmd
     - u1.qmd
@@ -15,7 +15,7 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd    
-    - assessment.qmd
+    # - assessment.qmd
     - references.qmd
 
 bibliography: references.bib

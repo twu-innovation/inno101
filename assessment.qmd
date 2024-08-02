@@ -47,7 +47,7 @@ In addition to submitting your journal you will meet with your instructor and ha
 3.  Your instructor will provide you with feedback to help you assess whether or not you have met the proficiency criteria. They will also give suggestions for improvement and encouragement.
 4.  Take notes of the feedback and reflect on how you can continue to grow in each of the learning outcome areas.
 
-{==##### Proficiency Levels
+##### Proficiency Levels
 
 | **Emerging**                                                                                                              | **Developing**                                                                                                           | **Proficient**                                                                                                            | **Extending**                                                                                                                  |
 |------------------|------------------|------------------|-------------------|
@@ -65,7 +65,6 @@ In addition to submitting your journal you will meet with your instructor and ha
 | **Spiritual Formation**                       |                                           |                                                                |                          |
 | **Social Responsibility & Global Engagement** |                                           |                                                                |                          |
 
-### Grading Criteria {.unnumbered}
 
 ## Assignment {.unnumbered}
 

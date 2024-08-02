@@ -33,48 +33,6 @@ Introduces theories and competencies related to learning and thriving in a digit
 -->
 
 
-## Course Notes {.unnumbered}
-
-Below is some key information on features you will see throughout the course.
-
-::: {.callout-tip appearance="minimal"}
-
-<!-- ***Learning Activity*** -->
-
-***Learning Activity*** 
-
-This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
-
-:::
-
-## Assessment {.unnumbered}
-
-:::{.callout-note appearance="minimal"}
-
-This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
-
-:::
-
-## Checking your Learning {.unnumbered}
-
-::: {.callout-warning appearance="minimal"}
-
-This box is for checking your understanding, to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion. These activities are not graded but are critical for you to be able to begin to develop evaluative judgement in this domain of knowledge.
-
-:::
-
-::: {.callout-important appearance="minimal"}
-
-<!-- ***Note*** -->
-
-***Note***
-
-This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
-
-::: 
-
-If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
-
 ### Course Units{-}
 
  This course is organized into 6 units. Each unit of the course will provide you with the following information:
