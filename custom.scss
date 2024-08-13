@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+
+
+// Custom Callout Styles for {.learning-activity}
+
+.callout.callout-style-default.callout-note.no-icon.callout-titled {
+    border: 1px solid var(--primary-color);
+}
+
+.callout.callout-style-default.callout-note.callout-style-default>.callout-header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 5px 1rem;
+    font-weight: normal;
+}
+
+.callout.callout-style-default.callout-note.callout-style-default .callout-body {
+    padding: .5rem 1rem 0 1rem;
+}
+
+.callout.callout-style-default.callout-note.callout-style-default .callout-style-simple.callout-note {
+    margin-bottom: 1rem;
+    border: 0;
+    border-left: .25rem solid var(--accent-color);
+    border-radius: 0;
+    padding: 0 .625rem;
+}
+
+.callout.callout-style-default.callout-note.callout-style-default .callout-style-simple.callout-note>.callout-body {
+    padding: 0;
+}
+
+.callout.callout-style-default.callout-note.callout-style-default .callout-style-simple.callout-note>.callout-body .callout-body-container {
+    padding-bottom: 0;
+}
+
+.callout.callout-style-default.callout-note.callout-style-default .callout-style-simple.callout-note>.callout-body .callout-body-container p {
+    padding-bottom: .2rem;
+    margin-top: .2rem;
+}

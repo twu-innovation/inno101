@@ -1,79 +1,28 @@
 # Welcome {.unnumbered}
 
-This is the course book for *LDRS 101: Learning with Technology*. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
+This is the course book for **LDRS 101**. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
 
-> Below you will find information about how to navigate this book. Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies.
+::: {.note icon="true"}
 
-## Course Notes {.unnumbered}
+Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies. 
+
+:::
+
+## Course Activities
 
 Below is some key information on features you will see throughout the course.
 
-::: {.callout-tip appearance="minimal"}
+::: {.learning-activity}
 
-***Learning Activity*** 
+This box will prompt you to engage in course concepts by:
 
-This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
+- Viewing resources and reflecting on your experience and/or learning. 
+- Checking your understanding to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion.
 
-:::
+::: {.note}
 
-:::{.callout-note appearance="minimal"}
-
-***Assessment***
-
-This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
+Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
 
-::: {.callout-warning appearance="minimal"}
-
-***Checking your Learning***
-
-This box is for checking your understanding, to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion. These activities are not graded but are critical for you to be able to begin to develop evaluative judgement in this domain of knowledge.
-
 :::
-
-::: {.callout-important appearance="minimal"}
-
-***Note***
-
-This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
-
-::: 
-
-If you have any questions, do not hesitate to ask. We are here to help and be your guide on this journey.
-
-### Course Technologies
-
-This course is about learning with technology. Digital literacies are closely linked but not limited to digital skills. Consequently, this course will use a number of different online communication and publishing technologies to support your learning.
-
-#### An Open Philosophy of Inclusion
-
-*Learning with Technology* incorporates a wide range of online technologies and software applications. In this course we want to promote free and open source software because we believe that no learner should be denied access to learning for lack of funds to purchase a proprietary software license. Nor do we believe that you should be forced to sacrifice your freedoms in software choice.
-
-The course resources and interaction technologies are based entirely on free and open source software and you will be able to complete all the learning activities using open source applications without the need to purchase any software. You are free to use proprietary technology applications of your choice, but you can also use this course to explore and experiment with open technology.
-
-#### Summary of Technologies Used on This Course
-
-The following table provides a summary of the main technologies used in this course.
-
-| **Technology** | **Details** |
-|----------------------|----------------------------------------|
-| [Moodle](https://learn.twu.ca/){target="_blank"} | TWU uses Moodle as our Learning Management System. For LDRS 101, your course notes, assignment instructions, assignment dropboxes will be found in Moodle. Note that some assignments require you to complete your work in WordPress and Discourse. |
-
-<!-- !!!
-The Moodle link above needs to be replaced.
-
-[Moodle](https://learn.twu.ca/){target="_blank"}
--->
-
-<!-- | Course feed | The [Course feed](https://course.oeru.org/lida101/interactions/course-feed){target="_blank"} is a unique feature of OERu courses. Course comments and posts tagged with the course code (LiDA101) on the course forums, your course blog, the resource bank, our social network and [Hypothes.is](https://hypothes.is/){target="_blank"} will be harvested and incorporated into the live course feed. This is the hub for keeping track of the distributed course interactions on the web. | | Course resource bank | The [resource bank](https://bookmarks.oeru.org/search.php/all/lida101){target="_blank"} is a site used to share web links and summaries of useful resources you find online. We encourage learners to share links publicly with your peers. Remember to vote for links you find useful on the site. Search using the course tag: “LDRS101” --> 
-
-#### Learn by Doing
-
-Some learners will be familiar with these technologies, while others will be using them for the first time. We use a learn by doing approach and you will be prompted in the course materials when to interact with these different technologies.
-
-Initially the use of different technologies distributed on the web may be confusing. However, this is a course about learning on the Internet and once you have completed this course, you will become a competent user of these online technologies.
-
-Have fun and enjoy the learning experience!
-
-<!-- @cmadland could I suggest this tech table from [https://course.oeru.org/lida101/course-guide/course-technologies/](https://course.oeru.org/lida101/course-guide/course-technologies/){target="_blank"} instead of introducing Hypothes.is instructions here? The following tools will be introduced in this course. Feel free to explore the links below, or wait until they are introduced in the particular unit in which the tool is required. #### Course Annotations [Hypothes.is](https://web.hypothes.is/){target="_blank"} is our annotation tool. With hypothes.is you can annotate web pages on the Internet as well as keeping private notes when using the highlight feature. Hypothes.is enables you to: - Select text to annotate. - Add tags and post publicly or save privately. - Reply to or share any annotation. - Link to notes or whole pages. - Annotate together in groups. - Collaborate privately with others. - Search your notes. - Explore all public annotations and profiles. ##### How to annotate a web-page Four steps to annotating web pages using hypothes.is: Step 1: [Create an account](https://hypothes.is/signup){target="_blank"} on the Hypothes.is website. Step 2: Add Hypothes.is to your browser. ([Install](https://web.hypothes.is/start/#){target="_blank"} the add-on for Chrome or bookmarklet for other browsers). Step 3: Go to any web page, launch Hypothesis (using the Chrome add-on or browser bookmarklet) and log in using the account you created at Hypothes.is. Step 4: Highlight the text you want to annotate (see [how to highlight text](https://www.computerhope.com/issues/ch001669.htm){target="_blank"} published by computerhope.com), click on the “Annotate” button which appears when you highlight the text, type your annotation and click “Post to Public”. The following video provides a brief overview of how to post an annotation. Watch [Hypothesis Web Annotations](https://www.youtube.com/watch?v=BFPYqXubTsE){target="_blank"} <div class ="video-container"> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFPYqXubTsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </div> ##### Resources Go to the [Get Started](https://web.hypothes.is/start/){target="_blank"} page to sign up. - [Quick Start Guide for Students](https://web.hypothes.is/quick-start-guide-for-students/){target="_blank"} - [Student resource guide](https://web.hypothes.is/student-resource-guide/){target="_blank"} - [Annotating as a group](https://web.hypothes.is/help/annotating-with-groups/){target="_blank"} (i.e. share annotations on a page or pages) If your course is using Hypothes.is to instructions will be given in the course. Instructions on this can be found here --> 

@@ -34,7 +34,7 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Learning Activities**
 
@@ -49,11 +49,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Publish an editorial on your blog about an issue that interests you.
 - Read the artical on digital wisdom and reflect on how technology serves both personal and communal benefits.
 
-> *The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
+::: {.note}
+
+The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
 
 :::
 
-::: {.callout-note icon=false appearance="simple"}
+:::
+
+::: {.learning-activity}
 
 **Assessment**
 
@@ -66,7 +70,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - All resources will be provided online in the unit.
 
-::: {.callout-important appearance="minimal"}
+::: {.note}
 
 ***Resource Reminders***
 
@@ -92,7 +96,7 @@ In this course we have promoted the use of tools that allow you to share your le
 
 ### Activity: Learning in Community
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Below are several resources that explain how we learn in community.
 
@@ -117,7 +121,7 @@ What do you think? How have you experienced social learning in your educational 
 
 ### Activity: Preparing for the Future
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Throughout your studies at TWU you will share your learning with instructors, your peers, and the community. You will also practice and master various skills, including digital skills, leadership skills, communication skills, and critical thinking skills. Why are these important? Take a look at the image below that depicts the Top 10 Employee Skills for 2025. How do your studies and activities at TWU prepare you to meet those necessary skills?
 
@@ -161,7 +165,7 @@ Let's fast forward a couple years to a time when you graduate from Trinity - ful
 
 ### Activity: the Future of Work
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this short video, [Ken Steele](http://eduvation.ca/bio/){target="_blank"} from Eduvation speculates about the future of the labour market and the value of higher education in a digital age.
 
@@ -186,7 +190,7 @@ Throughout history, there are technologies which have influenced change in socie
 
 ### Activity: Newspaper and Music Industry in a Digital Age
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 The readings which follow take a retrospective look at the impact of the Internet on the newspaper and music industries.
 
@@ -199,7 +203,7 @@ Please add or reply to annotations using [Hypothes.is](https://web.hypothes.is/)
 
 ### Activity: Impact of Digital Technology on Business
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Join the discussion on the impact of digital technology on business:
 
@@ -231,7 +235,7 @@ In the next activity, we'll explore some of these questions and concerns.
 
 ### Activity: How Can I Use Ai as a Student?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 First, do a quick search online for AI tools for university students. Examples:
 - [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"}
@@ -262,7 +266,7 @@ Here is one more article that discusses the pros and cons for English Learners u
 
 ### Activity: How To Identify Ai Generated Text
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Explore the infographic below by Ryan Morrison.
 *Tip: You may want to view the resource full screen (Click on the three dots on the bottom right, and then select the full screen arrows.)*
@@ -290,7 +294,7 @@ In this section we consider the impact of automation on the future job market an
 
 ### Activity: Impact of Automation & Ai in the Workplace
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 First, read [Collaborative Intelligence: Humans and AI Are Joining Forces](https://hbr.org/2018/07/collaborative-intelligence-humans-and-ai-are-joining-forces){target="_blank"} from Harvard Business Review.
 
@@ -307,7 +311,7 @@ Consider your chosen field of study. How can AI benefit your industry? Are there
 
 ### Activity: the Price of Ai
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this topic we've explored AI - it's possiblities for study and careers, and some concerns about using AI. This activity focuses on how AI moderates harmful content. How does AI know what is harmful? Since AI tools are built on all kinds of information, including harmful and hateful content, how is this content identified?
 
@@ -353,7 +357,7 @@ You will choose one societal issue or antisocial behavior associated with the In
 
 ### Activity: Problematic Online Behaviours - Key Terms Quiz
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click on the options to find out more about the concept.
 
@@ -371,7 +375,7 @@ Website tracking is the practice of collecting data about a user's online activi
 
 ### Activity: the True Cost of Free Websites
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Watch this Matrix parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product. (Do you think this is a valid and reliable source for the topic?) [Watch: *The Terrifying Cost of "Free” Websites | Adam Ruins Everything*](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} <!-- Auto title, auto embed--> 
 
@@ -461,7 +465,7 @@ It's important to note that while these steps can help reduce online tracking, t
 
 ### Activity: Website Tracking Resources
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Choose from the resources below to inform your views on website and data tracking:**
 
@@ -483,7 +487,7 @@ Please share your thoughts on Discourse and/or use Hypothes.is to annotate and s
 
 ### Activity: Forum: Philanthropy and Corporate Advertising
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Next, let's explore and reflect on the relationship between corporate commercial interests and digital citizenship for learning in a digital age.
 
@@ -513,7 +517,7 @@ Impersonation online refers to the act of creating an online presence in someone
 
 ### Activity: Identify the Imposter!
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Visit the profile page of following X (Twitter) accounts:
 
@@ -534,9 +538,7 @@ Have you seen a fake account on social media? What clues did you have that it wa
 
 :::
 
-::: {.callout-important appearance="minimal"}
-
-***Note***
+::: {.note}
 
 Sidenote: If interested, search on X for some parody accounts. Some can be quite entertaining, but you might notice that other accounts simply mock the person they are parodying. Would you create a parody account in order to ridicule someone - or perhaps a political view you don't agree with? What should our response be to such messages on social media? How can we promote inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?
 
@@ -544,7 +546,7 @@ Sidenote: If interested, search on X for some parody accounts. Some can be quite
 
 ### Activity: How To Spot a Scammer
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Check out these two videos that share signs to help you identify online impersonation.
 
@@ -558,7 +560,7 @@ Check out these two videos that share signs to help you identify online imperson
 
 ### Activity: Case Study on Catfishing
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Catfishing is a the deceptive practice of creating a fictional online presence to lure somebody into a relationship, for example a romance scam.
 
@@ -596,7 +598,7 @@ In this section, we explore the phenomenon of internet trolling and strategies f
 
 ### Activity: Trolling in Social Media
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 1. Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz developed by the Clemson University Media Forensics Hub which uses images of real social media content.
 
@@ -628,14 +630,18 @@ In this section, we will review research on the state of online harassment and c
 
 ### Activity: the State of Online Harassment
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Read the following research reports on online harassment.
 
 - Duggan, M. (2014, October 22). [Online Harassment](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"}. Pew Research Center. (Note that the report comprises eight pages, so you need to click through to the next page indicators at the bottom of each page of the report.)
 - Desilver, D. (2021, January 13). [Q&A: What we’ve learned about online harassment](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"}
 
+::: {.note}
+
 Note in particular the finding that those "who have ever experienced more severe forms of harassment – such as physical threats, stalking, sexual harassment or sustained harassment – or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies."
+
+:::
 
 **Questions to Consider:**
 
@@ -649,7 +655,7 @@ Please add or reply to annotations using the Hypothes.is to share personal insig
 
 ### Activity: the Response From Social Media
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Choose from the following resources commenting on online harassment and what our response should be.
 
@@ -674,7 +680,7 @@ In this section, we identify selected psychological issues which you may choose 
 
 ### Activity: How Online Personas Are Redefining Human Connection
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 First, consider the following questions:
 
@@ -768,7 +774,7 @@ Net Neutrality And Creative Freedom
 
 ### Activity: the Meaning of Net Neutrality
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Watch the following videos that explain the importance of net neutrality.
 
@@ -784,7 +790,7 @@ Watch the following videos that explain the importance of net neutrality.
 
 ### Activity: Perspectives on Net Neutrality
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Explore the issue of net neutrality. Below are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views.
 
@@ -888,7 +894,7 @@ Addressing digital redlining is essential to ensure equitable access to the bene
 
 ### Activity: Case Study - Indigenous Communities in Canada
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Digital redlining is a global concern, including Canada. While Canada is known for its social safety nets and relatively high internet penetration rates, digital disparities persist, particularly among marginalized communities. These disparities are evident in various aspects, such as internet access, online discrimination, and algorithmic biases.
 
@@ -904,7 +910,7 @@ Addressing these issues in Canada requires a multi-faceted approach, combining i
 
 ### Activity: Where Do You See Digital Redlining?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 As you explore this topic, consider where digital redlining occurs in your community. Search online, or perhaps ask community members, about their experiences in accessing the internet. Is digital access fair and accessible for all?
 
@@ -963,7 +969,7 @@ Let's take a look at some cases and issues involving diversity, equity and inclu
 
 ### Activity: Gender Discrimination
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity, we investigate examples of gender discrimination in a digital world, recognising that equity and inclusion are not restricted to gender alone.
 
@@ -1035,7 +1041,7 @@ This one example identifies one of the "sticky points" in the DEI debate. In the
 
 ### Activity: Perspectives on Dei
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Here are a couple of contrasting points of view. If you choose to write a social commentary on this topic, be sure to explore various resources with different opinions.
 
@@ -1058,7 +1064,7 @@ If interested, check out [DEI Is Destroying Science](https://www.youtube.com/wat
 
 ### Activity: Dei & Practising Christian Hospitality
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 As a final reflection on this topic, we invite you to read TWU's core values page on [Practising Christian Hospitality](https://www.twu.ca/about-us/commitments/core-values/practising-christian-hospitality){target="_blank"}.
 
@@ -1082,7 +1088,7 @@ As you read [Practising Christian Hospitality](https://www.twu.ca/about-us/commi
 
 :::
 
-<!-- comment ### Fake News add intro ### Activity: What is Fake News? ::: {.callout-tip icon=false appearance="simple"} <script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script> Choose from the following resources to explore this topic further: - [Why it’s so easy to fall for fake news and how to spot it](https://www.youtube.com/watch?v=UF3TrTIZbCA){target="_blank"} - [Censorship Run Amok: Covid, The Lab Leak, Masks & The Twitter Files](https://www.youtube.com/watch?v=le0El7oEL8Q){target="_blank"} ::: comment add intro? Libertarian journalist [John Stossel](https://www.johnstossel.com/){target="_blank"} created Stossel TV(https://www.youtube.com/@StosselTV/about) to explain liberty and free markets to young people. "After 40+ years of reporting, I now understand the importance of limited government and personal freedom" --> 
+<!-- comment ### Fake News add intro ### Activity: What is Fake News? ::: {.learning-activity} <script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script> Choose from the following resources to explore this topic further: - [Why it’s so easy to fall for fake news and how to spot it](https://www.youtube.com/watch?v=UF3TrTIZbCA){target="_blank"} - [Censorship Run Amok: Covid, The Lab Leak, Masks & The Twitter Files](https://www.youtube.com/watch?v=le0El7oEL8Q){target="_blank"} ::: comment add intro? Libertarian journalist [John Stossel](https://www.johnstossel.com/){target="_blank"} created Stossel TV(https://www.youtube.com/@StosselTV/about) to explain liberty and free markets to young people. "After 40+ years of reporting, I now understand the importance of limited government and personal freedom" --> 
 
 We've explored a number of societal issues associated with the Internet. In the activity below, you will choose a topic of interest relating to societal issues or problematic behaviours on the Internet for further investigation. You can select one of the topics introduced in this unit , or an alternate issue you find more interesting.
 
@@ -1100,7 +1106,7 @@ Here are few additional topics to consider:
 
 ### Activity: Editorial Societal Issues on the Internet
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Publish an editorial (400 – 600 words) on your personal course blog on a societal issue or antisocial behaviour associated with the Internet. You editorial must:
 
@@ -1154,7 +1160,7 @@ To conclude our course, we will examine another perspective on ethics and techno
 
 ### Activity: Digital Wisdom
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
 
@@ -1197,7 +1203,7 @@ Finally, we introducted the concept of digital wisdom. As you continue to integr
 
 ## Assessment {.unnumbered}
 
-::: {.callout-note icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Assignment 3: Digital Literacy Portfolio**
 
@@ -1209,7 +1215,7 @@ All assignment details, including the grading rubrics, are located in your sylla
 
 ## Checking Your Learning {.unnumbered}
 
-::: {.callout-warning icon=false appearance="simple"}
+::: {.learning-activity}
 
 Before you move on to the next unit, check that you are able to:
 

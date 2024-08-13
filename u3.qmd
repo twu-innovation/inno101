@@ -26,7 +26,7 @@ When you have completed this unit, you should be able to demonstrate your abilit
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Learning Activities**
 
@@ -34,11 +34,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Write a reflective post on your learning experiences.
 - Practice various note-taking skills.
 
-> *The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
+::: {.note}
+
+The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.
 
 :::
 
-::: {.callout-note icon=false appearance="simple"}
+:::
+
+::: {.learning-activity}
 
 **Assessment**
 
@@ -50,7 +54,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - All resources will be provided online in the unit.
 
-[watch: Stop Studying. Start Learning | Justin Sung | TEDxUOA](https://www.youtube.com/watch?v=TQXMl4GycD0){target="_blank"}
+[Watch: *Stop Studying. Start Learning | Justin Sung | TEDxUOA*](https://www.youtube.com/watch?v=TQXMl4GycD0){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/TQXMl4GycD0 >}}
 
@@ -121,7 +125,7 @@ Screenshot of the graph view in Obsidian
 
 ### Activity: Link, Connect & Reflect
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Follow the directions above to add notes to Obsidian on a topic of interest. Search online for interesting articles and videos you want to add to your notes. Practice using wikilinks and markdown links. Locate the ‘Graph View’ in Obsidian to see the connections between the ideas you've added.
 
@@ -163,7 +167,7 @@ Using links and tags together, you can build a very powerful and easily searchab
 
 ### Activity: Tag, Link, Connect & Reflect
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Follow the directions above to add tags to your notes in Obsidian. Again, spend some time on this. The more you practice, the easier the process will be. More than that, as you continue to use tags and links, you will be able to experience the advantages of connecting your ideas using this method.
 
@@ -191,7 +195,7 @@ Tags and links in Obsidian can be visualized using the graph view, but as this i
 
 ### Activity: Open Video and Audio Lectures
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests.
 
@@ -202,6 +206,7 @@ Search for a video or audio lecture on a topic of interest. Use your advanced se
 - [Tedx talks](https://www.ted.com/){target="_blank"}: Extensive database of video presentations in the form of short, powerful talks. (See also [list of topics](https://www.ted.com/topics){target="_blank"}).
 
 Using Obsidian, record your notes from the lecture.
+
 - The first line is used for the title of the note.
 - Remember to include a link to the source of the information.
 - Use tags and links to connect your ideas.
@@ -212,21 +217,23 @@ Next, let's focus on reading and note-taking. In this section, you will demonstr
 
 ### Activity: Reading & Note-taking
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Read the following articles and take notes in Obsidian.
+
 - [Effective note taking](https://www.student.unsw.edu.au/effective-reading-and-note-taking){target="_blank"} published by the University of New South Wales.
 - [Reading for Understanding: The SQW3R Method](https://www.student.unsw.edu.au/reading-understanding){target="_blank"} published by the University of New South Wales.
 - [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper){target="_blank"}
 
 Try using Markdown to format your text.
+
 - [Basic formatting syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax){target="_blank"} - Using Markdown in Obsidian
 
 :::
 
 ### Activity: Writing a Summary of Your Readings
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity you will read an academic article and write a summary in Obsidian and Zotero.
 
@@ -255,7 +262,7 @@ There is a plethora of other learning tools out there. We encourage you to explo
 
 ### Activity: Tools for Learning in University
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Search for the following apps/websites using the key words listed below. Try adding "top" "best" "free" "university" "students" and see how that changes your search results.
 
@@ -285,7 +292,7 @@ As you move forward, carry this digital toolkit with you, leveraging technology 
 
 ## Assessment {.unnumbered}
 
-::: {.callout-note icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Assignment 1: Learning Journal**
 
@@ -297,7 +304,7 @@ All assignment details, including the grading rubrics, are located in the Assess
 
 ## Checking Your Learning {.unnumbered}
 
-::: {.callout-warning icon=false appearance="simple"}
+::: {.learning-activity}
 
 Before you move on to the next unit, check that you are able to:
 

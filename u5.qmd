@@ -29,7 +29,7 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Learning Activities**
 
@@ -41,11 +41,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Update your professional online biography and the “About” page of your course blog.
 - Map your Social Network and consider the online communities you might join.
 
-> *The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
+::: {.note}
+
+The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.
 
 :::
 
-::: {.callout-note icon=false appearance="simple"}
+:::
+
+::: {.learning-activity}
 
 **Assessment**
 
@@ -58,7 +62,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - All resources will be provided online in the unit.
 
-::: {.callout-important appearance="minimal"}
+::: {.note}
 
 ***Resource Reminders***
 
@@ -73,11 +77,11 @@ Before attempting to define *digital citizenship*, let's consider the concept of
 
 >*“Citizenship is a status that is bestowed on those who are full members of a community.”*
 >
->**-—T.H. Marshall**
+>—T.H. Marshall
 
 ### Activity: Reflecting on Digital Citizenship
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 If good citizenship means to fulfill your role as citizen, can you think of five things good citizens do? Consider the following questions:
 
@@ -102,7 +106,7 @@ If you conduct a general search for “digital citizenship” you will find many
 
 ### Activity: Podcast on Digital Citizenship
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity you will listen to a podcast that focuses on the people dimension of digital citizenship.
 
@@ -119,8 +123,8 @@ Listen to the first 15–20 minutes of this Teaching in HigherEd podcast on Digi
 Autumm Caines provides a useful framework for thinking about digital citizenship
 
 1. *Digital identities* that is who you are online including the identities of others (individuals and organisations).
-1. *Digital environments*, specifically the tools and online spaces we use to interact with each other. (For example Facebook, Discourse, X, Blogs, Forums etc.).
-1. *Interactions* between these identities and environments.
+2. *Digital environments*, specifically the tools and online spaces we use to interact with each other. (For example Facebook, Discourse, X, Blogs, Forums etc.).
+3. *Interactions* between these identities and environments.
 
 ::: {#fig-DigitalxcitizenshipxVenn}
 
@@ -132,7 +136,7 @@ The model for digital citizenship from the work of Autumm Cainnes
 
 ### Activity: Refined Definition of Digital Citizenship
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 The purpose of this activity is to explore the elements of digital citizenship with particular emphasis on those relevant to your academic study.
 
@@ -186,7 +190,7 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 
 ### Activity: Rights & Responsibilities of Digital Citizens
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 1. **Search:** Conduct a general search for rights and responsibilities of digital citizenship to assist in refining your own list for university online study. Your search is likely to generate many results developed for the school sector, so you need to evaluate if these rights and responsibilities are appropriate for you.
 - Udacity version of the bill of rights: [A Bill of Rights and Principles for Learning in the Digital Age](https://www.udacity.com/blog/2013/01/a-bill-of-rights-and-principles-for.html){target="_blank"}
@@ -219,11 +223,11 @@ In this section, we reflect on the balance between public and private in a digit
 
 > *“The impact exercised by ICTs is due to at least four major transformations: the blurring of the distinction between reality and virtuality; the blurring of the distinction between human, machine and nature; the reversal from information scarcity to information abundance; and the shift from the primacy of stand-alone things, properties, and binary relations, to the primacy of interactions, processes and networks."*
 >
->***—- Luciano Floridi***
+>-- Luciano Floridi
 
 ### Activity: Professional Online Identity and Digital Citizenship
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity we will explore professional online identity and networking in the field of your choice.
 
@@ -255,7 +259,7 @@ After completing the activities above, answer the following questions:
 
 ### Activity: Blog: Professional Online Identity and Digital Citizenship
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Prepare a short blog post (about 300 – 400 words) summarising your findings on professional online networking in your field of interest. Consider the following questions:
 
@@ -268,7 +272,7 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 
 ### Activity: Blog: My Online Biography
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this challenge you are asked to build or update your professional online biography and the “About” page of your course blog.
 
@@ -347,7 +351,7 @@ As you continue to reflect on your social network and consider other learning ne
 
 > A community of practice (CoP) is a group of people who *"share a concern or a passion for something they do and learn how to do it better as they interact regularly"*.
 >
-> ***-- Wenger, 2014***
+> -- Wenger, 2014
 
 Cognitive anthropologists Jean Lave and Etienne Wenger coined the term “community of practice” when studying apprenticeships as a learning model—the term referred to the community that acts as a living curriculum. Once the concept was articulated the researchers started to see communities everywhere, even when no formal apprenticeship system existed.
 
@@ -378,7 +382,7 @@ As you reflect on digital practices in university and the workplace, consider ho
 
 ### Activity: What Is a Community of Practice?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Watch the video, [Watch: *Communities of Practice (Etienne and Beverly Wenger-Trayner)*](https://www.youtube.com/watch?v=SmqLyOLIjos){target="_blank"} <!-- Auto title, auto embed--> 
 
@@ -395,7 +399,7 @@ Feel free to discuss your topics of interest in TWU Discourse, or search online 
 
 ### Activity: Mapping My Social Network
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Online communities are varied and can be categorized by their purpose: social, academic, professional, etc. For this activity, we encourage you to consider what your purpose is in building an online community.
 
@@ -432,7 +436,7 @@ Hypothes.is an open sourse platform that allows users to annotate any website, c
 
 ### Activity: Introduction To Hypothesis
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 First, head over the the [Hypothes.is website](https://web.hypothes.is/){target="_blank"} and have a quick read of what the tool is and how it works.
 
@@ -450,7 +454,7 @@ Finally, skim these articles highlighting the benefits of using annotative tools
 
 ### Activity: Annotating & Collaborating in Hypothes.is
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity, we will practice using Hypothes.is by annotating an article on the difference between digital skills and digital literacies.
 
@@ -465,7 +469,7 @@ In this activity, we will practice using Hypothes.is by annotating an article on
 
 ### Activity: Hypothes.is Challenge!
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this course we have provided numerous articles, websites, videos, and other resources to support your learning. Perhaps you have added these resource links to Obsidian and/or Zotero for future reference (e.g. preparing for citations needed for course assingments).
 
@@ -482,7 +486,7 @@ Here is one more step we encourage you to take advantage of.
 
 ### Activity: Social Media for Connecting and Learning
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity we will explore how social media can support online learning and engagement.
 
@@ -504,20 +508,24 @@ Also refer to the graphic below listing numerous apps for listening, learning, a
 
 ![](assets/u5/conversation_prism.jpg){fig-alt="" .lightbox fig-align="left"}
 
-> *[Image](https://flickr.com/photos/solucionafacil/11327713066){target="_blank"} by [SolucionaFacil.es](https://flickr.com/people/solucionafacil){target="_blank"} shared under a [Creative Commons (BY-ND) license](https://creativecommons.org/licenses/by-nd/2.0/){target="_blank"}*
+[Image](https://flickr.com/photos/solucionafacil/11327713066){target="_blank"} by [SolucionaFacil.es](https://flickr.com/people/solucionafacil){target="_blank"} shared under a [Creative Commons (BY-ND) license](https://creativecommons.org/licenses/by-nd/2.0/){target="_blank"}
 
 The Conversation Prism
 
 :::
 
-> *Feel free to annotate the articles you read, or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: LDRS101.*
+::: {.note}
+
+Feel free to annotate the articles you read, or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: LDRS101.
+
+:::
 
 :::
 
 
 ### Activity: Social Media, Online Identity, and Learning
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Join the Discourse discussion forum on social media, online identity and learning by sharing your personal views and thoughts. Choose one or more of the following questions as a catalyst for your contributions to the forum:
 
@@ -527,8 +535,12 @@ Join the Discourse discussion forum on social media, online identity and learnin
 - What levels of online engagement do your feel are appropriate for your own learning on this course? Does this differ from your engagement in other online communities?
 - Other?
 
-> *Please “like”, share and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LDRS101
-*
+::: {.note}
+
+Please “like”, share and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LDRS101
+
+:::
+
 :::
 
 ## Connecting To the Twu Community
@@ -539,17 +551,17 @@ In this unit we have discussed what it means to be a digital citizen, and how we
 
 ### Activity: Twu's Learning Community
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Take a moment to re-read the course description for this course:
 
->Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in 'the digital' throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
+Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in 'the digital' throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
 
 Next, focus on two key course learning outcomes:
 
-> - Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
+- Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 
-> - Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
+- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
 Finally, take a look at Trinity's [Life at TWU](https://www.twu.ca/life-twu){target="_blank"} website.
 
@@ -585,7 +597,7 @@ In this unit, you have had the opportunity to learn about what it means to be a 
 
 ## Assessment {.unnumbered}
 
-::: {.callout-note icon=false appearance="simple"}
+::: {.learning-activity}
 
 ### Assignment 2: Digital Citizenship Blog {.unnumbered}
 
@@ -611,8 +623,11 @@ To help you structure your writing, see the following video on [Watch: *Reflecti
 Your post should cover the following aspects:
 
 **D**: Describe what happened. What was a highlight from our discussion on digital citizenship?
+
 **I**: Interpret the events. How did it make you feel? What was “good” and “bad” about the experience?
+
 **E**: Evaluate the effectiveness. What did you learn from it? How beneficial or useful was this discussion?
+
 **P**: Plan for the future. What new knowledge or skills do you have and how will your experience inform future learning?
 
 Add a category or tag for your post using the course tag: ldrs101. Post a comment on one or two blog contributions.
@@ -629,22 +644,30 @@ For the second part of this assignment, you are asked to create a short video (u
 6. Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 7. Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
-> *You are encouraged to post your video reflection on your blog. Remember that you control the privacy settings, so you can share your video blog with the instructor, your peers, and others outside Trinity if you wish.*
+::: {.note}
 
-> *For more guidance on this assignment, including the grading rubric, see the Assessment section in Moodle.*
+You are encouraged to post your video reflection on your blog. Remember that you control the privacy settings, so you can share your video blog with the instructor, your peers, and others outside Trinity if you wish.
+
+For more guidance on this assignment, including the grading rubric, see the Assessment section in Moodle.
+
+:::
 
 
 ### Assignment 3: Digital Literacy Portfolio{.unnumbered}
 
 The learning activities in this unit are designed to support you as you create your *Digital Citizenship Blog* (Assignment 2), as well as your *Digital Literacy Portfolio* (Assignment 3). You are encouraged to submit your blog for grading once you have completed all the Unit 5 activities. Your portfolio can be submitted as you complete Unit 6.
 
-> *All assignment details, including the grading rubrics, are located in the Assessment section in Moodle. Please read the instructions carefully and don't hestitate to reach out for support.*
+::: {.note}
+
+All assignment details, including the grading rubrics, are located in the Assessment section in Moodle. Please read the instructions carefully and don't hestitate to reach out for support.
+
+:::
 
 :::
 
 ## Checking Your Learning {.unnumbered}
 
-::: {.callout-warning icon=false appearance="simple"}
+::: {.learning-activity}
 
 Before you move on to the next unit, check that you are able to:
 

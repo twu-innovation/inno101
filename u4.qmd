@@ -35,7 +35,7 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Learning Activities**
 
@@ -45,11 +45,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Document and share your learning experience by publishing a blog entry.
 - Evaluate a digital tool, considering the ethical implications
 
-> *Learning activities are designed to prepare you for graded assigments. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
+::: {.note}
+
+Learning activities are designed to prepare you for graded assigments. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.
 
 :::
 
-::: {.callout-note icon=false appearance="simple"}
+:::
+
+::: {.learning-activity}
 
 **Assessment**
 
@@ -62,7 +66,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - All resources will be provided online in the unit.
 
-::: {.callout-important appearance="minimal"}
+::: {.note}
 
 ***Resource Reminders***
 
@@ -85,7 +89,7 @@ Which aspects of the two definitions do you find most meaningful? How do you str
 
 ### Activity: What Is a Ple?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Before you start building your PLE, read the following article:
 
@@ -101,7 +105,7 @@ After reading the article, consider the following:
 
 Finally, consider the approach taken at TWU as it supports inquiry-rich learning. As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
 
-[Watch: *#3: Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/SCa9Nt3X1vU >}}
 
@@ -109,12 +113,17 @@ Finally, consider the approach taken at TWU as it supports inquiry-rich learning
 
 ### Activity: What Is Your Ple?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 1. Take a couple minutes to brainstorm the tools, services and communities that you use to pursue your educational goals. Use your notetaking tool (e.g. Obsidian) to create your list.
 2. Next, create a graphic organizer to visualize your PLE. You can use Obsidian, or see [Best Graphic Organizers for Education](https://www.techlearning.com/news/best-graphic-organizers-for-education){target="_blank"} for other free options.
 
+::: {.note}
+
 Note that you completed a [Visitor and Resident Diagram Activity](https://twu-innovation.github.io/inno101/introduction-to-digital-literacies-for-online-learning.html#activity-visitor-and-resident-diagram){target="_blank"} in Unit 1. Feel free to use that graphic organizer and add other tools use use for learning, or that you have been introduced to in this course.
+
+:::
+
 
 <!-- insert H5P image slider to show [PLE examples](https://www.notion.so/twuid/Personal-Learning-Network-1d485cd0fb6f462082d681d6efdb9e7d){target="_blank"} --> 
 
@@ -136,13 +145,17 @@ A key teaching philosophy of this course is to embed the acquisition of new digi
 
 ### Activity: Setting up Your Learning Blog
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 As this is a course focusing on digital literacies, you are asked to establish a Learning Blog, as this will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems out there because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
 
 <!-- need to modify video Watch the following video tutorial on how to create a website using WordPress. This video provides you with an overview of all the necessary steps. Do not worry if you start to feel overwhelmed — we will break these steps down for you one by one in the learning activities in this course. <div class ="video-container"> <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/f45737c6-fc7b-4c6e-a13f-f656c808ea06?autoplay=false&showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe> </div> --> 
 
-> We are here to help you create your site, so do not hesitate to ask for technical support. Below you will find a number of resources, but if you get stuck, please reach out on Discourse, or email elearning@twu.ca
+::: {.note}
+
+We are here to help you create your site, so do not hesitate to ask for technical support. Below you will find a number of resources, but if you get stuck, please reach out on Discourse, or email elearning@twu.ca
+
+:::
 
 To get started on creating your site we suggest the following steps:
 
@@ -300,7 +313,11 @@ When you’re ready to start customizing your blog and putting content in, check
 
 </details>
 
-> If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email elearning@twu.ca
+::: {.note} 
+
+If you are confused about anything it is always good to do an initial Google or YouTube search, reach out on Discourse, or email elearning@twu.ca
+
+:::
 
 :::
 
@@ -320,7 +337,7 @@ We need to distinguish between the technical and human elements of online identi
 
 ### Activity: What Is a Digital Footprint?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Watch the following video and consider the steps you would take to control your digital footprint.
 
@@ -331,7 +348,7 @@ Watch the following video and consider the steps you would take to control your 
 
 ### Activity: Who Am I Online...and Why Should I Care?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Read the following articles:
 
@@ -367,21 +384,21 @@ Finally, consider how much someone could find out about you from your digital fo
 
 ### Activity: Digital Footprint Audit
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity you will audit your own digital footprint in order to find out what exists on the internet about you, and reflect on what you want your online identity to be. Follow the steps below to begin.
 
 1. Conduct a Google search of your own name (using an incognito or private window in Chrome or Firefox). Search for your first name and surname without parenthesis (for example: snow white) and then with parenthesis (for example: “snow white”). Explore the results of your search.
-1. Conduct a Google search of your name with the name of current and previous employers.
-1. Conduct a Google search of your name with the name of previous schools you attended.
-1. Expand your search to include social media sites, for example: “snow white” twitter; “snow white” facebook; “snow white” youtube etc.
-1. Note any interesting or surprising findings.
+2. Conduct a Google search of your name with the name of current and previous employers.
+3. Conduct a Google search of your name with the name of previous schools you attended.
+4. Expand your search to include social media sites, for example: “snow white” twitter; “snow white” facebook; “snow white” youtube etc.
+5. Note any interesting or surprising findings.
 
 :::
 
 ### Activity: Blog: My Digital Footprint
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Prepare and publish a short blog post of about 250 to 300 words focusing on what you hope to achieve with your online digital identity for learning. Your post can include:
 
@@ -416,7 +433,7 @@ These crucial questions highlight the importance of privacy, data ownership, and
 
 ### Activity: What Are My Criteria?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Read the following [Rubric for Digital Tool Evaluation](assets/u4/U4_Rubric-for-Digital-Tool-Evaluation.pdf){target="_blank"}. Note there are a number of criteria, some that may not apply to the tool you choose to evaluate. In this activity, create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you.
 
@@ -479,7 +496,7 @@ Finally, read the following questions and consider what you want to add to your 
 
 ### Activity: Evaluate a Digital Tool
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this challenge, you are invited to critically evaluate an online tool.
 
@@ -535,7 +552,7 @@ In this unit, you have had the opportunity to learn about your personal learning
 
 ## Assessment {.unnumbered}
 
-::: {.callout-note icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Assignments 2 and 3: Blog and Portfolio**
 
@@ -547,7 +564,7 @@ All assignment details, including the grading rubrics, are located in the Assess
 
 ## Checking Your Learning {.unnumbered}
 
-::: {.callout-warning icon=false appearance="simple"}
+::: {.learning-activity}
 
 Before you move on to the next unit, check that you are able to:
 

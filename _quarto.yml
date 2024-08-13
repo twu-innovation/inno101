@@ -1,4 +1,4 @@
-# version 1.3
+# version 1.6
 
 project:
   type: book
@@ -6,11 +6,11 @@ project:
 
 # Changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
 published-title: "Last Modified"
-author-title: "Authors"
+#author-title: "Authors"
 
 book:
-  title: "INNO 101"
-  author: "Colin Madland & Kelly Marjanovic"
+  title: "LDRS 101"
+  author: "TWU Online"
   date: "last-modified"
   date-format: "MMM D, YYYY"
   search: true
@@ -22,15 +22,17 @@ book:
     - u4.qmd
     - u5.qmd
     - u6.qmd
-    - assessment.qmd
 # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
-    - references.qmd
+#    - references.qmd
 
 # References
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
 csl: https://twuonline.github.io/course-materials/quarto/apa.csl
 link-bibliography: true
 link-citations: true
+
+filters:
+  - custom.lua
 
 # Add templete for block
 title-block-banner: true
@@ -48,7 +50,8 @@ format:
     toc-depth: 4
     toc: true
     toc-title: On This Page
-    theme: cosmo
+    # theme: cosmo
+    theme: [cosmo, custom.scss]
     include-in-header:
     - text: |
         <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
@@ -58,11 +61,11 @@ format:
   pdf:
     documentclass: scrreprt
 # Format - Doc
-  docx:
-    toc: false
-    number-sections: true
-    highlight-style: github
-    #cite-method: biblatex
+  # docx:
+  #   toc: false
+  #   number-sections: true
+  #   highlight-style: github
+  #   cite-method: biblatex
 # Fig captions
 fig-cap-location: top
 lightbox:

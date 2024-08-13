@@ -32,7 +32,7 @@ When you have completed this unit, you should have made progress toward the foll
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Learning Activities**
 
@@ -45,15 +45,17 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Download and Install Zotero and explore how you can use this tool.
 - Explore Open Educational Resources and reflect on how you might advocate for OER.
 
-> **Notes:**
-> 
-> - *You will be directed to complete these activities as they come up in the unit.*
-> - *The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.*
-> - *If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
+::: {.note}
+
+- You will be directed to complete these activities as they come up in the unit.
+- The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.
+- If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.
 
 :::
 
-::: {.callout-note icon=false appearance="simple"}
+:::
+
+::: {.learning-activity}
 
 **Assessment**
 
@@ -291,7 +293,7 @@ Prote: Below video is set to private.
 
 ### Activity: Using Litmaps
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 1. Choose a research topic that interests you. Tip: Consider the course you are taking, or will take in the future. What key topics do you want to learn more about? Here are some other links that may help you decide:
  - [Choosing a Topic](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html){target="_blank"} from Purdue University
@@ -314,7 +316,7 @@ Prote: Below video is set to private.
 
 ### Activity: the Twu Library
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Some of your best advocates on campus or online are the librarians who work at the Norma Marion Alloway Library in Langley. They are extremely knowledgable about finding things that are hard to find, so it is ALWAYS a good idea to talk to a librarian about what you are trying to do. They are literally paid to help you succeed! One of the ways they like to help is by creating what is known as a 'LibGuide', and I encourage you to [access their LibGuide on using the search feature on the library website.](https://libguides.twu.ca/LibraryOneSearch){target="_blank"}.
 
@@ -333,7 +335,7 @@ See if you can find the answer to the following questions:
 
 ### Activity: Advanced Search
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Improving search skills will save you time and result in more productive searches. Although we focus on LitMaps and the TWU Library in this course, another tool we want to share is the Google search engine. It provides a number of features to improve your searches in finding academic resources. In this activity, you will select two open resources using the Google advanced search operators in support of your research topic.
 
@@ -356,7 +358,7 @@ Improving search skills will save you time and result in more productive searche
 
 ### Activity: Database Search
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 This activity focuses on searching database repositories. Most databases provide advanced search features, however there are differences in how each database site implements search functionality.
 
@@ -392,7 +394,7 @@ C - Currency R - Relevance A - Authority A - Accuracy P – Purpose
 
 ### Activity: Using the Craap Test
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Watch [How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)](https://www.youtube.com/watch?v=_M1-aMCJHFg){target="_blank"} that illustrates a set of steps you could take to evaluate sources.
 
@@ -417,7 +419,7 @@ There have been a number of studies examining the accuracy of Wikipedia articles
 
 ### Activity: Wikipedia: Why or Why Not?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Consider the following statement:
 
@@ -510,7 +512,7 @@ From here on to the day you graduate with your BA, then your MA, and finally you
 
 ### Activity: Using Zotero
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Now that you have connected LitMaps to Zotero, let's explore how to use Zotero in your studies.
 
@@ -576,15 +578,15 @@ Why use OER? The usefulness of OER in higher education can be attributed to seve
 - **Accessibility**: OER promotes equitable access to educational content globally. Anyone with an internet connection can benefit from OER, fostering inclusivity and addressing issues of accessibility in higher education.
 - **Customized Learning Materials**: Instructors can tailor OER to align seamlessly with course requirements, creating a personalized learning experience for students.
 - **Community Collaboration**: OER encourages collaborative knowledge-sharing among educators and students, fostering a sense of shared learning within the academic community.
-- **Current and Relevant Content: OER's adaptable nature facilitates easy updates, ensuring educational materials reflect the latest advancements, providing students with up-to-date information.
-- **Global Perspectives: The inclusive design of OER integrates diverse global viewpoints, enhancing cultural awareness and expanding students' understanding of various academic frameworks.
-- **Ethical Usage: OER operates with transparent licensing, ensuring ethical use of materials and upholding the principles of academic integrity.
+- **Current and Relevant Content**: OER's adaptable nature facilitates easy updates, ensuring educational materials reflect the latest advancements, providing students with up-to-date information.
+- **Global Perspectives**: The inclusive design of OER integrates diverse global viewpoints, enhancing cultural awareness and expanding students' understanding of various academic frameworks.
+- **Ethical Usage**: OER operates with transparent licensing, ensuring ethical use of materials and upholding the principles of academic integrity.
 
 In summary, OER offers a cost-effective, flexible, and collaborative approach to educational resource development, making it a valuable and impactful asset in higher education. Its adoption aligns with the broader goals of enhancing accessibility, affordability, and inclusivity in the learning experience.
 
 ### Activity: Finding Oers
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Go to the [Open Educational Resources Libguide](https://libguides.twu.ca/oer){target="_blank"} from the TWU Library. Watch the introduction to OER video and then browse through the category of OERs provided. Take some time to find an OER that relates to a topic that interests you.
 
@@ -594,11 +596,11 @@ In your Obsidian Learning Journal, create an entry about an OER resource you fou
 
 ### Activity: Advocating for Oer
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 So how do Open Educational Resources affect you as a student? Why should you care? We've shared some of the benefits of openness in education, but there are several other reasons OER benefit students.
 
-Watch [Watch: *A Review of the Effectiveness & Perceptions of Open Educational Resources As Compared to Textbooks*](https://www.youtube.com/watch?v=SX0K0hb_xKE){target="_blank"} <!-- Auto title, auto embed--> 
+[Watch: *A Review of the Effectiveness & Perceptions of Open Educational Resources As Compared to Textbooks*](https://www.youtube.com/watch?v=SX0K0hb_xKE){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/SX0K0hb_xKE >}}
 
@@ -606,7 +608,7 @@ Watch [Watch: *A Review of the Effectiveness & Perceptions of Open Educational R
 
 ### Activity: Reflecting on Your Resource
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 We've reached the end of Unit 2, where you have explored several tools and practiced digital skills to help you find and select resources for academic study. As you have practiced the activities in this unit, you have curated a resource bank about the topic of your choice. In this activity, we ask you to write a paragraph about this topic, utilizing the resources you have found.
 
@@ -624,13 +626,17 @@ Your paragraph must contain:
 5. Generate a pdf version of your paragraph.
 6. Prepare a short journal entre of about 150 words sharing your experiences in using citation management software. For example: What worked well?, Did you struggle with any of the instructions? Did you learn any new skills?
 
+::: {.note}
+
 Note that this reflection can be uses for your assessment in this course.
+
+:::
 
 :::
 
 ### Activity: Annotated Bibliography
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity you will create an annotated bibliography related to a research topic of your choice.
 
@@ -665,19 +671,23 @@ In addition, exploring Openness in Education broadened your understanding of the
 
 ## Assessment {.unnumbered}
 
-::: {.callout-note icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Assignment 1: Learning Journal**
 
 The learning activities in this unit are designed to support you as you build your *Learning Journal* (Assignment 1). Please see the Assessment section in Moodle for details on this assignment. Note the activities also relate to your Digital Literacy Portfolio (Assignment 3), so be intentional about completing each activity in this unit to support your in these assignments.
 
-> All assignment details, including the grading rubrics, are located in the Assessment section in Moodle. Please read the instructions carefully and don't hestitate to reach out for support.
+::: {.note}
+
+All assignment details, including the grading rubrics, are located in the Assessment section in Moodle. Please read the instructions carefully and don't hestitate to reach out for support.
+
+:::
 
 :::
 
 ## Checking Your Learning {.unnumbered}
 
-::: {.callout-warning icon=false appearance="simple"}
+::: {.learning-activity}
 
 Before you move on to the next unit, check that you are able to:
 

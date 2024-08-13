@@ -34,7 +34,7 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Learning Activities**
 
@@ -49,15 +49,17 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Use the *Terms of Service: Didn’t Read* website to look up each of the apps we will learn in this course.
 - Write a reflection on digital literacies in your learning journal.
 
-> **Notes:**
-> 
-> - *You will be directed to complete these activities as they come up in the unit.*
-> - *The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.*
-> - *If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
+::: {.note}
+
+- *You will be directed to complete these activities as they come up in the unit.*
+- *The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.*
+- *If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
 
 :::
 
-::: {.callout-note icon=false appearance="simple"}
+:::
+
+<!--::: {.learning-activity}
 
 **Assessment**
 
@@ -65,7 +67,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 > *See the Assessment section in Moodle for assignment details.*
 
-:::
+:::-->
 
 ### Resources {.unnumbered}
 
@@ -73,7 +75,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ### Activity: Why Twu?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Before we dive in to some digital tools you may use in your academic studies at Trinity, let's pause and think about what TWU means to you. Why did you choose TWU? What do you hope to achieve during your time here?
 
@@ -94,7 +96,7 @@ What do you think? Consider the following prompts:
 
 ### Activity: Join the Hub!
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, which is an app called *Discourse* that we use to build community among learners in online courses. Find the *Leadership 101* category and respond to the *Welcome* forum. As you introduce yourself, share your thoughts and questions you have about TWU.
 
@@ -132,7 +134,7 @@ Here is some additional advice from TWU students. Watch [Learning Online: Studen
 
 ### Activity: Learning Online Effectively
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 There are thousands of websites that offer 'Tips for online learning', or 'How to succeed in your online class' advice, and some of those sites are good (see [here](https://www.purdueglobal.edu/blog/online-learning/online-learning-self-motivation/){target="_blank"}, [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the Liberated Learner project, which was created primarily by Ontario university and college students like you. There are four main sections in the Liberated Learner resource, and we will explore 'The Learner' in this activity.
 
@@ -148,7 +150,7 @@ Having worked through *The Learner*, consider the ideas you think would be most 
 
 Participating in discussions with your peers, what higher education folks like to call *discourse* (a verb), is an essential aspect of effective online courses, facilitated through platforms such as Moodle discussion forums, WordPress blogs, Discourse (a noun referring to the app called Discourse) posts, and others. We all know that discussion forums can sometimes be tedious, especially when they are assessed the same way a formal paper is assessed. However, the benefits of using asynchronous technologies (where your interactions with others are time-delayed) in well-designed activities can be significant.
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Here is an article, by Galikyan and Admiraal [-@galikyanStudentsEngagementAsynchronous2019], for you to read that will introduce you to some key ideas about discussion forums.
 
@@ -156,7 +158,11 @@ Galikyan, I., & Admiraal, W. (2019). [Students’ engagement in asynchronous onl
 
 <!-- This link didn't work for me. [https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#](https://eds-p-ebscohost-com.twu.idm.oclc.org/eds/detail/detail?vid=1&sid=1ed25c6c-b7f3-47b9-8ea3-249c74d9335c%40redis&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#){target="_blank"} checking if the permalink will work now. --> 
 
-Note: You may need to sign in to the TWU library to access this article. [You can find help here.](https://libguides.twu.ca/help){target="_blank"}
+::: {.note}
+
+You may need to sign in to the TWU library to access this article. [You can find help here.](https://libguides.twu.ca/help){target="_blank"}
+
+:::
 
 ***Write while you read!***
 
@@ -221,7 +227,7 @@ For more on substantive participation, read [Writing A Substantive Discussion Po
 
 ### Activity: Start a Conversation!
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about one of the following (or something else relevant):
 
@@ -262,7 +268,7 @@ What digital tools do you use to help you make meaning? What is your "go-to" app
 
 ### Activity: Getting Started With Obsidian
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Follow the steps below to install Obsidian on your computer.
 
@@ -281,7 +287,7 @@ Obsidian will become a backbone of this course as we will use it to learn how th
 
 ### Activity: Download the Starter Vault
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 To give you a head start, we have created a **starter vault** for you to download and use. Follow the instructions below to access the starter vault.
 
@@ -319,7 +325,7 @@ Now that you have a place to record your course notes, let's jump back into the 
 
 ### Activity: Reflection on the 21st Century Learner
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 The following video, published by the MacArthur Foundation, questions how digital media are changing the way young people learn, play, socialize, and participate in civic life. John Seely Brown a researcher with particular interests in radical innovation and digital culture suggests that today’s gaming oriented children want to be measured and feel that if they are not learning, it is not fun. How does this relate to how you feel about learning?
 
@@ -365,7 +371,7 @@ In the next activity, you will start to unpack this term and prepare your own in
 
 ### Activity: Definining Digital Literacy
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference. Follow the steps below and feel free to jot down some notes in your Obsidian journal. If you are completing this activity on a new day, create a new daily note.
 
@@ -395,7 +401,7 @@ As you explore the concept, you will find online resources which confuse digital
 
 ### Activity: What Are Digital Literacies?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Watch educator and researcher Doug Belsahw as he discusses his digital literacies framework: [Watch: *The essential elements of digital literacies: Doug Belshaw at TEDxWarwick*](https://www.youtube.com/watch?v=A8yQPoTcZ78){target="_blank"} <!-- Auto title, auto embed--> 
 
@@ -423,7 +429,7 @@ Conduct a quick Google search for "digital literacies" and throw in terms such a
 
 ### Activity: Why Digital Literacy Matters
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 A key component of digital literacy and networked learning relates to the ability to engage meaningfully in online learning communities.
 
@@ -441,7 +447,7 @@ Next, go to the LDRS 101 section in Discourse. Post a contribution to the discus
 
 ### Activity: Am I Digitally Literate?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Digital literacies encompasses a wide range of capabilities which extend beyond the digital skills associated with different technologies.
 
@@ -472,9 +478,9 @@ Have you encountered the terms 'digital natives' and 'digital immigrants'? What 
 
 <!-- Thinking of a high school, first year uni student... they may not have encountered this conversation. It is likely that you have encountered and may believe that there is a distinction between digital 'natives' and 'immigrants'. also changing *kids these days* below and "those of us whose formative years pre-date the advent of the internet" --> 
 
-::: {.callout-important icon=false appearance="simple"}
+::: {.note}
 
- Note: [Marc Prensky](https://marcprensky.com/){target="_blank"} coined the terms 'digital natives' and 'digital immigrants'. We recognize that the term 'native' should not be used to talk about people.
+[Marc Prensky](https://marcprensky.com/){target="_blank"} coined the terms 'digital natives' and 'digital immigrants'. We recognize that the term 'native' should not be used to talk about people.
 
 :::
 
@@ -492,7 +498,7 @@ At the same time, if we can imagine the visitor $\leftrightarrow$ resident conti
 
 ### Activity: Where Am I Online?
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 The video below explains a process to help you think about where you reside on the web (7 mins).
 
@@ -532,14 +538,18 @@ For many university students, a Learning Management System (LMS) like Moodle is 
 
 ### Activity: Visitor and Resident Diagram
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 I hope this activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with each other. Do the tools you use fall on the visitor or the resident end of your continuum? How do these tools impact your learning?
 
 - **Read** [ Visitors and Residents: A new typology for online engagement ](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"}
 - Create a new 'Canvas' in your Obsidian vault and create your own ***Visitor/Resident*** map. We have created a sample VR Diagram in the vault.
 
-> ***Note:*** *This VR diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.*
+::: {.note}
+
+This VR diagram can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.
+
+:::
 
 :::
 
@@ -598,7 +608,7 @@ Get a [password manager](https://en.wikipedia.org/wiki/Password_manager){target=
 
 ### Activity: Get a Password Manager
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 If you don’t already use a password manager, set up an account with [Lastpass](https://www.lastpass.com/){target="_blank"}, [1password](https://1password.com/){target="_blank"}, or the free password manager, [Bitwarden](https://bitwarden.com/){target="_blank"} to familiarize yourself with how password managers work.
 
@@ -647,7 +657,7 @@ So how can we protect ourselves if new threats are emerging all the time?
 
 ### Activity: Tos Analysis
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 Use the [Terms of Service: Didn't Read](https://tosdr.org/){target="_blank"} site to look up each of the apps we will learn in this course. Each tool currently has it's own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own exampination of the ToS for each tool.
 
@@ -657,7 +667,7 @@ Feel free to add components to the template.
 
 ### Activity: Introduction To the Reflective Journaling
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 For the final activity of Unit 1 you will be asked to write a reflective journal entry in Obsidian on the topic of Digital Literacy. This entry can be used as part of **Assignment 1: Learning Journal**.
 
@@ -690,7 +700,7 @@ As you continue your studies with TWU, you will likely be asked to write in a Re
 
 ### Activity: Digital Literacies for Online Learning
 
-::: {.callout-tip icon=false appearance="simple"}
+::: {.learning-activity}
 
 In this activity you are asked to write a reflective journal entry on the topic of Digital Literacy.
 
@@ -714,7 +724,11 @@ Next, respond to the following prompts:
 - Summarise an action plan for improving your digital literacies. Identify the literacies you plan to improve including the reasons why and how you aim to achieve this.
 - Ensure that your references are cited appropriately.
 
-> ***Note:*** *This journal entry can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.*
+::: {.note}
+
+This journal entry can be used to demonstrate your understanding of the course learning outcomes. See the Assessment tab in Moodle for how this activity relates to the assessments in this course.
+
+:::
 
 :::
 
@@ -724,7 +738,7 @@ In this first unit, you have had the opportunity to learn about some of the impa
 
 ## Assessment {.unnumbered}
 
-::: {.callout-note icon=false appearance="simple"}
+::: {.learning-activity}
 
 **Assignment 1: Learning Journal**
 
@@ -736,7 +750,7 @@ All assignment details, including the grading rubrics, are located in the Assess
 
 ## Checking Your Learning {.unnumbered}
 
-::: {.callout-warning icon=false appearance="simple"}
+::: {.learning-activity}
 
 Before you move on to the next unit, check that you are able to:
 
