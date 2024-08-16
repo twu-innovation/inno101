@@ -47,7 +47,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ::: {.note}
 
-Learning activities are designed to prepare you for graded assigments. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.
+Learning activities are designed to prepare you for graded assigments. You are strongly encouraged to complete them. 
 
 :::
 
@@ -83,7 +83,7 @@ This unit aims to guide you in creating your Learning Blog, the central componen
 
 > 'Personal Learning Environments are systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services.' [PLE Wiki](https://edutechwiki.unige.ch/en/Personal_learning_environment){target="_blank"}
 
-> A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#){target="_blank"}) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction){target="_blank"}.
+<!-- > A Personal Learning Environment is "a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences ([Castañeda, Cosgrave, Marín, Cronin, 2016](https://naerjournal.ua.es/article/view/v6n1-introduction#){target="_blank"}) cited in [Personal Learning Environments: Research-Based Practices, Frameworks and Challenges](https://naerjournal.ua.es/article/view/v6n1-introduction){target="_blank"}.-->
 
 Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?
 
@@ -305,8 +305,8 @@ Prote: This section will need to be updated after wordpress guides have been upd
 
 When you’re ready to start customizing your blog and putting content in, check out some tutorials available to you:
 
-- [TWU's Wordpress Support Page](https://www.twu.ca/academics/academic-professional-support/online-learning-resources/wordpress){target="_blank"}
-- TWU's Wordpress Video Tutorials - new sharepoint address?
+<!--- [TWU's Wordpress Support Page](https://www.twu.ca/academics/academic-professional-support/online-learning-resources/wordpress){target="_blank"}
+- TWU's Wordpress Video Tutorials-->
 - [WordPress Support Website](https://wordpress.com/support/){target="_blank"}
 - [Beginner’s guide for WordPress](https://www.wpbeginner.com/start-here/){target="_blank"} by WPBeginner
 - [WordPress Tutorials](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/){target="_blank"} from University of Victoria
@@ -417,7 +417,7 @@ So far in Unit 4, you have created a Learning Blog in WordPress, explored your s
 
 As we step into this new topic, we encourage you to engage in a critical examination of the online tools you use or are interested in. Beyond the basic considerations of functionality and user-friendliness, we invite you to assess digital tools, platforms, and interactions through the lens of ethical principles.
 
-So how do we evaluate technology on ethical principles? Here are some guiding questions from [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About){target="_blank"}:
+So how do we evaluate technology on ethical principles? Here are some guiding questions from Ethical EdTech<!--[Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About){target="_blank"}-->:
 
 >**Guiding Questions**
 >
@@ -440,7 +440,7 @@ Read the following [Rubric for Digital Tool Evaluation](assets/u4/U4_Rubric-for-
 To help you select your criteria, read the following:
 
 - [Privacy policy](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} from the Internet Society
-- [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About){target="_blank"}
+<!-- - [Ethical EdTech](https://ethicaledtech.info/wiki/Meta:About){target="_blank"}-->
 
 This next website might be a bit of an eye-opener. You may want to browse through some common tech examples and see their score.
 
@@ -550,7 +550,7 @@ Your blog post must:
 
 In this unit, you have had the opportunity to learn about your personal learning environment and build your presence on the web using a blog. You've examined your digital footprint and reflected on your online identity - what it is now, and where you want it to be. You've also had an opportunity to evaluate digital tools and their ethical implications, and consider what tools will help you academically and personally. As you continue with the last two units of the course, we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.
 
-## Assessment {.unnumbered}
+<!--## Assessment {.unnumbered}
 
 ::: {.learning-activity}
 
@@ -560,7 +560,7 @@ The learning activities in this unit are designed to support you as you create y
 
 All assignment details, including the grading rubrics, are located in the Assessment section in Moodle. Please read the instructions carefully and don't hestitate to reach out for support.
 
-:::
+:::-->
 
 ## Checking Your Learning {.unnumbered}
 

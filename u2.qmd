@@ -49,7 +49,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - You will be directed to complete these activities as they come up in the unit.
 - The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.
-- If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.
 
 :::
 
@@ -298,7 +297,7 @@ Prote: Below video is set to private.
 1. Choose a research topic that interests you. Tip: Consider the course you are taking, or will take in the future. What key topics do you want to learn more about? Here are some other links that may help you decide:
  - [Choosing a Topic](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html){target="_blank"} from Purdue University
  - [Building Your Research Skills](https://libguides.twu.ca/ResearchSkills/Home){target="_blank"} from the TWU Library.
- - [How do I choose a research topic?](https://www.library.wisc.edu/college/research-help/how-do-i/how-do-i-choose-a-research-topic/){target="_blank"} from University of Wisconsin-Madison
+<!-- - [How do I choose a research topic?](https://www.library.wisc.edu/college/research-help/how-do-i/how-do-i-choose-a-research-topic/){target="_blank"} from University of Wisconsin-Madison-->
  - Conduct a general Internet search for “Topical issues in Business” or “Topical issues in Higher Education” and scan whether any of these issues are of personal interest.
 2. State your topic in the form of a question. For example:
   - How will robotics impact on the future of work?
@@ -340,17 +339,18 @@ See if you can find the answer to the following questions:
 Improving search skills will save you time and result in more productive searches. Although we focus on LitMaps and the TWU Library in this course, another tool we want to share is the Google search engine. It provides a number of features to improve your searches in finding academic resources. In this activity, you will select two open resources using the Google advanced search operators in support of your research topic.
 
 1. Read the [Google advanced search operators cheat sheet](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/){target="_blank"} and try a few searches using the operators. Also see [Google Search Cheatsheet](https://quickref.me/google-search.html){target="_blank"} for a more comprehensive list.
-1. Use the Google search operators (you enter these directly into the search text area) to:
+2. Use the Google search operators (you enter these directly into the search text area) to:
  - Identify at least ten pdf documents which have Open Educational Resources in their titles. (Are they all accessible for download?)
  - Find a pdf version of the editorial entitled: Scholarship and literacies in a digital age (Who are the authors?).
  - Find the article with the following citation in text: the term digital literacies is contested with differing uses of the term revealing competing and even contradictory theoretical perspectives (Who is the author?)
-1. Visit the [Google Advanced Search](https://www.google.com/advanced_search){target="_blank"} web interface:
+3. Visit the [Google Advanced Search](https://www.google.com/advanced_search){target="_blank"} web interface:
  - Conduct a search for digital literacies and scan the results
  - Go back to the Google Advanced Search web interface and remove words from the search, for example “skills” or “school” and compare the results.
  - Click on tools and find results for the date range 1 May 2020 to 1 May 2023
  - Click on images and find versions which are licensed for reuse with modification (useful when sourcing images for your course blog with the necessary legal permissions for reuse).
 
 **Other Search Engines**:
+
 - [Google Scholar](https://scholar.google.com/){target="_blank"} is a good search engine to find scholarly publications. The downside is that Google Scholar does not distinguish between closed and open resources. However, search results which show a pdf next to the listing will probably provide access to a full text version.
 - [Unpaywall](https://unpaywall.org/){target="_blank"} is a free and legal way to identify authored-uploaded pdfs. There are extensions for the Chrome and Firefox open source browsers. Read the frequently asked questions for more information.
 
@@ -366,7 +366,7 @@ This activity focuses on searching database repositories. Most databases provide
 - [Top ten database search tips](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"} published by Berkley City College Library.
 - [Searching in databases](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"} published by the University of Queensland Library.
 - [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} – see also FAQs
-- [BASE Advanced Search](https://mobile.base-search.net/Search/Advanced/){target="_blank"}
+<!--- [BASE Advanced Search](https://mobile.base-search.net/Search/Advanced/){target="_blank"}-->
 2. View the following video on using the [Directory of Open Access Journals (DOAJ)](https://www.youtube.com/watch?v=ndvLm9MIfKA){target="_blank"}.
 
 {{< video https://www.youtube-nocookie.com/embed/ndvLm9MIfKA >}}
@@ -669,7 +669,7 @@ In this unit, you have had the opportunity to develop crucial skills for navigat
 
 In addition, exploring Openness in Education broadened your understanding of the transformative power of freely accessible educational resources. By delving into the principles of open educational resources (OER) and open access, we hope to have conveyed their significance in making education more accessible. This newfound awareness not only empowers you as a learner but also places you in a role as a contributor to a global academic community. As you conclude this unit with refined skills in resource navigation, citation management, and a deeper appreciation for openness in education, you are well-equipped to responsibly and effectively leverage digital resources for ongoing academic and professional growth. These skills are not just tools for immediate success but enduring assets, shaping your lifelong journey in the ever-evolving realm of digital knowledge.
 
-## Assessment {.unnumbered}
+<!--## Assessment {.unnumbered}
 
 ::: {.learning-activity}
 
@@ -683,7 +683,7 @@ All assignment details, including the grading rubrics, are located in the Assess
 
 :::
 
-:::
+:::-->
 
 ## Checking Your Learning {.unnumbered}
 

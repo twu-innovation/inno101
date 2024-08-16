@@ -51,9 +51,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ::: {.note}
 
-- *You will be directed to complete these activities as they come up in the unit.*
-- *The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.*
-- *If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
+- You will be directed to complete these activities as they come up in the unit.
+- The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.
 
 :::
 
@@ -736,7 +735,7 @@ This journal entry can be used to demonstrate your understanding of the course l
 
 In this first unit, you have had the opportunity to learn about some of the impacts of *the digital* on your life. You have started to build an academic knowledge management workflow, a pivotal skill essential for efficiently organizing, accessing, and leveraging information. Throughout the unit, you've actively engaged with the digital tools, shared insights into your personal interactions with digital technology, and begun applying these tools to enhance your academic learning experience. Furthermore, you've developed a personalized understanding of digital literacy and explored how to protect yourself and others in digital and online contexts. As you progress through the course, take a moment to identify the specific literacies you aspire to refine and articulate the concrete steps you intend to take in pursuit of these goals.
 
-## Assessment {.unnumbered}
+<!--## Assessment {.unnumbered}
 
 ::: {.learning-activity}
 
@@ -746,7 +745,7 @@ The learning activities in this unit are designed to support you as you build yo
 
 All assignment details, including the grading rubrics, are located in the Assessment section in Moodle. Please read the instructions carefully and don't hestitate to reach out for support.
 
-:::
+:::-->
 
 ## Checking Your Learning {.unnumbered}
 

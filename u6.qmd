@@ -51,7 +51,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ::: {.note}
 
-The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them. If you plan to complete this course in 12 weeks, this unit should take 9-12 hours to complete.*
+The learning activities in this course are designed to prepare you for the graded assigments in this course. You are strongly encouraged to complete them.
 
 :::
 
@@ -1201,7 +1201,7 @@ Finally, we introducted the concept of digital wisdom. As you continue to integr
 > "Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God."
 > [TWU Mission & Vision Statements](https://www.twu.ca/about-us/commitments/mission-vision){target="_blank"}
 
-## Assessment {.unnumbered}
+<!--## Assessment {.unnumbered}
 
 ::: {.learning-activity}
 
@@ -1211,7 +1211,7 @@ The learning activities in this unit are designed to support you as you build yo
 
 All assignment details, including the grading rubrics, are located in your syllabus and in the Assessment section in Moodle. Please read the instructions carefully and don't hestitate to reach out for support.
 
-:::
+:::-->
 
 ## Checking Your Learning {.unnumbered}
 
