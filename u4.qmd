@@ -87,7 +87,7 @@ This unit aims to guide you in creating your Learning Blog, the central componen
 
 Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?
 
-### Activity: What Is a Ple?
+### Activity: What Is a PLE?
 
 ::: {.learning-activity}
 
@@ -105,7 +105,7 @@ After reading the article, consider the following:
 
 Finally, consider the approach taken at TWU as it supports inquiry-rich learning. As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
 
-[Watch: Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} <!-- Auto title, auto embed--> 
+[*Watch: Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/SCa9Nt3X1vU >}}
 
@@ -194,7 +194,7 @@ Prote: This section will need to be updated after wordpress guides have been upd
 
 :::
 
-insert - Animation showing location of WordPress help tab - from [https://create.twu.ca/eportfolios/wordpress/](https://create.twu.ca/eportfolios/wordpress/){target="_blank"}<!-- Auto link title --> 
+<!--insert - Animation showing location of WordPress help tab - from [https://create.twu.ca/eportfolios/wordpress/](https://create.twu.ca/eportfolios/wordpress/){target="_blank"} --> 
 
 </details>
 

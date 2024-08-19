@@ -313,7 +313,7 @@ Prote: Below video is set to private.
 
 :::
 
-### Activity: the Twu Library
+### Activity: the TWU Library
 
 ::: {.learning-activity}
 
@@ -322,6 +322,7 @@ Some of your best advocates on campus or online are the librarians who work at t
 Take some time to browse the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} website.
 
 See if you can find the answer to the following questions:
+
 - Is it possible to borrow or download an e-book?
 - I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?
 - Do you have books in languages other than English?
@@ -340,14 +341,14 @@ Improving search skills will save you time and result in more productive searche
 
 1. Read the [Google advanced search operators cheat sheet](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/){target="_blank"} and try a few searches using the operators. Also see [Google Search Cheatsheet](https://quickref.me/google-search.html){target="_blank"} for a more comprehensive list.
 2. Use the Google search operators (you enter these directly into the search text area) to:
- - Identify at least ten pdf documents which have Open Educational Resources in their titles. (Are they all accessible for download?)
- - Find a pdf version of the editorial entitled: Scholarship and literacies in a digital age (Who are the authors?).
- - Find the article with the following citation in text: the term digital literacies is contested with differing uses of the term revealing competing and even contradictory theoretical perspectives (Who is the author?)
+- Identify at least ten pdf documents which have Open Educational Resources in their titles. (Are they all accessible for download?)
+- Find a pdf version of the editorial entitled: Scholarship and literacies in a digital age (Who are the authors?).
+- Find the article with the following citation in text: the term digital literacies is contested with differing uses of the term revealing competing and even contradictory theoretical perspectives (Who is the author?)
 3. Visit the [Google Advanced Search](https://www.google.com/advanced_search){target="_blank"} web interface:
- - Conduct a search for digital literacies and scan the results
- - Go back to the Google Advanced Search web interface and remove words from the search, for example “skills” or “school” and compare the results.
- - Click on tools and find results for the date range 1 May 2020 to 1 May 2023
- - Click on images and find versions which are licensed for reuse with modification (useful when sourcing images for your course blog with the necessary legal permissions for reuse).
+- Conduct a search for digital literacies and scan the results
+- Go back to the Google Advanced Search web interface and remove words from the search, for example “skills” or “school” and compare the results.
+- Click on tools and find results for the date range 1 May 2020 to 1 May 2023
+- Click on images and find versions which are licensed for reuse with modification (useful when sourcing images for your course blog with the necessary legal permissions for reuse).
 
 **Other Search Engines**:
 
@@ -404,6 +405,7 @@ Watch [How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)](http
 **Questions To Consider**
 
 After completing the activity above, consider the following questions:
+
 - Which part of the CRAAP test did you find most useful in evaluating sources?
 - What steps can you take when you evaluate any sources you find?
 
@@ -558,7 +560,7 @@ And here is an article you can read (for free) from the British organization Won
 
 OER, or Open Educational Resources, refers to freely accessible and openly licensed educational materials that can be used, shared, and modified without cost. These resources include a variety of digital assets, such as textbooks, lecture notes, multimedia content, and assessment tools. The key features of OER include their open licenses, which typically allow users to ***retain, reuse, revise, remix***, and ***redistribute*** the content.
 
-### The 5 R's of Openess {.unnumbered}
+### The 5 R's of Openness {.unnumbered}
 
 **Retain** the right to make, own, and control copies of the content
 
@@ -614,14 +616,13 @@ We've reached the end of Unit 2, where you have explored several tools and pract
 
 1. Read How to write a good paragraph published by Ashford University.
 2. Draft a paragraph using your word processor on an issue relating to your research topic.
-
-Your paragraph must contain:
-- A verbatim quotation extract from one of your sources
-- A paraphrased fact from one of your sources
+   - **Your paragraph must contain:**
+      - A verbatim quotation extract from one of your sources
+      - A paraphrased fact from one of your sources
 3. Use the features of your citation management software to integrate
-- the in-text reference for your quotation
-- the in-text reference for the paraphrased fact
-- the automatically generated reference list using the APA style.
+   - the in-text reference for your quotation
+   - the in-text reference for the paraphrased fact
+   - the automatically generated reference list using the APA style.
 4. Consult the Quick APA guide to review your formatting.
 5. Generate a pdf version of your paragraph.
 6. Prepare a short journal entre of about 150 words sharing your experiences in using citation management software. For example: What worked well?, Did you struggle with any of the instructions? Did you learn any new skills?

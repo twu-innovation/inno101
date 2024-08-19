@@ -143,11 +143,10 @@ Career Ready Framework
 
 :::
 
-<!-- @cmadland - We need a click to enlarge feature here. --> 
-
 What competencies do you see that relate to social learning and digital skills? As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 
 Consider the following questions:
+
 - What skills and competencies do you want to practice to be successful in your future career?
 - How does collaborative learning and sharing your learning contribute to your learning journey?
 
@@ -233,11 +232,12 @@ What is your experience with AI? Have you used an AI tool, such as Grammerly or 
 
 In the next activity, we'll explore some of these questions and concerns.
 
-### Activity: How Can I Use Ai as a Student?
+### Activity: How Can I Use AI as a Student?
 
 ::: {.learning-activity}
 
 First, do a quick search online for AI tools for university students. Examples:
+
 - [How can AI be used by university students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"}
 - [The 10 Best AI Tools to Help Students Learn Faster](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"}
 
@@ -251,11 +251,15 @@ Search online for key words related to this issue, such as "university concern p
 
 Here are some guidelines you may receive from your instructors at TWU:
 
-• Students are encouraged to make use of technology, including generative artificial intelligence tools, to contribute to their understanding of course materials. • Students must submit, as an appendix with their assignments, any content produced by an artificial intelligence tool, and the prompt used to generate the content. • Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats are now providing information on citing generative AI (e.g., MLA: [Page not found | MLA Style Center](https://style.mla.org/citing-generative-ai/){target="_blank"}.) • Students may use artificial intelligence tools for creating an outline for an assignment, but the final submitted assignment must be original work produced by the individual student alone. • Students may not use artificial intelligence tools for taking tests, writing research papers, creating computer code, or completing major course assignments. However, these tools may be useful when gathering information from across sources and assimilating it for understanding.<!-- Auto link title --> 
+- Students are encouraged to make use of technology, including generative artificial intelligence tools, to contribute to their understanding of course materials. 
+- Students must submit, as an appendix with their assignments, any content produced by an artificial intelligence tool, and the prompt used to generate the content. 
+- Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats are now providing information on citing generative AI (e.g., MLA: [How do I cite generative AI in MLA style?](https://style.mla.org/citing-generative-ai/){target="_blank"}.) 
+- Students may use artificial intelligence tools for creating an outline for an assignment, but the final submitted assignment must be original work produced by the individual student alone. 
+- Students may not use artificial intelligence tools for taking tests, writing research papers, creating computer code, or completing major course assignments. However, these tools may be useful when gathering information from across sources and assimilating it for understanding.<!-- Auto link title --> 
 
 If you have any question about the use of AI applications for course work, please speak with your instructor.
 
-Next, watch [Watch: *How AI Could Save (Not Destroy) Education | Sal Khan | TED*](https://www.youtube.com/watch?v=hJP5GqnTrNo){target="_blank"} <!-- Auto title, auto embed--> 
+Next, watch [Watch: *How AI Could Save (Not Destroy) Education | Sal Khan | TED*](https://www.youtube.com/watch?v=hJP5GqnTrNo){target="_blank"}
 
 {{< video https://www.youtube-nocookie.com/embed/hJP5GqnTrNo >}}
 
@@ -264,21 +268,20 @@ Here is one more article that discusses the pros and cons for English Learners u
 
 :::
 
-### Activity: How To Identify Ai Generated Text
+### Activity: How To Identify AI Generated Text
 
 ::: {.learning-activity}
 
 Explore the infographic below by Ryan Morrison.
 *Tip: You may want to view the resource full screen (Click on the three dots on the bottom right, and then select the full screen arrows.)*
 
-//todo <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 Consider trying out ChatGPT to see if you can spot the ways to identify AI generated writing.
 
 Next, watch the video from Mark Lyda [Watch: *Plagiarizing ChatGPT - Is it Illegal?*](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
-
 
 Optional resource: [ChatGPT and artificial intelligence in higher education: quick start guide](https://www.iesalc.unesco.org/wp-content/uploads/2023/04/ChatGPT-and-Artificial-Intelligence-in-higher-education-Quick-Start-guide_EN_FINAL.pdf){target="_blank"} (Sabzalieva & Valentini, 2023).
 
@@ -292,7 +295,7 @@ In this section we consider the impact of automation on the future job market an
 - What jobs are most at risk of being replaced by robots?
 - What are the implications for learning in a digital age?
 
-### Activity: Impact of Automation & Ai in the Workplace
+### Activity: Impact of Automation & AI in the Workplace
 
 ::: {.learning-activity}
 
@@ -302,14 +305,13 @@ Next, watch [Watch: *Humans Need Not Apply*](https://www.youtube.com/watch?v=7Pq
 
 {{< video https://www.youtube-nocookie.com/embed/7Pq-S557XQU >}}
 
-
 Finally, read [The Potential of Collaborative Intelligence for Social Media and Online Communities](https://ts2.space/en/the-potential-of-collaborative-intelligence-for-social-media-and-online-communities/){target="_blank"} by [Marcin Frąckiewicz](https://ts2.space/en/author/marcin/){target="_blank"}.
 
 Consider your chosen field of study. How can AI benefit your industry? Are there any concerns regarding how AI might be used?
 
 :::
 
-### Activity: the Price of Ai
+### Activity: the Price of AI
 
 ::: {.learning-activity}
 
@@ -1008,14 +1010,9 @@ Watch [Watch: *The problem with "Don't Feed the Trolls" | Steph Guthrie | TEDxTo
 
 :::
 
-### What Is Dei? {.unnumbered}
-
-
-::: {.definition name="DEI" #dei}
+### What Is DEI? {.unnumbered}
 
 Diversity, equity, and inclusion (usually abbreviated DEI) refers to organizational frameworks which seek to promote "the fair treatment and full participation of all people", particularly groups "who have historically been underrepresented or subject to discrimination" on the basis of identity or disability. These three notions (diversity, equity, and inclusion) together represent "three closely linked values" which organizations seek to institutionalize through DEI frameworks. [Wikipedia](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion){target="_blank"}
-
-:::
 
 Consider the graphic below. How does it portray differences? How are those differences addressed?
 
@@ -1023,7 +1020,7 @@ Consider the graphic below. How does it portray differences? How are those diffe
 
 ![](assets/u6/Equity_vs_Equality.jpg){fig-alt="Equity vs Equality" .lightbox fig-align="left"}
 
-> *[Photo](https://flickr.com/photos/mpcaphotos/31655988501){target="_blank"} by [MN Pollution Control Agency](https://flickr.com/people/mpcaphotos){target="_blank"} shared under a [Creative Commons (BY-NC) license](https://creativecommons.org/licenses/by-nc/2.0/){target="_blank"}*
+*[Photo](https://flickr.com/photos/mpcaphotos/31655988501){target="_blank"} by [MN Pollution Control Agency](https://flickr.com/people/mpcaphotos){target="_blank"} shared under a [Creative Commons (BY-NC) license](https://creativecommons.org/licenses/by-nc/2.0/){target="_blank"}*
 
 Equity vs Equality
 
@@ -1039,7 +1036,7 @@ Many academics in higher education hold this value of equality. Others promote e
 
 This one example identifies one of the "sticky points" in the DEI debate. In the next activity, we'll introduce some views on the DEI topic.
 
-### Activity: Perspectives on Dei
+### Activity: Perspectives on DEI
 
 ::: {.learning-activity}
 
@@ -1062,7 +1059,7 @@ If interested, check out [DEI Is Destroying Science](https://www.youtube.com/wat
 
 :::
 
-### Activity: Dei & Practising Christian Hospitality
+### Activity: DEI & Practising Christian Hospitality
 
 ::: {.learning-activity}
 
@@ -1071,9 +1068,9 @@ As a final reflection on this topic, we invite you to read TWU's core values pag
 TWU explains the core value of Practising Christian Hospitality:
 
 >Trinity Western University students, staff, faculty, and administrators are called to welcome, genuinely include and consistently care for all individuals. Christ taught and modelled hospitality to all, including those on the margins, as an essential element of Christian faith and practice. Hospitality is vital to our life in the Trinity Western University community and to our life in and witness to other communities.
-
->Practising Christian hospitality undergirds and promotes equity, diversity and inclusion.
 >
+>Practising Christian hospitality undergirds and promotes equity, diversity and inclusion.
+
 > - **Equity** is founded in our being created in the image of God; every human being has inherent dignity and worth (Gen 1:26-28; 5:1-2; Col 1:15).
 > - **Diversity** is inherent in God’s creation; it is good (Gen 1:11-12, 21-25).
 > - **Inclusion** is essential to the body of Christ; we are diverse and interdependent (1 Cor 12:12-31; Isa 56:3-8).
@@ -1131,7 +1128,7 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 1. Choose a topic of interest.
 2. Conduct a search to identify reliable and credible online resources on your selected topic. Try to find resources from your own country or region, or your own area of work.
 3. Select the two best resources;
-4. Read [How to write a notable editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"}
+4. Read [How To Write A Notable Editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"}
 5. Using the topic you selected, decide on the type of editorial, for example:
 - Explaining or interpreting
 - Criticising

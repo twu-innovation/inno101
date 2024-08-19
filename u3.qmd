@@ -54,9 +54,9 @@ The learning activities in this course are designed to prepare you for the grade
 
 - All resources will be provided online in the unit.
 
-[Watch: *Stop Studying. Start Learning | Justin Sung | TEDxUOA*](https://www.youtube.com/watch?v=TQXMl4GycD0){target="_blank"}
+<!--[Watch: *Stop Studying. Start Learning | Justin Sung | TEDxUOA*](https://www.youtube.com/watch?v=TQXMl4GycD0){target="_blank"}
 
-{{< video https://www.youtube-nocookie.com/embed/TQXMl4GycD0 >}}
+{{< video https://www.youtube-nocookie.com/embed/TQXMl4GycD0 >}}-->
 
 ## Sense-making Through Hyperlinks
 

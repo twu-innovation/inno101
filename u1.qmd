@@ -368,14 +368,14 @@ Let's dive a little deeper into this topic of digital literacy. What is it? How 
 
 In the next activity, you will start to unpack this term and prepare your own initial definition of digital literacy.
 
-### Activity: Definining Digital Literacy
+### Activity: Defining Digital Literacy
 
 ::: {.learning-activity}
 
 Let's take a look at the definitions of digital literacy and digital skills on the web and identify the difference. Follow the steps below and feel free to jot down some notes in your Obsidian journal. If you are completing this activity on a new day, create a new daily note.
 
 1. Read Wikipedia’s definition of [Digital literacy](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} – Is this a good description?
-1. Scan the [#diglit](https://twitter.com/i/flow/login?redirect_after_login=%2Fhashtag%2Fdiglit%3Fs%3D03){target="_blank"} hashtag on X (Twitter) – Did you find any valuable links to defining digital literacy?
+1. Scan the #diglit or #digital-literacy hashtags on [X (Twitter)](https://x.com/home){target="_blank"} – Did you find any valuable links to defining digital literacy?
 1. Conduct a Google search for “digital literacy.” Select a few definitions you like and record the urls, for example by adding these to your browser bookmarks.
 1. Conduct a Google search for “digital skills.” Select one or two definitions you like and record the urls.
 1. Conduct a Google search for “digital fluency” Select one or two definitions.
@@ -396,7 +396,7 @@ Share your thoughts and experiences by posting on the LDRS 101 Discourse chat. F
 
 Digital literacies for academic learning involves more than Facebook, Snapchat or X (Twitter) and the associated technical skills in using these technologies.
 
-As you explore the concept, you will find online resources which confuse digital skills with digital literacies. The activities which follow aim to provide an initial introduction to the wide range of digital literacies associated with academic learning. We will explore the concept of digital literacies in greater depth as we progress with the course. When exploring these online resources, we encourage you to differentiate between skills and literacies and to develop a critical disposition. Digtial literacies involve issues, norms, and habits of mind surrounding technologies used for a particular purpose. However, these literacies are closely related to technical proficiency in using a range of digital applications.
+As you explore the concept, you will find online resources which confuse digital skills with digital literacies. The activities which follow aim to provide an initial introduction to the wide range of digital literacies associated with academic learning. We will explore the concept of digital literacies in greater depth as we progress with the course. When exploring these online resources, we encourage you to differentiate between skills and literacies and to develop a critical disposition. Digitial literacies involve issues, norms, and habits of mind surrounding technologies used for a particular purpose. However, these literacies are closely related to technical proficiency in using a range of digital applications.
 
 ### Activity: What Are Digital Literacies?
 
@@ -456,10 +456,11 @@ Digital literacies encompasses a wide range of capabilities which extend beyond 
    - Conduct a Google search using: “digital literacy self-assessment”
    - Choose a link to conduct a self-assessment of your digital literacy.
 
-  **Alternatively, you can choose from these resources:**
-   - Take the [Digital Literacy Self-Assessment](https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/){target="_blank"} from the Canadian Association for Supported Employment **or**
-   - Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/){target="_blank"} from the Digital Literacy Guide.
-   - Explore the *What is digital literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php){target="_blank"} developed by the University of Southampton.
+**Alternatively, you can choose from these resources:**
+
+- Take the [Digital Literacy Self-Assessment](https://www.supportedemployment.ca/digital-literacy/digital-literacy-self-assessment/){target="_blank"} from the Canadian Association for Supported Employment **or**
+- Use the [Digital Literacy Self-Assessment Tool](https://thinkspace.csu.edu.au/digitalcitizenshipguideetl523/){target="_blank"} from the Digital Literacy Guide.
+- Explore the *What is Digital Literacy?* page of the [Digital Literacies Toolkit](https://www.elanguages.ac.uk/digital_literacies_toolkit.php){target="_blank"} developed by the University of Southampton.
 
 **Questions to Consider**
 
