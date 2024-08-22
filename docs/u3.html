@@ -311,7 +311,7 @@ Learning Activity
 <section id="wikilinks" class="level4 unnumbered">
 <h4 class="unnumbered anchored" data-anchor-id="wikilinks">Wikilinks</h4>
 <p>A wikilink, the default in Obsidian, is really simple to build. All you have to do is type two opening square brackets, like this <code>[[</code>, and Obsidian will do a couple things automatically. First, Obsidian will create the closing brackets to match, so you end up with this <code>[[]]</code>, with your cursor in the middle, and second, Obsidian will present a list of all the pages in your vault, from which you can choose the page you want linked.</p>
-<div id="fig-wikilink" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot of how to create a wikilink in Obsidian" data-fig-align="left">
+<div id="fig-wikilink" class="lightbox quarto-figure quarto-figure-left quarto-float anchored" alt="Screenshot of how to create a wikilink in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-wikilink-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.1: Screenshot of how to create a wikilink in Obsidian
@@ -322,7 +322,7 @@ Figure&nbsp;3.1: Screenshot of how to create a wikilink in Obsidian
 </figure>
 </div>
 <p>Once you choose a page, Obsidian will do the rest, and you will end up with this view:</p>
-<div id="fig-wikilink2" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot of how to create a wikilink in Obsidian" data-fig-align="left">
+<div id="fig-wikilink2" class="lightbox quarto-figure quarto-figure-left quarto-float anchored" alt="Screenshot of how to create a wikilink in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-wikilink2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.2: Screenshot of how to create a wikilink in Obsidian
@@ -354,7 +354,7 @@ Figure&nbsp;3.2: Screenshot of how to create a wikilink in Obsidian
 <h3 class="unnumbered anchored" data-anchor-id="why-link">Why Link?</h3>
 <p>Creating links to other related topics in your notes is a way that you can start to build connections in your mind about how different ideas are related. For example, if you are studying ‘trees’, you might want to link over to the previous notes that you created on ‘plants’, ‘forests’, or ‘climate change’. During your study on trees, you might want to create notes on ‘deciduous’ and ‘coniferous’ trees or ‘xylem’ and ‘phloem’, and link those articles to ‘trees’. by continually linking notes that are related, you are creating a web of your knowledge as well as reminders of how ideas are related. So linking is a way for you to make sense of the information that is coming into your conciousness.</p>
 <p>Once you have links created between different files in your vault, you can visualize these links using the ‘Graph View’ in Obsidian. Here is part of the graph view for a major paper I wrote recently. Each of the white dots represents a file in my vault and the size is relative to the number of pages linked to that article. You can see that there are three really big pages that have many links. Those are clearly very important pages.</p>
-<div id="fig-graph2" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot of the graph view in Obsidian" data-fig-align="left">
+<div id="fig-graph2" class="lightbox quarto-figure quarto-figure-left quarto-float anchored" alt="Screenshot of the graph view in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.3: Screenshot of the graph view in Obsidian
@@ -390,7 +390,7 @@ Learning Activity
 <p>This acts like a super-fast search of your notes for a particular topic or ideas related to a topic.</p>
 <p>We recommend that you put your tags in the same spot on each page so you know where to find them. You can also put those tags at any place in your notes and Obsidian will show you the specific spot in your notes where the tag lives.</p>
 <p>You can also show tags in your graph view, as below. Green dots are tags and white dots are still files. You can see in this image that there are many more connections.</p>
-<div id="fig-graph1" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot of the graph view in Obsidian" data-fig-align="left">
+<div id="fig-graph1" class="lightbox quarto-figure quarto-figure-left quarto-float anchored" alt="Screenshot of the graph view in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.4: Screenshot of the graph view in Obsidian
@@ -401,7 +401,7 @@ Figure&nbsp;3.4: Screenshot of the graph view in Obsidian
 </figure>
 </div>
 <p>You can click on one of the tags in Obsidian and see highlighted connections and search results for that tag, allowing you to go directly to notes of interest.</p>
-<div id="fig-graph3" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot of the graph view in Obsidian" data-fig-align="left">
+<div id="fig-graph3" class="lightbox quarto-figure quarto-figure-left quarto-float anchored" alt="Screenshot of the graph view in Obsidian" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.5: Screenshot of the graph view in Obsidian
@@ -1011,37 +1011,30 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","closeEffect":"zoom","selector":".lightbox","loop":false,"descPosition":"top"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","descPosition":"top","loop":false});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
         }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
       }
-    });
-  
-  };
-  
-})();
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
           </script>
 
 
