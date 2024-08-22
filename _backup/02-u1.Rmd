@@ -39,7 +39,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Activities</span>
 
 - Reflect on why you chose TWU and share your expecations with your peers.
-- Write an introduction post on [the Learning Hub](https://twu.discourse.group){target="_blank"} in Discourse.  
+- Write an introduction post on [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} in Discourse.  
 - Search online for learning tools to help with note-taking, project managment, writing, etc. Share your findings on Discourse.
 - Download and install [Obsidian](https://obsidian.md){target="_blank"}.  
 - Download and open the course vault in Obsidian. Activate the plugins that came with the Obsidian vault.  
@@ -102,7 +102,7 @@ What do you think? Consider the following prompts:
 
 ```{block2, type='reflect'}
 
-Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"}, which is an app called *Discourse* that we use to build community among learners in online courses. Find the *Leadership 101* category and respond to the *Welcome* forum.  As you introduce yourself, share your thoughts and questions you have about TWU.
+Head over to [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}, which is an app called *Discourse* that we use to build community among learners in online courses. Find the *Leadership 101* category and respond to the *Welcome* forum.  As you introduce yourself, share your thoughts and questions you have about TWU.
 
 ```
 
@@ -261,7 +261,7 @@ For more on substantive participation, read [Writing A Substantive Discussion Po
 
 ```{block2, type='reflect'}
 
-Head over to [the Learning Hub](https://twu.discourse.group){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about one of the following (or something else relevant):
+Head over to [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} on *Discourse* and find the *Leadership 101* category. Start a conversation about one of the following (or something else relevant):
 
 - something that has interested you about learning online.  
 - your goals for your academic studies.  
@@ -317,11 +317,11 @@ Follow the steps below to install Obsidian on your computer.
     - When you create the vault in this step, we recommend that you name it **TWU** or something similar. Later, you can create as many vaults as you would like.
 3. It is recommended that you [use one of the sync services listed here](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices){target="_blank"} so that your files are backed up.   
 
-If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Hub](https://twu.discourse.group/c/ldrs101/10){target="_blank"}.  There are also several tutorials and videos online, so you are encouraged to seek out these resources.  One example is [Obsidian for Beginners: Start HERE — How to Use the Obsidian App for Notes](https://www.youtube.com/watch?v=QgbLb6QCK88){target="_blank"}.  The first minute shows how to set up Obsidian...and if you'd like a sneak peek at the amazing features this tool has to offer, watch on!  We'll get to these additional uses of Obsidian later in the course.
+If you are having any difficulty in installing Obsidian, feel free to reach out for support on [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"}.  There are also several tutorials and videos online, so you are encouraged to seek out these resources.  One example is [Obsidian for Beginners: Start HERE — How to Use the Obsidian App for Notes](https://www.youtube.com/watch?v=QgbLb6QCK88){target="_blank"}.  The first minute shows how to set up Obsidian...and if you'd like a sneak peek at the amazing features this tool has to offer, watch on!  We'll get to these additional uses of Obsidian later in the course.
 
 ```
 
-Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/c/ldrs101/10){target="_blank"} or talk your your instructor or facilitator for help with this.
+Obsidian will become a backbone of this course as we will use it to learn how the web works and give you a workflow that will help you stay organized. One of the advantages of Obsidian is that everything you do in the app happens on your own computer, rather than *the cloud*, which is just another way of saying *someone else's computer*. However, the drawback to that is that you need to ensure that you have a backup of your vaults in a secure location, either one of the sync services mentioned in step 3, above, or another backup system. [Please check the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} or talk your your instructor or facilitator for help with this.
 
 ### Activity: Download the Starter Vault {.unnumbered}
 

@@ -131,7 +131,7 @@ Follow the directions above to add notes to Obsidian on a topic of interest. Sea
 
 After spending some time practicing this new skill, write a reflective journal entry on the process you followed and what your experience was like. What did you struggle with? How did you troubleshoot? What are the advantages of organizing your notes using this method?
 
-Feel free to discuss your experience on [the Learning Hub](https://twu.discourse.group){target="_blank"} in *Discourse*. You can also post any questions you have about this process and get technical support from your instructors and facilitators.
+Feel free to discuss your experience on [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} in *Discourse*. You can also post any questions you have about this process and get technical support from your instructors and facilitators.
 
 :::
 
@@ -171,7 +171,7 @@ Using links and tags together, you can build a very powerful and easily searchab
 
 Follow the directions above to add tags to your notes in Obsidian. Again, spend some time on this. The more you practice, the easier the process will be. More than that, as you continue to use tags and links, you will be able to experience the advantages of connecting your ideas using this method.
 
-Add to your reflective journal your thoughts and experience on using tags. What were your struggles or "a-ha" moments? What questions do you have? Remember to reach out for support on [the Learning Hub](https://twu.discourse.group){target="_blank"} in *Discourse*.
+Add to your reflective journal your thoughts and experience on using tags. What were your struggles or "a-ha" moments? What questions do you have? Remember to reach out for support on [the Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} in *Discourse*.
 
 :::
 
