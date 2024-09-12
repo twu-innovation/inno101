@@ -1,0 +1,844 @@
+# RAW FILE FROM EDITOR'S WORK UNIT 2 Discovering and Curating Resources
+
+## Overview {.unnumbered}
+
+In this module, we'll dive into three important aspects of utilizing digital resources effectively. Firstly, we'll explore the art of discovering and selecting valuable resources for your academic and professional needs. You'll learn how to search efficiently, critically assess sources for credibility and relevance, and finetune your search techniques.
+
+Next, we'll delve into the world of citation management. Properly citing your sources is vital in academic writing to avoid plagiarism, and we'll introduce you to various citation styles such as APA, MLA, and Chicago. You'll also gain practical experience with citation management tools to help streamline the citation process and manage your references efficiently.
+
+Finally, we'll discuss the concept of openness in education. We'll explore open educational resources (OER), the benefits and challenges of open access, and the role of Creative Commons licenses in educational materials. This discussion will open your eyes to the changing landscape of educational resources and the ethics surrounding them. Throughout these topics, you'll engage in hands on activities, group projects, and discussions to enhance your critical thinking skills and promote responsible use of digital resources.
+
+### Topics {.unnumbered}
+
+This unit is divided into the following topics:
+
+1. Finding and selecting resources
+2. Evaluating resources
+3. Citation management
+4. Openness in education
+
+### Learning Outcomes {.unnumbered}
+
+When you have completed this unit you will be able to:
+
+- Develop effective search strategies to locate scholarly resources using various academic databases and online repositories
+- Apply strategies to assess, analyze, and evaluate the reliability of resources, including reporting in the mass media
+- Utilize citation management tools effectively to organize references, generate bibliographies, and streamline the citation process
+- Describe the principles of openness in education, including open educational resources (OER), and open access
+- Build and customize technology integrated workflows to enhance and enrich your learning journey
+- Apply digital literacy skills to evaluate the legitimacy, credibility, and reliability of online resources for academic study
+
+### Activity Checklist {.unnumbered}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
+
+**Learning Activities**
+
+- Explore [Litmaps](http://zotfile.com/) to find articles of interest.
+- Visit the TWU Library and view the LibGuides.
+- Practice using Google's advanced search operators to help you search for resources.
+- Search open databases (BASE & DOAJ) to find open academic resources.
+- Use the CRAAP test to help evaluate resources.
+- Discuss the reasons you should or should not use Wikipedia, and for what purposes.
+- Download and install Zotero and explore how you can use this tool.
+- Explore open educational resources and reflect on how you might advocate for these.
+- Create an annotated bibliography.
+
+> **Notes:**
+
+- *You will be directed to complete these activities as they come up in the unit.*
+- *The learning activities in this course are designed to prepare you for the graded assignments in this course. You are strongly encouraged to complete them.*
+-
+
+:::
+
+::: {.note}
+
+**Assessment**
+
+- See the Assessment section in Moodle for assignment details and due dates.
+
+:::
+
+### Resources {.unnumbered}
+
+- All resources will be provided online in the unit.
+
+## Finding and Selecting Resources
+
+Throughout your university career you will encounter tasks in your courses that will require you to produce some original writing. It is very important that you give yourself more time than you think you might need to complete these tasks. Good writing in university doesn't just happen. It takes work. You will find that a large amount of that work isn't actually writing at all, but reading. Then writing, and reading some more. Then rewriting, revising, editing, reading some more, and editing again.
+
+One of the most important tasks in all of this is finding the resources you need to read, making sure they are *academic* resources, copying down all the information about the resource, then making sure you can keep track of what you have found, read, and learned. This unit will help you build a workflow for doing just that. You need a workflow and a system because there is far too much information available to you than you will ever be able to digest and read, let alone remember. It is impossible to memorize everything you need to know, so you need a way to manage your knowledge and resources.
+
+In the previous unit, we introduced you to Obsidian, and you are going to continue to use Obsidian in this unit, but we will add some awareness of features that will take you along the path of becoming a workflow wizard. We will also introduce two new tools, Litmaps and Zotero, along with a couple of Zotero plugins that help extend the capabilities of the software. We will also integrate some knowledge of how to use the library to assist.
+
+We recognize that we are introducing several tools to you and that may feel overwhelming, however, there are no tools that do everything that you need to do, and if a tool claims to be able to do everything it likely does only a few things well, and the rest is poorly implemented.
+
+### Finding Resources
+
+Litmaps is a web app that you can use to build a map of the literature regarding your topic. For now, presume that you need to write a paper on transformational servant leadership. That is a very broad topic, and you are only beginning to learn about it, so you need to start by doing some reading ... but what should you read? Your instructor might have given you an article to read, or there are likely some good articles included in your course syllabus, but you might also have to start on your own. Here is how.
+
+#### Find a Literature Review
+
+When academics begin writing a research paper they always start by reviewing what is already known about a subject, in this case, transformational servant leadership. This is called a literature review, and you can often find a section called literature review at the beginning of every article you read. Sometimes, though, the whole research article will be a literature review. Reviewing the literature in this way is sometimes called a systematic review, or maybe a scoping review. These approaches to literature reviews have different foci, but the intent is to publish an article that follows very specific procedures so that other researchers or learners can confirm the process. These types of reviews are very useful in getting started in a new topic.
+
+One of the quickest ways to get started on a search is to use [Google Scholar](scholar.google.com), but it has some problems in that it will return a huge number of results. Notice that the image below shows over 91,000 results. Far too many for you to sort through.
+
+Screenshot, Results Page of Google Scholar Search for "Transformational Servant Leadership"
+
+[Alt text: Screenshot of Google Scholar search for transformational servant leadership.]
+
+::: {#fig-image1}
+
+![](assets/u2/image1.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+The top result shows some promise though. Notice a few things about it:
+
+- it has all your key words right in the title---that's good
+- it has over 2,700 citations (that's very good)
+- it was published in 2004 (that's not great ... it's old)
+
+One of the easiest ways to find literature reviews in Google searches is to include "literature review" in your search. When we do that, we get a better list. This time, there are more results (97,000), but they are better results. Notice the third item ...
+
+Screenshot, Results Page of Google Scholar search for "Transformational Servant Leadership Literature Review"
+
+[Alt text: Screenshot of Google Scholar search for transformational servant leadership literature review.]
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: review
+
+Comment: Add attributions below all images/screenshots that follow as
+required (TWU?)
+Deb Troendle-Scott | 2024-08-22T21:01:00Z
+
+-->
+
+::: {#fig-image2}
+
+![](assets/u2/image2.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+- all your keywords
+- lots of citations
+- much more recent (2019)
+- AND it is a systematic review
+
+This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774) in our upcoming activity. Click the link.
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: Click the link.
+
+Comment: How will this be linked to the Eva et al. article apart from
+the Zotero citation? In the original it read as though students would be
+able to click the Eva et al. article within the image (within the LMS?),
+but as presented here, this is not accessible as the starting point for
+the following LitMap activity - a current Google Scholar search with
+these terms will not provide the same results as shown here. I've added
+this wording, but if it is linked through the image above in Moodle
+that's fine, please revise as necessary.
+Deb Troendle-Scott | 2024-08-17T13:58:00Z
+
+-->
+
+Screenshot of an Article Landing Page
+
+[Alt text: Screenshot, article landing page]
+
+::: {#fig-image3}
+
+![](assets/u2/image3.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+In fact, you don't even need to read this article yet. All you need is the DOI---the *digital object identifier*. A DOI is a critical piece of information about an article that provides a piece of evidence that this is a legitimate article published in a legitimate journal. A DOI will always start with 10. . Sometimes it is included as part of an URL, as in this case, but you only need the code that follows '10.'. The DOI for this article is 10.1016/j.leaqua.2018.07.004
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: In
+
+Comment: Transitional text missing here?
+Deb Troendle-Scott | 2024-07-31T15:33:00Z
+
+-->
+
+Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
+
+Log in to [Litmaps.com](https://www.litmaps.com/) and paste the DOI.
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: Log
+
+Comment: Start the activity here?
+Deb Troendle-Scott | 2024-07-31T15:39:00Z
+
+-->
+
+Screenshot of Litmaps Search Bar Populated with a DOI
+
+[Alt text: Screenshot of Litmaps search bar populated with DOI from text above]
+
+::: {#fig-image4}
+
+![](assets/u2/image4.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+You will notice that LitMaps will be able to find the article and will present it as an option for you to click. Go ahead ... click.
+
+LitMaps will create what they call a Seed Map, which you can see in the image below.
+
+Screenshot of Litmaps Seed Map
+
+[Alt text: Screenshot of Litmaps seed map]
+
+::: {#fig-image5}
+
+![](assets/u2/image5.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+The seed map shows an AI-generated map of the 20 most relevant articles related to the seed article. Each dot represents an article. The seed article is shown as a blue dot with a little sprout in the middle. The size of the dot is related to how many references are in the article (smaller dot = fewer references). Dots near the top of the map have more citations, and dots near the right side of the map are more recent. The map will always look like a bit of a waterfall, as older articles tend to have more citations. This map can be very helpful in finding very impactful, recent articles as those articles will be in the top right quadrant of the map.
+
+When you are signed in to LitMaps you are able to create collections of articles. To do this, click an article in the seed map, then read through the abstract. This might tell you that the article is not related to your search, but if it is, as in the image, then click "Edit Collections,"' then "New Collection." Give the new collection a name and click "Done."
+
+Screenshot of Litmaps Seed Map with Edit Collections Popup (Circled)
+
+[Alt text: Screenshot of Litmaps seed map with edit collections popup circled in red.]
+
+::: {#fig-image6}
+
+![](assets/u2/image6.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Next, add Hoch, 2018, to your new collection (it is closest to the upper right quadrant), and finally add Greenleaf, 1979 (all the articles seem to cite this article, so it is likely very important in the field, sometimes called a seminal article).
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: Next
+
+Comment: Check that this still appears in Litmaps as shown (as per the
+comment above re: the Eva et al. article, results now may differ from
+those generated when these images were created)
+Deb Troendle-Scott | 2024-08-20T17:52:00Z
+
+-->
+
+Notice that the articles you added to your new collection are all coloured the same as the collection.
+
+Screenshot of Litmaps Seed Map Including "Discover" Option (Left)
+
+[Alt text: screenshot of the Litmaps seed map including "Discover" option on left]
+
+::: {#fig-image7}
+
+![](assets/u2/image7.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Next, click "Discover" in the lefthand menu bar, then click "New Search," then "Add from your Library."
+
+Screenshot of Litmaps Seed Map Menu and "Discover" Link
+
+[Alt text: Screenshot of Litmaps seed map menu and "Discover" link.]
+
+::: {#fig-image8}
+
+![](assets/u2/image8.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Screenshot of Litmaps Seed Map "Add from Your Library" Link (Circled)
+
+[Alt text: Screenshot of Litmaps seed map "Add from Your Library" link circled in red under Input Articles.]
+
+::: {#fig-image9}
+
+![](assets/u2/image9.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Make sure you are in the correct collection (your collection should show the Eva, Hoch, and Greenleaf articles you added), and click "Add 3 Inputs.
+
+Screenshot of Litmaps Seed Map Including Collection Articles
+
+[Alt text: Screenshot of Litmaps seed map including Collection articles from ldrs101 (circled in red] and "Add 3 Inputs" button circled in red]
+
+::: {#fig-image10}
+
+![](assets/u2/image10.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Then click "Find Related Articles."
+
+Screenshot of Litmaps Seed Map Including Selected Articles and "Find Related Articles" on Bottom Left Menu
+
+[Alt text: Screenshot of Litmaps seed map including selected articles and "Find Related Articles" on bottom left menu]
+
+::: {#fig-image11}
+
+![](assets/u2/image11.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+This will result in a new set of articles that are related to all three of your initial input articles. As you add more inputs, you will get a more refined result list until you have a nicely curated list of related articles.
+
+Screenshot of Litmaps Seed Map Showing Articles Related to Those Previously Selected
+
+[Alt text: Screenshot of Litmaps seed map showing articles related to those previously selected]
+
+::: {#fig-image12}
+
+![](assets/u2/image12.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+To add an input article, click it in the map or list and choose "Add to Search," then "Expand Search" to execute a new search with the new articles you added.
+
+Screenshot of Litmaps Seed Map Showing Selected Article and "Add to Search" Button
+
+[Alt text: Screenshot of Litmaps seed map showing selected article and "Add to Search" button]
+
+::: {#fig-image13}
+
+![](assets/u2/image13.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Screenshot of Litmaps Seed Map with Additional Article Added
+
+[Alt text: Screenshot of Litmaps seed map with additional article added]
+
+::: {#fig-image14}
+
+![](assets/u2/image14.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Notice that this search turned up another impactful article. Make sure to add that to your list!
+
+Screenshot of Litmaps Seed Map Showing Additional Related Articles
+
+[Alt text: Screenshot of Litmaps seed map showing additional related articles]
+
+::: {#fig-image15}
+
+![](assets/u2/image15.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Next, click "Your Library" and choose the library you just created. There should be eight or so references in the library. This is likely enough to synthesize into a short paper, but some disciplines may require more. Select all of the items in the library by clicking the checkbox that initially says "0 Selected," then click the "Export" (download) icon on the right side of the screen.
+
+Screenshot of Litmaps Seed Map with Library Entries Selected
+
+[Alt text: Screenshot of Litmaps seed map with eight library entries selected]
+
+::: {#fig-image16}
+
+![](assets/u2/image16.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Choose "RIS" in the dropdown menu, then click "Download."
+
+Screenshot of Litmaps Seed Map Menu for Downloading Articles with RIS Format Selected
+
+[Alt text: Screenshot of Litmaps seed map menu for downloading articles with RIS format selected]
+
+::: {#fig-image17}
+
+![](assets/u2/image17.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+For more tutorials on using Litmaps, search online. For example, the Litmaps YouTube channel has some helpful videos.
+
+Prote: delete [video 2.1.1 Activity: Using Litmaps](mailto:Colin.Madland@twu.ca)
+
+[<!-- !!! Comment(s) from Werd: Reference: video Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"I'd suggest to delete video as it's now set to private - [https://www.youtube-nocookie.com/embed/QTIZxc3BaGg](https://www.youtube.com/watch?v=QTIZxc3BaGg) Kelly Marjanovic | 2024-09-06T14:27:05 -->](mailto:Colin.Madland@twu.ca) 
+
+[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca)
+
+- [**Research**: Choose a research topic that interests you. (Tip: Consider the course you are taking or will take in the future.) What key topics do you want to learn more about? Here are some other links that may help you decide:](mailto:Colin.Madland@twu.ca)
+- *Choosing a Topic: Purdue OWL* [(n.d.-b)](mailto:Colin.Madland@twu.ca)
+- *Building Your Research Skills* [(2024)](mailto:Colin.Madland@twu.ca)
+- [Conduct a general internet search for "Topical issues in Business" or "Topical issues in Higher Education" and scan whether any of these issues are of personal interest.](mailto:Colin.Madland@twu.ca)
+- [**Write**: State your topic in the form of a question. For example:](mailto:Colin.Madland@twu.ca)
+- [How will robotics impact the future of work?](mailto:Colin.Madland@twu.ca)
+- [What can businesses do to run successful loyalty programs?](mailto:Colin.Madland@twu.ca)
+- [How can technology prepare learners for a future that is increasingly defined within the context of globalization and technology?](mailto:Colin.Madland@twu.ca)
+- [How will mobile technology impact diagnosis and health care?](mailto:Colin.Madland@twu.ca)
+- [**Review** your draft research question taking into account:](mailto:Colin.Madland@twu.ca)
+- [*Personal interest*: Does the research question interest you?](mailto:Colin.Madland@twu.ca)
+- [*Suitability for academic investigation*: Some questions are not possible to answer through academic enquiry, for example, "How beautiful is the colour orange?" Identify a few keywords related to your proposed research question and conduct a general search to determine if there are published and accessible research outputs related to your question.](mailto:Colin.Madland@twu.ca)
+- [*Attainability*: Make sure that your question can be answered in the amount of time you have. For example, "How do we solve global disease?" is too broad, whereas, "What is my neighbour's favourite colour?" is too narrow. You will be looking to target between 8 to 15 scholarly references to prepare an annotated bibliography, including books, journal articles, and reputable website references . From those you will choose three for your annotated bibliography activity you will complete at the end of the unit.](mailto:Colin.Madland@twu.ca)
+
+[<!-- !!! Comment(s) from Werd: Reference: From those you will choose three for your annotated bibliography activity you will complete at the end of the unit. Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"could we change this to 3? article, chapter, and website? Kelly Marjanovic | 2024-09-06T14:34:45 -->](mailto:Colin.Madland@twu.ca) 
+
+- [Use Litmaps to explore the literature on the topic of your choice.](mailto:Colin.Madland@twu.ca)
+- [**Reflect**: Take a screenshot of your Litmaps map and paste it to a journal entry in Obsidian. Reflect on your use of this tool. What was difficult to learn? How might you use this tool in your future studies?](mailto:Colin.Madland@twu.ca)
+
+[ :::](mailto:Colin.Madland@twu.ca)
+
+### [2.1.2 Activity: the Twu Library](mailto:colin.madland@twu.ca)
+
+[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca)
+
+[Some of your best advocates on campus or online are the librarians who work at the Norma Marion Alloway Library in Langley. They are extremely knowledgeable about finding things that are hard to find, so it is ALWAYS a good idea to talk to a librarian about what you are trying to do. They are literally paid to help you succeed! One of the ways they like to help is by creating what is known as a "LibGuide," and we encourage you to access the LibGuides by selecting Research Guides on the [library website](https://www.twu.ca/academics/library#).](mailto:Colin.Madland@twu.ca)
+
+TWU Library website. See if you can find the answer to the following questions: [Take some time to browse the](mailto:Colin.Madland@twu.ca)
+
+- Is it possible to borrow or download an ebook?
+- I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?
+- Do you have books in languages other than English?
+- Do you have ebooks?
+- Can I email a Trinity Western librarian any time with my research questions?
+- What is AskAway?
+- What do I do if I have trouble logging in to library databases from off campus?
+
+:::
+
+### Activity: Advanced Search
+
+::: {.learning-activity}
+
+Improving search skills will save you time and result in more productive searches. Although we focus on LitMaps and the TWU Library in this course, another tool we want to share is the Google search engine. It provides a number of features to improve your searches in finding academic resources. In this activity, you will select two open resources using the Google advanced search operators in support of your research topic.
+
+- **Read**: the *Google Search Cheatsheet* for a more comprehensive list.[*Google Advanced Search Operators Cheat Sheet* (n.d.) and try a few searches using the operators. Also see the](mailto:Colin.Madland@twu.ca)
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: see the
+
+Comment: Link is incorrect; please revise
+Deb Troendle-Scott | 2024-08-20T18:16:00Z
+
+Comment: I'm not sure why the link
+(https://quickref.me/google-search.html) was changed to a youtube video
+(https://www.youtube-nocookie.com/embed/sy9PVZAbSAQ)? The link worked
+for me
+Kelly Marjanovic | 2024-09-06T14:43:05
+
+-->
+- **Search**: Use the Google search operators (enter these directly into the search text area) to:
+- identify at least 10 PDF documents which have open educational resources in their title (are they all accessible for download?)
+- find a PDF version of the editorial entitled *Scholarship and Literacies in a Digital Age* (who are the authors?)
+- Find the article with the following citation in text: the term digital literacies is contested with differing uses of the term revealing competing and even contradictory theoretical perspectives (who is the author?)
+
+Visit the Google Advanced Search web interface:
+
+- conduct a search for digital literacies and scan the results
+- go back to the Google Advanced Search web interface and remove words from the search, for example "skills" or "school" and compare the results
+- click tools and find results for the date range 1 May 2020 to 1 May 2023
+- click images and find versions which are licensed for reuse with modification (useful when sourcing images for your course blog with the necessary legal permissions for reuse)
+
+**Other Search Engines**
+
+Google Scholar is a good search engine to find scholarly publications. The downside is that Google Scholar does not distinguish between closed and open resources. However, search results which show a PDF next to the listing will probably provide access to a full text version. Unpaywall is a free and legal way to identify authored--uploaded PDFs. There are extensions for the Chrome and Firefox open source browsers. Read the frequently asked questions for more information.
+
+:::
+
+### Activity: Database Search
+
+::: {.learning-activity}
+
+This activity focuses on searching database repositories. Most databases provide advanced search features; however there are differences in how each database site implements search functionality.
+
+- **View** the following resources on searching using databases.
+- [*Top Ten Database Search Tips* (2011)](mailto:Colin.Madland@twu.ca)
+- *Searching in Databases* [(2012)](mailto:Colin.Madland@twu.ca)
+- Directory of Open Access Journals (DOAJ) -- see also FAQs
+- [BASE Advanced Search](mailto:Colin.Madland@twu.ca)
+- *Directory of Open Access Journals (DOAJ)* [**Watch** the following video on using the (2016)](mailto:Colin.Madland@twu.ca)
+
+[[https://www.youtube-nocookie.com/embed/ndvLm9MIfKA](https://www.youtube.com/watch?v=ndvLm9MIfKA)](mailto:Colin.Madland@twu.ca)
+
+- [Using your keywords and synonyms generated for your research question, search for journal articles using the DOAJ search engine and BASE Advanced Search.](mailto:Colin.Madland@twu.ca)
+- [As appropriate, adapt your search by narrowing or expanding---remember to be flexible; if one term doesn't work, try a different one.](mailto:Colin.Madland@twu.ca)
+- [Select a minimum of two resources, more if you like to save time later in the course.](mailto:Colin.Madland@twu.ca)
+- [Based on the resources you find, think about whether you need to modify your research question.](mailto:Colin.Madland@twu.ca)
+
+[How was your progress with this activity? Feel free to share your thoughts in Obsidian. For example:](mailto:Colin.Madland@twu.ca)
+
+- [finding resources for my topic was ...](mailto:Colin.Madland@twu.ca)
+- [I found ... helpful.](mailto:Colin.Madland@twu.ca)
+- [database search tip: when ...](mailto:Colin.Madland@twu.ca)
+
+[ :::](mailto:Colin.Madland@twu.ca)
+
+## [2.2 Evaluating Resources](mailto:colin.madland@twu.ca)
+
+[A key part of finding and selecting resources is evaluating the resource. There is a great deal of information available on the internet. Some of it is very credible and useful. However, there is a lot of misinformation and poorly researched information online too. As you become more skilled at academic online searching and locating materials you will become quicker at determining what information is useful and credible.](mailto:Colin.Madland@twu.ca)
+
+[So how do you evaluate sources to ensure those you are using are credible? The following technique, called the CRAAP test, will help you evaluate the sources you find.](mailto:Colin.Madland@twu.ca)
+
+[**C** - Currency **R** - Relevance **A** - Authority **A** - Accuracy
+**P** -- Purpose](mailto:Colin.Madland@twu.ca)
+
+### [2.2.1 Activity: Using the Craap Test](mailto:colin.madland@twu.ca)
+
+[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca)
+
+- [**Watch**: *How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)* (2015). This illustrates a set of steps you could take to evaluate sources.](mailto:Colin.Madland@twu.ca)
+
+[[https://www.youtube-nocookie.com/embed/_M1-aMCJHFg](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+- [[**Questions To Consider:** After watching this video consider these questions:](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+- [[Which part of the CRAAP test did you find most useful in evaluating sources?](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+- [[What following steps can you take when you evaluate any sources you find?](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+[[ :::](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+#### [[reliability of Wikipedia](https://www.youtube.com/watch?v=_m1-amcjhfg)](mailto:colin.madland@twu.ca)
+
+[[Wikipedia is the free online encyclopedia created through the collaborative effort of contributors from around the globe. Wikipedia is one of the most popular websites in the world. When conducting general internet searches Wikipedia articles will frequently be listed in the top results.](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+[[Anyone registered on the Wikipedia site can create a new article page. Anyone can edit a Wikipedia article, and registration is not required to edit existing articles.](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+[[There have been a number of studies examining the accuracy of Wikipedia articles. Notwithstanding the outcomes of these studies, many educational institutions do not accept the use of Wikipedia as a credible source for academic writing and research. In this section we invite learners to evaluate whether Wikipedia is a trustworthy resource, and to form a justified opinion on its use as a reliable resource for academic writing.](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+### [[2.2.2 Activity: Wikipedia: Why or Why Not?](https://www.youtube.com/watch?v=_m1-amcjhfg)](mailto:colin.madland@twu.ca)
+
+[[ :::
+
+reflect](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+[[Consider the following statement: Wikipedia is a reliable source for academic study.](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+[[Do you agree? Have you cited Wikipedia in any academic work? Why or why not?](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+
+- [[**Read** the following:](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+- [[Is Wikipedia a Trustworthy Academic Resource? Scientists Think So published by EdTech Magazine.](https://www.youtube.com/watch?v=_M1-aMCJHFg)](mailto:Colin.Madland@twu.ca)
+- Reliability of Wikipedia article on Wikipedia.
+- [*Should University Students use Wikipedia?* (2013)](mailto:Colin.Madland@twu.ca)
+- [Optional reading annotations: Conduct a search for credible and reliable resources on the topic of the reliability and credibility of Wikipedia articles.](mailto:Colin.Madland@twu.ca)
+- *Using Wikipedia for Academic Research* [**Watch:** (2011)](mailto:Colin.Madland@twu.ca)
+
+[https://www.youtube-nocookie.com/embed/Cql_yVUYj6A](mailto:Colin.Madland@twu.ca)
+
+[Drawing on your study of the reliability and credibility of online resources, share your advice to fellow learners in this course regarding the use of Wikipedia for academic purposes by posting a comment on Discourse. For example:](mailto:Colin.Madland@twu.ca)
+
+- [You can use Wikipedia for ... because ...](mailto:Colin.Madland@twu.ca)
+- [You should not use Wikipedia for ... because ...](mailto:Colin.Madland@twu.ca)
+
+[ :::](mailto:Colin.Madland@twu.ca)
+
+## [2.3 Citation Management](mailto:colin.madland@twu.ca)
+
+[Now that you have a handful of references to keep track of, it's time to get started with Zotero to help you manage your references. Learning to use a reference manager like Zotero will save you MANY hours per semester, and likely days or weeks over the course of your degree. Do
+*Future You* a huge favour and get in this habit now.](mailto:Colin.Madland@twu.ca)
+
+[Before you explore the next essential tool, watch *Benefits of Using Citation Management Tools* (n.d.).](mailto:Colin.Madland@twu.ca)
+
+[<!-- !!! Comment(s) from Werd: Reference: HYPERLINK "https://www.youtube-nocookie.com/embed/sy9PVZAbSAQ" \\h Benefits of Using Citation Management Tools Comment: Not found - Ashford University is now University of Arizona, content is not on the writing center there, please replace Deb Troendle-Scott | 2024-08-17T14:52:00Z Comment: I'm a little confused. The video seems to be from Western University. [https://www.youtube.com/watch?v=sy9PVZAbSAQ](https://www.youtube.com/watch?v=sy9PVZAbSAQ) Was there a reference to Ashford or a writing centre? This link issue may be related to the above issues. Kelly Marjanovic | 2024-09-06T14:57:40 -->](mailto:Colin.Madland@twu.ca) 
+
+### [https://www.youtube-nocookie.com/embed/sy9pvzabsaq](mailto:colin.madland@twu.ca)
+
+### [download and Install Zotero](mailto:colin.madland@twu.ca)
+
+[The RIS file you exported from LitMaps isn't going to be very useful unless you have software that can read it properly. Your best option is Zotero as it is free and open source, and has a good number of plugins and integrations you can use to connect with other apps.](mailto:Colin.Madland@twu.ca)
+
+zotero.org and click the red "Download" button, then follow the instructions to install Zotero on your computer. If you want to sign up for free storage (300MB) and backup for your library, you can also do that here.[Go to](mailto:Colin.Madland@twu.ca)
+
+Once you have installed Zotero, there are some plugins that will help you in your studies. These are listed below with links to instructions on how to install and configure the plugin.
+
+- Zotfile allows you to find and manage PDFs in your Zotero library
+-
+- scite.ai - provides a breakdown of how references are cited in the literature
+
+Now that you have Zotero ready to go, it's time to import your first references. Find the untitled.ris file in your downloads folder and open it. You might have to confirm that you want to open with Zotero.[[Citation Counts Manager automatically updates citation counts for items in your library](https://github.com/eschnett/zotero-citationcounts)](mailto:Colin.Madland@twu.ca)
+
+Keep in mind that each journal system will name the downloaded file differently, but they should all end in .ris.
+
+### Zotero and the Library
+
+LitMaps is not the only way that you can connect to Zotero. You can also export items directly from a search in the library databases.
+
+Go to twu.ca/library and search for transformational servant leadership. On the results page, you might notice that you are prompted to sign in to see certain items. There is a yellow banner at the top of the page with a link to login.
+
+Click the top item in the list of results.
+
+Screenshot of TWU Library Search Results for Transformational Servant Leadership
+
+[Alt text: Screenshot of TWU Library search results for transformational servant leadership]
+
+::: {#fig-image18}
+
+![](assets/u2/image18.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Click the "Export" button on the right side, then choose "Direct Export in RIS Format," then "Save."
+
+Screenshot of TWU Library Search Results Showing Export Button (Circled)
+
+[Alt text: Screenshot of TWU Library search results showing export button circled in red on right]
+
+::: {#fig-image19}
+
+![](assets/u2/image19.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+Screenshot of TWU Library Export Manager File Format Options (RIS Selected)
+
+[Alt text: Screenshot of TWU Library export manager file format options with RIS selected]
+
+::: {#fig-image20}
+
+![](assets/u2/image20.png){fig-alt="" .lightbox fig-align="left"}
+
+<!-- Image missing caption and alt text--> 
+
+:::
+
+You might get a message to install the Zotero Connector in your browser, go ahead and do that. Once you have imported the reference, you will have a brand new item in your Zotero library!
+
+[[From here on to the day you graduate, Zotero will be with you and you may find yourself using it every day. It is absolutely indispensable.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[<!-- !!! Comment(s) from Werd: Reference: From Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"I think it's fine to keep it personal! accept or reject changes. Kelly Marjanovic | 2024-09-06T16:22:21 -->](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca) 
+
+### [[2.3.1 Activity: Using Zotero](mailto:colin.madland@twu.ca)](mailto:colin.madland@twu.ca)
+
+[[ :::
+
+reflect](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[Now that you have connected LitMaps to Zotero, let's explore how to use Zotero in your studies.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+- [[**Watch**: review the basics of Zotero by watching *What is Zotero?* (2019)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+> [[https://www.youtube-nocookie.com/embed/5xClqW2Jv04](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[Now, let's start using it. Go to LitMaps, TWU Library, or Google Scholar and find articles that interest you. Populate your library with the following resources to support a research topic that interests you.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+- [[manual entry for a published book](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[manual entry for a chapter within an edited book (note that the library record for a book section or chapter should have separate fields for the author(s) and editor(s))](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[automatic harvesting of bibliographic information for a journal article (if supported by a browser extension or bookmarklet by your preferred citation management tool)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[automatic harvesting of bibliographic information for a newspaper article (if supported by a browser extension or bookmarklet by your preferred citation management tool)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[**Review**: In each case review that all relevant fields required for the bibliography have been completed correctly. Don't rely on the accuracy of the automatic features as they are dependent on the metadata and adherence to open standards on the source website. Pay particular attention to punctuation and consistent use of capitalization.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[add descriptive tags; this will enhance searching of your library database](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[organize your resources using folders](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[Next, experiment with some of the Zotero annotation features.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+- *How to Annotate PDFs in Zotero* [[**Watch:**](mailto:Colin.Madland@twu.ca) (2023) for instructions.](mailto:Colin.Madland@twu.ca)
+
+[[https://www.youtube-nocookie.com/embed/lGeJCsNHBR4](https://www.youtube.com/watch?v=lGeJCsNHBR4)](mailto:Colin.Madland@twu.ca)
+
+[If you want to take the next step, let's make your tools work together.](mailto:Colin.Madland@twu.ca)
+
+- [**Watch** the video on Zotero and Obsidian integration (2022) and see the features offered when you integrate these tools.](mailto:Colin.Madland@twu.ca)
+
+[<!-- !!! Comment(s) from Werd: Reference: the Comment: This URL was incorrect; I've revised and replaced the no cookie version below but please check Deb Troendle-Scott | 2024-08-25T12:36:00Z Comment: HYPERLINK "mailto:Chloe.Chang@twu.ca"Chang HYPERLINK "mailto:Colin.Madland@twu.ca"HYPERLINK "mailto:Jeffrey.Snider@twu.ca"@Jeffrey Snider same issue here. Links fine online, but here the url switched to something else. Kelly Marjanovic | 2024-09-06T16:29:26 -->](mailto:Colin.Madland@twu.ca) 
+
+[[https://www.youtube-nocookie.com/embed/CGGeMrtyjBI?](https://www.youtube.com/watch?v=CGGeMrtyjBI?)](mailto:Colin.Madland@twu.ca)
+
+- [**Write**: ￼￼about your learning process and how you might use Zotero or another citation management tool in your studies.](mailto:Colin.Madland@twu.ca)
+
+[<!-- !!! Comment(s) from Werd: Reference: ￼ Comment: Does this differ from the Reflective Journal as noted in Unit 1? Deb Troendle-Scott | 2024-08-20T17:58:00Z Comment: it's the same journal Kelly Marjanovic | 2024-09-06T16:29:43 -->](mailto:Colin.Madland@twu.ca) 
+
+[ :::](mailto:Colin.Madland@twu.ca)
+
+## [2.4 Openness in Education](mailto:colin.madland@twu.ca)
+
+[At this point in the unit you have used various tools to discover and curate resources. In this topic we would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation: *Open Access Explained* (2021).](mailto:Colin.Madland@twu.ca)
+
+[Vimeo / CAPTCHA Challenge](https://vimeo.com/557927481)<!-- Auto link title --> 
+
+And here is an article you can read (for free) from the British organization Wonkhe.
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: Wonkhe
+
+Comment: Article not included; please add
+Deb Troendle-Scott | 2024-08-20T18:19:00Z
+
+-->
+
+Prote: add embedded article ([[[\@Colin Madland](mailto:Colin.Madland@twu.ca) is there a reason to embed the article here, and not just link to it?)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[<!-- !!! Comment(s) from Werd: Reference: HYPERLINK "mailto:Colin.Madland@twu.ca"@Colin Madland Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"@Colin Madland Kelly Marjanovic | 2024-09-06T16:30:46 -->](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca) 
+
+[[Open educational resources, or OER, refers to freely accessible and openly licensed educational materials that can be used, shared, and modified without cost. These resources include a variety of digital assets such as textbooks, lecture notes, multimedia content, and assessment tools. The key features of OER include their open licenses, which typically allow users to ***retain, reuse, revise, remix***, and
+***redistribute*** the content (Wiley, n.d.):](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+#### [[the 5 Rs of Openness](mailto:colin.madland@twu.ca)](mailto:colin.madland@twu.ca)
+
+[[**Retain** the right to make, own, and control copies of the content](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[**Reuse** the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[**Revise** the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[**Remix** the right to combine the original or revised content with other open content to create something new (e.g., incorporate the content into a mashup)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[**Redistribute** the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[Note that this material was created and published freely under a Creative Commons Attribution 4.0 license.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[Why use OER? The usefulness of OER in higher education can be attributed to several compelling reasons:](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+-
+-
+-
+-
+-
+-
+-
+
+[[**Affordability**: OER mitigates financial barriers for students by providing access to educational materials at no cost. This is particularly significant as the high cost of traditional textbooks and learning resources can be a substantial financial burden for students.**Accessibility**: OER promotes equitable access to educational content globally. Anyone with an internet connection can benefit from OER, fostering inclusivity and addressing issues of accessibility in higher education.**Customized learning materials**: Instructors can tailor OER to align seamlessly with course requirements, creating a personalized learning experience for students.**Community collaboration**: OER encourages collaborative knowledge sharing among educators and students, fostering a sense of shared learning within the academic community.**Current and relevant content**: the adaptable nature of OERs facilitates easy updates, ensuring educational materials reflect the latest advancements, and providing students with up-to-date information.**Global perspectives**: The inclusive design of OER integrates diverse global viewpoints, enhancing cultural awareness and expanding students' understanding of various academic frameworks.**Ethical usage**: OER operates with transparent licensing, ensuring ethical use of materials and upholding the principles of academic integrity.In summary, OER offers a cost effective, flexible, and collaborative approach to educational resource development, making it a valuable and impactful asset in higher education. Its adoption aligns with the broader goals of enhancing accessibility, affordability, and inclusivity in the learning experience.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+### [[2.4.1 Activity: Finding Oers](mailto:colin.madland@twu.ca)](mailto:colin.madland@twu.ca)
+
+[[ :::
+
+reflect](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+Open Educational Resources Libguide from the TWU Library. [[Go to the](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+- **Watch**:
+- *How to use OER* [(2012), then browse through the categories of OERs by discipline provided. Take some time to find an OER that relates to a topic that interests you.](mailto:Colin.Madland@twu.ca)
+- [**Write**: Create an entry in Obsidian about an OER resource you found. Use the CRAAP test to evaluate it and explain why this resource interests you.](mailto:Colin.Madland@twu.ca)
+
+[ :::](mailto:Colin.Madland@twu.ca)
+
+### [2.4.2 Activity: Advocating for Oer](mailto:colin.madland@twu.ca)
+
+[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca)
+
+[So how do open educational resources affect you as a student? Why should you care? We've shared some of the benefits of openness in education, but there are several other reasons OER benefit students.](mailto:Colin.Madland@twu.ca)
+
+- [**Watch**:](mailto:Colin.Madland@twu.ca)
+
+[<!-- !!! Comment(s) from Werd: Reference: Watch Comment: Is there anything further to this activity such as a journal entry? Deb Troendle-Scott | 2024-08-01T12:08:00Z -->](mailto:Colin.Madland@twu.ca) 
+
+-
+- [[*A Review of the Effectiveness & Perceptions of Open Educational Resources as Compared to Textbooks*](https://www.youtube.com/watch?v=SX0K0hb_xKE) (2016)](mailto:Colin.Madland@twu.ca)
+
+[https://www.youtube-nocookie.com/embed/SX0K0hb_xKE](https://www.youtube.com/watch?v=SX0K0hb_xKE)
+
+- [[**Read**: For more information on OER Advocacy, see the chapter on How to Advocate on Your Campus in the OER Student Toolkit.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[<!-- !!! Comment(s) from Werd: Reference: Read: For more information on OER Advocacy, see the chapter on HYPERLINK "https://opentextbc.ca/studenttoolkit/chapter/step-three-how-to-advocate-on-your-campus/" How to Advocate on Your Campus in the OER Student Toolkit. Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"what do you think about adding this? Kelly Marjanovic | 2024-09-06T16:36:20 -->](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca) 
+
+- [[**Write**: Create an entry in Obsidian about the benefits of OERs.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[ :::](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+### [[2.4.3 Activity: Reflecting on Your Resources](mailto:colin.madland@twu.ca)](mailto:colin.madland@twu.ca)
+
+[[ :::
+
+reflect](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[We've reached the end of Unit 2, where you have explored several tools and practiced digital skills to help you find and select resources for academic study. As you have practiced the activities in this unit, you have curated resources about the topic of your choice. In this activity we ask you to write a paragraph about this topic, utilizing the resources you have found.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[<!-- !!! Comment(s) from Werd: Reference: resources Comment: As above, is there a specific resource bank and/or is the wording used for students' resource compilations in Zotero or LitMaps? Deb Troendle-Scott | 2024-08-17T15:34:00Z -->](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca) 
+
+- [[**Read**: [This resource](https://writingcenter.unc.edu/tips-and-tools/paragraphs/) on h￼ow to write a good paragraph published by the University of North Carolina at Chapel Hill￼. For more writing tips see the [Writing Resources website](https://create.twu.ca/learningcommons/writing-resources/?_gl=1*1uail9b*_ga*NDk4NDk0OTI0LjE3MTY5MTYzNTc.*_ga_NZ4GVM10JT*MTcyNTY2MjM0My4xMTYuMS4xNzI1NjYyMzcwLjMzLjAuMA..) from the TWU Learning Commons.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[**Write**: Draft a paragraph on an issue relating to your research topic. Your paragraph must contain:](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[a verbatim quote from one of your sources](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[a paraphrased fact from one of your sources](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[Use the features of your citation management software to integrate:the in-text reference for your verbatim quotation](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[the in-text reference for the paraphrased fact](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- [[the automatically generated reference list using APA style (consult the Quick APA Guide to review your formatting)](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[Generate a PDF version of your paragraph.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+- [[**Reflect**: Prepare a short journal entry of about 150 words sharing your experiences in using citation management software. For example: What worked well? Did you struggle with any of the instructions? Did you learn any new skills?](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[Note that this reflection can be used for your assessment in this course.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[ :::](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+### [[2.4.4 Activity: Annotated Bibliography](mailto:colin.madland@twu.ca)](mailto:colin.madland@twu.ca)
+
+[[ :::
+
+reflect](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+[[In this activity you will create an annotated bibliography related to a research topic of your choice.](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+
+- [[**Read** the following resources:](mailto:Colin.Madland@twu.ca)](mailto:Colin.Madland@twu.ca)
+- *How to (Seriously) Read an Academic Paper* [[Evaluating online sources:](mailto:Colin.Madland@twu.ca) (2016)](mailto:Colin.Madland@twu.ca){target="_blank"}
+- *Writing an Annotated Bibliography* *How to Write an Annotated Bibliography* [Preparing an annotated bibliography: (n.d.) and (2022)](mailto:Colin.Madland@twu.ca){target="_blank"}
+- *Annotated Bibliography Samples: Purdue Owl* [(n.d.-a)](mailto:Colin.Madland@twu.ca){target="_blank"}
+- [**Annotate**: Next, create an annotated bibliography in Obsidian for two sources---include a journal article and a book chapter from an edited collection of chapters by multiple authors.](mailto:Colin.Madland@twu.ca){target="_blank"}
+- [You can select resources already saved in your library or search for new ones in support of your research topic.](mailto:Colin.Madland@twu.ca){target="_blank"}
+- [Use the note or comment feature of your citation management software to record a copy of your annotation.](mailto:Colin.Madland@twu.ca){target="_blank"}
+- [You must use Zotero to generate the references using APA format.](mailto:Colin.Madland@twu.ca){target="_blank"}
+
+[ :::](mailto:Colin.Madland@twu.ca){target="_blank"}
+
+## [summary](mailto:colin.madland@twu.ca){target="_blank"}
+
+[In this unit, you have had the opportunity to develop crucial skills for navigating the digital resource landscape. You are now able to effectively find and evaluate resources, manage citations, and understand the importance of openness in education. These skills will enhance your ability to use digital resources for academic and professional growth responsibly and effectively.](mailto:Colin.Madland@twu.ca){target="_blank"}
+
+[In addition, exploring openness in education broadened your understanding of the transformative power of freely accessible educational resources. By delving into the principles of open educational resources (OER) and open access, we hope to have conveyed their significance in making education more accessible. This newfound awareness not only empowers you as a learner but also places you in a role as a contributor to a global academic community. As you conclude this unit with refined skills in resource navigation, citation management, and a deeper appreciation for openness in education, you are well equipped to responsibly and effectively leverage digital resources for ongoing academic and professional growth. These skills are not just tools for immediate success, but enduring assets, shaping your lifelong journey in the ever evolving realm of digital knowledge.](mailto:Colin.Madland@twu.ca){target="_blank"}
+
+##
+
+## [checking Your Learning](mailto:colin.madland@twu.ca){target="_blank"}
+
+[ ::: {.check}](mailto:Colin.Madland@twu.ca){target="_blank"}
+
+[Before you move on to the next unit check that you are able to:](mailto:Colin.Madland@twu.ca){target="_blank"}
+
+-
+-
+-
+-
+-
+-
+-
+
+[describe your engagement with digital technologyapply digital tools to support learning in an academic environmentexplain what digital literacies mean for you in a tertiary education contextexamine your digital footprintbuild your professional online biographyexamine privacy concerns related to various platforms and toolsdescribe how to protect yourself, and other students and colleagues, to stay safe in the digital environment :::](mailto:Colin.Madland@twu.ca){target="_blank"}

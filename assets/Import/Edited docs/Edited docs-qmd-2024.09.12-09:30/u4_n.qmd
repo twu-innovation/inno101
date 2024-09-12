@@ -1,0 +1,530 @@
+# Building Your Online Presence
+
+## Overview {.unnumbered}
+
+Welcome to Unit 4! In previous units, you've been introduced to the world of digital literacies and learned how to utilize various tools for organizing and connecting ideas. You have started to build a workflow to help you learn more effectively and have applied the critical skill of metacognition to explain your process for learning.
+
+Now, let's dive into the next phase of our learning journey.
+
+In the second half of the course, you will continue to build your digital skills and apply critical thinking to document your learning process. Our focus will shift from creating a personal collection of ideas to presenting your learning in a more open platform. It's important to emphasize that *you* will decide how public you want this to be. We'll also explore the significance of knowledge sharing and examine user-friendly methods to do so while maintaining control over your work and addressing privacy concerns. As you begin this unit, take a moment to reflect on your personal and academic goals as they relate to digital literacy. Consider which digital tools you'd like to explore, and reflect on how your online contributions can not only benefit your own growth but also contribute positively to others.
+
+### Topics {.unnumbered}
+
+This unit is divided into the following topics:
+
+1. Personal learning environments
+2. Building a learning blog
+3. My digital footprint
+4. Evaluating digital tools
+
+### Learning Outcomes {.unnumbered}
+
+When you have completed this unit you will be able to:
+
+- Create a personalized narrative to document and express your learning process
+- Examine your digital footprint and develop a positive digital online identity
+- Evaluate digital tools, platforms, and interactions based on ethical principles
+- Critically evaluate the affordances and restraints of digital tools and platforms
+- Identify the digital skills needed in your field of study
+- Describe how to protect yourself and other students and colleagues to stay safe in the digital environment
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge
+
+### Activity Checklist {.unnumbered}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+::: {.learning-activity}
+
+**Learning Activities**
+
+- Reflect on your personal learning environment (PLE) as you engage with the resources on PLEs
+- Create a new blog on WordPress and personalize your blog site
+- Conduct a digital footprint audit to assess your online presence
+- Document and share your learning experience by publishing a blog entry
+- Evaluate a digital tool, considering the ethical implications
+
+> **Notes:**
+>
+> *•* *You will be directed to complete these activities as they come up
+> in the unit.*
+>
+> *•* *The learning activities in this course are designed to prepare
+> you for the graded assignments in this course. You are strongly
+> encouraged to complete them.*
+
+:::
+
+::: {.note}
+
+**Assessment**
+
+- See the Assessment section in Moodle for assignment details and due dates.
+
+:::
+
+### Resources {.unnumbered}
+
+- All resources will be provided online in the unit.
+
+::: {.note icon="true"}
+
+***Resource Reminders***
+
+- Remember to continuously add resources to your Zotero library that align with your learning goals
+- Utilize your community---peers, coworkers, and online communities---as valuable resources! Stay engaged to seek assistance and exchange helpful resources and insights
+
+:::
+
+## Personal Learning Environments
+
+This unit aims to guide you in creating your Learning Blog, the central component of your personal learning environment (PLE). Blog posts serve as reflections on your learning journey and facilitate networking with peers. Your blog also provides your instructor with valuable insights into your course engagement and learning process. Ultimately, the goal of a PLE is to put the learner at the centre of the online learning environment.
+
+**So What is a Personal Learning Environment?**
+
+> *Personal Learning Environments* [are] systems that help learners
+> take control of and manage their own learning. This includes providing
+> support for learners to set their own learning goals, manage their
+> learning; managing both content and process, communicate with others
+> in the process of learning, and thereby achieve learning goals. A PLE
+> may be composed of one or more sub-systems: As such it may be a
+> desktop application, or composed of one or more web-based services.
+> (van Harmelen, 2007, as cited in Edutech Wiki, 2014, Definitions,
+> para. 2)
+>
+> As described by Casteneda et al.,
+>
+> A Personal Learning Environment is ... a structure and process that
+> helps learners organize the influx of information, resources and
+> interactions that they are faced with on a daily basis into a
+> personalized learning space or experience. In a PLE, the learner
+> develops an individualized digital identity through the perceptual
+> cues and cognitive affordances that the personal learning environment
+> provides, such as what information to share and when, who to share it
+> with, and how to effectively merge formal and informal learning
+> experiences. (2017, para. 2)
+
+Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?
+
+### Activity: What Is a Ple?
+
+::: {.learning-activity}
+
+- **Read**: Before you start building your PLE, read the following article: "*7 Things you Should Know About Personal Learning Environments.* After reading the article, consider the following:
+- **Questions to Consider:**
+- How do PLEs promote authentic, student-centred learning?
+- What are the benefits of a PLE? How would it benefit you?
+- What tools do you currently use as part of your learning environment?
+- **Watch**: Finally, consider the approach taken at TWU as it supports inquiry-rich learning. As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
+- [*Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} (2018)
+
+[Watch: *#3: Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} <!-- Auto title, auto embed--> 
+
+{{< video https://www.youtube-nocookie.com/embed/SCa9Nt3X1vU >}}
+
+:::
+
+### Activity: What Is Your Ple?
+
+::: {.learning-activity}
+
+- **Write**: Take a couple of minutes to brainstorm the tools, services, and communities that you use to pursue your educational goals. Use your notetaking tool (e.g., Obsidian) to create a list of these.
+- **Create**: Next, create a graphic organizer to visualize your PLE. You can use Obsidian, or see [*Best Graphic Organizers for Education*](https://www.techlearning.com/news/best-graphic-organizers-for-education){target="_blank"} (2023) for other free options.
+
+Note that you completed a Visitor and Resident Diagram Activity in Unit 1. Feel free to use that graphic organizer and add other tools you use for learning, or that you have been introduced to in this course.
+
+You will be encouraged to post your PLE graphic on your blog ... which you will start in the next activity!
+
+:::
+
+## Building a Learning Blog
+
+In the next activity, you will gain firsthand experience in using blog technology for publishing your own website. You will "declare" yourself online using your PLE as an alternative to posting an introduction in a closed course forum typically used in a conventional online course. Note that TWU online courses often use Moodle Discussion Forums to facilitate conversations. By using a platform such as WordPress you can retain the contents of your posts as well as the comments of your peers. In a learning management system (LMS) such as Moodle you may lose access to what you have posted in discussions, and more importantly, conversations with your peers. As you create your personal blog in WordPress (or your own selective blog site), you control your data and who can see it.
+
+You will retain control of your data and learning outputs generated during this online course, even after the course is completed. You get to choose:
+
+-
+-
+-
+
+The blog service you would like to use, although **we recommend WordPress as it is supported by TWU**Whether to accept comments on your blog from your peersWhether to register your blog for the aggregated course feed so that any posts tagged with the course code (LDRS101) will be harvested for the feedA key teaching philosophy of this course is to embed the acquisition of new digital literacies into your learning journey. Knowledge of how to use the internet and social media technologies will better prepare you for life in a digital world. If this is your first time blogging, you should spend time setting up your personal digital learning environment. Please remember that your learning blog and the social media technologies you use on this course are public, and that you take full responsibility for anything you publish. Do not disclose any confidential information and respect the privacy of others. In short, don't say anything that you would not want to read on the internet.
+
+### Activity: Setting up Your Learning Blog
+
+::: {.learning-activity}
+
+As this is a course focusing on digital literacies, you are asked to establish a Learning Blog, which will improve your skills and enable you to network with your peers. We recommend using WordPress, as it is supported by TWU. WordPress is an open source website builder and is one of the most popular systems available because of its versatility. If you already have your own website or you have previous experience using WordPress, you may set up your blog on it and skip the set-up steps described below, but you still need to complete the learning activities.
+
+We are here to help you create your site, so do not hesitate to ask for technical support. There are a number of resources below, but if you get stuck, please reach out on Discourse, or email elearning@twu.ca
+
+To get started on creating your site we suggest the following steps:
+
+- **Sign up to create a website**
+- Go to [**create.twu.ca**](https://create.twu.ca/){target="_blank"} to sign up for your free WordPress site. *Please read all the prompts and instructions carefully!* Be sure to read the Privacy Statement carefully before clicking "I Agree." The information provided gives you excellent guidance regarding digital citizenship, privacy, and how to build a professional digital persona.
+- You will be prompted to **create a domain name**, which is your website's address on the internet. Often this is referred to as a URL (Uniform Resource Locator). This is what your users will type in their browsers to reach your site. Make sure that you choose a domain name that is related to you, easy to pronounce and spell, and easy to remember. Once you have done that, we suggest you write all this information somewhere you can access it easily---just in case.
+- You will also be asked to **select a theme** for your website. You are free to choose any template you wish. TWU Spark, TWU Hope, and TWU Spartans portfolios are simple to set up and provide easy navigation.
+- When you choose your theme, your new site will come with a simple menu and instructions for portfolio and website creation.
+- Once you have activated your site (look for a notification in your TWU email) you are ready to create.
+- **Explore your dashboard**
+- The dashboard is the initial area you see when you log in to TWU Create. It's the centre for your site management and where you create content. From the Dashboard you can navigate to content, settings, themes, plugins, and more.
+- When logged in to TWU Create, you will always have access to an
+    **admin menu** visible on your sites. From the menu item that is the name of the blog (second from left), you can find the link to the dashboard. While in the dashboard, the same menu can be used to return to the front view of your site.
+
+- Determine the difference between the dashboard used for editing and the published view of your blog. (It is important to know the difference because when you register your blog for the course feed, you must use the URL for the public view of your blog).
+
+*Progress check:*
+
+- Do you know how to open the published (public view) of your blog in a new window?
+- Have you added a browser bookmark to your dashboard and the public version of your blog?
+
+**Help Tips:** When you are in the site administration area of your site, you can get tips on what you are doing by clicking the "Help" menu on the top righthand corner. Click "Help" and read through the Overview describing the elements of the dashboard.
+
+[//todo
+
+Prote: This section will need to be updated after wordpress guides have been updated.
+
+insert - Animation showing location of WordPress help tab - from [Sign in to your account](https://create.twu.ca/eportfolios/wordpress/){target="_blank"}<!-- Auto link title --> 
+
+- **Review your settings:** Review and customize your blog settings from the dashboard according to your preferences.
+- **Enable categories and tags:** We recommend that you enable
+    **categories** and **tags** on your blog. **Categories** are best used for broad groupings of topics. For example, if you're creating a site that reviews pop culture you might use categories such as books, film, and TV.
+
+- **Tags** are more specific keywords that you want to use to associate related content. For example, if you were creating a site that reviews pop culture you might want to use tags such as science fiction, horror, and action adventure.You can combine the two! For our review site example, you might be reviewing a romantic comedy. You can assign the broader category "film" to the post, then give it some more specific tags such as romantic comedy, or even use the name of the actors and director as tags. People who view that post could use the tags to find related posts around that topic.**Set up comments settings (optional):** WordPress comes with a built-in comment system allowing your users to leave comments on your posts. This comment system is great for user engagement, but it can also be targeted by spammers as well. If you don't want comments on your posts ensure that the "Allow comments" box is unchecked at the bottom of the editor page. If you do want comments, but want to manage the spam you'll need to enable comment moderation on your website. Visit Settings » Discussions page and scroll down to "Before a comment appears" section. Check the box next to the "Comment must be manually approved" option.
+- **Personalize your blog:** Visit the appearance option on your dashboard and personalize your blog by:
+- Changing your theme, header image, background colours, and/or image
+- Adding at least one widget to your blog. Remember---"less is more." One or two of the following are functional choices: archives, recent posts, categories or category cloud, and "blogs I follow."
+- Be sure to save your changes!
+- **Add a page and a post**: Pages and posts are where your content is housed on WordPress. The biggest difference between the two is that posts are timestamped, whereas pages are timeless.
+- **Pages** are for static content. They do not need a publish date. Use pages when you want your visitors to always be able to see that content in that spot, no matter when they visit.
+- **Posts** are for timely content. They have a publish date, and they are displayed with the newest content at the top (reverse chronological order) of your site's blog page. Older posts can "fall off" the blog page (the content is still kept, but no longer visible). Posts are what you should think of when you hear the term "blog post." Usually posts have a comment section, and this is where viewers can write a comment in response to your post. This may be a handy way to receive feedback from your peers. Also, you can categorize or tag your posts, which is useful to help readers locate posts on your blog.
+- To add a new Page or Post, click the Pages or Posts menu option and then click "Add New Link" underneath. Another way is to hover your cursor over Pages or Posts and click the add new link in the drop-down menu.
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: drop-down
+
+Comment: Preferred term? (drop-down menu? Without going into WordPress
+I'm not sure what's used)
+Deb Troendle-Scott | 2024-08-02T10:08:00Z
+
+-->
+
+***BLOG CHALLENGE!***
+
+- **Edit a Page:** Complete your personal details for display on the "About" page of your blog.
+- *Progress check:* Can you see the updates on your "About" page in the published view of your blog?
+- **Edit a Blog Post:** Reflect on your experience of this activity on creating a blog. Click "Save Draft" (so you can review before publishing live on the web). Your reflection could for example:
+- Introduce yourself and reflect on what you would like to achieve by maintaining a blog to support your learning.
+- Reflect on what you thought of the activity---was it easy or hard?
+- Share links to any additional resources you found useful in completing the tasks.
+- Provide tips for future learners who will be completing this activity. If you were to set up a new blog again, what would you do differently?
+- Add anything your readers may find interesting or useful.
+- **Add media**
+- Using different types of media to represent your artifacts is a great way to make your portfolio dynamic and keep your audience engaged. Text-heavy pages can get cumbersome, regardless of how you arrange them. Adding media can help by breaking up content or replacing text all together. Consider how you can "show what you know" rather than just simply telling. Media can also be an alternative to simply hyperlinking all your artifacts. Instead of sending your audience off to another site or tab, media can be embedded (see [Media Library](https://create.twu.ca/eportfolios/wordpress/media-library/){target="_blank"}) to keep your audience contained to your page.
+- The Media Library on your WordPress site houses the media you upload to your site. WordPress supports a variety of media types such as images, audio, video, and documents. We do suggest that you host your video files in your TWU Microsoft Stream account for optimal playability. Other types of media are typically uploaded and inserted into the text editor when writing a post or page.
+
+***BLOG PHOTO CHALLENGE!***
+
+- **Choose a photo** to add to your blog post. Be sure you have permission to upload the photo. We suggest using an open license site such as [Pixabay](https://pixabay.com/){target="_blank"}, [Unsplash](https://unsplash.com/){target="_blank"}, [Pexels](https://www.pexels.com/){target="_blank"}, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page){target="_blank"}, or [Flickr](https://www.flickr.com/search/?text=pho&license=2%2C3%2C4%2C5%2C6%2C9){target="_blank"}. Alternatively, upload your own photo, take a selfie, or ask someone to take a photo of you working on this blog post challenge. You might find the following videos helpful:
+- [*How to Add an Image to a WordPress Website*](https://www.youtube.com/watch?v=W89wPcVU60c){target="_blank"} (2017)
+- [How to Add Featured Images in WordPress](https://www.youtube.com/watch?v=9admKGpM3A0){target="_blank"} (2017)
+- [Watch: *How to Add Featured Images or Post Thumbnails in WordPress*](https://www.youtube.com/watch?v=9admKGpM3A0){target="_blank"} <!-- Auto title, auto embed--> 
+
+{{< video https://www.youtube-nocookie.com/embed/9admKGpM3A0 >}}
+
+***BLOG VIDEO CHALLENGE!*** (Optional)
+
+You might find as you continue the course that you want to share videos you find on the web or perhaps even your own. If you're up for the challenge, consider recording a short video introduction and embed this in your blog post.
+
+Here is a tutorial on how to add a YouTube video or embed one of your own videos to your blog:
+
+-
+
+*[Watch: *WordPress How To Add Video To A Page Or Post [2023]*](https://www.youtube.com/watch?v=3hCMpnok2Kw){target="_blank"} <!-- Auto title, auto embed--> 
+
+{{< video https://www.youtube-nocookie.com/embed/3hCMpnok2Kw >}}
+
+- **Publish**!
+- Review your draft post, and when you're happy with what you've written click "Publish post."
+- **Share your blog**
+- Add a category or tag for your post using the course tag: LDRS101
+- Post in the LDRS 101 Discourse forum to let your peers know the web address of your blog and ask them to post a comment. This will give you the opportunity to experience how comments function on your blog and to test if they are working properly.
+- **Additional Customizations**
+
+[//todo
+
+Prote: This section will need to be updated after wordpress guides have been updated.]
+
+When you're ready to start customizing your blog and adding content, check out some tutorials available to you:
+
+-
+-
+-
+-
+
+> *[TWU's WordPress Support
+> Page](https://servicehub.twu.ca/TDClient/1904/Portal/KB/ArticleDet?ID=146597){target="_blank"}*
+> (n.d.)[*WordPress Support Guides*](https://wordpress.com/support/){target="_blank"}
+> (n.d.)[*Start Here: WordPress
+> Beginner*](https://www.wpbeginner.com/start-here/){target="_blank"} (2016)[*WordPress
+> Tutorials; University of
+> Victoria*](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/){target="_blank"}
+> (n.d.)If you are confused about anything it is always good to do an
+> initial Google or YouTube search, reach out on Discourse, or email
+> elearning@twu.ca
+
+:::
+
+Congratulations! You created your PLE for TWU!
+
+## My Digital Footprint
+
+Now that you have created your learning blog and introduced yourself online let's take a closer look at the information about you available on the internet. Imagine if potential employers were to search for you online. What would they discover, and what would you prefer them to find? As we examine online identities in this topic, we will ask you to consider how you can improve your digital identity in support of your online learning, as well as future employment prospects.
+
+First, let's clarify some key terms.
+
+We need to distinguish between the technical and human elements of online identity. In this course we are more interested in the human side of online identity, but in part, this is determined by how technology automates the process of building your digital footprint.
+
+> **Digital identity** refers to the information utilized by computer
+> systems to represent external entities, including a person,
+> organization, application, or device. When used to describe an
+> individual it encompasses a person's compiled information and plays a
+> crucial role in automating access to computer-based services,
+> verifying identity online, and enabling computers to mediate
+> relationships between entities. Digital identity for individuals is an
+> aspect of a person's social identity and can also be referred to as
+> online identity. ("Digital Identity," 2024)
+>
+> **Digital footprint** or digital shadow refers to one's unique set of
+> traceable digital activities, actions, contributions, and
+> communications manifested on the internet or digital devices. Digital
+> footprints can be classified as either passive or active. The former
+> is composed of a user's web browsing activity and information stored
+> as cookies. The latter is often released deliberately by a user to
+> share information on websites or social media. While the term usually
+> applies to a person, a digital footprint can also refer to a business,
+> organization or corporation. ("Digital Footprint," n.d.)
+
+### Activity: What Is a Digital Footprint?
+
+::: {.learning-activity}
+
+- **Watch** *[What is a Digital Footprint?](https://www.youtube.com/watch?v=dmQGq_FNBpE){target="_blank"}* (2021) and consider the steps you would take to control your digital footprint.
+
+[Watch: *What is a Digital Footprint?*](https://www.youtube.com/watch?v=dmQGq_FNBpE){target="_blank"} <!-- Auto title, auto embed--> 
+
+{{< video https://www.youtube-nocookie.com/embed/dmQGq_FNBpE >}}
+
+:::
+
+### Activity: Who Am I Online ... and Why Should I Care?
+
+::: {.learning-activity}
+
+- **Read** the following:
+-
+-
+- *Understanding Your Online Identity* (2017)*[How To Manage Your Digital Footprint in 2024: 20 Tips for Students](https://research.com/education/how-to-manage-digital-footprint){target="_blank"}* (2022)**Questions to Consider**
+-
+-
+-
+
+How does your real world identity differ from your online identity?What factors inhibit or support the sharing of information in building an online identity?What is the value of an online identity for learning?
+
+Reminder: As you view online resources in this course, feel free to annotate and discuss web resources publicly in support of your learning (e.g., using digital tools such as Hypothes.is, Discourse, WordPress, or others).
+
+In addition to evaluating who you are online, ask yourself, "why should I care?"
+
+- **Watch**: [*Four Reasons to Care About Your Digital Footprint*](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"} (2016), and then select from the following resources to inform your views:
+
+[Watch: *Four Reasons to Care About Your Digital Footprint*](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"} <!-- Auto title, auto embed--> 
+
+{{< video https://www.youtube-nocookie.com/embed/Ro_LlRg8rGg >}}
+
+- [*Students Turn to Internet to Build Online Presence, Showcase Work*](https://www.huffpost.com/entry/students-turn-to-internet_b_3518598){target="_blank"} (2013)
+- [*Your Online Presence and Your Career*](https://help.open.ac.uk/your-online-presence){target="_blank"} (n.d.)
+- *[Digital Tattoo Project](https://digitaltattoo.ubc.ca/){target="_blank"}* (n.d.)
+- [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} (2015)
+
+Finally, consider how much someone could find out about you from your digital footprint. Here's an interesting video that might cause you to reconsider what you post online.
+
+- [*Amazing Mind Reader Reveals his 'Gift'*](https://www.youtube.com/watch?v=F7pYHN9iC9I){target="_blank"} (2012)
+
+[Watch: *Amazing mind reader reveals his 'gift'*](https://www.youtube.com/watch?v=F7pYHN9iC9I){target="_blank"} <!-- Auto title, auto embed--> 
+
+{{< video https://www.youtube-nocookie.com/embed/F7pYHN9iC9I >}}
+
+:::
+
+### Activity: Digital Footprint Audit
+
+::: {.learning-activity}
+
+In this activity you will audit your own digital footprint in order to find out what exists on the internet about you and reflect on what you want your online identity to be. Follow the steps below to begin.
+
+- **Search**:
+- Conduct a Google search of your own name (using an incognito or private window in Chrome or Firefox). Search for your first name and surname without quotation marks (e.g., snow white) and then with quotation marks (e.g., "snow white"). Explore the results of your search.
+- Conduct a Google search of your name with the name of current and previous employers.
+- Conduct a Google search of your name with the name of previous schools you attended.
+- Expand your search to include social media sites, for example, "snow white" twitter; "snow white" Facebook; "snow white" YouTube.
+- Note any interesting or surprising findings.
+
+:::
+
+### Activity: Blog: My Digital Footprint
+
+::: {.learning-activity}
+
+- **Write**: Prepare and publish a short blog post of about 250 to 300 words focusing on what you hope to achieve with your online digital identity for learning. Your post can include:
+- **Reflection**: Share your thoughts on the outcomes of your footprint audit. Remember that your blog post is public, so only share what you are comfortable sharing with the world. You don't need to be specific; for example, you can generalize: "I am satisfied with my digital footprint because ..." or "I would like to improve my digital footprint for learning because ..."
+- **Professional versus private considerations**: Consider how you want to separate your "private" online identity from your professional or learning identity. If you already maintain an online presence (existing blog or social media accounts) think about how you will separate professional or learning posts from private and social life interactions online. For example, maintaining a separate course or learning blog is one way to achieve this distinction. Will you link your personal online identities (e.g., an existing X (formerly Twitter) username or Facebook account) with your learning blog? Will you link your professional online identity (e.g., published online biography or resume) with your learning blog?
+- **Objectives**: List a few objectives for developing or improving your online identity.
+- **Tag**: Add a category or tag to your post using the course tag: LDRS101 (this is needed to harvest links to posts from registered blogs for the course feed).
+
+> **Remember**: *You are in charge of what you post online and you
+> decide what you would like to share for your digital identity for the
+> purposes of this course. Don't share high risk personal details such
+> as your physical address, date of birth, name of first pet, and so on
+> which may make it easier for identity thieves to appear more credible.
+> If unsure, consult online resources for internet safety; for example
+> [Get Cyber
+> Safe](https://www.getcybersafe.gc.ca/en/secure-your-accounts/social-media){target="_blank"}*
+> (2021) *from the Government of Canada.*
+
+:::
+
+## Evaluating Digital Tools
+
+So far in Unit 4, you have created a learning blog in WordPress, explored your social media platforms, and used a range of other tools such as Zotero, Discourse, Obsidian, and more.
+
+As we step into this new topic, we encourage you to engage in a critical examination of the online tools you use or are interested in. Beyond the basic considerations of functionality and user friendliness, we invite you to assess digital tools, platforms, and interactions through the lens of ethical principles.
+
+So how do we evaluate technology on ethical principles? Here are some guiding questions from Ethical EdTech:
+
+> **Guiding Questions**
+
+-
+-
+-
+-
+-
+-
+-
+
+Where does power lie, and where are we expected to place our trust?To whom is it accessible---for instance, in terms of usability and cost?Does it lock us into closed, commercial systems or invite us into open communities?Does it give us more control over the learning process, or does it cede that control?Does it respect and protect our privacy appropriately?Can we access, study, and modify the underlying code or design?Who owns the infrastructure and our usage data? Does it produce private profit or public commons?These crucial questions highlight the importance of privacy, data ownership, and accessibility. What other questions would you ask to ensure a tech tool is ethical?
+
+### Activity: What Are My Criteria?
+
+::: {.learning-activity}
+
+- **Read** the following [Tool Evaluation Criteria](https://workforceedtech.org/tool-evaluation-criteria/){target="_blank"}. Note some criteria may not apply to the tool you choose to evaluate. Also see the [Tool Evaluation Scoring Rubric and Notepad](https://docs.google.com/spreadsheets/d/1-zIw01FI0N6NKY2SdOO2PuniUxDxAG-beeTsmxRQru0/edit?usp=sharing/){target="_blank"} (an editable Google Sheet).
+
+<!-- !!! Comment(s) from Werd:
+
+Reference: following
+
+Comment: TWU link, please verify and add to Zotero
+Deb Troendle-Scott | 2024-08-03T11:59:00Z
+
+-->
+- **Write:** Create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you. To help you select your criteria, read the following:
+- [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} (2015)
+
+This next website might be a bit of an eye-opener. You may want to browse through some common tech examples and see their score.
+
+-
+
+*[Terms of Service. Didn't Read](https://tosdr.org/){target="_blank"}* (n.d.)
+
+Finally, read the following questions and consider what you want to add to your rubric considering the context of the tool, the terms of service, and the purpose.
+
+- **Business Context**Who owns the tool?
+- Who is the tool maker or CEO?
+- What are their politics? Does that matter?
+- What is the tool's history?
+- How do they market themselves?
+- How does the company generate revenue?
+- What is their market position in/point of difference?
+- Who are the competitors?
+- What do others say about the product? Are these sources reliable?
+
+**Terms of Service**
+
+- What are the terms of service? Are they easy to find?
+- What personal data is required to use the tool (username, real names, email, date of birth, and so on)?
+- Who owns the data?
+- How is the data protected?
+- Where is the data housed?
+- What flexibility do users have to be anonymous?
+- Does the tool support open licensing of user generated content?
+- How is copyright infringement managed?
+- How is user generated content distributed by the company? What license does the user give the company for distributing to third parties?
+- Can users delete their accounts or leave the service?
+- Can users export their data? What export formats are supported?
+- How is personal information managed?
+- Can information be shared with third parties, and if so under what conditions?
+- Can the company terminate a users account? Under what conditions?
+- How are changes to the terms of service managed?
+
+**Fit For Purpose**
+
+- Is the tool suitable for the stated purpose?
+- How does the design of the tool influence what users can do with the tool?
+- Does the tool provide support resources or help tutorials?
+- Search the web to find out if others provide help and advice on using the tool (for example YouTube, blog posts, and so on)
+- What are the implications or opportunities of the tool to support learning in a digital age?
+
+:::
+
+### Activity: Evaluate a Digital Tool
+
+::: {.learning-activity}
+
+In this activity, you are invited to critically evaluate an online tool.
+
+- **Set Your Goals:** As you select the tool you want to evaluate consider your goals for improving your digital skills.
+- What do you want to do or learn online?
+- What skills are needed in your academic area and profession?
+- What tool would be helpful for you and your peers to know more about?
+- **Choose a Tool:** Select any online tool or choose one from the list below.
+- *Blogging*: Blogger, WordPress, Medium, Tumblr
+- *File sharing*: Dropbox, Nextcloud, MediaFire, Google Drive, SugarSync
+- *Presentations*: Haikudeck, Prezi, Google Slides, Slides (using Reveal.js)
+- *Online collaboration*: Basecamp, Slack, Rocket.chat, Hipchat
+- *Video conferencing*: jitsi, Anymeeting, Zoom, GoToMeeting, Microsoft Teams
+- *Feed aggregators*: Feedly, Panada, NewsBlur, Inoreader, Feedreader
+- *Project management*: Trello, Kanboard, Freedcamp, Asana, Notion, GitHub
+- **Evaluate the Tool:** Use your chosen rubric or guiding questions to complete your review.
+- **Share Your Insights:** Prepare a blog post (about 450--600 words) where you publish a critical review of your selected tool. Your blog post must:
+- State your intended purpose for the tool
+- Highlight strengths and weaknesses (company reputation, software features, terms of service, and so on)
+- Include hyperlinks to appropriate web pages
+- Include references using APA style if required
+- Include if applicable a disclaimer or disclosure; that is, whether you have any association with the company or tool that may impact on the review
+- Include concluding recommendation(s)
+- Include a comment on whether the tool is fit for your stated purpose
+- Include a comment on the extent to which the tool would be useful for learning in a digital age
+- Add a category or tag for your post using the course tag: LDRS101
+
+**Optional:** On Discourse, let us know what tool you selected and why. Share the link of your review blog.
+
+:::
+
+## Summary {.unnumbered}
+
+In this unit you have had the opportunity to learn about your personal learning environment and build your presence on the web using a blog. You've examined your digital footprint and reflected on your online identity---what it is now, and where you want it to be. You've also had an opportunity to evaluate digital tools and their ethical implications, and to consider what tools will help you academically and personally. As you continue with the last two units of the course we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.
+
+## Checking Your Learning {.unnumbered}
+
+::: {.check}
+
+Before you move on to the next unit check that you are able to:
+
+-
+-
+-
+-
+-
+-
+-
+
+Create a personalized narrative to document and express your learning processExamine your digital footprint and develop a positive digital online identityEvaluate digital tools, platforms, and interactions based on ethical principlesCritically evaluate the affordances and restraints of digital tools and platformsIdentify the digital skills needed in your field of studyDescribe how to protect yourself, as well as other students and colleagues, to stay safe in the digital environmentPractice evaluative judgment to document your process of learning in complex domains of knowledge :::
