@@ -2,7 +2,7 @@
 
 ## Overview {.unnumbered}
 
-In this module, we'll dive into three important aspects of utilizing digital resources effectively. Firstly, we'll explore the art of discovering and selecting valuable resources for your academic and professional needs. You'll learn how to search efficiently, critically assess sources for credibility and relevance, and fine-tune your search techniques.
+In this module, we'll dive into three important aspects of utilizing digital resources effectively. Firstly, we'll explore the art of discovering and selecting valuable resources for your academic and professional needs. You'll learn how to search efficiently, critically assess sources for credibility and relevance, and finetune your search techniques.
 
 Next, we'll delve into the world of citation management. Properly citing your sources is vital in academic writing to avoid plagiarism, and we'll introduce you to various citation styles like APA, MLA, and Chicago. You'll also gain practical experience with citation management tools to help streamline the citation process and manage your references efficiently.
 

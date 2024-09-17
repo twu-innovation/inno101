@@ -17,7 +17,10 @@ book:
   chapters:
     - index.qmd
     - u1.qmd
+    - u1_n.qmd
+    - u1_n_edited.qmd
     - u2.qmd
+    - u2_n.qmd
     - u3.qmd
     - u4.qmd
     - u5.qmd

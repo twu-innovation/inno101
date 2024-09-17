@@ -216,35 +216,35 @@ Using links and tags together you can build a very powerful and easily searchabl
 
 ## Sense-making Through Concept Maps
 
-As you saw at the beginning of this unit, sense-making is the **work** of learning. There is no way around the work of learning because learning is work. It takes time and cognitive effort. As much as we wish to be able to "learn" like Neo in *The Matrix*, we can't ([see a favourite scene in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐).](mailto:Colin.Madland@twu.ca)
+As you saw at the beginning of this unit, sense-making is the **work** of learning. There is no way around the work of learning because learning is work. It takes time and cognitive effort. As much as we wish to be able to "learn" like Neo in *The Matrix*, we can't ([see a favourite scene in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐).]
 
-[<!-- !!! Comment(s) from Werd: Reference: see one of mya favourite scenes in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐 Comment: Keep this (revised from original language about being the author's favorite movie scene)? Deb Troendle-Scott | 2024-08-20T18:43:00Z Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"let's keep this (as it's one of my fav scenes too! ;) Kelly Marjanovic | 2024-09-06T16:57:24 -->](mailto:Colin.Madland@twu.ca) 
+[<!-- !!! Comment(s) from Werd: Reference: see one of mya favourite scenes in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐 Comment: Keep this (revised from original language about being the author's favorite movie scene)? Deb Troendle-Scott | 2024-08-20T18:43:00Z Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"let's keep this (as it's one of my fav scenes too! ;) Kelly Marjanovic | 2024-09-06T16:57:24 -->] 
 
-- [**Watch**: The Matrix - 'I Know Kung Fu' (2019)](mailto:Colin.Madland@twu.ca)
+- [**Watch**: The Matrix - 'I Know Kung Fu' (2019)]
 
-[<!-- !!! Comment(s) from Werd: Reference: Watch Comment: Make this and/or the directive below re: mind mapping an activity? With the exception of a direction to watch or read a specific resource at the start of the unit, these are usually all identified within activities and not running text, so this doesn't "match" other sections Deb Troendle-Scott | 2024-08-20T18:55:00Z -->](mailto:Colin.Madland@twu.ca) 
+[<!-- !!! Comment(s) from Werd: Reference: Watch Comment: Make this and/or the directive below re: mind mapping an activity? With the exception of a direction to watch or read a specific resource at the start of the unit, these are usually all identified within activities and not running text, so this doesn't "match" other sections Deb Troendle-Scott | 2024-08-20T18:55:00Z -->] 
 
-[[https://www.youtube-nocookie.com/embed/0YhJxJZOWBw](https://www.youtube.com/watch?v=0YhJxJZOWBw)](mailto:Colin.Madland@twu.ca)
+[[https://www.youtube-nocookie.com/embed/0YhJxJZOWBw](https://www.youtube.com/watch?v=0YhJxJZOWBw)]
 
-[Tags and links in Obsidian can be visualized using graph view, but as this is an algorithmically generated map of the connections between ideas and files in your vault, there is little you can do to customize it. Fortunately, Obsidian also features a tool called the Canvas, which is a blank space that you can use to manually connect ideas in a visual format, allowing you to see connections and relationships that make sense to you. The following video is a brief explanation of how to use the Canvas in Obsidian.](mailto:Colin.Madland@twu.ca)
+[Tags and links in Obsidian can be visualized using graph view, but as this is an algorithmically generated map of the connections between ideas and files in your vault, there is little you can do to customize it. Fortunately, Obsidian also features a tool called the Canvas, which is a blank space that you can use to manually connect ideas in a visual format, allowing you to see connections and relationships that make sense to you. The following video is a brief explanation of how to use the Canvas in Obsidian.]
 
-### [3.3.1 Activity: Obsidian Concept Map](mailto:colin.madland@twu.ca)
+### [3.3.1 Activity: Obsidian Concept Map]
 
-- [**Watch**: *Mind Mapping in Obsidian Canvas* (2023). As you watch, follow the directions and to create a concept map in Obsidian. You will use this in the next activity.](mailto:Colin.Madland@twu.ca)
+- [**Watch**: *Mind Mapping in Obsidian Canvas* (2023). As you watch, follow the directions and to create a concept map in Obsidian. You will use this in the next activity.]
 
-[[https://www.youtube-nocookie.com/embed/eHI-Szjpafk](https://www.youtube.com/watch?v=eHI-Szjpafk)](mailto:Colin.Madland@twu.ca)
+[[https://www.youtube-nocookie.com/embed/eHI-Szjpafk](https://www.youtube.com/watch?v=eHI-Szjpafk)]
 
-### [3.3.2 Activity: Open Source Video and Audio Lectures](mailto:colin.madland@twu.ca)
+### [3.3.2 Activity: Open Source Video and Audio Lectures]
 
-[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca)
+[ ::: {.learning-activity}]
 
-- [**Search**: Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests:](mailto:Colin.Madland@twu.ca)
+- [**Search**: Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests:]
 -
 -
 - *Harvard Online Courses*
 - *MIT OpenCourseWare*
 - list of topics)
-- **Write**: Using Obsidian, record your notes from the lecture. [*Open Culture* (2024). Over 30,000 hours of free audio and video lectures*Open Yale Courses* (2024). Free and open access to a selection of introductory courses including video lectures from Yale University(2024). Series of video lectures from Harvard University(2024). Series of audio and video lectures from Massachusetts Institute of Technology*Tedx Talks* (2024). Extensive database of video presentations in the form of short, powerful talks (see also](mailto:Colin.Madland@twu.ca)
+- **Write**: Using Obsidian, record your notes from the lecture. [*Open Culture* (2024). Over 30,000 hours of free audio and video lectures*Open Yale Courses* (2024). Free and open access to a selection of introductory courses including video lectures from Yale University(2024). Series of video lectures from Harvard University(2024). Series of audio and video lectures from Massachusetts Institute of Technology*Tedx Talks* (2024). Extensive database of video presentations in the form of short, powerful talks (see also]
 - the first line is used for the title of the note
 - remember to include a link to the source of the information
 - use tags and links to connect your ideas
@@ -260,54 +260,54 @@ Next, let's focus on reading and note taking. In this section, you will demonstr
 ::: {.learning-activity}
 
 - **Read** the following articles and take notes in Obsidian. Try using Markdown to format your text.
-- [*Effective Reading and Note-Taking* (n.d.)](mailto:Colin.Madland@twu.ca)
-- [*Reading for Understanding: The SQW3R Method* (2024)](mailto:Colin.Madland@twu.ca)
-- [*How to (Seriously) Read a Scientific Paper* (2016)](mailto:Colin.Madland@twu.ca)
-- [*Using Markdown in Obsidian* (n.d.)](mailto:Colin.Madland@twu.ca)
+- [*Effective Reading and Note-Taking* (n.d.)]
+- [*Reading for Understanding: The SQW3R Method* (2024)]
+- [*How to (Seriously) Read a Scientific Paper* (2016)]
+- [*Using Markdown in Obsidian* (n.d.)]
 
-[ :::](mailto:Colin.Madland@twu.ca)
+[ :::]
 
-### [3.4.2 Activity: Writing a Summary of Your Readings](mailto:colin.madland@twu.ca)
+### [3.4.2 Activity: Writing a Summary of Your Readings]
 
-[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca)
+[ ::: {.learning-activity}]
 
-[In this activity you will read an academic article and write a summary using Obsidian and Zotero.](mailto:Colin.Madland@twu.ca)
+[In this activity you will read an academic article and write a summary using Obsidian and Zotero.]
 
-- [**Read**:](mailto:Colin.Madland@twu.ca)
-- [First, search for a peer reviewed journal article in support of a research topic of interest](mailto:Colin.Madland@twu.ca)
-- [Remember to add the source to your citation management tool, Zotero](mailto:Colin.Madland@twu.ca)
-- [**Write**:](mailto:Colin.Madland@twu.ca)
-- [Prepare a summary of the journal article based on this example](mailto:Colin.Madland@twu.ca)
-- [Use the Markdown formatting in Obsidian. Your summary must at a minimum demonstrate the following text formats:](mailto:Colin.Madland@twu.ca)
-- [headings and subheadings](mailto:Colin.Madland@twu.ca)
-- [bold and italics](mailto:Colin.Madland@twu.ca)
-- [numbered or unordered list](mailto:Colin.Madland@twu.ca)
-- [labelled link](mailto:Colin.Madland@twu.ca)
-- [horizontal rule](mailto:Colin.Madland@twu.ca)
-- [block quote for one or more citations from the article](mailto:Colin.Madland@twu.ca)
+- [**Read**:]
+- [First, search for a peer reviewed journal article in support of a research topic of interest]
+- [Remember to add the source to your citation management tool, Zotero]
+- [**Write**:]
+- [Prepare a summary of the journal article based on this example]
+- [Use the Markdown formatting in Obsidian. Your summary must at a minimum demonstrate the following text formats:]
+- [headings and subheadings]
+- [bold and italics]
+- [numbered or unordered list]
+- [labelled link]
+- [horizontal rule]
+- [block quote for one or more citations from the article]
 -
 
 > [Copy your summary prepared in Obsidian and paste this text summary
 > into Zotero using the notes feature so that you have a copy for your
-> personal library as backup.](mailto:Colin.Madland@twu.ca)
+> personal library as backup.]
 
-[Reflect on your progress in practicing these digital skills. Share your thoughts in your journal and/or in Discourse.](mailto:Colin.Madland@twu.ca)
+[Reflect on your progress in practicing these digital skills. Share your thoughts in your journal and/or in Discourse.]
 
-[ :::](mailto:Colin.Madland@twu.ca)
+[ :::]
 
-## [3.5 Digital Tools To Support Learning](mailto:colin.madland@twu.ca)
+## [3.5 Digital Tools To Support Learning]
 
-[So far in this course you have had opportunities to explore a number of learning tools, including [Obsidian](https://obsidian.md), [Zotero](https://www.zotero.org/), and [LitMaps](https://www.litmaps.com/).](mailto:Colin.Madland@twu.ca){target="_blank"}
+[So far in this course you have had opportunities to explore a number of learning tools, including [Obsidian](https://obsidian.md), [Zotero](https://www.zotero.org/), and [LitMaps](https://www.litmaps.com/).]{target="_blank"}
 
-[We anticipate these tools will help you think critically, collaborate, and ultimately succeed in your studies.](mailto:Colin.Madland@twu.ca){target="_blank"}
+[We anticipate these tools will help you think critically, collaborate, and ultimately succeed in your studies.]{target="_blank"}
 
-[There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, and so on).](mailto:Colin.Madland@twu.ca){target="_blank"}
+[There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, and so on).]{target="_blank"}
 
-### [3.5.1 Activity: Tools for Learning in University](mailto:colin.madland@twu.ca){target="_blank"}
+### [3.5.1 Activity: Tools for Learning in University]{target="_blank"}
 
-[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca){target="_blank"}
+[ ::: {.learning-activity}]{target="_blank"}
 
-- [**Explore**: Search for the following apps or websites using the key words listed below. Try adding "top," "best," "free," "university," or "students" and see how that changes your search results.](mailto:Colin.Madland@twu.ca){target="_blank"}
+- [**Explore**: Search for the following apps or websites using the key words listed below. Try adding "top," "best," "free," "university," or "students" and see how that changes your search results.]{target="_blank"}
 -
 -
 -
@@ -317,28 +317,28 @@ Next, let's focus on reading and note taking. In this section, you will demonstr
 -
 -
 -
-- [note taking appsannotate web resourcescollaborative toolsproject management toolsgraphic organizersstudy toolsfocus toolsresearch toolswriting tools**Share**: In Discourse, share some tools that you've used or that you plan to use to help in your studies.](mailto:Colin.Madland@twu.ca){target="_blank"}
+- [note taking appsannotate web resourcescollaborative toolsproject management toolsgraphic organizersstudy toolsfocus toolsresearch toolswriting tools**Share**: In Discourse, share some tools that you've used or that you plan to use to help in your studies.]{target="_blank"}
 
-[ :::](mailto:Colin.Madland@twu.ca){target="_blank"}
+[ :::]{target="_blank"}
 
-## [summary](mailto:colin.madland@twu.ca){target="_blank"}
+## [summary]{target="_blank"}
 
-[As we conclude our unit, reflect on your learning. Throughout this unit, you've acquired a multifaceted skill set that empowers you to harness the potential of technology in synthesizing and organizing knowledge. From understanding the intricate dance of hyperlinks and tags, to mastering the art of digital note taking, you've explored tools and strategies that redefine how we connect ideas in the digital age.](mailto:Colin.Madland@twu.ca){target="_blank"}
+[As we conclude our unit, reflect on your learning. Throughout this unit, you've acquired a multifaceted skill set that empowers you to harness the potential of technology in synthesizing and organizing knowledge. From understanding the intricate dance of hyperlinks and tags, to mastering the art of digital note taking, you've explored tools and strategies that redefine how we connect ideas in the digital age.]{target="_blank"}
 
-[Concept maps have become your canvas, allowing you to visually articulate complex relationships and hierarchies with precision and clarity. The curated digital tools we've explored are now at your disposal, enhancing your learning experience and catering to your unique preferences. Remember, this unit isn't just about understanding concepts; it's about applying these newfound skills in real world scenarios.](mailto:Colin.Madland@twu.ca){target="_blank"}
+[Concept maps have become your canvas, allowing you to visually articulate complex relationships and hierarchies with precision and clarity. The curated digital tools we've explored are now at your disposal, enhancing your learning experience and catering to your unique preferences. Remember, this unit isn't just about understanding concepts; it's about applying these newfound skills in real world scenarios.]{target="_blank"}
 
-[As you move forward, carry this digital toolkit with you, leveraging technology as a powerful ally in your ongoing pursuit of knowledge. Your ability to connect ideas seamlessly through hyperlinks, tags, note taking, and concept maps positions you as a dynamic learner in an ever evolving educational landscape. The skills you've honed here are not just for this course but are lifelong assets that will continue to enrich your learning journey.](mailto:Colin.Madland@twu.ca){target="_blank"}
+[As you move forward, carry this digital toolkit with you, leveraging technology as a powerful ally in your ongoing pursuit of knowledge. Your ability to connect ideas seamlessly through hyperlinks, tags, note taking, and concept maps positions you as a dynamic learner in an ever evolving educational landscape. The skills you've honed here are not just for this course but are lifelong assets that will continue to enrich your learning journey.]{target="_blank"}
 
 ##
 
-## [checking Your Learning](mailto:colin.madland@twu.ca){target="_blank"}
+## [checking Your Learning]{target="_blank"}
 
-[ ::: {.check}](mailto:Colin.Madland@twu.ca){target="_blank"}
+[ ::: {.check}]{target="_blank"}
 
-[Before you move on to the next unit check that you are able to:](mailto:Colin.Madland@twu.ca){target="_blank"}
+[Before you move on to the next unit check that you are able to:]{target="_blank"}
 
 -
 -
 -
 
-[Build and customize technology integrated workflows to enhance and enrich your learning journeyPractice evaluative judgment to document your process of learning in complex domains of knowledgeEvaluate digital tools, platforms, and interactions based on ethical principles :::](mailto:Colin.Madland@twu.ca){target="_blank"}
+[Build and customize technology integrated workflows to enhance and enrich your learning journeyPractice evaluative judgment to document your process of learning in complex domains of knowledgeEvaluate digital tools, platforms, and interactions based on ethical principles :::]{target="_blank"}

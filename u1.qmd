@@ -310,7 +310,7 @@ Screenshot of Extracted Files List on Obsidian
 
 ::: {#fig-image2}
 
-![](assets/1.%20Introduction%20To%20Digital%20Literacies%20for%20Online%20Learning_Edited%20DTS_KM/image2.png){fig-alt="Screenshot, Obsidian, with three icons on far left" .lightbox fig-align="left"}
+![](assets/u1_n/image2.png){fig-alt="Screenshot, Obsidian, with three icons on far left" .lightbox fig-align="left"}
 
 Screenshot of the Open Another Vault Button in Obsidian
 
