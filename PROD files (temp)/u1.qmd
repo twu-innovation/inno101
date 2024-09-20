@@ -139,7 +139,7 @@ Here is some additional advice from TWU students.
 
 There are thousands of websites that offer advice such as "tips for online learning" or "how to succeed in your online class," and some of those sites are good (see here, [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the *Liberated Learner* project, which was created primarily by university and college students like you. There are four main sections in the *Liberated Learner* resource---we will explore "The Learner" in this activity.
 
-- **Read**: Take some time to work through The Learner (2022). It begins with a short video and includes activities that you can complete. These are for your reflection.
+- **Read**: Take some time to work through [The Learner (2022)](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"}. It begins with a short video and includes activities that you can complete. These are for your reflection.
 - **Write: Questions to Consider**
   - Having worked through The Learner, consider the ideas you think would be most beneficial for your online studies. To record your thoughts, you could create a list of your top ten study tips for online learning, or maybe write a message to a friend or sibling who is considering attending TWU next year.
   - Following this, reflect on how you can work to ensure your own success in your online courses. What are your goals, and what specific steps will you take to achieve them?
@@ -178,9 +178,9 @@ In this course, we will ask you to discuss ideas with your peers via Discourse, 
 
 Your discussion posts may be used as learning artifacts to demonstrate your understanding of the course learning outcomes (see Assignment details in Moodle).
 
-In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following (Galikyan & Admiraal, 2019), and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the APA Style website for details.
+In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following (Galikyan & Admiraal, 2019), and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
 
-It is ***highly*** recommended[^1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but ￼download Zotero￼ for free.
+It is ***highly*** recommended[^1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but ￼[download Zotero](https://www.zotero.org/){target="_blank"}￼ for free.
 
 In short, similar to a live classroom discussion you need to be polite and professional, and you need to provide evidence for your views, but, as in a normal conversation, you won't have all of the formalities of academic writing. In LDRS 101, you should consider your forum posts as a time to practice and test your ideas. The stakes are very low, so it is fine to make mistakes.
 
@@ -310,7 +310,7 @@ Screenshot of Extracted Files List on Obsidian
 
 ::: {#fig-image2}
 
-![](assets/u1/image2.png){fig-alt="Screenshot, Obsidian, with three icons on far left" .lightbox fig-align="left"}
+![](assets/u1/obsidian2.png){fig-alt="Screenshot, Obsidian, with three icons on far left" .lightbox fig-align="left"}
 
 Screenshot of the Open Another Vault Button in Obsidian
 
@@ -421,7 +421,7 @@ Career Ready Framework
 
 ::: {.note}
 
-*Note.* From "*Quick Guide - Developing Students' Digital Literacy*," by Jisc Digital Experience Insights, n.d., p. 2, (https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf). [CC BY-NC-ND 2.0 UK](https://creativecommons.org/licenses/by-nc-nd/2.0/uk/){target="_blank"}.
+*Note.* From "[*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"}," by Jisc Digital Experience Insights, n.d., p. 2, . [CC BY-NC-ND 2.0 UK](https://creativecommons.org/licenses/by-nc-nd/2.0/uk/){target="_blank"}.
 
 :::
 

@@ -1,0 +1,29 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/Thumbs.db": false,
+        "**/INNO-101_split_docs": false,
+        "INNO-101_split_docs": false,
+        "**/.Rproj.user": false,
+        "*.user": false,
+        ".Rproj.user": false,
+        "**/*.user": false,
+        "**/.github": false,
+        ".github": false,
+        "**/.backup": false,
+        ".backup": false,
+        "**/.quarto": false,
+        ".quarto": false,
+        "**/.vscode": false,
+        ".vscode": false,
+        "**/docs": false,
+        "docs": false,
+        "**/header-assets": false,
+        "header-assets": false
+    },
+    "explorerExclude.backup": {}
+}

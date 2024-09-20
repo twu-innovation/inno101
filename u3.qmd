@@ -26,15 +26,18 @@ When you have completed this unit you will be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-::: {.learning-activity}
-
 **Learning Activities**
 
 - Practice using links and tags to connect your ideas in Obsidian
 - Write a reflective post on your learning experiences
 - Practice various note taking skills
 
-> **Notes:**
+::: {.note}
+
+*Note: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*
+
+:::
+<!-- > **Notes:**
 >
 > *•* *You will be directed to complete these activities as they come up
 > in the unit.*
@@ -42,30 +45,20 @@ Here is a checklist of learning activities you will benefit from in completing t
 > *•* *The learning activities in this course are designed to prepare
 > you for the graded assignments in this course. You are strongly
 > encouraged to complete them.*
-
+-->
 :::
 
 ::: {.note}
 
 **Assessment**
 
-- See the Assessment section in Moodle for assignment details and due dates.
+- Please see the Assessment section in Moodle for assignment details.
 
 :::
 
 ### Resources {.unnumbered}
 
 - All resources will be provided online in the unit.
-
-<!-- !!! Comment(s) from Werd:
-
-Reference: To begin the unit, watch:
-
-Comment: Not sure why this is here?! HYPERLINK
-"mailto:Chloe.Chang@twu.ca"Chang is this a quarto glitch?
-Kelly Marjanovic | 2024-09-06T16:49:54
-
--->
 
 ## Sense-making Through Hyperlinks
 
@@ -75,84 +68,64 @@ One of the challenges is that there is simply far too much information for you t
 
 If you learn this workflow well and learn how to customize it to your needs (that's synthesis), you will be ahead of the game when it comes time to complete papers in other courses.
 
-The key to this component of your workflow is the lowly [hyperlink](https://en.wikipedia.org/wiki/Hyperlink). You'll know that if you click or tap that highlighted word you will be taken to another website, in this case, the Wikipedia article on hyperlinks. That is a hyperlink and it is the most basic unit of the entire internet, which is simply a massive collection of documents all linked together. At its most basic form, a hyperlink is simply a connection between two documents where a hyperlink in one document allows you to open the second document.
+The key to this component of your workflow is the lowly [hyperlink](https://en.wikipedia.org/wiki/Hyperlink){target="_blank"}. You'll know that if you click or tap that highlighted word you will be taken to another website, in this case, the Wikipedia article on hyperlinks. That is a hyperlink and it is the most basic unit of the entire internet, which is simply a massive collection of documents all linked together. At its most basic form, a hyperlink is simply a connection between two documents where a hyperlink in one document allows you to open the second document.
 
 In this workflow instead of just linking two documents together you will link two ideas together (by linking documents). Your Obsidian vault is essentially a website that is only accessible on your computer; instead of links going to documents on other servers, you link to documents within the vault (although you can still link to the web).
 
-### Linking in Obsidian
+### Linking in Obsidian {.unnumbered}
 
 There are two methods of building hyperlinks in Obsidian: Wikilinks and markdown links, and we will cover both here.
 
-#### Wikilinks
+#### Wikilinks {.unnumbered}
 
 A Wikilink, the default in Obsidian, is really simple to build. All you have to do is type two opening square brackets, like this `[[`, and Obsidian will do a couple things automatically. First, Obsidian will create the closing brackets to match, so you end up with this `[[]]`, with your cursor in the middle, and second, Obsidian will present a list of all the pages in your vault, from which you can choose the page you want linked.
 
+
+
+[Alt text: ]
+
+::: {#fig-wikilink}
+
+![](assets/u3/wikilink.png){fig-alt="Screenshot, how to create a Wikilink in Obsidian" .lightbox fig-align="left"}
+
 Screenshot, Create a Wikilink in Obsidian
-
-[Alt text: Screenshot, how to create a Wikilink in Obsidian]
-
-::: {#fig-image1}
-
-![](assets/u3/image1.png){fig-alt="" .lightbox fig-align="left"}
-
-<!-- Image missing caption and alt text--> 
 
 :::
 
 Once you choose a page (in this case, article1.md), Obsidian will do the rest, and you will end up with this view:
 
+::: {#fig-wikilink2}
+
+![](assets/u3/wikilink2.png){fig-alt="Screenshot showing Wikilink "article1.md" created in Obsidian" .lightbox fig-align="left"}
+
 Screenshot, Wikilink Created in Obsidian
-
-[Alt text: Screenshot showing Wikilink "article1.md" created in Obsidian]
-
-::: {#fig-image2}
-
-![](assets/u3/image2.png){fig-alt="" .lightbox fig-align="left"}
-
-<!-- Image missing caption and alt text--> 
 
 :::
 
 From Hypothes.is you can create a link to Zotero. By pressing and holding the "Command" (macOS) or "CTRL" (Windows) button on the keyboard and then hovering over the link you've created, you will get a preview of the Zotero page. If you press and hold the "Command" (macOS) or "CTRL" (Windows) button on the keyboard and then click the link, you will be taken to the page. Once on the Zotero page, you can scroll to the bottom of the page and see "Backlinks" (a link back to the original page). If you don't see backlinks, click the three dots in the top right corner of the page and choose "Backlinks in document."
 
-<!-- !!! Comment(s) from Werd:
-
-Reference: As
-
-Comment: Content missing? The screenshot doesn't illustrate the Zotero
-information given here about creating a link
-Deb Troendle-Scott | 2024-08-01T13:51:00Z
-
-Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"could
-you check this section?
-Kelly Marjanovic | 2024-09-06T16:50:12
-
--->
-
-#### Markdown Links
+#### Markdown Links {.unnumbered}
 
 While Wikilinks are the default in Obsidian and are the easiest way to link within your vault, sometimes you might want to link to a site on the web. The syntax for a markdown link is a bit different but is still very simple. There are two parts you need to remember:
 
 - the link text (this is what you want your reader to see on your page)
 - the link URL (this is the web address of the site you want them to visit)
 
-Here is the syntax: `[`Link text between single square brackets](URL inside parentheses){target="\_blank"} So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be [YouTube](https://youtube.com){target="\_blank"} which will display like this: [YouTube](https://youtube.com). Notice that there are no spaces between the closing square bracket and the opening parenthesis.
+Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"} So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
 
-### Why Link?
+Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"}` So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
+
+### Why Link? {.unnumbered}
 
 Creating links to other related topics in your notes is a way that you can start to build connections in your mind about how different ideas are related. For example, if you are studying "trees," you might want to link over to the previous notes that you created on "plants," "forests," or "climate change." During your study on trees, you might want to create notes on "deciduous" and "coniferous" trees, or "xylem" and "phloem," and link those articles to "trees." By continually linking notes that are related you are creating a web of your knowledge as well as reminders of how ideas are related. Linking is a way for you to make sense of the information that is coming into your consciousness.
 
 Once you have created links between different files in your vault you can visualize these links using the "Graph View" in Obsidian. Here is part of the graph view for a major paper. Each of the white dots represents a file in the vault, and their size is relative to the number of pages linked to that article. You can see that there are three really big pages that have many links. Those are clearly very important pages.
 
+::: {#fig-graph2}
+
+![](assets/u3/graph2.png){fig-alt="Screenshot, graph view of linked documents in Obsidian" .lightbox fig-align="left"}
+
 Screenshot, Graph View for Linked Documents in Obsidian
-
-[Alt text: Screenshot, graph view of linked documents in Obsidian]
-
-::: {#fig-image3}
-
-![](assets/u3/image3.png){fig-alt="" .lightbox fig-align="left"}
-
-<!-- Image missing caption and alt text--> 
 
 :::
 
@@ -161,9 +134,10 @@ Screenshot, Graph View for Linked Documents in Obsidian
 ::: {.learning-activity}
 
 - **Link**: Follow the directions above to add notes to Obsidian on a topic of interest. Search online for interesting articles and videos you want to add to your notes and practice adding them using Wikilinks and markdown links. Locate the graph view in Obsidian to see the connections between the ideas you've added.
+
 - **Write**: After spending some time practicing this new skill, write a reflective journal entry on the process you followed and what your experience was like. What did you struggle with? How did you troubleshoot? What are the advantages of organizing your notes using this method?
 
-Feel free to discuss your experience on the Learning Hub in Discourse. You can also post any questions you have about this process and get technical support from your instructors and facilitators.
+Feel free to discuss your experience on the [Learning Hub](https://twu.discourse.group/auth/microsoft_office365){target="_blank"} in Discourse. You can also post any questions you have about this process and get technical support from your instructors and facilitators.
 
 :::
 
@@ -177,29 +151,22 @@ We recommend that you put your tags in the same spot on each page so you know wh
 
 You can also show tags in your graph view, as below. Green dots are tags and white dots are files (as before). You can see in this image that there are many more connections.
 
+
+::: {#fig-graph1}
+
+![](assets/u3/graph1.png){fig-alt="Screenshot, Graph view including files (white dots) and tags (green dots) in Obsidian" .lightbox fig-align="left"}
+
 Screenshot, Graph View in Obsidian Including Files (White Dots) and Tags (Green Dots)
-
-[Alt text: Screenshot, Graph view including files (white dots) and tags (green dots) in Obsidian]
-
-::: {#fig-image4}
-
-![](assets/u3/image4.png){fig-alt="" .lightbox fig-align="left"}
-
-<!-- Image missing caption and alt text--> 
 
 :::
 
 You can click any of the tags in Obsidian to see highlighted connections and search results for that tag, allowing you to go directly to notes of interest.
 
+::: {#fig-graph3}
+
+![](assets/u3/graph3.png){fig-alt="screenshot, graph view with tag expanded in Obsidian" .lightbox fig-align="left"}
+
 Screenshot, Graph View in Obsidian With Tag Expanded to Show Additional Information
-
-[Alt text, screenshot, graph view with tag expanded in Obsidian]
-
-::: {#fig-image5}
-
-![](assets/u3/image5.png){fig-alt="" .lightbox fig-align="left"}
-
-<!-- Image missing caption and alt text--> 
 
 :::
 
@@ -216,38 +183,35 @@ Using links and tags together you can build a very powerful and easily searchabl
 
 ## Sense-making Through Concept Maps
 
-As you saw at the beginning of this unit, sense-making is the **work** of learning. There is no way around the work of learning because learning is work. It takes time and cognitive effort. As much as we wish to be able to "learn" like Neo in *The Matrix*, we can't ([see a favourite scene in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐).](mailto:Colin.Madland@twu.ca)
+As you saw at the beginning of this unit, sense-making is the **work** of learning. There is no way around the work of learning because learning is work. It takes time and cognitive effort. As much as we wish to be able to "learn" like Neo in *The Matrix*, we can't (see a favourite scene in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐).
 
-[<!-- !!! Comment(s) from Werd: Reference: see one of mya favourite scenes in a movie, below; and it's not just because Keanu Reeves is the GOAT 🐐 Comment: Keep this (revised from original language about being the author's favorite movie scene)? Deb Troendle-Scott | 2024-08-20T18:43:00Z Comment: HYPERLINK "mailto:Colin.Madland@twu.ca"let's keep this (as it's one of my fav scenes too! ;) Kelly Marjanovic | 2024-09-06T16:57:24 -->](mailto:Colin.Madland@twu.ca) 
+- **Watch**: [The Matrix - 'I Know Kung Fu'](https://www.youtube.com/watch?v=0YhJxJZOWBw){target="_blank"} (2019)
 
-- [**Watch**: The Matrix - 'I Know Kung Fu' (2019)](mailto:Colin.Madland@twu.ca)
+{{< video https://www.youtube-nocookie.com/embed/0YhJxJZOWBw >}}
 
-[<!-- !!! Comment(s) from Werd: Reference: Watch Comment: Make this and/or the directive below re: mind mapping an activity? With the exception of a direction to watch or read a specific resource at the start of the unit, these are usually all identified within activities and not running text, so this doesn't "match" other sections Deb Troendle-Scott | 2024-08-20T18:55:00Z -->](mailto:Colin.Madland@twu.ca) 
+Tags and links in Obsidian can be visualized using graph view, but as this is an algorithmically generated map of the connections between ideas and files in your vault, there is little you can do to customize it. Fortunately, Obsidian also features a tool called the Canvas, which is a blank space that you can use to manually connect ideas in a visual format, allowing you to see connections and relationships that make sense to you. The following video is a brief explanation of how to use the Canvas in Obsidian.
 
-[[https://www.youtube-nocookie.com/embed/0YhJxJZOWBw](https://www.youtube.com/watch?v=0YhJxJZOWBw)](mailto:Colin.Madland@twu.ca)
+### Activity: Obsidian Concept Map
 
-[Tags and links in Obsidian can be visualized using graph view, but as this is an algorithmically generated map of the connections between ideas and files in your vault, there is little you can do to customize it. Fortunately, Obsidian also features a tool called the Canvas, which is a blank space that you can use to manually connect ideas in a visual format, allowing you to see connections and relationships that make sense to you. The following video is a brief explanation of how to use the Canvas in Obsidian.](mailto:Colin.Madland@twu.ca)
+- **Watch**: [*Mind Mapping in Obsidian Canvas*](https://www.youtube.com/watch?v=eHI-Szjpafk){target="_blank"} (2023). As you watch, follow the directions and to create a concept map in Obsidian. You will use this in the next activity.
 
-### [3.3.1 Activity: Obsidian Concept Map](mailto:colin.madland@twu.ca)
+{{< video https://www.youtube-nocookie.com/embed/eHI-Szjpafk >}}
 
-- [**Watch**: *Mind Mapping in Obsidian Canvas* (2023). As you watch, follow the directions and to create a concept map in Obsidian. You will use this in the next activity.](mailto:Colin.Madland@twu.ca)
+### Activity: Open Source Video and Audio Lectures
 
-[[https://www.youtube-nocookie.com/embed/eHI-Szjpafk](https://www.youtube.com/watch?v=eHI-Szjpafk)](mailto:Colin.Madland@twu.ca)
+::: {.learning-activity}
 
-### [3.3.2 Activity: Open Source Video and Audio Lectures](mailto:colin.madland@twu.ca)
+- **Search**: Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests:
+  - [*Open Culture*](https://www.openculture.com/freeonlinecourses){target="_blank"} (2024). Over 30,000 hours of free audio and video lectures
+  - [*Open Yale Courses*](https://oyc.yale.edu/){target="_blank"} (2024). Free and open access to a selection of introductory courses including video lectures from Yale University(2024). 
+  - [*Harvard Online Courses*](https://extension.harvard.edu/online-learning/){target="_blank"}(2024) Series of video lectures from Harvard University.
+  - [*MIT OpenCourseWare*](https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum){target="_blank"}(2024) Series of audio and video lectures from Massachusetts Institute of Technology
+  - [*Tedx Talks*](https://www.ted.com/){target="_blank"} (2024). Extensive database of video presentations in the form of short, powerful talks (see also list of topics)
 
-[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca)
-
-- [**Search**: Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests:](mailto:Colin.Madland@twu.ca)
--
--
-- *Harvard Online Courses*
-- *MIT OpenCourseWare*
-- list of topics)
-- **Write**: Using Obsidian, record your notes from the lecture. [*Open Culture* (2024). Over 30,000 hours of free audio and video lectures*Open Yale Courses* (2024). Free and open access to a selection of introductory courses including video lectures from Yale University(2024). Series of video lectures from Harvard University(2024). Series of audio and video lectures from Massachusetts Institute of Technology*Tedx Talks* (2024). Extensive database of video presentations in the form of short, powerful talks (see also](mailto:Colin.Madland@twu.ca)
-- the first line is used for the title of the note
-- remember to include a link to the source of the information
-- use tags and links to connect your ideas
+- **Write**: Using Obsidian, record your notes from the lecture. 
+  - the first line is used for the title of the note
+  - remember to include a link to the source of the information
+  - use tags and links to connect your ideas
 
 :::
 
@@ -260,85 +224,79 @@ Next, let's focus on reading and note taking. In this section, you will demonstr
 ::: {.learning-activity}
 
 - **Read** the following articles and take notes in Obsidian. Try using Markdown to format your text.
-- [*Effective Reading and Note-Taking* (n.d.)](mailto:Colin.Madland@twu.ca)
-- [*Reading for Understanding: The SQW3R Method* (2024)](mailto:Colin.Madland@twu.ca)
-- [*How to (Seriously) Read a Scientific Paper* (2016)](mailto:Colin.Madland@twu.ca)
-- [*Using Markdown in Obsidian* (n.d.)](mailto:Colin.Madland@twu.ca)
+  - [*Effective Reading and Note-Taking*](https://www.student.unsw.edu.au/effective-reading-and-note-taking){target="_blank"} (n.d.)
+  - [*Reading for Understanding: The SQW3R Method*](https://www.student.unsw.edu.au/reading-understanding){target="_blank"} (2024)
+  - [*How to (Seriously) Read a Scientific Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper){target="_blank"} (2016)
+  - *Using Markdown in Obsidian* (n.d.)
 
-[ :::](mailto:Colin.Madland@twu.ca)
+:::
 
-### [3.4.2 Activity: Writing a Summary of Your Readings](mailto:colin.madland@twu.ca)
+### Activity: Writing a Summary of Your Readings
 
-[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca)
+::: {.learning-activity}
 
-[In this activity you will read an academic article and write a summary using Obsidian and Zotero.](mailto:Colin.Madland@twu.ca)
+In this activity you will read an academic article and write a summary using Obsidian and Zotero.
 
-- [**Read**:](mailto:Colin.Madland@twu.ca)
-- [First, search for a peer reviewed journal article in support of a research topic of interest](mailto:Colin.Madland@twu.ca)
-- [Remember to add the source to your citation management tool, Zotero](mailto:Colin.Madland@twu.ca)
-- [**Write**:](mailto:Colin.Madland@twu.ca)
-- [Prepare a summary of the journal article based on this example](mailto:Colin.Madland@twu.ca)
-- [Use the Markdown formatting in Obsidian. Your summary must at a minimum demonstrate the following text formats:](mailto:Colin.Madland@twu.ca)
-- [headings and subheadings](mailto:Colin.Madland@twu.ca)
-- [bold and italics](mailto:Colin.Madland@twu.ca)
-- [numbered or unordered list](mailto:Colin.Madland@twu.ca)
-- [labelled link](mailto:Colin.Madland@twu.ca)
-- [horizontal rule](mailto:Colin.Madland@twu.ca)
-- [block quote for one or more citations from the article](mailto:Colin.Madland@twu.ca)
--
+- **Read**:
+  - First, search for a peer reviewed journal article in support of a research topic of interest
+  - Remember to add the source to your citation management tool, Zotero
+- **Write**:
+  - Prepare a summary of the journal article based on this example
+  - Use the Markdown formatting in Obsidian. Your summary must at a minimum demonstrate the following text formats:
+    - headings and subheadings
+    - bold and italics
+    - numbered or unordered list
+    - labelled link
+    - horizontal rule
+    - block quote for one or more citations from the article
+  -  Copy your summary prepared in Obsidian and paste this text summary into Zotero using the notes feature so that you have a copy for your personal library as backup.
 
-> [Copy your summary prepared in Obsidian and paste this text summary
-> into Zotero using the notes feature so that you have a copy for your
-> personal library as backup.](mailto:Colin.Madland@twu.ca)
+Reflect on your progress in practicing these digital skills. Share your thoughts in your journal and/or in Discourse.
 
-[Reflect on your progress in practicing these digital skills. Share your thoughts in your journal and/or in Discourse.](mailto:Colin.Madland@twu.ca)
+:::
 
-[ :::](mailto:Colin.Madland@twu.ca)
+## Digital Tools To Support Learning
 
-## [3.5 Digital Tools To Support Learning](mailto:colin.madland@twu.ca)
+So far in this course you have had opportunities to explore a number of learning tools, including [Obsidian](https://obsidian.md){target="_blank"}, [Zotero](https://www.zotero.org/){target="_blank"}, and [LitMaps](https://www.litmaps.com/){target="_blank"}.
 
-[So far in this course you have had opportunities to explore a number of learning tools, including [Obsidian](https://obsidian.md), [Zotero](https://www.zotero.org/), and [LitMaps](https://www.litmaps.com/).](mailto:Colin.Madland@twu.ca){target="_blank"}
+We anticipate these tools will help you think critically, collaborate, and ultimately succeed in your studies.
 
-[We anticipate these tools will help you think critically, collaborate, and ultimately succeed in your studies.](mailto:Colin.Madland@twu.ca){target="_blank"}
+There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, and so on).
 
-[There is a plethora of other learning tools out there. We encourage you to explore various apps and evaluate them based on criteria you value (effectiveness, privacy, cost, data ownership, accessibility, and so on).](mailto:Colin.Madland@twu.ca){target="_blank"}
+### Activity: Tools for Learning in University
 
-### [3.5.1 Activity: Tools for Learning in University](mailto:colin.madland@twu.ca){target="_blank"}
+::: {.learning-activity}
 
-[ ::: {.learning-activity}](mailto:Colin.Madland@twu.ca){target="_blank"}
+- **Explore**: Search for the following apps or websites using the key words listed below. Try adding "top," "best," "free," "university," or "students" and see how that changes your search results.
+  - note taking apps
+  - annotate web resources
+  - collaborative tools
+  - project management tools
+  - graphic organizers
+  - study tools
+  - focus tools
+  - research tools
+  - writing tools
 
-- [**Explore**: Search for the following apps or websites using the key words listed below. Try adding "top," "best," "free," "university," or "students" and see how that changes your search results.](mailto:Colin.Madland@twu.ca){target="_blank"}
--
--
--
--
--
--
--
--
--
-- [note taking appsannotate web resourcescollaborative toolsproject management toolsgraphic organizersstudy toolsfocus toolsresearch toolswriting tools**Share**: In Discourse, share some tools that you've used or that you plan to use to help in your studies.](mailto:Colin.Madland@twu.ca){target="_blank"}
+- **Share**: In Discourse, share some tools that you've used or that you plan to use to help in your studies.
 
-[ :::](mailto:Colin.Madland@twu.ca){target="_blank"}
+:::
 
-## [summary](mailto:colin.madland@twu.ca){target="_blank"}
+## Summary {.unnumbered}
 
-[As we conclude our unit, reflect on your learning. Throughout this unit, you've acquired a multifaceted skill set that empowers you to harness the potential of technology in synthesizing and organizing knowledge. From understanding the intricate dance of hyperlinks and tags, to mastering the art of digital note taking, you've explored tools and strategies that redefine how we connect ideas in the digital age.](mailto:Colin.Madland@twu.ca){target="_blank"}
+As we conclude our unit, reflect on your learning. Throughout this unit, you've acquired a multifaceted skill set that empowers you to harness the potential of technology in synthesizing and organizing knowledge. From understanding the intricate dance of hyperlinks and tags, to mastering the art of digital note taking, you've explored tools and strategies that redefine how we connect ideas in the digital age.
 
-[Concept maps have become your canvas, allowing you to visually articulate complex relationships and hierarchies with precision and clarity. The curated digital tools we've explored are now at your disposal, enhancing your learning experience and catering to your unique preferences. Remember, this unit isn't just about understanding concepts; it's about applying these newfound skills in real world scenarios.](mailto:Colin.Madland@twu.ca){target="_blank"}
+Concept maps have become your canvas, allowing you to visually articulate complex relationships and hierarchies with precision and clarity. The curated digital tools we've explored are now at your disposal, enhancing your learning experience and catering to your unique preferences. Remember, this unit isn't just about understanding concepts; it's about applying these newfound skills in real world scenarios.
 
-[As you move forward, carry this digital toolkit with you, leveraging technology as a powerful ally in your ongoing pursuit of knowledge. Your ability to connect ideas seamlessly through hyperlinks, tags, note taking, and concept maps positions you as a dynamic learner in an ever evolving educational landscape. The skills you've honed here are not just for this course but are lifelong assets that will continue to enrich your learning journey.](mailto:Colin.Madland@twu.ca){target="_blank"}
+As you move forward, carry this digital toolkit with you, leveraging technology as a powerful ally in your ongoing pursuit of knowledge. Your ability to connect ideas seamlessly through hyperlinks, tags, note taking, and concept maps positions you as a dynamic learner in an ever evolving educational landscape. The skills you've honed here are not just for this course but are lifelong assets that will continue to enrich your learning journey.
 
-##
 
-## [checking Your Learning](mailto:colin.madland@twu.ca){target="_blank"}
 
-[ ::: {.check}](mailto:Colin.Madland@twu.ca){target="_blank"}
+::: {.check}
 
-[Before you move on to the next unit check that you are able to:](mailto:Colin.Madland@twu.ca){target="_blank"}
+Before you move on to the next unit check that you are able to:
 
--
--
--
-
-[Build and customize technology integrated workflows to enhance and enrich your learning journeyPractice evaluative judgment to document your process of learning in complex domains of knowledgeEvaluate digital tools, platforms, and interactions based on ethical principles :::](mailto:Colin.Madland@twu.ca){target="_blank"}
+- Build and customize technology integrated workflows to enhance and enrich your learning journey
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge
+- Evaluate digital tools, platforms, and interactions based on ethical principles 
+:::
