@@ -125,9 +125,6 @@ Throughout your studies at TWU you will share your learning with instructors, yo
 
 TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} that aims to equip students for their future careers. Have a look at their Career Ready Framework in the figure below.
 
-
-
-
 ::: {#fig-TopxEmployeexSkillsx2025}
 
 ![](assets/u6/Top Employee Skills 2025.png){fig-alt="3-column list of career skills categories" .lightbox fig-align="left"}

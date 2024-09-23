@@ -88,9 +88,9 @@ This unit aims to guide you in creating your Learning Blog, the central componen
 
 Personal Learning Environments [are] systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services. (van Harmelen, 2007, as cited in Edutech Wiki, 2014, Definitions, para. 2) 
 
-As described by Casteneda et al.,
+<!-- //todo As described by Casteneda et al.,
 
-A Personal Learning Environment is … a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences. (2017, para. 2)
+A Personal Learning Environment is … a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences. (2017, para. 2) -->
 
 Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?
 
@@ -446,8 +446,6 @@ In this activity, you are invited to critically evaluate an online tool.
 ## Summary {.unnumbered}
 
 In this unit you have had the opportunity to learn about your personal learning environment and build your presence on the web using a blog. You've examined your digital footprint and reflected on your online identity---what it is now, and where you want it to be. You've also had an opportunity to evaluate digital tools and their ethical implications, and to consider what tools will help you academically and personally. As you continue with the last two units of the course we want to encourage you to examine your purpose in using technology, as well as how your contributions online can benefit others.
-
-
 
 ::: {.check}
 

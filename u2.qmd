@@ -417,7 +417,6 @@ This activity focuses on searching database repositories. Most databases provide
   - [*Top Ten Database Search Tips* (2011)](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"}
   - *Searching in Databases* [(2012)](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"}
   - [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} -- see also FAQs
-  - [BASE Advanced Search](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html){target="_blank"}
 
 - **Watch** the following video [Directory of Open Access Journals (DOAJ)](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} on using the (2016)
 {{< video https://www.youtube-nocookie.com/embed/ndvLm9MIfKA >}}

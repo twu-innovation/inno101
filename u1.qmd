@@ -238,7 +238,7 @@ Our next topic is an introduction to the idea of "the digital." You may recogniz
 
 Modern universities are also deeply impacted by the digital. Every system involved in higher education has been digitized in some manner, including recruitment, accounting, and fundraising. As you begin your university career, here are some digital systems you will likely encounter:
 
-<!-- //todo is point form suppose to have full stop removed?-->- Courses are designed and often delivered digitally.
+- Courses are designed and often delivered digitally.
 - Course logistics (discussion forums, assignment submissions, quizzes, gradebooks) happen in large digital tools called learning management systems (LMS) or virtual learning environments (VLE) such as Moodle.
 - Assignments must often be created digitally (using word processors, presentation software, video editors, website builders).
 - Research data is gathered, stored, analyzed, and shared digitally.
@@ -407,7 +407,7 @@ Watch educator and researcher Doug Belshaw as he discusses his digital literacie
 
 {{< video https://www.youtube-nocookie.com/embed/A8yQPoTcZ78 >}}
 
-<!--//todo #14 -->- **Read**: Next, read the [*Quick Guide - Developing Students' Digital Literacy*](https://digitalcapability.jiscinvolve.org/wp/files/2014/09/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"} (n.d.)
+- **Read**: Next, read the [*Quick Guide - Developing Students' Digital Literacy*](assets/u1/JISC_REPORT_Digital_Literacies_280714_PRINT.pdf){target="_blank"} (n.d.)
 
 This guide defines digital literacies as "the capabilities which fit an individual for living, learning and working in a digital society (n.d., Introduction)." Furthermore, this report distinguishes between seven elements of digital literacies:
 
