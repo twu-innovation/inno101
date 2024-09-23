@@ -37,6 +37,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 *Note: Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*
 
 :::
+
 <!-- > **Notes:**
 >
 > *•* *You will be directed to complete these activities as they come up
@@ -46,7 +47,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 > you for the graded assignments in this course. You are strongly
 > encouraged to complete them.*
 -->
-:::
 
 ::: {.note}
 
@@ -80,10 +80,6 @@ There are two methods of building hyperlinks in Obsidian: Wikilinks and markdown
 
 A Wikilink, the default in Obsidian, is really simple to build. All you have to do is type two opening square brackets, like this `[[`, and Obsidian will do a couple things automatically. First, Obsidian will create the closing brackets to match, so you end up with this `[[]]`, with your cursor in the middle, and second, Obsidian will present a list of all the pages in your vault, from which you can choose the page you want linked.
 
-
-
-[Alt text: ]
-
 ::: {#fig-wikilink}
 
 ![](assets/u3/wikilink.png){fig-alt="Screenshot, how to create a Wikilink in Obsidian" .lightbox fig-align="left"}
@@ -113,7 +109,7 @@ While Wikilinks are the default in Obsidian and are the easiest way to link with
 
 Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"} So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
 
-Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"}` So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
+<!-- //todo -->Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"}` So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
 
 ### Why Link? {.unnumbered}
 

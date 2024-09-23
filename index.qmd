@@ -8,9 +8,9 @@ Please read the full course syllabus located on the Course Home page in Moodle. 
 
 :::
 
-## Course Activities
+## Course Activities {.unnumbered}
 
-Below is some key information on features you will see throughout the course.
+Below is some key information on features you may see throughout the course.
 
 ::: {.learning-activity}
 
@@ -24,5 +24,13 @@ This box will prompt you to engage in course concepts by:
 Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.
 
 :::
+
+:::
+
+Below is an accordion.
+
+::: {.accordion title="This is an accordion. Click/tap this banner to show/hide the content."}
+
+An accordion may contain extra content such as worked examples or sample answers.
 
 :::

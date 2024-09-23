@@ -370,7 +370,7 @@ Were you surprised by any ideas presented in the video? Do you think this is a v
 
 Next we will give an overview of how website tracking works, how your data is used, and how you can protect yourself online.
 
-#### How Does Website Tracking Work? {.unnumbered}
+::: {.accordion title="How Does Website Tracking Work? Click/tap this banner to show/hide the content."}
 
 **Cookies**: Cookies are small text files that websites store on your device. They contain information about your online activities such as login credentials, preferences, and browsing history. Websites use cookies to recognize and remember you when you return, and they can also track your movements across the site.
 
@@ -388,7 +388,9 @@ Next we will give an overview of how website tracking works, how your data is us
 
 **Data Brokers**: Your data may be collected, aggregated, and sold to data brokers who build detailed profiles about individuals. These profiles can include your demographic information, interests, and online behaviour.
 
-#### How is my Data Used When I use the Internet? {.unnumbered}
+:::
+
+::: {.accordion title="How is my Data Used When I use the Internet? Click/tap this banner to show/hide the content."}
 
 **Personalization**: Websites and online services use the data they collect to personalize your experience; for example, they may recommend products, content, or services based on your browsing history and preferences.
 
@@ -402,7 +404,9 @@ Next we will give an overview of how website tracking works, how your data is us
 
 **Security and Fraud Prevention**: Tracking data can also be used for security purposes, helping to detect and prevent fraudulent activities.
 
-#### What are the Privacy Concerns? {.unnumbered}
+:::
+
+::: {.accordion title="What are the Privacy Concerns? Click/tap this banner to show/hide the content."}
 
 Privacy concerns regarding website tracking primarily revolve around the collection and use of personal data without the explicit consent of users. Here are some key privacy concerns and ways in which users can protect themselves from tracking:
 
@@ -414,7 +418,9 @@ Privacy concerns regarding website tracking primarily revolve around the collect
 
 **Third-Party Sharing**: Data collected by websites is often shared with third-party companies, including data brokers and ad networks. Users may not be aware of who has access to their data and how it's used.
 
-#### How can I Protect Myself From Tracking? {.unnumbered}
+:::
+
+::: {.accordion title="How can I Protect Myself From Tracking? Click/tap this banner to show/hide the content."}
 
 **Use Privacy-Focused Browsers**: Consider using web browsers that prioritize user privacy, such as Mozilla Firefox or the Tor Browser. These browsers often include built in tracking protection features.
 
@@ -439,6 +445,8 @@ Privacy concerns regarding website tracking primarily revolve around the collect
 **Consider VPNs and Encrypted Messaging**: For heightened privacy, use end-to-end encrypted messaging apps such as Signal, and consider using a reputable VPN service to protect your online communication.
 
 It's important to note that while these steps can help reduce online tracking they might not completely eliminate it. Achieving complete anonymity on the internet is challenging, but these measures can significantly enhance your online privacy and data security. Additionally, privacy laws and regulations in your region may provide you with rights and options for controlling how your data is collected and used online.
+
+:::
 
 ### Activity: Website Tracking Resources
 

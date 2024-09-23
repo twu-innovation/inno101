@@ -307,7 +307,7 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="unnumbered anchored" data-anchor-id="wikilinks">Wikilinks</h4>
 <p>A Wikilink, the default in Obsidian, is really simple to build. All you have to do is type two opening square brackets, like this <code>[[</code>, and Obsidian will do a couple things automatically. First, Obsidian will create the closing brackets to match, so you end up with this <code>[[]]</code>, with your cursor in the middle, and second, Obsidian will present a list of all the pages in your vault, from which you can choose the page you want linked.</p>
 <p>[Alt text: ]</p>
-<div id="fig-wikilink" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot, how to create a Wikilink in Obsidian" data-fig-align="left">
+<div id="fig-wikilink" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="Screenshot, how to create a Wikilink in Obsidian">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-wikilink-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.1: Screenshot, Create a Wikilink in Obsidian
@@ -345,7 +345,7 @@ Figure&nbsp;3.2: Screenshot, Wikilink Created in Obsidian
 <h3 class="unnumbered anchored" data-anchor-id="why-link">Why Link?</h3>
 <p>Creating links to other related topics in your notes is a way that you can start to build connections in your mind about how different ideas are related. For example, if you are studying “trees,” you might want to link over to the previous notes that you created on “plants,” “forests,” or “climate change.” During your study on trees, you might want to create notes on “deciduous” and “coniferous” trees, or “xylem” and “phloem,” and link those articles to “trees.” By continually linking notes that are related you are creating a web of your knowledge as well as reminders of how ideas are related. Linking is a way for you to make sense of the information that is coming into your consciousness.</p>
 <p>Once you have created links between different files in your vault you can visualize these links using the “Graph View” in Obsidian. Here is part of the graph view for a major paper. Each of the white dots represents a file in the vault, and their size is relative to the number of pages linked to that article. You can see that there are three really big pages that have many links. Those are clearly very important pages.</p>
-<div id="fig-graph2" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot, graph view of linked documents in Obsidian" data-fig-align="left">
+<div id="fig-graph2" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="Screenshot, graph view of linked documents in Obsidian">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.3: Screenshot, Graph View for Linked Documents in Obsidian
@@ -383,7 +383,7 @@ Learning Activity
 <p>This acts like a super-fast search of your notes for a particular topic or ideas related to a topic.</p>
 <p>We recommend that you put your tags in the same spot on each page so you know where to find them. You can also put those tags at any place in your notes and Obsidian will show you the specific spot in your notes where the tag lives.</p>
 <p>You can also show tags in your graph view, as below. Green dots are tags and white dots are files (as before). You can see in this image that there are many more connections.</p>
-<div id="fig-graph1" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="Screenshot, Graph view including files (white dots) and tags (green dots) in Obsidian" data-fig-align="left">
+<div id="fig-graph1" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="Screenshot, Graph view including files (white dots) and tags (green dots) in Obsidian">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.4: Screenshot, Graph View in Obsidian Including Files (White Dots) and Tags (Green Dots)
@@ -394,7 +394,7 @@ Figure&nbsp;3.4: Screenshot, Graph View in Obsidian Including Files (White Dots)
 </figure>
 </div>
 <p>You can click any of the tags in Obsidian to see highlighted connections and search results for that tag, allowing you to go directly to notes of interest.</p>
-<div id="fig-graph3" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" alt="screenshot, graph view with tag expanded in Obsidian" data-fig-align="left">
+<div id="fig-graph3" class="lightbox quarto-float quarto-figure quarto-figure-left anchored" data-fig-align="left" alt="screenshot, graph view with tag expanded in Obsidian">
 <figure class="quarto-float quarto-float-fig figure">
 <figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-graph3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3.5: Screenshot, Graph View in Obsidian With Tag Expanded to Show Additional Information
@@ -1035,7 +1035,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"top","closeEffect":"zoom","openEffect":"zoom","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","loop":false,"openEffect":"zoom","closeEffect":"zoom","descPosition":"top"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
