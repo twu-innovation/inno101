@@ -107,9 +107,7 @@ While Wikilinks are the default in Obsidian and are the easiest way to link with
 - the link text (this is what you want your reader to see on your page)
 - the link URL (this is the web address of the site you want them to visit)
 
-Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"} So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
-
-<!-- //todo -->Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"}` So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
+Here is the syntax: `[Link text between single square brackets](URL inside parentheses){target="_blank"}` So if you want someone to see the word "YouTube" on the page and for them to be taken to the YouTube website when they click the link, the syntax would be `[YouTube](https://youtube.com){target="_blank"}` which will display like this: [YouTube](https://youtube.com){target="_blank"}. Notice that there are no spaces between the closing square bracket and the opening parenthesis.
 
 ### Why Link? {.unnumbered}
 
@@ -173,7 +171,7 @@ Using links and tags together you can build a very powerful and easily searchabl
 ::: {.learning-activity}
 
 - **Tag**: Follow the directions above to add tags to your notes in Obsidian. Again, spend some time on this. The more you practice, the easier the process will be. More than that, as you continue to use tags and links, you will be able to experience the advantages of connecting your ideas using this method.
-- **Write**: Add to your Reflective Journal your thoughts and experience on using tags. What were your struggles or "ah-ha" moments? What questions do you have? Remember to reach out for support on the Learning Hub in Discourse.
+- **Write**: Add to your Reflective Journal your thoughts and experience on using tags. What were your struggles or "ah-ha" moments? What questions do you have? Remember to reach out for support on the [Learning Hub](https://twu.discourse.group/){target="_blank"} in Discourse.
 
 :::
 
@@ -223,7 +221,7 @@ Next, let's focus on reading and note taking. In this section, you will demonstr
   - [*Effective Reading and Note-Taking*](https://www.student.unsw.edu.au/effective-reading-and-note-taking){target="_blank"} (n.d.)
   - [*Reading for Understanding: The SQW3R Method*](https://www.student.unsw.edu.au/reading-understanding){target="_blank"} (2024)
   - [*How to (Seriously) Read a Scientific Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper){target="_blank"} (2016)
-  - *Using Markdown in Obsidian* (n.d.)
+  - [*Using Markdown in Obsidian*](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax){target="_blank"} (n.d.)
 
 :::
 
