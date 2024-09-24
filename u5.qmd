@@ -391,10 +391,10 @@ Online communities are varied and can be categorized by their purpose: social, a
 What are your goals?
 
 - Do you want to connect with TWU peers internationally and in Canada? Is your focus on academic support or building personal relationships?
-- Are you interested in the communities that relate to your chosen profession? If so, do a quick search for online communities for a career that interests you (e.g., for businesses: <!-- //todo -->[20 Best Online Community Platforms of 2024 (Ranked)](https://www.mightynetworks.com/resources/community-platforms){target="_blank"}).
+<!-- //todo #17 -->- Are you interested in the communities that relate to your chosen profession? If so, do a quick search for online communities for a career that interests you (e.g., for businesses: [20 Best Online Community Platforms of 2024 (Ranked)](https://www.mightynetworks.com/resources/community-platforms){target="_blank"}).
 - Do you want to engage with online communities that align with your personal interests? (e.g., sports, arts, politics, gardening, coding)
 - **Write:** Write down your goals for joining an online community. Next, consider the networks you are currently a part of. You may want to refer back to Unit 1 in which you created a Personal Learning Network map.
-- **Map**: Now, with a focus on networking create your own Social Map. See the following example from Brian Solis, a digital analyst, anthropologist and author.
+- **Map**: Now, with a focus on networking create your own Social Map. See the following example from [Brian Solis](https://briansolis.com/about/){target="_blank"}, a digital analyst, anthropologist and author.
 
 
 ::: {#fig-2374839848x2769ef5f1a}
@@ -402,18 +402,22 @@ What are your goals?
 ![](assets/u5/social_map.png){fig-alt="Social map showing online connections for B. Solis" .lightbox fig-align="left"}
 
 Brian Solis Online: Social Map
-<!-- Image missing caption and alt text--> 
 
 :::
+
+::: {.note}
 
 *Note*: From "Brian Solis Online," by B. Solis, March 30, 2008,
 *\@BRIANSOLIS* ([Homepage - Brian Solis](https://briansolis.com/){target="_blank"}). [CC BY<!-- Auto link title --> 
 2.0.](https://creativecommons.org/licenses/by/2.0/){target="_blank"}
+
+:::
+
 - Finally, **reflect** on the social media technologies you use for learning and how these impact your digital footprint and online identity.
 
 :::
 
-#### Collaboration and Annotation Tools
+#### Collaboration and Annotation Tools {.unnumbered}
 
 Another way to join an online community or discussion forum is to annotate the web. Hypothes.is is one tool used at TWU for students to collaborate and discuss online resources.
 
@@ -423,17 +427,16 @@ Hypothes.is an open source platform that allows users to annotate any website, c
 
 ::: {.learning-activity}
 
-- **Read**: Go to the Hypothes.is website and have a quick read to see what the tool is and how it works.
-- **Watch**: *How to Annotate the Web with Hypothes.is* (2017)
+- **Read**: Go to the [Hypothes.is website](https://web.hypothes.is/){target="_blank"} and have a quick read to see what the tool is and how it works.
 
-[Watch: *How to Annotate the Web with hypothes.is*](https://www.youtube.com/watch?v=e235JwmmEcQ){target="_blank"} <!-- Auto title, auto embed--> 
+- [Watch: *How to Annotate the Web with hypothes.is*](https://www.youtube.com/watch?v=e235JwmmEcQ){target="_blank"}(2017) <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/e235JwmmEcQ >}}
 
 Finally, skim these articles highlighting the benefits of using annotative tools such as Hypothes.is:
 
 - [*Sharing Notes Is Encouraged: Annotating and Cocreating with Hypothes.is and Google Docs*](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsdoj&AN=edsdoj.12d6cddd34714c51bc1f6f8d6d9dea39&site=eds-live&scope=site){target="_blank"} (2021)
-- [*Jottings in the Margins - Using Digital Annotation to Support 21st Century Learning*] (https://www.thescopes.org/assets/scopes/SCOPE_104-Wood_LT9.pdf){target="_blank"}(2020)
+- [*Jottings in the Margins - Using Digital Annotation to Support 21st Century Learning*](https://www.thescopes.org/assets/scopes/SCOPE_104-Wood_LT9.pdf){target="_blank"}(2020)
 
 :::
 
@@ -444,10 +447,13 @@ Finally, skim these articles highlighting the benefits of using annotative tools
 
 In this activity, we will practice using Hypothes.is by annotating an article on the difference between digital skills and digital literacies.
 
-- *Quick-Start Guide for Students* **Open account**: Read the Hypothes.is (2023b) *How to use Hypothes.is on Mobile Devices* and create an account on Hypothes.is. We recommend that you use the Chrome browser and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: (2023a).
-- **Read**: *Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both* (2016)
+- **Open account**: Read the Hypothes.is [*Quick-Start Guide for Students*](https://web.hypothes.is/quick-start-guide-for-students/) {target="_blank"}(2023b) 
+- and create an account on Hypothes.is. We recommend that you use the Chrome browser and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: [*How to use Hypothes.is on Mobile Devices*](https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/){target="_blank"} (2023a).
 
-- **Annotate**: Activate annotations after logging in to Hypothes.is---click the search icon () and enter the course code (LDRS101) to filter posts for this course from the public feed. Annotate or reply to posts by visiting the annotation page (you will need to be logged into the Hypothes.is site to post).
+- **Read**: [*Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both*](https://www.literacyworldwide.org/blog/literacy-now/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both){target="_blank"} (2016)
+
+- **Annotate**: Activate annotations after logging in to Hypothes.is---click the search icon () and enter the course code (LDRS101) to filter posts for this course from the public feed. 
+- Annotate or reply to posts by visiting the annotation page (you will need to be logged into the Hypothes.is site to post).
 
 Remember to tag your posts using the course code: LDRS101 (the course tag is required to harvest posts for the course feed).
 
@@ -477,33 +483,28 @@ Remember to tag your posts using the course code: LDRS101.
 
 In this activity we will explore how social media can support online learning and engagement.
 
-- *Social Media for Learning* **Read**: (n.d.)
-- **Watch:** *Building More Creative Social Networks* (2020)
-
-[Watch: *Building More Creative Social Networks*](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"} <!-- Auto title, auto embed--> 
+-  **Read**: [*Social Media for Learning*](https://www.shu.ac.uk/digital-skills/personal/social-media-for-learning){target="_blank"}(n.d.)
+- **Watch:** [*Building More Creative Social Networks*](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"} (2020)
 
 {{< video https://www.youtube-nocookie.com/embed/Acc4zY1sQ0o >}}
 
-- *The Conversation Prism* **Explore**: Check out (2008) and also refer to the graphic below listing numerous apps for listening, learning, and adapting (click the graphic to enlarge).
+**Explore**: Check out [*The Conversation Prism*](https://www.briansolis.com/2008/08/introducing-conversation-prism-html/){target="_blank"} (2008) and also refer to the graphic below listing numerous apps for listening, learning, and adapting (click the graphic to enlarge).
 
 Feel free to annotate the articles you read or reply to annotations using Hypothes.is. Remember to tag your posts using the course code: LDRS101.
 
-*The Conversation Prism*
-
-[Alt text: colourful segmented circle containing many media apps]
-
 ::: {#fig-11327713066xc661527cef}
 
-![](assets/u5/conversation_prism.jpg){fig-alt="A colorful circular chart with many different colored icons
-Description automatically generated with medium confidence" .lightbox fig-align="left"}
+![](assets/u5/conversation_prism.jpg){fig-alt="colourful segmented circle containing many media apps" .lightbox fig-align="left"}
 
-A colorful circular chart with many different colored icons Description automatically generated with medium confidence
+The Conversation Prism
 
 :::
 
-> *Note:* From "Conversations Prism 4" by SolucionaFacil.es, December
-> 12, 2013, Flickr
-> (https://flickr.com/photos/solucionafacil/11327713066/). CC BY-ND 2.0.
+::: {.note}
+
+*Note:* From "Conversations Prism 4" by SolucionaFacil.es, December 12, 2013, Flickr(https://flickr.com/photos/solucionafacil/11327713066/){target="_blank"}. CC BY-ND 2.0.
+
+:::
 
 :::
 
@@ -518,9 +519,11 @@ A colorful circular chart with many different colored icons Description automati
   - What levels of online engagement do you feel are appropriate for your own learning on this course? Does this differ from your engagement in other online communities?
   - Other?
 
-> Like, share and reply to posts. These are forms of engagement and a
-> contribution to your online learning identity. Remember to tag your
-> posts using the course code: LDRS101.
+::: {.note}
+
+Like, share and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LDRS101.
+
+:::
 
 :::
 
@@ -536,28 +539,16 @@ In this unit we have discussed what it means to be a digital citizen and how we 
 
 - **Read**: Take a moment to reread the course description for this course:
 
-> Introduces theories and competencies related to learning and thriving
-> in a digital world. Explores how learners are situated in "the
-> digital" throughout their lives and how they can use digital
-> technologies to enhance and enrich their experience of learning,
-> working, and playing. Learners will begin to build a curated digital
-> footprint, initiate and develop personal and professional learning
-> networks; develop competencies to allow them to evaluate and choose
-> digital platforms and tools that are safe and ethical; and explore how
-> to use digital technologies to discover, curate, connect, and share
-> knowledge with their communities.
+Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in “the digital” throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
 
 Next, focus on two key course learning outcomes:
 
 - Develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 - Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality.
 
-Finally, take a look at Trinity's *Life at TWU* (n.d.-a) website.
+Finally, take a look at Trinity's [*Life at TWU*](https://www.twu.ca/life-twu){target="_blank"} (n.d.-a) website.
 
-> We invite all TWU students to connect, thrive, and serve in a dynamic,
-> Christ-centred learning community where they can develop as maturing
-> disciples, thoughtful global citizens, and compassionate servant
-> leaders. *Experience life and learning here.*
+We invite all TWU students to connect, thrive, and serve in a dynamic, Christ-centred learning community where they can develop as maturing disciples, thoughtful global citizens, and compassionate servant leaders. *Experience life and learning here.*
 
 - **Reflect**: How might you connect, thrive, and serve through your connections and contributions online, and if applicable, on campus?
 
@@ -570,15 +561,16 @@ Here are some other websites you might want to check out for more about the TWU 
 - TWU Facebook
 - X (Twitter)
 - Instagram
+
 - **Write**: Jot down your responses to the following questions in your reflective journal (Obsidian):
-- What are your personal and academic goals for making connections at TWU?
-- What steps will you take to make those connections?
-- What technology or digital skills will you need to fully engage?
-- How can connecting to the TWU community enhance your understanding of digital citizenship and online networking?
+  - What are your personal and academic goals for making connections at TWU?
+  - What steps will you take to make those connections?
+  - What technology or digital skills will you need to fully engage?
+  - How can connecting to the TWU community enhance your understanding of digital citizenship and online networking?
 
 :::
 
-## Summary
+## Summary {.unnumbered} 
 
 In this unit you have had the opportunity to learn what it means to be a digital citizen, including the rights and responsibilities we should abide by. You have had the opportunity to explore and connect with an online community and have reflected on your personal and academic goals for networking. Finally, you have considered your role as a TWU student and how you might build connections with peers, faculty, and staff. As we move on to our final unit, consider how you might share your knowledge online and create an inclusive digital community.
 
@@ -586,6 +578,12 @@ In this unit you have had the opportunity to learn what it means to be a digital
 
 Before you move on to the next unit check that you are able to:
 
-Discuss the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the offline environmentOutline the rights and responsibilities of a digital citizenExplore professional online identity and networking in the field of your choiceReflect on the balance between public and private in a digital worldEvaluate a range of social media, technologies, and communities appropriate for supporting learningDevelop online learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizensConsider how you might connect, thrive, and serve in the TWU learning community :::
+- Discuss the dimensions of digital citizenship for work and learning in the 21st century and how these differ from the offline environment
+- Outline the rights and responsibilities of a digital citizen
+- Explore professional online identity and networking in the field of your choice
+- Reflect on the balance between public and private in a digital world
+- Evaluate a range of social media, technologies, and communities appropriate for supporting learning
+- Develop online learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+- Consider how you might connect, thrive, and serve in the TWU learning community :::
 
 :::

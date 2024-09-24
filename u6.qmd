@@ -124,13 +124,13 @@ TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics
 
 ::: {#fig-TopxEmployeexSkillsx2025}
 
-![](assets/u6/Top Employee Skills 2025.png){fig-alt="3-column list of career skills categories" .lightbox fig-align="left"}
+![](assets/u6/Competency_Framework.png){fig-alt="3-column list of career skills categories" .lightbox fig-align="left"}
 
 Career Ready Framework
 
 :::
 
-*Source*: From "Centre for Calling & Career Development," by Trinity Western University. n.d., ([Centre for Calling & Career Development | Trinity Western University](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"}).<!-- Auto link title --> 
+*Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development) {target="_blank"} by Trinity Western University. (n.d.)
 
 - **Write**: What competencies do you see that relate to social learning and digital skills? As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 
@@ -159,8 +159,6 @@ In the following short video, [Ken Steele](http://eduvation.ca/bio/){target="_bl
 
 - **Watch**: [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} (2015)
 
-[Watch: *Higher Ed Trends: Student Career Anxiety and the Future of Work*](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} <!-- Auto title, auto embed--> 
-
 {{< video https://www.youtube-nocookie.com/embed/iY4UhfQefdU >}}
 
 What do you think? Share your thoughts by posting a comment on Discourse, for example:
@@ -186,6 +184,7 @@ The readings that follow take a retrospective look at the impact of the internet
   - [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
   - [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023)
 - **Annotate**: Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences.
+
 Remember to tag your posts using the course code: LDRS101.
 
 :::
@@ -233,11 +232,9 @@ Intrigued? Do you find any tech tools that would be useful in understanding cour
 
 Do any of these capabilities concern you? Do you think they concern your professors or fellow students?
 
-Review TWU's policy on [Academic Misconduct & Fraud](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"} (n.d.-a). Is it academic fraud if you use Chat GPT to complete assignments?
+Review TWU's policy on [*Academic Misconduct & Fraud*](https://www.twu.ca/about-us/policies-guidelines/university-policies/academic-misconduct-fraud){target="_blank"} (n.d.-a). Is it academic fraud if you use Chat GPT to complete assignments?
 
-Prote: italicize linked titles in paras above and below
-
-Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies. The University of Toronto's guidelines and FAQ for [ChatGPT and Generative AI in the Classroom](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"} (2024) are one such example.
+Search online for key words related to this issue, such as "university concern policy artificial intelligence" and you will find numerous articles on the use of AI in universities, as well as emerging policies. The University of Toronto's guidelines and FAQ for [*ChatGPT and Generative AI in the Classroom*](https://www.viceprovostundergrad.utoronto.ca/strategic-priorities/digital-learning/special-initiative-artificial-intelligence/){target="_blank"} (2024) are one such example.
 
 Here are some guidelines you may receive from your instructors at TWU:
 
@@ -612,7 +609,11 @@ In this section, we will review research on the state of online harassment and c
   - *[Online Harassment](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"}* (2017). (Note that this is an 8-page report; click through to read it all.)
   - [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
 
+::: {.note}
+
 Note in particular the finding that those "who have ever experienced more severe forms of harassment -- such as physical threats, stalking, sexual harassment or sustained harassment -- or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies" (DeSilver, 2021).
+
+:::
 
 - **Questions to Consider**:
   - What surprised you when reading these reports?
@@ -652,16 +653,17 @@ In this section, we identify selected psychological issues that you may choose t
 ::: {.learning-activity}
 
 First, consider the following questions:
+
   - How does digital technology change what we do?
   - How does digital technology change who we are?
   - Do adolescents need to develop face-to-face communication skills in a digital world?
+
 - **Watch**: Watch this fascinating TedTalk video:
   - [*Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} (2012)
-- **Write**: Jot down your thoughts in your Reflective Journal (Obsidian).
-
-[Watch: *Connected, but alone? | Sherry Turkle*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/t7Xr3AsBEK4 >}}
+
+- **Write**: Jot down your thoughts in your Reflective Journal (Obsidian).
 
 - **Read**: Finally, read the following article which summarizes a number of psychological disorders related to our use of digital technology:
   - [*Eight new Mental Illnesses Brought to you by the Internet*](https://www.pcworld.com/article/448085/eight-new-mental-illnesses-brought-to-you-by-wait-for-it-the-internet.html){target="_blank"} (2013)
@@ -678,7 +680,7 @@ Share your thoughts by posting a comment on Discourse, for example:
 
 >The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. (Tim Berners-Lee, 2009, as cited in Medium, 2023)
 
->The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access it was paramount to design the web as an open system without a central locus of control. However, on the internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
+The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access it was paramount to design the web as an open system without a central locus of control. However, on the internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
 
 
 ***Net neutrality*** is a critical concept in the realm of internet policy and regulation. It revolves around the principle that internet service providers (ISPs) should treat all data on the internet equally. In other words, they should not discriminate against, or charge differently based on user, content, website, application, or platform. The primary goal of net neutrality is to ensure that the internet remains an open and level playing field where all data and information can be accessed and transmitted freely.
@@ -707,7 +709,7 @@ In Canada, the discussion on net neutrality is intertwined with the debate over 
 
 In addition to Bill C-10, another significant piece of legislation to consider in the Canadian context is Bill C-18, which is also known as the Online Streaming Act. This bill, introduced to the Canadian Parliament, is designed to regulate online streaming services, potentially affecting the content and accessibility of such platforms. Critics argue that Bill C-18 could raise concerns related to net neutrality by granting the government more authority over the content available on streaming platforms and potentially infringing on free expression and access to diverse content.
 
-*** Questions to Consider *** 
+***Questions to Consider*** 
 
 As you view the resources in the activity below, consider the following questions:
 
@@ -717,8 +719,6 @@ As you view the resources in the activity below, consider the following question
 - Can net neutrality coexist with the goal of ensuring high quality internet service and fostering investment in digital infrastructure, or are these objectives inherently in conflict?
 
 Consider drawing a mind map such as the following to track your understanding of the subject.
-
-<a title="Net Neutrality And Creative Freedom (Tim Wu at re:publica 2010)" href="https://flickr.com/photos/frauleinschiller/4540678705">
 
 ::: {#fig-4540678705xff7936561a}
 
@@ -730,7 +730,7 @@ Net Neutrality and Creative Freedom Mind Map Illustration
 
 ::: {.note}
 
-*Note*: From “Net Neutrality and Creative Freedom: Tim Wu at re:publica 2010,” by A. L. Schiller, April 10, 2010, Flickr, (https://flickr.com/photos/frauleinschiller/4540678705/){target="_blank"}. CC BY-NC-ND 2.0.
+*Note*: From [“Net Neutrality and Creative Freedom: Tim Wu at re:publica 2010,”](https://flickr.com/photos/frauleinschiller/4540678705/){target="_blank"} by A. L. Schiller, April 10, 2010, Flickr. CC BY-NC-ND 2.0.
 
 :::
 
@@ -771,7 +771,9 @@ Dr. Michael Geist is a law professor at the University of Ottawa where he holds 
 Here are some key points of interest from Dr. Geist:
 
 > First, while the focus of net neutrality is typically on telecom companies, Bill C-10 envisions a different intermediary or third party – the Canadian government via the CRTC – choosing which content Canadians see by prioritizing or de-prioritizing content that appears in Canadians’ feeds. Internet sites and services will still be available to Canadians (assuming the sites aren’t blocked given the onerous regulations), but the government’s Internet regulatory framework will mean that Internet content will not be treated in a neutral, equal fashion. The mandated Canadian content discoverability requirements will mean that a government regulator will influence what Canadians see when they access Internet services, invoking the same concerns regarding interfering with content and user choice. The intermediary may have changed, but the principle is largely the same. (Geist, 2021, para. 9)
+
 > It is hard to overstate how dangerous it would be for the CRTC to be vested with new powers to regularly intervene in online content or consider “conditions of service” for Internet sites and services. While the government insists that Bill C-11 is designed for large streaming services with limited regulations, it would appear that the CRTC may have other ideas. (Geist, 2022, final para.)
+
 > It is difficult to separate the government’s willingness to censor social media posts with its broader Internet regulation agenda, including Bills C-11, C-18 and online harms. Seeking to remove news links, mean tweets and other content without due process and without any apparent illegality does not bode well for the development of Charter-compliant regulations. The government may see itself as a model for others, but its willingness to muscle social media companies in an effort to remove lawful content is the very worst kind of example that should not be welcome in a democracy that prioritizes freedom of expression. (Geist, 2023, final para.) 
 
 Another interesting perspective on the issue comes from [*Digital First Canada*](https://digitalfirstcanada.ca/){target="_blank"} a nonprofit organization that advocates on behalf of digital entrepreneurs in Canada. If you are choosing to focus on net neutrality for your blog post, browse the articles on their website.
@@ -784,7 +786,7 @@ Here are a couple more resources focusing on the American debate on net neutrali
   - [The Net Neutrality Debate: Twenty Five Years After United States v. AT&T and 120 Years After the Act to Regulate Commerce](https://siepr.stanford.edu/publications/working-paper/net-neutrality-debate-twenty-five-years-after-united-states-v-att-and){target="_blank"} (2007)
 - **Facebook and Big Tech**: *Facebook Zero: An Attempt to Bring Access to All?* Consider the following from Wikipedia (2024, Introduction):
 
-Facebook Zero is an initiative undertaken by social networking service company Facebook in collaboration with mobile phone-based Internet providers, whereby the providers waive data (bandwidth) charges (also known as zero-rate) for accessing Facebook on phones via a stripped-down text-only version of its mobile website (as opposed to the ordinary mobile website m.facebook.com that also loads pictures). The stripped-down version is available online only through providers who have entered the agreement with Facebook.
+[Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero){target="_blank"} is an initiative undertaken by social networking service company Facebook in collaboration with mobile phone-based Internet providers, whereby the providers waive data (bandwidth) charges (also known as zero-rate) for accessing Facebook on phones via a stripped-down text-only version of its mobile website (as opposed to the ordinary mobile website m.facebook.com that also loads pictures). The stripped-down version is available online only through providers who have entered the agreement with Facebook.
 
 ...and then some criticism:
 
@@ -806,7 +808,7 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 
 :::
 
-#### Digital Redlining
+#### Digital Redlining {.unnumbered}
 
 [*Digital redlining*](https://en.wikipedia.org/wiki/Digital_redlining#:~:text=Digital%20redlining%20is%20the%20practice,digital%20content%2C%20and%20the%20internet.){target="_blank"} refers to the discriminatory practice of denying or limiting access to certain services, information, or opportunities in the digital world, based on a person's location, economic status, race, or other demographic factors. It is an extension of the historical concept of redlining, which originally referred to the discriminatory practice of marking certain neighborhoods on physical maps and denying residents of those areas access to financial services, insurance, and other resources.
 
@@ -826,14 +828,13 @@ In the context of the digital age, digital redlining manifests in various ways:
 
 Addressing digital redlining is essential to ensure equitable access to the benefits of the digital age. Efforts to combat digital redlining include policies aimed at closing the digital divide, regulating algorithms to prevent discriminatory outcomes, promoting net neutrality, and protecting data privacy. These measures aim to create a more inclusive and fair digital environment for all individuals, regardless of their socioeconomic status, race, or location.
 
-#### Activity: Indigenous Communities in Canada
+### Activity: Indigenous Communities in Canada
 
 ::: {.learning-activity}
 
 Digital redlining is a global concern, including Canada. While Canada is known for its social safety nets and relatively high internet penetration rates, digital disparities persist, particularly among marginalized communities. These disparities are evident in various aspects, such as internet access, online discrimination, and algorithmic biases.
 
-- **Watch:**
-- [Watch: *Seneca Nation disconnected by Redlining*](https://www.youtube.com/watch?v=J5NV9BJx1_M){target="_blank"} (2021)
+- [**Watch:**: *Seneca Nation disconnected by Redlining*](https://www.youtube.com/watch?v=J5NV9BJx1_M){target="_blank"} (2021)
 
 {{< video https://www.youtube-nocookie.com/embed/J5NV9BJx1_M >}}
 
@@ -917,10 +918,7 @@ As you explore the following resources, consider the following quote:
 
 - **Read** the transcript of a talk Watters presented in 2014:
   - [Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent](http://hackeducation.com/2014/11/18/gender-and-ed-tech){target="_blank"} (2014)
-- **Watch**:
-  - [Audrey Explains men Explaining Technology to her](https://www.youtube.com/watch?v=DMjP_p01foo){target="_blank"} (2017)
-
-[Watch: *Audrey Explains Men Explaining Technology to Her*](https://www.youtube.com/watch?v=DMjP_p01foo){target="_blank"} <!-- Auto title, auto embed--> 
+- [**Watch**:Audrey Explains men Explaining Technology to her](https://www.youtube.com/watch?v=DMjP_p01foo){target="_blank"} (2017)
 
 {{< video https://www.youtube-nocookie.com/embed/DMjP_p01foo >}}
 
@@ -930,10 +928,7 @@ Next, consider the following quote from Steph Guthrie's 2013 Tedx Talk:
 
 [Guthrie](https://stephguthrie.com/){target="_blank"} is a gender justice consultant. She is a feminist advocate, organizer, and analyst focusing on the intersections of gender, culture, and technology to promote more gender inclusive civic discourse.
 
-- **Watch**:
-  - [The Problem with "Don't Feed the Trolls"](https://www.youtube.com/watch?v=_KHEkR5yb9A){target="_blank"} (2013)
-
-[Watch: *The problem with "Don't Feed the Trolls" | Steph Guthrie | TEDxToronto*](https://www.youtube.com/watch?v=_KHEkR5yb9A){target="_blank"} <!-- Auto title, auto embed--> 
+- [**Watch**:The Problem with "Don't Feed the Trolls"](https://www.youtube.com/watch?v=_KHEkR5yb9A){target="_blank"} (2013)
 
 {{< video https://www.youtube-nocookie.com/embed/_KHEkR5yb9A >}}
 
@@ -963,7 +958,7 @@ Comparison of figures with or without supports reaching for apples on a tree
 
 ::: {.note icon="true"}
 
-*Note*: From "Equity vs Equality," by MPCA Photos, December 21, 2016, *Flickr* ([Equity vs Equality | MPCA Photos | Flickr](https://flickr.com/photos/mpcaphotos/31655988501/){target="_blank"}). [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/){target="_blank"}.
+*Note*: From ["Equity vs Equality,"](https://flickr.com/photos/mpcaphotos/31655988501/){target="_blank"} by MPCA Photos, December 21, 2016, *Flickr*. [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/){target="_blank"}.
 
 :::
 
@@ -1009,7 +1004,8 @@ As a final reflection on this topic, we invite you to read TWU's core values pag
 
 TWU explains the core value of practising Christian hospitality:
 
-> Christian hospitality welcomes, genuinely includes and consistently cares for *all* individuals. Christ taught and modeled hospitality to all, including those on the margins, as an essential element of Christian faith and practice. Hospitality is vital to our life in the Trinity Western University community and to our life in, and witness to, other communities. ... Practising Christian hospitality undergirds and promotes equity, diversity and inclusion.
+> Christian hospitality welcomes, genuinely includes and consistently cares for *all* individuals. Christ taught and modeled hospitality to all, including those on the margins, as an essential element of Christian faith and practice. Hospitality is vital to our life in the Trinity Western University community and to our life in, and witness to, other communities. 
+> ... Practising Christian hospitality undergirds and promotes equity, diversity and inclusion.
 
 **Equity** is founded in our being created in the image of God; every human being has inherent dignity and worth (Gen 1:26-28; 5:1-2; Col 1:15).
 
@@ -1040,7 +1036,8 @@ Here are few additional topics to consider:
 - *[How Bots Took Over Twitter](https://hbr.org/2015/06/how-bots-took-over-twitter){target="_blank"}* (2015) (bot problems)
 - [*Scams and how to Avoid Them*](https://www.consumer.org.nz/articles/scams?gclid=EAIaIQobChMIrOzE7qX71AIVxBiPCh0uzAKrEAAYASAAEgIXf_D_BwE){target="_blank"} (n.d.)
 - [*Fake News*](https://en.wikipedia.org/wiki/Fake_news){target="_blank"} (2024)
-6.3.19 Activity: Editorial: Societal Issues on the Internet
+
+### Activity: Editorial: Societal Issues on the Internet
 
 ::: {.learning-activity}
 
@@ -1130,7 +1127,7 @@ Answer the following questions in your journal:
 
 :::
 
-## Summary
+## Summary {.unnumbered}
 
 As you complete this course and continue on your learning journey we trust that you have acquired skills that will not only prepare you for your academic studies but also for your professional goals.
 
