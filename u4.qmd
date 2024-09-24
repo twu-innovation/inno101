@@ -104,7 +104,7 @@ Which aspects of the two definitions do you find most meaningful? How do you str
 
 - **Watch**: Finally, consider the approach taken at TWU as it supports inquiry-rich learning. As you watch the short video below, think about how you could use your PLE to enrich your learning at TWU.
 
-[Watch: *Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"}(2018) <!-- Auto title, auto embed--> 
+[Watch: *Inquiry-Rich Learning*](https://www.youtube.com/watch?v=SCa9Nt3X1vU){target="_blank"} (2018) <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/SCa9Nt3X1vU >}}
 
@@ -332,8 +332,6 @@ Reminder: As you view online resources in this course, feel free to annotate and
 In addition to evaluating who you are online, ask yourself, "why should I care?"
 
 - **Watch**: [*Four Reasons to Care About Your Digital Footprint*](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"} (2016), and then select from the following resources to inform your views:
-
-[Watch: *Four Reasons to Care About Your Digital Footprint*](https://www.youtube.com/watch?v=Ro_LlRg8rGg){target="_blank"} <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/Ro_LlRg8rGg >}}
 

@@ -197,9 +197,9 @@ Tags and links in Obsidian can be visualized using graph view, but as this is an
 
 - **Search**: Search for a video or audio lecture on a topic of interest. Use your advanced search skills or browse the following sites to find a suitable recording aligned with your interests:
   - [*Open Culture*](https://www.openculture.com/freeonlinecourses){target="_blank"} (2024). Over 30,000 hours of free audio and video lectures
-  - [*Open Yale Courses*](https://oyc.yale.edu/){target="_blank"} (2024). Free and open access to a selection of introductory courses including video lectures from Yale University(2024). 
-  - [*Harvard Online Courses*](https://extension.harvard.edu/online-learning/){target="_blank"}(2024) Series of video lectures from Harvard University.
-  - [*MIT OpenCourseWare*](https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum){target="_blank"}(2024) Series of audio and video lectures from Massachusetts Institute of Technology
+  - [*Open Yale Courses*](https://oyc.yale.edu/){target="_blank"} (2024). Free and open access to a selection of introductory courses including video lectures from Yale University (2024). 
+  - [*Harvard Online Courses*](https://extension.harvard.edu/online-learning/){target="_blank"} (2024) Series of video lectures from Harvard University.
+  - [*MIT OpenCourseWare*](https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum){target="_blank"} (2024) Series of audio and video lectures from Massachusetts Institute of Technology
   - [*Tedx Talks*](https://www.ted.com/){target="_blank"} (2024). Extensive database of video presentations in the form of short, powerful talks (see also list of topics)
 
 - **Write**: Using Obsidian, record your notes from the lecture. 

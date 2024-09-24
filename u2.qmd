@@ -121,7 +121,7 @@ Screenshot, Results Page of Google Scholar search for "Transformational Servant 
 - much more recent (2019)
 - AND it is a systematic review
 
-This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774) in our upcoming activity. Click the link.
+This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774){target="_blank"} in our upcoming activity. Click the link.
 
 <!-- !!! Comment(s) from Werd:
 
@@ -160,7 +160,7 @@ Deb Troendle-Scott | 2024-07-31T15:33:00Z
 
 Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
-Log in to [Litmaps.com](https://www.litmaps.com/) and paste the DOI.
+Log in to [Litmaps.com](https://www.litmaps.com/){target="_blank"} and paste the DOI.
 
 <!-- !!! Comment(s) from Werd:
 
@@ -413,11 +413,12 @@ Google Scholar is a good search engine to find scholarly publications. The downs
 This activity focuses on searching database repositories. Most databases provide advanced search features; however there are differences in how each database site implements search functionality.
 
 - **View** the following resources on searching using databases.
-  - [*Top Ten Database Search Tips* (2011)](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"}
+  - [*Top Ten Database Search Tips*](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"} (2011)
   - [*Searching in Databases*](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"} (2012)
   - [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} -- see also FAQs
 
-- **Watch** the following video [Directory of Open Access Journals (DOAJ)](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} on using the (2016)
+- **Watch** the following video on using the [*Directory of Open Access Journals (DOAJ)* ](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} (2016)
+
 {{< video https://www.youtube-nocookie.com/embed/ndvLm9MIfKA >}}
 
   - Using your keywords and synonyms generated for your research question, search for journal articles using the DOAJ search engine and BASE Advanced Search.
@@ -475,7 +476,7 @@ Do you agree? Have you cited Wikipedia in any academic work? Why or why not?
 - **Read** the following:
   - [Is Wikipedia a Trustworthy Academic Resource? Scientists Think So](https://edtechmagazine.com/higher/article/2017/12/wikipedia-trustworthy-academic-resource-scientists-think-so){target="_blank"} published by EdTech Magazine.
   - [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} article on Wikipedia.
-  - [*Should University Students use Wikipedia?*](https://www.theguardian.com/education/2013/may/13/should-university-students-use-wikipedia){target="_blank"}(2013)
+  - [*Should University Students use Wikipedia?*](https://www.theguardian.com/education/2013/may/13/should-university-students-use-wikipedia){target="_blank"} (2013)
   - Optional reading annotations: Conduct a search for credible and reliable resources on the topic of the reliability and credibility of Wikipedia articles.
 
 - [**Watch:** *Using Wikipedia for Academic Research*](https://www.youtube-nocookie.com/embed/Cql_yVUYj6A){target="_blank"} (2011)
@@ -578,11 +579,11 @@ Next, experiment with some of the Zotero annotation features.
 
 If you want to take the next step, let's make your tools work together.
 
-- **Watch** the [video](https://www.youtube.com/watch?v=CGGeMrtyjBI?){target="_blank"} on Zotero and Obsidian integration (2022) and see the features offered when you integrate these tools.
+- **Watch** the [video on Zotero and Obsidian integration](https://www.youtube.com/watch?v=CGGeMrtyjBI?){target="_blank"} (2022) and see the features offered when you integrate these tools.
 
 {{< video https://www.youtube-nocookie.com/embed/CGGeMrtyjBI >}}
 
-- **Write**: ￼￼about your learning process and how you might use Zotero or another citation management tool in your studies.
+- **Write**: about your learning process and how you might use Zotero or another citation management tool in your studies.
 
 :::
 
@@ -666,7 +667,7 @@ So how do open educational resources affect you as a student? Why should you car
 
 We've reached the end of Unit 2, where you have explored several tools and practiced digital skills to help you find and select resources for academic study. As you have practiced the activities in this unit, you have curated resources about the topic of your choice. In this activity we ask you to write a paragraph about this topic, utilizing the resources you have found.
 
-- **Read**: [This resource](https://writingcenter.unc.edu/tips-and-tools/paragraphs/){target="_blank"} on h￼ow to write a good paragraph published by the University of North Carolina at Chapel Hill￼. For more writing tips see the [Writing Resources website](https://create.twu.ca/learningcommons/writing-resources/?_gl=1*1uail9b*_ga*NDk4NDk0OTI0LjE3MTY5MTYzNTc.*_ga_NZ4GVM10JT*MTcyNTY2MjM0My4xMTYuMS4xNzI1NjYyMzcwLjMzLjAuMA..){target="_blank"} from the TWU Learning Commons.
+- **Read**: [This resource on how to write a good paragraph](https://writingcenter.unc.edu/tips-and-tools/paragraphs/){target="_blank"} published by the University of North Carolina at Chapel Hill. For more writing tips see the [Writing Resources website](https://create.twu.ca/learningcommons/writing-resources/?_gl=1*1uail9b*_ga*NDk4NDk0OTI0LjE3MTY5MTYzNTc.*_ga_NZ4GVM10JT*MTcyNTY2MjM0My4xMTYuMS4xNzI1NjYyMzcwLjMzLjAuMA..){target="_blank"} from the TWU Learning Commons.
 - **Write**: Draft a paragraph on an issue relating to your research topic. Your paragraph must contain:
   - a verbatim quote from one of your sources
   - a paraphrased fact from one of your sources

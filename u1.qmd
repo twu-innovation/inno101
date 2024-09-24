@@ -73,7 +73,7 @@ Here is a checklist of learning activities that will benefit you in completing t
 ::: learning-activity
 Before we dive into some digital tools you may use in your academic studies at Trinity, let's pause and think about what TWU means to you. Why did you choose TWU? What do you hope to achieve during your time here?
 
--   **Watch**: To give you some idea of what life is like at TWU, and why people choose TWU, watch the following video:[*Discover Undergraduate Studies At Trinity Western University*(2021)](https://www.youtube.com/watch?v=Xlqpgb_3cR4){target="_blank"} <!-- Auto title, auto embed-->
+-   **Watch**: To give you some idea of what life is like at TWU, and why people choose TWU, watch the following video:[*Discover Undergraduate Studies At Trinity Western University*](https://www.youtube.com/watch?v=Xlqpgb_3cR4){target="_blank"} (2021)<!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/Xlqpgb_3cR4 >}}
 
@@ -121,14 +121,14 @@ Here is some additional advice from TWU students.
 
 -   [**Watch**: *Learning Online: Student Tips for Success*](https://vimeo.com/493206161){target="_blank"} (2020)
 
-{{< video https://player.vimeo.com/video/493206161?badge=0&autopause=0&player_id=0&app_id=58479 >}}
+{{< video https://vimeo.com/493206161 >}}
 
 ### Activity: Learning Online Effectively
 
 ::: learning-activity
-There are thousands of websites that offer advice such as "tips for online learning" or "how to succeed in your online class," and some of those sites are good (see here, [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the *Liberated Learner* project, which was created primarily by university and college students like you. There are four main sections in the *Liberated Learner* resource---we will explore "The Learner" in this activity.
+There are thousands of websites that offer advice such as "tips for online learning" or "how to succeed in your online class," and some of those sites are good (see [here](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html){target="_blank"}, [here](https://online.umn.edu/story/15-tips-succeed-online-class){target="_blank"}, and [here](https://www.trentu.ca/online/student-support/be-a-successful-online-learner){target="_blank"} ). Some of them are also connected to shady people who want less than your best interests. One of the shining examples of a great resource is the *Liberated Learner* project, which was created primarily by university and college students like you. There are four main sections in the *Liberated Learner* resource---we will explore "The Learner" in this activity.
 
--   **Read**: Take some time to work through [The Learner (2022)](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"}. It begins with a short video and includes activities that you can complete. These are for your reflection.
+-   **Read**: Take some time to work through [The Learner ](https://ecampusontario.pressbooks.pub/learner/part/learner/){target="_blank"} (2022). It begins with a short video and includes activities that you can complete. These are for your reflection.
 -   **Write: Questions to Consider**
     -   Having worked through The Learner, consider the ideas you think would be most beneficial for your online studies. To record your thoughts, you could create a list of your top ten study tips for online learning, or maybe write a message to a friend or sibling who is considering attending TWU next year.
     -   Following this, reflect on how you can work to ensure your own success in your online courses. What are your goals, and what specific steps will you take to achieve them?
@@ -164,7 +164,7 @@ Your discussion posts may be used as learning artifacts to demonstrate your unde
 
 In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following (Galikyan & Admiraal, 2019), and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the [APA Style website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"} for details.
 
-It is ***highly*** recommended[^u1-1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"}￼ for free.
+It is ***highly*** recommended[^u1-1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but you can [download Zotero](https://www.zotero.org/){target="_blank"} for free.
 
 [^u1-1]: For real ... using Zotero will literally save you days of tedious work during your university career!
 
@@ -303,7 +303,7 @@ Now that you have a place to record your course notes, let's jump back into the 
 :::: learning-activity
 -   **Watch**: The following video by the MacArthur Foundation questions how digital media are changing the way young people learn, play, socialize, and participate in civic life. In it, John Seely Brown, a researcher with particular interests in radical innovation and digital culture, suggests that today's gaming oriented children want to be measured and feel that if they are not learning, it is not fun. How does this relate to how you feel about learning?
 
-[Watch: *Rethinking Learning: The 21st Century Learner*](https://www.youtube.com/watch?v=c0xa98cy-Rw){target="_blank"}(2010)
+[Watch: *Rethinking Learning: The 21st Century Learner*](https://www.youtube.com/watch?v=c0xa98cy-Rw){target="_blank"} (2010)
 
 {{< video https://www.youtube-nocookie.com/embed/c0xa98cy-Rw >}}
 
@@ -347,7 +347,7 @@ Let's take a look at the definitions of digital literacy and digital skills on t
 
 -   **Read**:
     -   Read [Wikipedia's definition](https://en.wikipedia.org/wiki/Digital_literacy){target="_blank"} (2024) of igital literacy---is this a good description?
-    -   Scan the #diglit or #digital-literacy hashtags on [X (Twitter)](https://x.com/home){target="_blank"}---did you find any valuable links to defining digital literacy?
+    -   Scan the #diglit or #digital-literacy hashtags on [X (Twitter)](https://x.com/home){target="_blank"} --- did you find any valuable links to defining digital literacy?
     -   Conduct a Google search for "digital literacy." Select a few definitions you like and record their URLs, for example by adding these to your browser bookmarks.
     -   Conduct a Google search for "digital skills." Select one or two definitions you like and record the URLs.
     -   Conduct a Google search for "digital fluency." Select one or two definitions.
@@ -373,7 +373,7 @@ As you explore the concept, you will find online resources which confuse digital
 
 Watch educator and researcher Doug Belshaw as he discusses his digital literacies framework:
 
--   [Watch: *The Essential Elements Of Digital Literacies: Doug Belshaw At TedxWarwick*](https://www.youtube.com/watch?v=A8yQPoTcZ78){target="_blank"}(2012) <!-- Auto title, auto embed-->
+-   [Watch: *The Essential Elements Of Digital Literacies: Doug Belshaw At TedxWarwick*](https://www.youtube.com/watch?v=A8yQPoTcZ78){target="_blank"} (2012)<!-- titled-->
 
 {{< video https://www.youtube-nocookie.com/embed/A8yQPoTcZ78 >}}
 
@@ -405,7 +405,7 @@ This learning activity will provide you with another opportunity to connect with
 
 Watch the following video and jot down the reasons why digital literacy matters to you, then complete the steps which follow.
 
--   [Watch: *Digital Literacy and Why it Matters* (2014)](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} <!-- Auto title, auto embed-->
+-   [Watch: *Digital Literacy and Why it Matters*](https://www.youtube.com/watch?v=p2k3C-iB88w){target="_blank"} (2014)<!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/p2k3C-iB88w >}}
 
@@ -470,7 +470,7 @@ At the same time, if we can imagine the visitor $\leftrightarrow$ resident conti
 ::: learning-activity
 The video below explains a process to help you think about where you reside on the web.
 
--   [Watch: *Visitors and Residents*(2014)](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} <!-- Auto title, auto embed-->
+-   [Watch: *Visitors and Residents*](https://www.youtube.com/watch?v=sPOG3iThmRI){target="_blank"} (2014)<!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/sPOG3iThmRI >}}
 
@@ -500,7 +500,7 @@ For many university students, a Learning Management System (LMS) like Moodle is 
 :::: learning-activity
 This activity will help you think about how the tools we use shape and sometimes determine the nature of our interactions with each other. Do the tools you use fall on the visitor or the resident end of your continuum? How do these tools impact your learning?
 
--   **Read:** [*Visitors and Residents: A New Typology for Online Engagement* (2011)](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"}
+-   **Read:** [*Visitors and Residents: A New Typology for Online Engagement*](https://firstmonday.org/ojs/index.php/fm/article/view/3171){target="_blank"} (2011)
 -   **Create** a new canvas in your Obsidian vault and create your own Visitor--Resident Diagram. We have created a sample diagram in the vault.
 
 ::: note
@@ -626,7 +626,7 @@ Prior to completing this activity, let's discuss the practice of writing in a Re
 
 A reflective journal is simply a record of your thoughts. It is a reflection of the way you think and the manner in which you respond to your learning. Journals can consist of traditional note taking, mind maps, pictures, stream-of-consciousness writing, recordings, quotes, sketches, or drawings---whatever you choose to include. Experiment and have fun. The purpose of journaling is to make you an active participant in your learning experiences as you engage in the various activities throughout the course's readings, activities, and discussions. Reflecting upon these learning events will help you gain a deeper understanding of the course materials and help integrate your learning into applied practice in your everyday life and work. Throughout the course, we will remind you to write in your journal, as we want to be sure you are actively learning the material. To assist you, we have provided you with questions you can ask yourself in order to get your creative energies flowing. Reflective journaling is an activity you can and should complete on a regular or daily basis, even beyond the prompting in course activities.
 
-[Watch: *Reflective Writing*](https://www.youtube.com/watch?v=QoI67VeE3ds){target="_blank"}(2014)
+[Watch: *Reflective Writing*](https://www.youtube.com/watch?v=QoI67VeE3ds){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/QoI67VeE3ds >}}
 

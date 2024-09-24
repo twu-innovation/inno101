@@ -228,7 +228,7 @@ In this activity we will explore professional online identity and networking in 
 
 {{< video https://www.youtube-nocookie.com/embed/EqSCR3HU4eg >}}
 
-- LinkedIN: Finally, visit the LinkedIn [help page](https://www.linkedin.com/help/linkedin/answer/a544795){target="_blank"} on finding and joining a LinkedIn group.
+- LinkedIN: Finally, visit [the LinkedIn help page](https://www.linkedin.com/help/linkedin/answer/a544795){target="_blank"} on finding and joining a LinkedIn group.
 
 **Questions to Consider**
 
@@ -308,7 +308,7 @@ Research on the efficacy of online communities provides insights on selecting pr
 
 1. Core members are responsible for guiding the development of the community and have usually been involved with the community for a long time. These members have made significant contributions to the community’s evolution and have earned leadership status. Frequently they also play an active role in moderation of the group.
 2. Active members make regular contributions to the community.
-3. Peripheral members occasionally contribute to the discussions and the periods of engagement are short and sporadic. “Lurkers”, that is individuals seeking answers without making contributions, are normally associated with this group. The nature of engagement in a community is influenced by the community’s life cycle stage [A. Iriberri and G. Leroy 2009](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edscma&AN=edscma.1459356&site=eds-live&scope=site){target="_blank"}:
+3. Peripheral members occasionally contribute to the discussions and the periods of engagement are short and sporadic. “Lurkers”, that is individuals seeking answers without making contributions, are normally associated with this group. The nature of engagement in a community is influenced by the community’s life cycle stage [(A. Iriberri and G. Leroy 2009)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edscma&AN=edscma.1459356&site=eds-live&scope=site){target="_blank"}:
 
 | **Life cycle stage** | **Characteristics** |
 |--------------|---------------------------------------|
@@ -368,9 +368,7 @@ As you reflect on digital practices in university and the workplace, consider ho
 
 ::: {.learning-activity}
 
-- **Watch**: *Communities of Practice (Etienne and Beverly Wenger-Trayner)* (2022)
-
-[Watch: *Communities of Practice (Etienne and Beverly Wenger-Trayner)*](https://www.youtube.com/watch?v=SmqLyOLIjos){target="_blank"} <!-- Auto title, auto embed--> 
+- **Watch**: [Watch: *Communities of Practice (Etienne and Beverly Wenger-Trayner)*](https://www.youtube.com/watch?v=SmqLyOLIjos){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/SmqLyOLIjos >}}
 
@@ -429,14 +427,14 @@ Hypothes.is an open source platform that allows users to annotate any website, c
 
 - **Read**: Go to the [Hypothes.is website](https://web.hypothes.is/){target="_blank"} and have a quick read to see what the tool is and how it works.
 
-- [Watch: *How to Annotate the Web with hypothes.is*](https://www.youtube.com/watch?v=e235JwmmEcQ){target="_blank"}(2017) <!-- Auto title, auto embed--> 
+- [Watch: *How to Annotate the Web with hypothes.is*](https://www.youtube.com/watch?v=e235JwmmEcQ){target="_blank"} (2017) <!-- Auto title, auto embed--> 
 
 {{< video https://www.youtube-nocookie.com/embed/e235JwmmEcQ >}}
 
 Finally, skim these articles highlighting the benefits of using annotative tools such as Hypothes.is:
 
 - [*Sharing Notes Is Encouraged: Annotating and Cocreating with Hypothes.is and Google Docs*](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsdoj&AN=edsdoj.12d6cddd34714c51bc1f6f8d6d9dea39&site=eds-live&scope=site){target="_blank"} (2021)
-- [*Jottings in the Margins - Using Digital Annotation to Support 21st Century Learning*](https://www.thescopes.org/assets/scopes/SCOPE_104-Wood_LT9.pdf){target="_blank"}(2020)
+- [*Jottings in the Margins - Using Digital Annotation to Support 21st Century Learning*](https://www.thescopes.org/assets/scopes/SCOPE_104-Wood_LT9.pdf){target="_blank"} (2020)
 
 :::
 
@@ -447,7 +445,7 @@ Finally, skim these articles highlighting the benefits of using annotative tools
 
 In this activity, we will practice using Hypothes.is by annotating an article on the difference between digital skills and digital literacies.
 
-- **Open account**: Read the Hypothes.is [*Quick-Start Guide for Students*](https://web.hypothes.is/quick-start-guide-for-students/) {target="_blank"}(2023b) 
+- **Open account**: Read the Hypothes.is [*Quick-Start Guide for Students*](https://web.hypothes.is/quick-start-guide-for-students/){target="_blank"} (2023b) 
 - and create an account on Hypothes.is. We recommend that you use the Chrome browser and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: [*How to use Hypothes.is on Mobile Devices*](https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/){target="_blank"} (2023a).
 
 - **Read**: [*Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both*](https://www.literacyworldwide.org/blog/literacy-now/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both){target="_blank"} (2016)
@@ -483,7 +481,7 @@ Remember to tag your posts using the course code: LDRS101.
 
 In this activity we will explore how social media can support online learning and engagement.
 
--  **Read**: [*Social Media for Learning*](https://www.shu.ac.uk/digital-skills/personal/social-media-for-learning){target="_blank"}(n.d.)
+-  **Read**: [*Social Media for Learning*](https://www.shu.ac.uk/digital-skills/personal/social-media-for-learning){target="_blank"} (n.d.)
 - **Watch:** [*Building More Creative Social Networks*](https://www.youtube.com/watch?v=Acc4zY1sQ0o){target="_blank"} (2020)
 
 {{< video https://www.youtube-nocookie.com/embed/Acc4zY1sQ0o >}}
@@ -502,7 +500,7 @@ The Conversation Prism
 
 ::: {.note}
 
-*Note:* From "Conversations Prism 4" by SolucionaFacil.es, December 12, 2013, Flickr(https://flickr.com/photos/solucionafacil/11327713066/){target="_blank"}. CC BY-ND 2.0.
+*Note:* From "Conversations Prism 4" by SolucionaFacil.es, December 12, 2013, [Flickr](https://flickr.com/photos/solucionafacil/11327713066/){target="_blank"}. CC BY-ND 2.0.
 
 :::
 

@@ -130,7 +130,7 @@ Career Ready Framework
 
 :::
 
-*Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development) {target="_blank"} by Trinity Western University. (n.d.)
+*Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. (n.d.)
 
 - **Write**: What competencies do you see that relate to social learning and digital skills? As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 
@@ -522,12 +522,13 @@ Have you seen a fake account on social media? What clues did you have that it wa
 
 ::: {.learning-activity}
 
-- **Watch**: Check out these two videos that share signs to help you identify online impersonation.
-  - [Watch out for Scammers Using Fake Instagram Profiles](https://www.youtube.com/watch?v=F57DE05FpgQ){target="_blank"} (2023)
+**Watch**: Check out these two videos that share signs to help you identify online impersonation.
 
-{{< video https://www.youtube-nocookie.com/embed/F57DE05FpgQ?si=Pq7GlHGpNCbTG0xu >}}
+- [Watch out for Scammers Using Fake Instagram Profiles](https://www.youtube.com/watch?v=F57DE05FpgQ){target="_blank"} (2023)
 
-  - [Cyber Sandra's Hacks - Social Media Impersonation](https://www.youtube.com/watch?v=Ta6qq7wnpcA){target="_blank"} (2021)
+<!-- Embed commmented out as embedding disabled by video owner{{< video https://www.youtube-nocookie.com/embed/F57DE05FpgQ?si=Pq7GlHGpNCbTG0xu >}} -->
+
+- [Cyber Sandra's Hacks - Social Media Impersonation](https://www.youtube.com/watch?v=Ta6qq7wnpcA){target="_blank"} (2021)
 
 {{< video https://www.youtube-nocookie.com/embed/Ta6qq7wnpcA >}}
 
@@ -563,7 +564,7 @@ Feel free to share personal reflections on the phenomenon of online impersonatio
 
 > Sometimes trolls live under bridges. But not everyone living under a bridge is a troll. (Wikimedia Foundations, n.d.)
 
-It is estimated that that the internet has about 5.473 billion users, almost half the population of the world (Tsvetkova, 2023)￼. With the growing number of internet and social media users we are witnessing an increase in antisocial behaviour online.
+It is estimated that that the internet has about 5.473 billion users, almost half the population of the world (Tsvetkova, 2023). With the growing number of internet and social media users we are witnessing an increase in antisocial behaviour online.
 
 In this section we explore the phenomenon of internet trolling and strategies for managing disruptive online behaviour, taking the communication context into account.
 

@@ -180,7 +180,7 @@ Your discussion posts may be used as learning artifacts to demonstrate your unde
 
 In LDRS 101, you should write your posts in a way that shows you are communicating in an academic setting. While you don't need to adhere to all of the conventions of APA formatting, you should practice the principles of proper citation. For example, to cite an idea from the article in the previous activity, it would look like the following (Galikyan & Admiraal, 2019), and the bottom of the post would include a "References" heading, followed by the full reference (this part may be considered optional since we have included a link to the article in the in-text citation, but it is nice to have). Please consult the APA Style website for details.
 
-It is ***highly*** recommended[^1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but ￼download Zotero￼ for free.
+It is ***highly*** recommended[^1] that you begin using a reference manager---we recommend Zotero as it is a free and open source app with all you will ever need to cite properly in any style. We will lead you through some specifics of using Zotero in the next unit of LDRS 101, but download Zotero for free.
 
 In short, similar to a live classroom discussion you need to be polite and professional, and you need to provide evidence for your views, but, as in a normal conversation, you won't have all of the formalities of academic writing. In LDRS 101, you should consider your forum posts as a time to practice and test your ideas. The stakes are very low, so it is fine to make mistakes.
 
