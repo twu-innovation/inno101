@@ -12,55 +12,52 @@ Finally, we'll discuss the concept of openness in education. We'll explore open 
 
 This unit is divided into the following topics:
 
-1. Finding and selecting resources
-2. Evaluating resources
-3. Citation management
-4. Openness in education
+1.  Finding and Selecting Resources
+2.  Evaluating Resources
+3.  Citation Management
+4.  Openness in Education
 
 ### Learning Outcomes {.unnumbered}
 
 When you have completed this unit you will be able to:
 
-- Develop effective search strategies to locate scholarly resources using various academic databases and online repositories
-- Apply strategies to assess, analyze, and evaluate the reliability of resources, including reporting in the mass media
-- Utilize citation management tools effectively to organize references, generate bibliographies, and streamline the citation process
-- Describe the principles of openness in education, including open educational resources (OER), and open access
-- Build and customize technology integrated workflows to enhance and enrich your learning journey
-- Apply digital literacy skills to evaluate the legitimacy, credibility, and reliability of online resources for academic study
+-   Develop effective search strategies to locate scholarly resources using various academic databases and online repositories
+-   Apply strategies to assess, analyze, and evaluate the reliability of resources, including reporting in the mass media
+-   Utilize citation management tools effectively to organize references, generate bibliographies, and streamline the citation process
+-   Describe the principles of openness in education, including open educational resources (OER), and open access
+-   Build and customize technology integrated workflows to enhance and enrich your learning journey
+-   Apply digital literacy skills to evaluate the legitimacy, credibility, and reliability of online resources for academic study
 
 ### Activity Checklist {.unnumbered}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-- Explore [Litmaps](https://litmaps.com){target="_blank"} to find articles of interest.
-- Visit the TWU Library and view the LibGuides.
-- Practice using Google's advanced search operators to help you search for resources.
-- Search open databases (BASE & DOAJ) to find open academic resources.
-- Use the CRAAP test to help evaluate resources.
-- Discuss the reasons you should or should not use Wikipedia, and for what purposes.
-- Download and install Zotero and explore how you can use this tool.
-- Explore open educational resources and reflect on how you might advocate for these.
-- Create an annotated bibliography.
+-   Explore [Litmaps](https://litmaps.com){target="_blank"} to find articles of interest.
+-   Visit the TWU Library and view the LibGuides.
+-   Practice using Google's advanced search operators to help you search for resources.
+-   Search open databases (BASE & DOAJ) to find open academic resources.
+-   Use the CRAAP test to help evaluate resources.
+-   Discuss the reasons you should or should not use Wikipedia, and for what purposes.
+-   Download and install Zotero and explore how you can use this tool.
+-   Explore open educational resources and reflect on how you might advocate for these.
+-   Create an annotated bibliography.
 
-::: {.note}
+::: note
+**Notes:**
 
-Notes: 
-
-- *You will be directed to complete these activities as they come up in the unit.*
-- *The learning activities in this course are designed to prepare you for the graded assignments in this course. You are strongly encouraged to complete them.*
-
+-   *You will be directed to complete these activities as they come up in the unit.*
+-   *The learning activities in this course are designed to prepare you for the graded assignments in this course. You are strongly encouraged to complete them.*
 :::
-::: {.note}
 
+::: note
 **Assessment**
 
-- See the Assessment section in Moodle for assignment details and due dates.
-
+-   See the Assessment section in Moodle for assignment details and due dates.
 :::
 
 ### Resources {.unnumbered}
 
-- All resources will be provided online in the unit.
+-   All resources will be provided online in the unit.
 
 ## Finding and Selecting Resources
 
@@ -83,18 +80,16 @@ When academics begin writing a research paper they always start by reviewing wha
 One of the quickest ways to get started on a search is to use [Google Scholar](scholar.google.com){target="_blank"}, but it has some problems in that it will return a huge number of results. Notice that the image below shows over 91,000 results. Far too many for you to sort through.
 
 ::: {#fig-googlexsearch2}
-
 ![](assets/u2/google-search2.png){fig-alt="Screenshot of Google Scholar search for transformational servant leadership."" .lightbox fig-align="left"}
 
 Screenshot, Results Page of Google Scholar Search for "Transformational Servant Leadership"
-
 :::
 
 The top result shows some promise though. Notice a few things about it:
 
-- it has all your key words right in the title---that's good
-- it has over 2,700 citations (that's very good)
-- it was published in 2004 (that's not great ... it's old)
+-   it has all your key words right in the title---that's good
+-   it has over 2,700 citations (that's very good)
+-   it was published in 2004 (that's not great ... it's old)
 
 One of the easiest ways to find literature reviews in Google searches is to include "literature review" in your search. When we do that, we get a better list. This time, there are more results (97,000), but they are better results. Notice the third item ...
 
@@ -108,18 +103,18 @@ Deb Troendle-Scott | 2024-08-22T21:01:00Z
 
 -->
 
-::: {#fig-googlexsearch2}
+<div>
 
-![](assets/u2/google-search2.png){fig-alt="Screenshot of Google Scholar search for transformational servant leadership literature review." .lightbox fig-align="left"}
+![](assets/u2/google-search2.png){.lightbox fig-alt="Screenshot of Google Scholar search for transformational servant leadership literature review." fig-align="left"}
 
 Screenshot, Results Page of Google Scholar search for "Transformational Servant Leadership Literature Review"
 
-:::
+</div>
 
-- all your keywords
-- lots of citations
-- much more recent (2019)
-- AND it is a systematic review
+-   all your keywords
+-   lots of citations
+-   much more recent (2019)
+-   AND it is a systematic review
 
 This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774){target="_blank"} in our upcoming activity. Click the link.
 
@@ -140,11 +135,9 @@ Deb Troendle-Scott | 2024-08-17T13:58:00Z
 -->
 
 ::: {#fig-googlexsearch3}
-
 ![](assets/u2/google-search3.png){fig-alt="Screenshot, article landing page"" .lightbox fig-align="left"}
 
 Screenshot of an Article Landing Page
-
 :::
 
 In fact, you don't even need to read this article yet. All you need is the DOI---the *digital object identifier*. A DOI is a critical piece of information about an article that provides a piece of evidence that this is a legitimate article published in a legitimate journal. A DOI will always start with 10. . Sometimes it is included as part of an URL, as in this case, but you only need the code that follows '10.'. The DOI for this article is `10.1016/j.leaqua.2018.07.004`
@@ -172,11 +165,9 @@ Deb Troendle-Scott | 2024-07-31T15:39:00Z
 -->
 
 ::: {#fig-litmaps1}
-
-![](assets/u2/litmaps1.png){fig-alt="Screenshot of Litmaps search bar populated with DOI from text above" .lightbox fig-align="left"}
+![](assets/u2/litmaps1.png){.lightbox fig-alt="Screenshot of Litmaps search bar populated with DOI from text above" fig-align="left"}
 
 Screenshot of Litmaps Search Bar Populated with a DOI
-
 :::
 
 You will notice that LitMaps will be able to find the article and will present it as an option for you to click. Go ahead ... click.
@@ -184,11 +175,9 @@ You will notice that LitMaps will be able to find the article and will present i
 LitMaps will create what they call a Seed Map, which you can see in the image below.
 
 ::: {#fig-litmaps2}
-
-![](assets/u2/litmaps2.png){fig-alt="Screenshot of Litmaps seed map" .lightbox fig-align="left"}
+![](assets/u2/litmaps2.png){.lightbox fig-alt="Screenshot of Litmaps seed map" fig-align="left"}
 
 Screenshot of Litmaps Seed Map
-
 :::
 
 The seed map shows an AI-generated map of the 20 most relevant articles related to the seed article. Each dot represents an article. The seed article is shown as a blue dot with a little sprout in the middle. The size of the dot is related to how many references are in the article (smaller dot = fewer references). Dots near the top of the map have more citations, and dots near the right side of the map are more recent. The map will always look like a bit of a waterfall, as older articles tend to have more citations. This map can be very helpful in finding very impactful, recent articles as those articles will be in the top right quadrant of the map.
@@ -196,11 +185,9 @@ The seed map shows an AI-generated map of the 20 most relevant articles related 
 When you are signed in to LitMaps you are able to create collections of articles. To do this, click an article in the seed map, then read through the abstract. This might tell you that the article is not related to your search, but if it is, as in the image, then click "Edit Collections,"' then "New Collection." Give the new collection a name and click "Done."
 
 ::: {#fig-litmaps3}
-
-![](assets/u2/litmaps3.png){fig-alt="Screenshot of Litmaps seed map with edit collections popup circled in red." .lightbox fig-align="left"}
+![](assets/u2/litmaps3.png){.lightbox fig-alt="Screenshot of Litmaps seed map with edit collections popup circled in red." fig-align="left"}
 
 Screenshot of Litmaps Seed Map with Edit Collections Popup (Circled)
-
 :::
 
 Next, add Hoch, 2018, to your new collection (it is closest to the upper right quadrant), and finally add Greenleaf, 1979 (all the articles seem to cite this article, so it is likely very important in the field, sometimes called a seminal article).
@@ -219,160 +206,138 @@ Deb Troendle-Scott | 2024-08-20T17:52:00Z
 Notice that the articles you added to your new collection are all coloured the same as the collection.
 
 ::: {#fig-litmaps4}
-
 ![](assets/u2/litmaps4.png){fig-alt="screenshot of the Litmaps seed map including "Discover" option on left" .lightbox fig-align="left"}
 
 Screenshot of Litmaps Seed Map Including "Discover" Option (Left)
-
 :::
 
 Next, click "Discover" in the lefthand menu bar, then click "New Search," then "Add from your Library."
 
 ::: {#fig-litmaps5}
-
 ![](assets/u2/litmaps5.png){fig-alt="Screenshot of Litmaps seed map menu and "Discover" link." .lightbox fig-align="left"}
 
 Screenshot of Litmaps Seed Map Menu and "Discover" Link
-
 :::
 
 ::: {#fig-image9}
-
 ![](assets/u2/litmaps6.png){fig-alt="Screenshot of Litmaps seed map "Add from Your Library" link circled in red under Input Articles." .lightbox fig-align="left"}
 
 Screenshot of Litmaps Seed Map "Add from Your Library" Link (Circled)
-
 :::
 
 Make sure you are in the correct collection (your collection should show the Eva, Hoch, and Greenleaf articles you added), and click "Add 3 Inputs.
 
 ::: {#fig-litmaps7}
-
 ![](assets/u2/litmaps7.png){fig-alt="Screenshot of Litmaps seed map including Collection articles from ldrs101 (circled in red) and "Add 3 Inputs" button circled in red" .lightbox fig-align="left"}
 
 Screenshot of Litmaps Seed Map Including Collection Articles
-
 :::
 
 Then click "Find Related Articles."
 
 ::: {#fig-litmaps8}
-
 ![](assets/u2/litmaps8.png){fig-alt="Screenshot of Litmaps seed map including selected articles and "Find Related Articles" on bottom left menu" .lightbox fig-align="left"}
 
 Screenshot of Litmaps Seed Map Including Selected Articles and "Find Related Articles" on Bottom Left Menu
-
 :::
 
 This will result in a new set of articles that are related to all three of your initial input articles. As you add more inputs, you will get a more refined result list until you have a nicely curated list of related articles.
 
 ::: {#fig-litmaps9}
-
-![](assets/u2/litmaps9.png){fig-alt="Screenshot of Litmaps seed map showing articles related to those previously selected" .lightbox fig-align="left"}
+![](assets/u2/litmaps9.png){.lightbox fig-alt="Screenshot of Litmaps seed map showing articles related to those previously selected" fig-align="left"}
 
 Screenshot of Litmaps Seed Map Showing Articles Related to Those Previously Selected
-
-
 :::
 
 To add an input article, click it in the map or list and choose "Add to Search," then "Expand Search" to execute a new search with the new articles you added.
 
 ::: {#fig-litmaps10}
-
 ![](assets/u2/litmaps10.png){fig-alt="Screenshot of Litmaps seed map showing selected article and "Add to Search" button" .lightbox fig-align="left"}
 
 Screenshot of Litmaps Seed Map Showing Selected Article and "Add to Search" Button
-
 :::
 
 ::: {#fig-litmaps11}
-
-![](assets/u2/litmaps11.png){fig-alt="Screenshot of Litmaps seed map with additional article added" .lightbox fig-align="left"}
+![](assets/u2/litmaps11.png){.lightbox fig-alt="Screenshot of Litmaps seed map with additional article added" fig-align="left"}
 
 Screenshot of Litmaps Seed Map with Additional Article Added
-
 :::
 
 Notice that this search turned up another impactful article. Make sure to add that to your list!
 
 ::: {#fig-litmaps12}
-
-![](assets/u2/litmaps12.png){fig-alt="Screenshot of Litmaps seed map showing additional related articles" .lightbox fig-align="left"}
+![](assets/u2/litmaps12.png){.lightbox fig-alt="Screenshot of Litmaps seed map showing additional related articles" fig-align="left"}
 
 Screenshot of Litmaps Seed Map Showing Additional Related Articles
-
 :::
 
 Next, click "Your Library" and choose the library you just created. There should be eight or so references in the library. This is likely enough to synthesize into a short paper, but some disciplines may require more. Select all of the items in the library by clicking the checkbox that initially says "0 Selected," then click the "Export" (download) icon on the right side of the screen.
 
 ::: {#fig-litmaps13}
-
-![](assets/u2/litmaps13.png){fig-alt="Screenshot of Litmaps seed map with eight library entries selected" .lightbox fig-align="left"}
+![](assets/u2/litmaps13.png){.lightbox fig-alt="Screenshot of Litmaps seed map with eight library entries selected" fig-align="left"}
 
 Screenshot of Litmaps Seed Map with Library Entries Selected
-
 :::
 
 Choose "RIS" in the dropdown menu, then click "Download."
 
 ::: {#fig-litmaps14}
-
-![](assets/u2/litmaps14.png){fig-alt="Screenshot of Litmaps seed map menu for downloading articles with RIS format selected" .lightbox fig-align="left"}
+![](assets/u2/litmaps14.png){.lightbox fig-alt="Screenshot of Litmaps seed map menu for downloading articles with RIS format selected" fig-align="left"}
 
 Screenshot of Litmaps Seed Map Menu for Downloading Articles with RIS Format Selected
-
 :::
 
 For more tutorials on using Litmaps, search online. For example, the Litmaps YouTube channel has some helpful videos.
 
-::: {.learning-activity}
+### Activity: Using LitMaps
 
-- **Research**: Choose a research topic that interests you. (Tip: Consider the course you are taking or will take in the future.) What key topics do you want to learn more about? Here are some other links that may help you decide:
-  - [*Choosing a Topic: Purdue OWL*](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html){target="_blank"} (n.d.-b)
-  - [*Building Your Research Skills*](https://libguides.twu.ca/ResearchSkills/Home){target="_blank"} (2024)
-  - Conduct a general internet search for "Topical issues in Business" or "Topical issues in Higher Education" and scan whether any of these issues are of personal interest.
-
-- **Write**: State your topic in the form of a question. For example:
-  - How will robotics impact the future of work?
-  - What can businesses do to run successful loyalty programs?
-  - How can technology prepare learners for a future that is increasingly defined within the context of globalization and technology?
-  - How will mobile technology impact diagnosis and health care?
-
-- **Review** your draft research question taking into account:
-  - *Personal interest*: Does the research question interest you?
-  - *Suitability for academic investigation*: Some questions are not possible to answer through academic enquiry, for example, "How beautiful is the colour orange?" Identify a few keywords related to your proposed research question and conduct a general search to determine if there are published and accessible research outputs related to your question.
-  - *Attainability*: Make sure that your question can be answered in the amount of time you have. For example, "How do we solve global disease?" is too broad, whereas, "What is my neighbour's favourite colour?" is too narrow. You will be looking to target between 8 to 15 scholarly references to prepare an annotated bibliography, including books, journal articles, and reputable website references . From those you will choose three for your annotated bibliography activity you will complete at the end of the unit.
-  - Use Litmaps to explore the literature on the topic of your choice.
-
-- **Reflect**: Take a screenshot of your Litmaps map and paste it to a journal entry in Obsidian. Reflect on your use of this tool. What was difficult to learn? How might you use this tool in your future studies?
-
+::: learning-activity
+-   Choose a research topic that interests you. (Tip: Consider the course you are taking or will take in the future.) What key topics do you want to learn more about? Here are some other links that may help you decide:
+    -   [*Choosing a Topic: Purdue OWL*](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/choosing_a_topic.html){target="_blank"} (n.d.-b)
+    -   [*Building Your Research Skills*](https://libguides.twu.ca/ResearchSkills/Home){target="_blank"} (2024)
+    -   Conduct a general internet search for "Topical issues in Business" or "Topical issues in Higher Education" and scan whether any of these issues are of personal interest.
+-   State your topic in the form of a question. For example:
+    -   How will robotics impact the future of work?
+    -   What can businesses do to run successful loyalty programs?
+    -   How can technology prepare learners for a future that is increasingly defined within the context of globalization and technology?
+    -   How will mobile technology impact diagnosis and health care?
+-   Review your draft research question taking into account:
+    -   *Personal interest*: Does the research question interest you?
+    -   *Suitability for academic investigation*: Some questions are not possible to answer through academic enquiry, for example, "How beautiful is the colour orange?" Identify a few keywords related to your proposed research question and conduct a general search to determine if there are published and accessible research outputs related to your question.
+    -   *Attainability*: Make sure that your question can be answered in the amount of time you have. For example, "How do we solve global disease?" is too broad, whereas, "What is my neighbour's favourite colour?" is too narrow. You will be looking to target between 8 to 15 scholarly references to prepare an annotated bibliography, including books, journal articles, and reputable website references . From those you will choose three for your annotated bibliography activity you will complete at the end of the unit.
+    -   Use Litmaps to explore the literature on the topic of your choice.
+-   Take a screenshot of your Litmaps map and paste it to a journal entry in Obsidian. Reflect on your use of this tool. What was difficult to learn? How might you use this tool in your future studies?
+-   Note: This is one of several activities that can help you demonstrate your proficiency in the course learning outcomes:
+    -   Build and customize technology-integrated workflows to enhance and enrich your learning journey;
+    -   Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study;
+    -   Practice evaluative judgment to document your process of learning in complex domains of knowledge;
+    -   Create a personalized narrative to document and express your learning process;
 :::
 
-### Activity: the TWU Library
+<!-- hide comment //todo prote - please add the note above into a note callout -->
 
-::: {.learning-activity}
+### Activity: The TWU Library
 
+::: learning-activity
 Some of your best advocates on campus or online are the librarians who work at the Norma Marion Alloway Library in Langley. They are extremely knowledgeable about finding things that are hard to find, so it is ALWAYS a good idea to talk to a librarian about what you are trying to do. They are literally paid to help you succeed! One of the ways they like to help is by creating what is known as a "LibGuide," and we encourage you to access the LibGuides by selecting Research Guides on the [library website](https://www.twu.ca/academics/library#){target="_blank"}.
 
 Take some time to browse the [TWU Library](https://www.twu.ca/academics/library){target="_blank"}. See if you can find the answer to the following questions:
 
-- Is it possible to borrow or download an ebook?
-- I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?
-- Do you have books in languages other than English?
-- Do you have ebooks?
-- Can I email a Trinity Western librarian any time with my research questions?
-- What is AskAway?
-- What do I do if I have trouble logging in to library databases from off campus?
-
+-   Is it possible to borrow or download an ebook?
+-   I'm a distance student. Can I request to have books or articles sent from the TWU Library to my location?
+-   Do you have books in languages other than English?
+-   Do you have ebooks?
+-   Can I email a Trinity Western librarian any time with my research questions?
+-   What is AskAway?
+-   What do I do if I have trouble logging in to library databases from off campus?
 :::
 
 ### Activity: Advanced Search
 
-::: {.learning-activity}
-
+::: learning-activity
 Improving search skills will save you time and result in more productive searches. Although we focus on LitMaps and the TWU Library in this course, another tool we want to share is the Google search engine. It provides a number of features to improve your searches in finding academic resources. In this activity, you will select two open resources using the Google advanced search operators in support of your research topic.
 
-- **Read**: the [*Google Search Cheatsheet*](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/){target="_blank"} for a more comprehensive list. Also see the [*Google Advanced Search Operators Cheat Sheet*](https://quickref.me/google-search.html){target="_blank"} (n.d.) and try a few searches using the operators. 
+-   Read the [*Google Search Cheatsheet*](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/){target="_blank"} for a more comprehensive list. Also see the [*Google Advanced Search Operators Cheat Sheet*](https://quickref.me/google-search.html){target="_blank"} (n.d.) and try a few searches using the operators.
 
 <!-- !!! Comment(s) from Werd:
 
@@ -388,50 +353,47 @@ for me
 Kelly Marjanovic | 2024-09-06T14:43:05
 
 -->
-- **Search**: Use the Google search operators (enter these directly into the search text area) to:
-  - identify at least 10 PDF documents which have open educational resources in their title (are they all accessible for download?)
-  - find a PDF version of the editorial entitled *Scholarship and Literacies in a Digital Age* (who are the authors?)
-  - Find the article with the following citation in text: the term digital literacies is contested with differing uses of the term revealing competing and even contradictory theoretical perspectives (who is the author?)
+
+-   Use the Google search operators (enter these directly into the search text area) to:
+    -   identify at least 10 PDF documents which have open educational resources in their title (are they all accessible for download?)
+    -   find a PDF version of the editorial entitled *Scholarship and Literacies in a Digital Age* (who are the authors?)
+    -   Find the article with the following citation in text: the term digital literacies is contested with differing uses of the term revealing competing and even contradictory theoretical perspectives (who is the author?)
 
 Visit the [Google Advanced Search](https://www.google.com/advanced_search){target="_blank"} web interface:
 
-- conduct a search for digital literacies and scan the results
-- go back to the Google Advanced Search web interface and remove words from the search, for example "skills" or "school" and compare the results
-- click tools and find results for the date range 1 May 2020 to 1 May 2023
-- click images and find versions which are licensed for reuse with modification (useful when sourcing images for your course blog with the necessary legal permissions for reuse)
+-   conduct a search for digital literacies and scan the results
+-   go back to the Google Advanced Search web interface and remove words from the search, for example "skills" or "school" and compare the results
+-   click tools and find results for the date range 1 May 2020 to 1 May 2023
+-   click images and find versions which are licensed for reuse with modification (useful when sourcing images for your course blog with the necessary legal permissions for reuse)
 
 **Other Search Engines**
 
 Google Scholar is a good search engine to find scholarly publications. The downside is that Google Scholar does not distinguish between closed and open resources. However, search results which show a PDF next to the listing will probably provide access to a full text version. Unpaywall is a free and legal way to identify authored--uploaded PDFs. There are extensions for the Chrome and Firefox open source browsers. Read the frequently asked questions for more information.
-
 :::
 
 ### Activity: Database Search
 
-::: {.learning-activity}
-
+::: learning-activity
 This activity focuses on searching database repositories. Most databases provide advanced search features; however there are differences in how each database site implements search functionality.
 
-- **View** the following resources on searching using databases.
-  - [*Top Ten Database Search Tips*](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"} (2011)
-  - [*Searching in Databases*](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"} (2012)
-  - [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} -- see also FAQs
-
-- **Watch** the following video on using the [*Directory of Open Access Journals (DOAJ)* ](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} (2016)
+-   View the following resources on searching using databases.
+    -   [*Top Ten Database Search Tips*](https://www.berkeleycitycollege.edu/library/2011/04/04/databasesearchtips/){target="_blank"} (2011)
+    -   [*Searching in Databases*](https://web.library.uq.edu.au/research-tools-techniques/search-techniques/where-and-how-search/searching-databases){target="_blank"} (2012)
+    -   [Directory of Open Access Journals (DOAJ)](https://doaj.org/){target="_blank"} -- see also FAQs
+-   Watch the following video on using the [*Directory of Open Access Journals (DOAJ)*](https://www.youtube-nocookie.com/embed/ndvLm9MIfKA){target="_blank"} (2016)
 
 {{< video https://www.youtube-nocookie.com/embed/ndvLm9MIfKA >}}
 
-  - Using your keywords and synonyms generated for your research question, search for journal articles using the DOAJ search engine and BASE Advanced Search.
-  - As appropriate, adapt your search by narrowing or expanding---remember to be flexible; if one term doesn't work, try a different one.
-  - Select a minimum of two resources, more if you like to save time later in the course.
-  - Based on the resources you find, think about whether you need to modify your research question.
+-   Using your keywords and synonyms generated for your research question, search for journal articles using the DOAJ search engine and BASE Advanced Search.
+-   As appropriate, adapt your search by narrowing or expanding---remember to be flexible; if one term doesn't work, try a different one.
+-   Select a minimum of two resources, more if you like to save time later in the course.
+-   Based on the resources you find, think about whether you need to modify your research question.
 
 How was your progress with this activity? Feel free to share your thoughts in Obsidian. For example:
 
-  - finding resources for my topic was ...
-  - I found ... helpful.
-  - database search tip: when ...
-
+-   finding resources for my topic was ...
+-   I found ... helpful.
+-   database search tip: when ...
 :::
 
 ## Evaluating Resources
@@ -440,21 +402,19 @@ A key part of finding and selecting resources is evaluating the resource. There 
 
 So how do you evaluate sources to ensure those you are using are credible? The following technique, called the CRAAP test, will help you evaluate the sources you find.
 
-**C** - Currency **R** - Relevance **A** - Authority **A** - Accuracy
-**P** -- Purpose
+**C** - Currency **R** - Relevance **A** - Authority **A** - Accuracy **P** -- Purpose
 
 ### Activity: Using the Craap Test
 
-::: {.learning-activity}
-
-- [**Watch**: *How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)*](https://www.youtube.com/watch?v=_M1-aMCJHFg){target="_blank"} (2015). This illustrates a set of steps you could take to evaluate sources.
+::: learning-activity
+-   [Watch *How Library Stuff Works: How to Evaluate Resources (the CRAAP Test)*](https://www.youtube.com/watch?v=_M1-aMCJHFg){target="_blank"} (2015). This illustrates a set of steps you could take to evaluate sources.
 
 {{< video https://www.youtube-nocookie.com/embed/_M1-aMCJHFg >}}
 
-- **Questions To Consider:** After watching this video consider these questions:
-  - Which part of the CRAAP test did you find most useful in evaluating sources?
-  - What following steps can you take when you evaluate any sources you find?
+**Questions To Consider:** After watching this video consider these questions:
 
+-   Which part of the CRAAP test did you find most useful in evaluating sources?
+-   What following steps can you take when you evaluate any sources you find?
 :::
 
 #### Reliability of Wikipedia {.unnumbered}
@@ -467,27 +427,24 @@ There have been a number of studies examining the accuracy of Wikipedia articles
 
 ### Activity: Wikipedia: Why or Why Not?
 
-::: {.learning-activity}
-
+::: learning-activity
 Consider the following statement: Wikipedia is a reliable source for academic study.
 
 Do you agree? Have you cited Wikipedia in any academic work? Why or why not?
 
-- **Read** the following:
-  - [Is Wikipedia a Trustworthy Academic Resource? Scientists Think So](https://edtechmagazine.com/higher/article/2017/12/wikipedia-trustworthy-academic-resource-scientists-think-so){target="_blank"} published by EdTech Magazine.
-  - [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} article on Wikipedia.
-  - [*Should University Students use Wikipedia?*](https://www.theguardian.com/education/2013/may/13/should-university-students-use-wikipedia){target="_blank"} (2013)
-  - Optional reading annotations: Conduct a search for credible and reliable resources on the topic of the reliability and credibility of Wikipedia articles.
-
-- [**Watch:** *Using Wikipedia for Academic Research*](https://www.youtube-nocookie.com/embed/Cql_yVUYj6A){target="_blank"} (2011)
+-   **Read** the following:
+    -   [Is Wikipedia a Trustworthy Academic Resource? Scientists Think So](https://edtechmagazine.com/higher/article/2017/12/wikipedia-trustworthy-academic-resource-scientists-think-so){target="_blank"} published by EdTech Magazine.
+    -   [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} article on Wikipedia.
+    -   [*Should University Students use Wikipedia?*](https://www.theguardian.com/education/2013/may/13/should-university-students-use-wikipedia){target="_blank"} (2013)
+    -   Optional reading annotations: Conduct a search for credible and reliable resources on the topic of the reliability and credibility of Wikipedia articles.
+-   [**Watch:** *Using Wikipedia for Academic Research*](https://www.youtube-nocookie.com/embed/Cql_yVUYj6A){target="_blank"} (2011)
 
 {{< video https://www.youtube-nocookie.com/embed/Cql_yVUYj6A >}}
 
 Drawing on your study of the reliability and credibility of online resources, share your advice to fellow learners in this course regarding the use of Wikipedia for academic purposes by posting a comment on Discourse. For example:
 
-- You can use Wikipedia for ... because ...
-- You should not use Wikipedia for ... because ...
-
+-   You can use Wikipedia for ... because ...
+-   You should not use Wikipedia for ... because ...
 :::
 
 ## Citation Management
@@ -506,9 +463,9 @@ Go to [zotero.org](https://zotero.org){target="_blank"} and click the red "Downl
 
 Once you have installed Zotero, there are some plugins that will help you in your studies. These are listed below with links to instructions on how to install and configure the plugin.
 
-- [Zotfile](http://zotfile.com/#how-to-install--set-up-zotfile){target="_blank"} allows you to find and manage PDFs in your Zotero library
-- [Citation Counts Manager](https://github.com/eschnett/zotero-citationcounts#installing){target="_blank"} automatically updates citation counts for items in your library
-- [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
+-   [Zotfile](http://zotfile.com/#how-to-install--set-up-zotfile){target="_blank"} allows you to find and manage PDFs in your Zotero library
+-   [Citation Counts Manager](https://github.com/eschnett/zotero-citationcounts#installing){target="_blank"} automatically updates citation counts for items in your library
+-   [scite.ai](https://github.com/scitedotai/scite-zotero-plugin#installation){target="_blank"} - provides a breakdown of how references are cited in the literature
 
 Now that you have Zotero ready to go, it's time to import your first references. Find the untitled.ris file in your downloads folder and open it. You might have to confirm that you want to open with Zotero.
 
@@ -520,31 +477,24 @@ LitMaps is not the only way that you can connect to Zotero. You can also export 
 
 Go to [twu.ca/library](https://twu.ca/library){target="_blank"} and search for transformational servant leadership. On the results page, you might notice that you are prompted to sign in to see certain items. There is a yellow banner at the top of the page with a link to login.
 
-
 ::: {#fig-library1}
-
-![](assets/u2/library1.png){fig-alt="Screenshot of TWU Library search results for transformational servant leadership" .lightbox fig-align="left"}
+![](assets/u2/library1.png){.lightbox fig-alt="Screenshot of TWU Library search results for transformational servant leadership" fig-align="left"}
 
 Click the top item in the list of results.
-
 :::
 
 Click the "Export" button on the right side, then choose "Direct Export in RIS Format," then "Save."
 
 ::: {#fig-library2}
-
-![](assets/u2/library2.png){fig-alt="Screenshot of TWU Library search results showing export button circled in red on right" .lightbox fig-align="left"}
+![](assets/u2/library2.png){.lightbox fig-alt="Screenshot of TWU Library search results showing export button circled in red on right" fig-align="left"}
 
 Screenshot of TWU Library Search Results Showing Export Button (Circled)
-
 :::
 
 ::: {#fig-library3}
-
-![](assets/u2/library3.png){fig-alt="Screenshot of TWU Library export manager file format options with RIS selected" .lightbox fig-align="left"}
+![](assets/u2/library3.png){.lightbox fig-alt="Screenshot of TWU Library export manager file format options with RIS selected" fig-align="left"}
 
 Screenshot of TWU Library Export Manager File Format Options (RIS Selected)
-
 :::
 
 You might get a message to install the Zotero Connector in your browser, go ahead and do that. Once you have imported the reference, you will have a brand new item in your Zotero library!
@@ -553,54 +503,55 @@ From here on to the day you graduate, Zotero will be with you and you may find y
 
 ### Activity: Using Zotero
 
-::: {.learning-activity}
-
+::: learning-activity
 Now that you have connected LitMaps to Zotero, let's explore how to use Zotero in your studies.
 
-- **Watch**: review the basics of Zotero by watching [*What is Zotero?*](https://www.youtube.com/watch?v=5xClqW2Jv04){target="_blank"} (2019)
+-   **Watch**: review the basics of Zotero by watching [*What is Zotero?*](https://www.youtube.com/watch?v=5xClqW2Jv04){target="_blank"} (2019)
 
 {{< video https://www.youtube-nocookie.com/embed/5xClqW2Jv04 >}}
 
 Now, let's start using it. Go to LitMaps, TWU Library, or Google Scholar and find articles that interest you. Populate your library with the following resources to support a research topic that interests you.
 
-- manual entry for a published book
-- manual entry for a chapter within an edited book (note that the library record for a book section or chapter should have separate fields for the author(s) and editor(s))
-- automatic harvesting of bibliographic information for a journal article (if supported by a browser extension or bookmarklet by your preferred citation management tool)
-- automatic harvesting of bibliographic information for a newspaper article (if supported by a browser extension or bookmarklet by your preferred citation management tool)
-- **Review**: In each case review that all relevant fields required for the bibliography have been completed correctly. Don't rely on the accuracy of the automatic features as they are dependent on the metadata and adherence to open standards on the source website. Pay particular attention to punctuation and consistent use of capitalization.
-- add descriptive tags; this will enhance searching of your library database
-- organize your resources using folders
+-   manual entry for a published book
+-   manual entry for a chapter within an edited book (note that the library record for a book section or chapter should have separate fields for the author(s) and editor(s))
+-   automatic harvesting of bibliographic information for a journal article (if supported by a browser extension or bookmarklet by your preferred citation management tool)
+-   automatic harvesting of bibliographic information for a newspaper article (if supported by a browser extension or bookmarklet by your preferred citation management tool)
+-   **Review**: In each case review that all relevant fields required for the bibliography have been completed correctly. Don't rely on the accuracy of the automatic features as they are dependent on the metadata and adherence to open standards on the source website. Pay particular attention to punctuation and consistent use of capitalization.
+-   add descriptive tags; this will enhance searching of your library database
+-   organize your resources using folders
 
 Next, experiment with some of the Zotero annotation features.
 
-- **Watch:** [*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} (2023) for instructions.
+-   **Watch:** [*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} (2023) for instructions.
 
 {{< video https://www.youtube-nocookie.com/embed/lGeJCsNHBR4 >}}
 
 If you want to take the next step, let's make your tools work together.
 
-- **Watch** the [video on Zotero and Obsidian integration](https://www.youtube.com/watch?v=CGGeMrtyjBI?){target="_blank"} (2022) and see the features offered when you integrate these tools.
+-   **Watch** the [video on Zotero and Obsidian integration](https://www.youtube.com/watch?v=CGGeMrtyjBI?){target="_blank"} (2022) and see the features offered when you integrate these tools.
 
 {{< video https://www.youtube-nocookie.com/embed/CGGeMrtyjBI >}}
 
-- **Write**: about your learning process and how you might use Zotero or another citation management tool in your studies.
-
+-   **Write**: about your learning process and how you might use Zotero or another citation management tool in your studies.
 :::
 
 ## Openness in Education
 
-At this point in the unit you have used various tools to discover and curate resources. In this topic we would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation: *[Open Access Explained](https://vimeo.com/557927481){target="_blank"}* (2021).
+At this point in the unit you have used various tools to discover and curate resources. In this topic we would like to introduce you to a value in education that we believe is important for creating a true community of inquiry in higher education. If you haven't already noticed from the title of this topic, we are thinking about *openness*. Here is a quick overview from the OER Foundation: [*Open Access Explained*](https://vimeo.com/557927481){target="_blank"} (2021).
 
-[**Watch**: *Open Access Explained*](https://vimeo.com/557927481){target="_blank"} <!--Video missing--> 
+[**Watch**: *Open Access Explained*](https://vimeo.com/557927481){target="_blank"} <!--Video missing-->
 
 {{< video https://vimeo.com/557927481 >}}
 
 And here is an article you can read (for free) from the British organization Wonkhe.
 
-<!-- have to adjust hight to percentage--><iframe src="https://wonkhe.com/blogs/intro-to-open-access/" width="100%" height="800"></iframe>
+<!-- have to adjust hight to percentage-->
 
-Open educational resources, or OER, refers to freely accessible and openly licensed educational materials that can be used, shared, and modified without cost. These resources include a variety of digital assets such as textbooks, lecture notes, multimedia content, and assessment tools. The key features of OER include their open licenses, which typically allow users to ***retain, reuse, revise, remix***, and
-***redistribute*** the content (Wiley, n.d.).
+<iframe src="https://wonkhe.com/blogs/intro-to-open-access/" width="100%" height="800">
+
+</iframe>
+
+Open educational resources, or OER, refers to freely accessible and openly licensed educational materials that can be used, shared, and modified without cost. These resources include a variety of digital assets such as textbooks, lecture notes, multimedia content, and assessment tools. The key features of OER include their open licenses, which typically allow users to ***retain, reuse, revise, remix***, and ***redistribute*** the content (Wiley, n.d.).
 
 #### The 5 Rs of Openness {.unnumbered}
 
@@ -614,94 +565,83 @@ Open educational resources, or OER, refers to freely accessible and openly licen
 
 **Redistribute** the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
 
-::: {.note}
-
+::: note
 Note that this material was created and published freely under a Creative Commons Attribution 4.0 license.
-
-::: 
+:::
 
 Why use OER? The usefulness of OER in higher education can be attributed to several compelling reasons:
 
-- **Affordability**: OER mitigates financial barriers for students by providing access to educational materials at no cost. This is particularly significant as the high cost of traditional textbooks and learning resources can be a substantial financial burden for students.
-- **Accessibility**: OER promotes equitable access to educational content globally. Anyone with an internet connection can benefit from OER, fostering inclusivity and addressing issues of accessibility in higher education.
-- **Customized learning materials**: Instructors can tailor OER to align seamlessly with course requirements, creating a personalized learning experience for students.
-- **Community collaboration**: OER encourages collaborative knowledge sharing among educators and students, fostering a sense of shared learning within the academic community.
-- **Current and relevant content**: the adaptable nature of OERs facilitates easy updates, ensuring educational materials reflect the latest advancements, and providing students with up-to-date information.
-- **Global perspectives**: The inclusive design of OER integrates diverse global viewpoints, enhancing cultural awareness and expanding students' understanding of various academic frameworks.
-- **Ethical usage**: OER operates with transparent licensing, ensuring ethical use of materials and upholding the principles of academic integrity.
+-   **Affordability**: OER mitigates financial barriers for students by providing access to educational materials at no cost. This is particularly significant as the high cost of traditional textbooks and learning resources can be a substantial financial burden for students.
+-   **Accessibility**: OER promotes equitable access to educational content globally. Anyone with an internet connection can benefit from OER, fostering inclusivity and addressing issues of accessibility in higher education.
+-   **Customized learning materials**: Instructors can tailor OER to align seamlessly with course requirements, creating a personalized learning experience for students.
+-   **Community collaboration**: OER encourages collaborative knowledge sharing among educators and students, fostering a sense of shared learning within the academic community.
+-   **Current and relevant content**: the adaptable nature of OERs facilitates easy updates, ensuring educational materials reflect the latest advancements, and providing students with up-to-date information.
+-   **Global perspectives**: The inclusive design of OER integrates diverse global viewpoints, enhancing cultural awareness and expanding students' understanding of various academic frameworks.
+-   **Ethical usage**: OER operates with transparent licensing, ensuring ethical use of materials and upholding the principles of academic integrity.
 
 In summary, OER offers a cost effective, flexible, and collaborative approach to educational resource development, making it a valuable and impactful asset in higher education. Its adoption aligns with the broader goals of enhancing accessibility, affordability, and inclusivity in the learning experience.
 
 ### Activity: Finding OERs
 
-::: {.learning-activity}
-
+::: learning-activity
 Go to the [Open Educational Resources Libguide](https://libguides.twu.ca/oer){target="_blank"} from the TWU Library.
 
-- [**Watch**:*How to use OER*](https://www.youtube.com/watch?v=Hkz4q2yuQU8){target="_blank"} (2012), then browse through the categories of OERs by discipline provided. Take some time to find an OER that relates to a topic that interests you.
+-   [**Watch**:*How to use OER*](https://www.youtube.com/watch?v=Hkz4q2yuQU8){target="_blank"} (2012), then browse through the categories of OERs by discipline provided. Take some time to find an OER that relates to a topic that interests you.
 
 {{< video https://www.youtube-nocookie.com/embed/Hkz4q2yuQU8?si=w_NnJz0_183z6NRH >}}
 
-- **Write**: Create an entry in Obsidian about an OER resource you found. Use the CRAAP test to evaluate it and explain why this resource interests you.
-
+-   **Write**: Create an entry in Obsidian about an OER resource you found. Use the CRAAP test to evaluate it and explain why this resource interests you.
 :::
 
 ### Activity: Advocating for OER
 
-::: {.learning-activity}
-
+::: learning-activity
 So how do open educational resources affect you as a student? Why should you care? We've shared some of the benefits of openness in education, but there are several other reasons OER benefit students.
 
-- [**Watch**:*A Review of the Effectiveness & Perceptions of Open Educational Resources as Compared to Textbooks*](https://www.youtube.com/watch?v=SX0K0hb_xKE){target="_blank"} (2016)
+-   [**Watch**:*A Review of the Effectiveness & Perceptions of Open Educational Resources as Compared to Textbooks*](https://www.youtube.com/watch?v=SX0K0hb_xKE){target="_blank"} (2016)
 
 {{< video https://www.youtube-nocookie.com/embed/SX0K0hb_xKE >}}
 
-- **Read**: For more information on OER Advocacy, see the chapter on [How to Advocate on Your Campus](https://opentextbc.ca/studenttoolkit/chapter/step-three-how-to-advocate-on-your-campus/){target="_blank"} in the OER Student Toolkit.
-- **Write**: Create an entry in Obsidian about the benefits of OERs.
-
+-   **Read**: For more information on OER Advocacy, see the chapter on [How to Advocate on Your Campus](https://opentextbc.ca/studenttoolkit/chapter/step-three-how-to-advocate-on-your-campus/){target="_blank"} in the OER Student Toolkit.
+-   **Write**: Create an entry in Obsidian about the benefits of OERs.
 :::
 
 ### Activity: Reflecting on Your Resources
 
-::: {.learning-activity}
-
+:::: learning-activity
 We've reached the end of Unit 2, where you have explored several tools and practiced digital skills to help you find and select resources for academic study. As you have practiced the activities in this unit, you have curated resources about the topic of your choice. In this activity we ask you to write a paragraph about this topic, utilizing the resources you have found.
 
-- **Read**: [This resource on how to write a good paragraph](https://writingcenter.unc.edu/tips-and-tools/paragraphs/){target="_blank"} published by the University of North Carolina at Chapel Hill. For more writing tips see the [Writing Resources website](https://create.twu.ca/learningcommons/writing-resources/?_gl=1*1uail9b*_ga*NDk4NDk0OTI0LjE3MTY5MTYzNTc.*_ga_NZ4GVM10JT*MTcyNTY2MjM0My4xMTYuMS4xNzI1NjYyMzcwLjMzLjAuMA..){target="_blank"} from the TWU Learning Commons.
-- **Write**: Draft a paragraph on an issue relating to your research topic. Your paragraph must contain:
-  - a verbatim quote from one of your sources
-  - a paraphrased fact from one of your sources
-  - Use the features of your citation management software to integrate:
-  - the in-text reference for your verbatim quotation
-  - the in-text reference for the paraphrased fact
-  - the automatically generated reference list using APA style (consult the Quick APA Guide to review your formatting)
+-   **Read**: [This resource on how to write a good paragraph](https://writingcenter.unc.edu/tips-and-tools/paragraphs/){target="_blank"} published by the University of North Carolina at Chapel Hill. For more writing tips see the [Writing Resources website](https://create.twu.ca/learningcommons/writing-resources/?_gl=1*1uail9b*_ga*NDk4NDk0OTI0LjE3MTY5MTYzNTc.*_ga_NZ4GVM10JT*MTcyNTY2MjM0My4xMTYuMS4xNzI1NjYyMzcwLjMzLjAuMA..){target="_blank"} from the TWU Learning Commons.
+-   **Write**: Draft a paragraph on an issue relating to your research topic. Your paragraph must contain:
+    -   a verbatim quote from one of your sources
+    -   a paraphrased fact from one of your sources
+    -   Use the features of your citation management software to integrate:
+    -   the in-text reference for your verbatim quotation
+    -   the in-text reference for the paraphrased fact
+    -   the automatically generated reference list using APA style (consult the Quick APA Guide to review your formatting)
 
 Generate a PDF version of your paragraph.
 
-- **Reflect**: Prepare a short journal entry of about 150 words sharing your experiences in using citation management software. For example: What worked well? Did you struggle with any of the instructions? Did you learn any new skills?
+-   **Reflect**: Prepare a short journal entry of about 150 words sharing your experiences in using citation management software. For example: What worked well? Did you struggle with any of the instructions? Did you learn any new skills?
 
-::: {.note}
-
+::: note
 Note that this reflection can be used for your assessment in this course.
 :::
-
-:::
+::::
 
 ### Activity: Annotated Bibliography
 
-::: {.learning-activity}
-
+::: learning-activity
 In this activity you will create an annotated bibliography related to a research topic of your choice.
 
-- **Read** the following resources:
-  - Evaluating online sources: [*How to (Seriously) Read an Academic Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper?v=sy9PVZAbSAQ){target="_blank"} (2016)
-  - Preparing an annotated bibliography: [*Writing an Annotated Bibliography*](https://library.concordia.ca/help/writing/annotated-bibliography.php){target="_blank"} (n.d.) and *[How to Write an Annotated Bibliography](https://library.concordia.ca/help/writing/annotated-bibliography.php#:~:text=In%20an%20annotated%20bibliography%2C%20each,relevance%20to%20your%20paper%20topic.){target="_blank"}* (2022)
-  - *[Annotated Bibliography Samples: Purdue Owl](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html){target="_blank"}* (n.d.-a)
-- **Annotate**: Next, create an annotated bibliography in Obsidian for two sources---include a journal article and a book chapter from an edited collection of chapters by multiple authors.
-  - You can select resources already saved in your library or search for new ones in support of your research topic.
-  - Use the note or comment feature of your citation management software to record a copy of your annotation.
-  - You must use Zotero to generate the references using APA format.
-
+-   **Read** the following resources:
+    -   Evaluating online sources: [*How to (Seriously) Read an Academic Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper?v=sy9PVZAbSAQ){target="_blank"} (2016)
+    -   Preparing an annotated bibliography: [*Writing an Annotated Bibliography*](https://library.concordia.ca/help/writing/annotated-bibliography.php){target="_blank"} (n.d.) and [*How to Write an Annotated Bibliography*](https://library.concordia.ca/help/writing/annotated-bibliography.php#:~:text=In%20an%20annotated%20bibliography%2C%20each,relevance%20to%20your%20paper%20topic.){target="_blank"} (2022)
+    -   [*Annotated Bibliography Samples: Purdue Owl*](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html){target="_blank"} (n.d.-a)
+-   **Annotate**: Next, create an annotated bibliography in Obsidian for two sources---include a journal article and a book chapter from an edited collection of chapters by multiple authors.
+    -   You can select resources already saved in your library or search for new ones in support of your research topic.
+    -   Use the note or comment feature of your citation management software to record a copy of your annotation.
+    -   You must use Zotero to generate the references using APA format.
 :::
 
 ## Summary {.unnumbered}
@@ -710,16 +650,14 @@ In this unit, you have had the opportunity to develop crucial skills for navigat
 
 In addition, exploring openness in education broadened your understanding of the transformative power of freely accessible educational resources. By delving into the principles of open educational resources (OER) and open access, we hope to have conveyed their significance in making education more accessible. This newfound awareness not only empowers you as a learner but also places you in a role as a contributor to a global academic community. As you conclude this unit with refined skills in resource navigation, citation management, and a deeper appreciation for openness in education, you are well equipped to responsibly and effectively leverage digital resources for ongoing academic and professional growth. These skills are not just tools for immediate success, but enduring assets, shaping your lifelong journey in the ever evolving realm of digital knowledge.
 
-::: {.check}
-
+::: check
 Before you move on to the next unit check that you are able to:
 
-- describe your engagement with digital technology
-- apply digital tools to support learning in an academic environment
-- explain what digital literacies mean for you in a tertiary education context
-- examine your digital footprint
-- build your professional online biography
-- examine privacy concerns related to various platforms and tools
-- describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
-
+-   describe your engagement with digital technology
+-   apply digital tools to support learning in an academic environment
+-   explain what digital literacies mean for you in a tertiary education context
+-   examine your digital footprint
+-   build your professional online biography
+-   examine privacy concerns related to various platforms and tools
+-   describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
 :::

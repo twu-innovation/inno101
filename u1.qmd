@@ -12,11 +12,11 @@ In this first unit, there will be both theoretical and practical work for you to
 
 This unit is divided into the following topics:
 
--   Learning online
--   Understanding the digital
--   Starting your workflow
--   Digital literacies
--   Digital privacy and safety
+-   Learning Online
+-   Understanding the Digital
+-   Starting your Workflow
+-   Digital Literacies
+-   Digital Privacy and Safety
 
 ### Unit Learning Outcomes {.unnumbered}
 
