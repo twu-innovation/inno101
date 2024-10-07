@@ -45,7 +45,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 ::: note
 **Notes:**
 
--   *You will be directed to complete these activities as they come up in the unit.*
 -   *The learning activities in this course are designed to prepare you for the graded assignments in this course. You are strongly encouraged to complete them.*
 :::
 
@@ -69,9 +68,13 @@ In the previous unit, we introduced you to Obsidian, and you are going to contin
 
 We recognize that we are introducing several tools to you and that may feel overwhelming, however, there are no tools that do everything that you need to do, and if a tool claims to be able to do everything it likely does only a few things well, and the rest is poorly implemented.
 
-### Finding Resources {.unnumbered}
+### Activity: Finding Resources
 
-Litmaps is a web app that you can use to build a map of the literature regarding your topic. For now, presume that you need to write a paper on transformational servant leadership. That is a very broad topic, and you are only beginning to learn about it, so you need to start by doing some reading ... but what should you read? Your instructor might have given you an article to read, or there are likely some good articles included in your course syllabus, but you might also have to start on your own. Here is how.
+::: learning-activity
+Litmaps is a web app that you can use to build a map of the literature regarding your topic. For now, presume that you need to write a paper on transformational servant leadership. That is a very broad topic, and you are only beginning to learn about it, so you need to start by doing some reading ... but what should you read? Your instructor might have given you an article to read, or there are likely some good articles included in your course syllabus, but you might also have to start on your own.
+
+Follow the steps below as they explain how to conduct a literature review, introducing Litmaps as an invaluable tool.
+:::
 
 #### Find a Literature Review {.unnumbered}
 
@@ -116,10 +119,12 @@ Screenshot, Results Page of Google Scholar search for "Transformational Servant 
 -   much more recent (2019)
 -   AND it is a systematic review
 
-This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774){target="_blank"} in our upcoming activity. Click the link.
+This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774){target="_blank"} in our upcoming activity.
 
-<!-- !!! Comment(s) from Werd:
+<!-- 
+(KM - deleting Click the link as students can do this later with the doi)
 
+!!! Deb's Comment(s) from Werd:
 Reference: Click the link.
 
 Comment: How will this be linked to the Eva et al. article apart from
@@ -307,14 +312,15 @@ For more tutorials on using Litmaps, search online. For example, the Litmaps You
     -   *Attainability*: Make sure that your question can be answered in the amount of time you have. For example, "How do we solve global disease?" is too broad, whereas, "What is my neighbour's favourite colour?" is too narrow. You will be looking to target between 8 to 15 scholarly references to prepare an annotated bibliography, including books, journal articles, and reputable website references . From those you will choose three for your annotated bibliography activity you will complete at the end of the unit.
     -   Use Litmaps to explore the literature on the topic of your choice.
 -   Take a screenshot of your Litmaps map and paste it to a journal entry in Obsidian. Reflect on your use of this tool. What was difficult to learn? How might you use this tool in your future studies?
--   Note: This is one of several activities that can help you demonstrate your proficiency in the course learning outcomes:
-    -   Build and customize technology-integrated workflows to enhance and enrich your learning journey;
-    -   Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study;
-    -   Practice evaluative judgment to document your process of learning in complex domains of knowledge;
-    -   Create a personalized narrative to document and express your learning process;
 :::
 
-<!-- hide comment //todo prote - please add the note above into a note callout -->
+::: note
+**Note** This activity allows you to demonstrate your proficiency in the following course learning outcomes, as evaluated through the assignments:\
+- Build and customize technology-integrated workflows to enhance and enrich your learning journey;\
+- Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study;\
+- Practice evaluative judgment to document your process of learning in complex domains of knowledge;\
+- Create a personalized narrative to document and express your learning process;
+:::
 
 ### Activity: The TWU Library
 
@@ -432,7 +438,7 @@ Consider the following statement: Wikipedia is a reliable source for academic st
 
 Do you agree? Have you cited Wikipedia in any academic work? Why or why not?
 
--   **Read** the following:
+-   Read the following:
     -   [Is Wikipedia a Trustworthy Academic Resource? Scientists Think So](https://edtechmagazine.com/higher/article/2017/12/wikipedia-trustworthy-academic-resource-scientists-think-so){target="_blank"} published by EdTech Magazine.
     -   [Reliability of Wikipedia](https://en.wikipedia.org/wiki/Reliability_of_Wikipedia){target="_blank"} article on Wikipedia.
     -   [*Should University Students use Wikipedia?*](https://www.theguardian.com/education/2013/may/13/should-university-students-use-wikipedia){target="_blank"} (2013)
@@ -506,7 +512,7 @@ From here on to the day you graduate, Zotero will be with you and you may find y
 ::: learning-activity
 Now that you have connected LitMaps to Zotero, let's explore how to use Zotero in your studies.
 
--   **Watch**: review the basics of Zotero by watching [*What is Zotero?*](https://www.youtube.com/watch?v=5xClqW2Jv04){target="_blank"} (2019)
+-   Watch: review the basics of Zotero by watching [*What is Zotero?*](https://www.youtube.com/watch?v=5xClqW2Jv04){target="_blank"} (2019)
 
 {{< video https://www.youtube-nocookie.com/embed/5xClqW2Jv04 >}}
 
@@ -522,17 +528,17 @@ Now, let's start using it. Go to LitMaps, TWU Library, or Google Scholar and fin
 
 Next, experiment with some of the Zotero annotation features.
 
--   **Watch:** [*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} (2023) for instructions.
+-   Watch**:** [*How to Annotate PDFs in Zotero*](https://www.youtube.com/watch?v=lGeJCsNHBR4){target="_blank"} (2023) for instructions.
 
 {{< video https://www.youtube-nocookie.com/embed/lGeJCsNHBR4 >}}
 
 If you want to take the next step, let's make your tools work together.
 
--   **Watch** the [video on Zotero and Obsidian integration](https://www.youtube.com/watch?v=CGGeMrtyjBI?){target="_blank"} (2022) and see the features offered when you integrate these tools.
+-   Watch the [video on Zotero and Obsidian integration](https://www.youtube.com/watch?v=CGGeMrtyjBI?){target="_blank"} (2022) and see the features offered when you integrate these tools.
 
 {{< video https://www.youtube-nocookie.com/embed/CGGeMrtyjBI >}}
 
--   **Write**: about your learning process and how you might use Zotero or another citation management tool in your studies.
+-   Write about your learning process and how you might use Zotero or another citation management tool in your studies.
 :::
 
 ## Openness in Education
@@ -586,11 +592,11 @@ In summary, OER offers a cost effective, flexible, and collaborative approach to
 ::: learning-activity
 Go to the [Open Educational Resources Libguide](https://libguides.twu.ca/oer){target="_blank"} from the TWU Library.
 
--   [**Watch**:*How to use OER*](https://www.youtube.com/watch?v=Hkz4q2yuQU8){target="_blank"} (2012), then browse through the categories of OERs by discipline provided. Take some time to find an OER that relates to a topic that interests you.
+-   Watch [*How to use OER*](https://www.youtube.com/watch?v=Hkz4q2yuQU8){target="_blank"} (2012), then browse through the categories of OERs by discipline provided. Take some time to find an OER that relates to a topic that interests you.
 
 {{< video https://www.youtube-nocookie.com/embed/Hkz4q2yuQU8?si=w_NnJz0_183z6NRH >}}
 
--   **Write**: Create an entry in Obsidian about an OER resource you found. Use the CRAAP test to evaluate it and explain why this resource interests you.
+-   Create an entry in Obsidian about an OER resource you found. Use the CRAAP test to evaluate it and explain why this resource interests you.
 :::
 
 ### Activity: Advocating for OER
@@ -598,21 +604,21 @@ Go to the [Open Educational Resources Libguide](https://libguides.twu.ca/oer){ta
 ::: learning-activity
 So how do open educational resources affect you as a student? Why should you care? We've shared some of the benefits of openness in education, but there are several other reasons OER benefit students.
 
--   [**Watch**:*A Review of the Effectiveness & Perceptions of Open Educational Resources as Compared to Textbooks*](https://www.youtube.com/watch?v=SX0K0hb_xKE){target="_blank"} (2016)
+-   Watch [*A Review of the Effectiveness & Perceptions of Open Educational Resources as Compared to Textbooks*](https://www.youtube.com/watch?v=SX0K0hb_xKE){target="_blank"} (2016)
 
 {{< video https://www.youtube-nocookie.com/embed/SX0K0hb_xKE >}}
 
--   **Read**: For more information on OER Advocacy, see the chapter on [How to Advocate on Your Campus](https://opentextbc.ca/studenttoolkit/chapter/step-three-how-to-advocate-on-your-campus/){target="_blank"} in the OER Student Toolkit.
--   **Write**: Create an entry in Obsidian about the benefits of OERs.
+-   For more information on OER Advocacy, see the chapter on [How to Advocate on Your Campus](https://opentextbc.ca/studenttoolkit/chapter/step-three-how-to-advocate-on-your-campus/){target="_blank"} in the OER Student Toolkit.
+-   Create an entry in Obsidian about the benefits of OERs.
 :::
 
 ### Activity: Reflecting on Your Resources
 
-:::: learning-activity
+::: learning-activity
 We've reached the end of Unit 2, where you have explored several tools and practiced digital skills to help you find and select resources for academic study. As you have practiced the activities in this unit, you have curated resources about the topic of your choice. In this activity we ask you to write a paragraph about this topic, utilizing the resources you have found.
 
--   **Read**: [This resource on how to write a good paragraph](https://writingcenter.unc.edu/tips-and-tools/paragraphs/){target="_blank"} published by the University of North Carolina at Chapel Hill. For more writing tips see the [Writing Resources website](https://create.twu.ca/learningcommons/writing-resources/?_gl=1*1uail9b*_ga*NDk4NDk0OTI0LjE3MTY5MTYzNTc.*_ga_NZ4GVM10JT*MTcyNTY2MjM0My4xMTYuMS4xNzI1NjYyMzcwLjMzLjAuMA..){target="_blank"} from the TWU Learning Commons.
--   **Write**: Draft a paragraph on an issue relating to your research topic. Your paragraph must contain:
+-   Read [this resource on how to write a good paragraph](https://writingcenter.unc.edu/tips-and-tools/paragraphs/){target="_blank"} published by the University of North Carolina at Chapel Hill. For more writing tips see the [Writing Resources website](https://create.twu.ca/learningcommons/writing-resources/?_gl=1*1uail9b*_ga*NDk4NDk0OTI0LjE3MTY5MTYzNTc.*_ga_NZ4GVM10JT*MTcyNTY2MjM0My4xMTYuMS4xNzI1NjYyMzcwLjMzLjAuMA..){target="_blank"} from the TWU Learning Commons.
+-   Draft a paragraph on an issue relating to your research topic. Your paragraph must contain:
     -   a verbatim quote from one of your sources
     -   a paraphrased fact from one of your sources
     -   Use the features of your citation management software to integrate:
@@ -622,23 +628,23 @@ We've reached the end of Unit 2, where you have explored several tools and pract
 
 Generate a PDF version of your paragraph.
 
--   **Reflect**: Prepare a short journal entry of about 150 words sharing your experiences in using citation management software. For example: What worked well? Did you struggle with any of the instructions? Did you learn any new skills?
+-   Prepare a short journal entry of about 150 words sharing your experiences in using citation management software. For example: What worked well? Did you struggle with any of the instructions? Did you learn any new skills?
+:::
 
 ::: note
 Note that this reflection can be used for your assessment in this course.
 :::
-::::
 
 ### Activity: Annotated Bibliography
 
 ::: learning-activity
 In this activity you will create an annotated bibliography related to a research topic of your choice.
 
--   **Read** the following resources:
+-   Read the following resources:
     -   Evaluating online sources: [*How to (Seriously) Read an Academic Paper*](https://www.science.org/content/article/how-seriously-read-scientific-paper?v=sy9PVZAbSAQ){target="_blank"} (2016)
     -   Preparing an annotated bibliography: [*Writing an Annotated Bibliography*](https://library.concordia.ca/help/writing/annotated-bibliography.php){target="_blank"} (n.d.) and [*How to Write an Annotated Bibliography*](https://library.concordia.ca/help/writing/annotated-bibliography.php#:~:text=In%20an%20annotated%20bibliography%2C%20each,relevance%20to%20your%20paper%20topic.){target="_blank"} (2022)
     -   [*Annotated Bibliography Samples: Purdue Owl*](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/annotated_bibliographies/annotated_bibliography_samples.html){target="_blank"} (n.d.-a)
--   **Annotate**: Next, create an annotated bibliography in Obsidian for two sources---include a journal article and a book chapter from an edited collection of chapters by multiple authors.
+-   Next, create an annotated bibliography in Obsidian for two sources---include a journal article and a book chapter from an edited collection of chapters by multiple authors.
     -   You can select resources already saved in your library or search for new ones in support of your research topic.
     -   Use the note or comment feature of your citation management software to record a copy of your annotation.
     -   You must use Zotero to generate the references using APA format.
@@ -661,3 +667,11 @@ Before you move on to the next unit check that you are able to:
 -   examine privacy concerns related to various platforms and tools
 -   describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
 :::
+
+<!-- @cmadland - flagging 3 sections that I'm pretty sure I used chat gpt to complete. Please review the unit Overview & Unit Summary and perhaps "Colinize" it? ;)...or perhaps add a SME video? Also - the Why use OER? section, although that is less obvious.  
+
+Other items for review:
+- dated references from LIDA
+- adding graphics (5 Rs, etc.)
+
+-->
