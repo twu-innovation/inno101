@@ -4,29 +4,29 @@
 
 Congratulations! You've made it to the final unit in our course, *Learning with Technology*. In this last unit we will have a chance to explore some digital tools that you may encounter in your academic studies at TWU. We'll look at how these skills translate to preparing you for the workplace and will examine the role technology plays in your chosen field of study. You'll also have the opportunity to research some current events related to societal issues and the internet and will discuss how to address these challenges. Finally, we'll conclude our course with a discussion on digital wisdom. As you begin this unit, here are some guiding questions to consider:
 
-- How will my use of technology support my social, academic, and spiritual goals?
-- How will I share my knowledge and skills to engage as a digital global citizen?
-- How will I connect and collaborate with others as part of an inclusive digital community?
+-   How will my use of technology support my social, academic, and spiritual goals?
+-   How will I share my knowledge and skills to engage as a digital global citizen?
+-   How will I connect and collaborate with others as part of an inclusive digital community?
 
 ### Topics {.unnumbered}
 
 This unit is divided into the following topics:
 
-1. Sharing your learning at TWU
-2. Digital practices in the workplace
-3. Societal issues and the internet
-4. Digital wisdom
+1.  Sharing your learning at TWU
+2.  Digital practices in the workplace
+3.  Societal issues and the internet
+4.  Digital wisdom
 
 ### Learning Outcomes {.unnumbered}
 
 When you have completed this unit you will be able to:
 
-- Discuss how technology has changed business practices in your field of interest or career
-- Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-- Describe societal issues and problematic online behaviours which have emerged in the digital world, and how to deal with these challenges in an ethical manner
-- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
-- Create a personalized narrative to document and express your learning process
-- Practice evaluative judgment to document your process of learning in complex domains of knowledge
+-   Discuss how technology has changed business practices in your field of interest or career
+-   Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+-   Describe societal issues and problematic online behaviours which have emerged in the digital world, and how to deal with these challenges in an ethical manner
+-   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
+-   Create a personalized narrative to document and express your learning process
+-   Practice evaluative judgment to document your process of learning in complex domains of knowledge
 
 ### Activity Checklist {.unnumbered}
 
@@ -34,45 +34,36 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 **Learning Activities**
 
-- Watch the video [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} (2015)
-- Read the articles on how the internet impacted the newspaper and music industries.
-- Discuss the impact of digital technology on business.
-- Explore AI tools for university students and view the resources provided.
-- View the resources on AI and plagiarism.
-- Discuss the impact of automation and AI in the workplace.
-- View the resources on the price of AI and discuss the ethical implications.
-- Explore the topics focusing on societal issues on the internet, including website tracking, trolling, net neutrality, and equity.
-- Publish an editorial on your blog about an issue that interests you.
-- Read the article on digital wisdom and reflect on how technology serves both personal and communal benefits.
+-   Watch the video [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} (2015)
+-   Read the articles on how the internet impacted the newspaper and music industries.
+-   Discuss the impact of digital technology on business.
+-   Explore AI tools for university students and view the resources provided.
+-   View the resources on AI and plagiarism.
+-   Discuss the impact of automation and AI in the workplace.
+-   View the resources on the price of AI and discuss the ethical implications.
+-   Explore the topics focusing on societal issues on the internet, including website tracking, trolling, net neutrality, and equity.
+-   Publish an editorial on your blog about an issue that interests you.
+-   Read the article on digital wisdom and reflect on how technology serves both personal and communal benefits.
 
-::: {.note}
-
+::: note
 ***Notes**:*
-
-- *You will be directed to complete these activities as they come up in the unit.*
-- *The learning activities in this course are designed to prepare you for the graded assignments in this course. You are strongly encouraged to complete them.*
-
+*The learning activities in this course are designed to prepare you for the graded assignments in this course. You are strongly encouraged to complete them.*
 :::
 
-::: {.note}
-
+::: note
 **Assessment**
 
-- *See the Assessment section in Moodle for assignment details.*
-
+-   *See the Assessment section in Moodle for assignment details.*
 :::
 
 ### Resources {.unnumbered}
 
-- All resources will be provided online in the unit.
+-   All resources will be provided online in the unit.
 
 ::: {.note icon="true"}
-
 ***Resource Reminders***
 
-- Remember to continuously add resources that align with your learning goals to your Zotero library.
-- Utilize your community---peers, coworkers, and online communities---as valuable resources! Stay engaged to seek assistance and exchange helpful resources and insights.
-
+-   Remember to continuously add resources to your Zotero library that align with your learning goals.
 :::
 
 ## Sharing Your Learning at TWU
@@ -91,83 +82,76 @@ In this course we have promoted the use of tools that allow you to share your le
 
 ### Activity: Learning in Community
 
-::: {.learning-activity}
-
-- **Read**: Here are several resources that explain how we learn in community.
-  - [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.)
-  - [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson){target="_blank"}/02%3A_Social_Learning_Theories) (2021)
-  - [Social Networking, Knowledge Sharing, and Student Learning: The Case of University Students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872){target="_blank"} (2016)
-  - [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/){target="_blank"} (2016)
-- **Watch**: [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} (2017)
+::: learning-activity
+-   **Read**: Here are several resources that explain how we learn in community.
+    -   [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.)
+    -   [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)%7Btarget=%22_blank%22%7D/02%3A_Social_Learning_Theories) (2021)
+    -   [Social Networking, Knowledge Sharing, and Student Learning: The Case of University Students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872){target="_blank"} (2016)
+    -   [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/){target="_blank"} (2016)
+-   **Watch**: [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} (2017)
 
 {{< video https://www.youtube-nocookie.com/embed/AB-_822TRms >}}
 
-- At TWU you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. Have a look at this resource that explains examples and reasons for these activities:
-- [Group Work: Using Cooperative Learning Groups Effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/){target="_blank"} (2015)
+-   At TWU you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. Have a look at this resource that explains examples and reasons for these activities:
+-   [Group Work: Using Cooperative Learning Groups Effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/){target="_blank"} (2015)
 
 Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:
 
-- [TWU Media + Communications Students Showcase Their Work at Student Film Festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival){target="_blank"} (2023)
-- [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news){target="_blank"} (2017)
+-   [TWU Media + Communications Students Showcase Their Work at Student Film Festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival){target="_blank"} (2023)
 
-- **Write**: What do you think? How have you experienced social learning in your educational experiences? How did it help or hinder your learning? What are your goals for sharing your learning in your TWU classes and beyond? Share your thoughts by posting a comment on Discourse, for example: "Sharing learning in academia is valuable because ..."
+-   [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news){target="_blank"} (2017)
 
+-   **Write**: What do you think? How have you experienced social learning in your educational experiences? How did it help or hinder your learning? What are your goals for sharing your learning in your TWU classes and beyond? Share your thoughts by posting a comment on Discourse, for example: "Sharing learning in academia is valuable because ..."
 :::
 
 ### Activity: Preparing for the Future
 
-::: {.learning-activity}
-
+:::: learning-activity
 Throughout your studies at TWU you will share your learning with instructors, your peers, and the community. You will also practice and master various skills including digital skills, leadership skills, communication skills, and critical thinking skills. Why are these important? How do your studies and activities at TWU prepare you to meet those necessary skills?
 
 TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} that aims to equip students for their future careers. Have a look at their Career Ready Framework in the figure below.
 
 ::: {#fig-TopxEmployeexSkillsx2025}
-
-![](assets/u6/Competency_Framework.png){fig-alt="3-column list of career skills categories" .lightbox fig-align="left"}
+![](assets/u6/Competency_Framework.png){.lightbox fig-alt="3-column list of career skills categories" fig-align="left"}
 
 Career Ready Framework
-
 :::
 
 *Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. (n.d.)
 
-- **Write**: What competencies do you see that relate to social learning and digital skills? As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
+-   **Write**: What competencies do you see that relate to social learning and digital skills? As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 
 Consider the following questions:
 
-- What skills and competencies do you want to practice to be successful in your future career?
-- How does collaborative learning and sharing your learning contribute to your learning journey?
+-   What skills and competencies do you want to practice to be successful in your future career?
+-   How does collaborative learning and sharing your learning contribute to your learning journey?
 
 Feel free to share your thoughts in your Obsidian journal, Discourse, or your WordPress blog.
-
-:::
+::::
 
 ## Digital Practices in the Workplace
 
 Let's fast forward to a time when you graduate from Trinity---fully equipped with the knowledge, skills, character, and creativity to make a lasting impact in the world. What digital skills will you have to prepare you for your future career? In this topic we consider how changes in technology have and will continue to impact digital practices in the workplace. Pause and consider the following questions:
 
-- How do professionals in your field of interest network online?
-- How has technology changed business practices in your field of interest or career?
-- What are the implications for learning and skills development in your future career precipitated by changes in digital technology?
+-   How do professionals in your field of interest network online?
+-   How has technology changed business practices in your field of interest or career?
+-   What are the implications for learning and skills development in your future career precipitated by changes in digital technology?
 
 ### Activity: The Future of Work
 
-::: {.learning-activity}
-
+::: learning-activity
 In the following short video, [Ken Steele](http://eduvation.ca/bio/){target="_blank"} from Eduvation speculates about the future of the labour market and the value of higher education in a digital age.
 
-- **Watch**: [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} (2015)
+-   **Watch**: [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} (2015)
 
 {{< video https://www.youtube-nocookie.com/embed/iY4UhfQefdU >}}
 
 What do you think? Share your thoughts by posting a comment on Discourse, for example:
 
-- Higher education is valuable because ...
-- In a digital age ...
-- I am confident that ...
-- I am concerned about ...
-
+-   Higher education is valuable because ...
+-   In a digital age ...
+-   I am confident that ...
+-   I am concerned about ...
 :::
 
 ### Technology and Change {.unnumbered}
@@ -176,32 +160,28 @@ Throughout history there are technologies that have influenced change in society
 
 ### Activity: Newspaper and Music Industry in a Digital Age
 
-::: {.learning-activity}
-
+::: learning-activity
 The readings that follow take a retrospective look at the impact of the internet on the newspaper and music industries.
 
-- **Read**:
-  - [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
-  - [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023)
-- **Annotate**: Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences.
+-   **Read**:
+    -   [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
+    -   [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023)
+-   **Annotate**: Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences.
 
 Remember to tag your posts using the course code: LDRS101.
-
 :::
 
 ### Activity: Impact of Digital Technology on Business
 
-::: {.learning-activity}
-
-- **Discuss**: Join the Discourse discussion on the impact of digital technology on business:
-- Choose any business or work environment (for example, your current career or future career).
-- Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.
-- State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:
-- Has the example contributed to a fundamental change in the way things were done, or is this a minor change?
-- Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.
+::: learning-activity
+-   **Discuss**: Join the Discourse discussion on the impact of digital technology on business:
+-   Choose any business or work environment (for example, your current career or future career).
+-   Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.
+-   State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:
+-   Has the example contributed to a fundamental change in the way things were done, or is this a minor change?
+-   Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.
 
 Like, share, and reply to posts. These are forms of engagement and a contribution to your online learning identity. Remember to tag your posts using the course code: LDRS101.
-
 :::
 
 ### Artificial Intelligence {.unnumbered}
@@ -222,11 +202,10 @@ In the next activity, we'll explore some of these questions and concerns.
 
 ### Activity: How Can I Use AI as a Student?
 
-::: {.learning-activity}
-
-- **Read**: First, do a quick search online for AI tools for university students. Examples:
-  - [How can AI be Used by University Students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"} (2023)
-  - [10 Best AI Tools for Homework and Studying in 2024](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"} (2023)
+::: learning-activity
+-   **Read**: First, do a quick search online for AI tools for university students. Examples:
+    -   [How can AI be Used by University Students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"} (2023)
+    -   [10 Best AI Tools for Homework and Studying in 2024](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"} (2023)
 
 Intrigued? Do you find any tech tools that would be useful in understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, correcting grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, and so on?
 
@@ -238,85 +217,84 @@ Search online for key words related to this issue, such as "university concern p
 
 Here are some guidelines you may receive from your instructors at TWU:
 
-- Students are encouraged to make use of technology including generative artificial intelligence tools to contribute to their understanding of course materials. Students must submit as an appendix with their assignments any content produced by an artificial intelligence tool, and the prompt used to generate the content.
-- Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats now provide information on citing generative AI (e.g., [MLA Style Center](https://style.mla.org/citing-generative-ai/){target="_blank"}).
-- Students may use artificial intelligence tools for creating an outline for an assignment but the final submitted assignment must be original work produced by the individual student alone.
-- Students may not use artificial intelligence tools for taking tests, writing research papers, creating computer code, or completing major course assignments. However, these tools may be useful when gathering information across sources and assimilating it for understanding.
+-   Students are encouraged to make use of technology including generative artificial intelligence tools to contribute to their understanding of course materials. Students must submit as an appendix with their assignments any content produced by an artificial intelligence tool, and the prompt used to generate the content.
+-   Any content produced by an artificial intelligence tool must be cited appropriately. Many organizations that publish standard citation formats now provide information on citing generative AI (e.g., [MLA Style Center](https://style.mla.org/citing-generative-ai/){target="_blank"}).
+-   Students may use artificial intelligence tools for creating an outline for an assignment but the final submitted assignment must be original work produced by the individual student alone.
+-   Students may not use artificial intelligence tools for taking tests, writing research papers, creating computer code, or completing major course assignments. However, these tools may be useful when gathering information across sources and assimilating it for understanding.
 
 If you have any question about the use of AI applications for course work, please speak with your instructor.
 
-- **Watch**: [How AI Could Save (Not Destroy) Education](https://www.youtube.com/watch?v=hJP5GqnTrNo){target="_blank"} (2023)
+-   **Watch**: [How AI Could Save (Not Destroy) Education](https://www.youtube.com/watch?v=hJP5GqnTrNo){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/hJP5GqnTrNo >}}
 
 Here is one more article that discusses the pros and cons of English learners using AI in their studies:
 
-- [*Perspectives of the Use of ChatGPT as a Tool for Online Education of English*](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English){target="_blank"} (2023)
-
+-   [*Perspectives of the Use of ChatGPT as a Tool for Online Education of English*](https://www.researchgate.net/publication/374483468_Perspectives_of_the_Use_of_ChatGPT_as_a_Tool_for_Online_Education_of_English){target="_blank"} (2023)
 :::
 
 ### Activity: How to Identify AI Generated Text
 
-::: {.learning-activity}
-
+::::: learning-activity
 Explore the infographic below by Ryan Morrison.
 
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+:::: {style="width: 100%;"}
+::: {style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"}
+<iframe title="AI Generated Text" frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/63753092992318001811d46f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all">
+
+</iframe>
+:::
+::::
 
 Consider trying out ChatGPT to see if you can spot the ways to identify AI generated writing.
 
-- **Watch**: [Plagiarizing ChatGPT - Is it Illegal?](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} (2022)
+-   **Watch**: [Plagiarizing ChatGPT - Is it Illegal?](https://www.youtube.com/watch?v=zuvN8_6QIKk){target="_blank"} (2022)
 
 {{< video https://www.youtube-nocookie.com/embed/zuvN8_6QIKk >}}
 
-- **Read**: Optional resource: [ChatGPT and Artificial Intelligence in Higher Education: Quick Start Guide](https://www.iesalc.unesco.org/wp-content/uploads/2023/04/ChatGPT-and-Artificial-Intelligence-in-higher-education-Quick-Start-guide_EN_FINAL.pdf){target="_blank"}. (2023)
-
-:::
+-   **Read**: Optional resource: [ChatGPT and Artificial Intelligence in Higher Education: Quick Start Guide](https://www.iesalc.unesco.org/wp-content/uploads/2023/04/ChatGPT-and-Artificial-Intelligence-in-higher-education-Quick-Start-guide_EN_FINAL.pdf){target="_blank"}. (2023)
+:::::
 
 ### Jobs and Automation {.unnumbered}
 
 In this section we consider the impact of automation on the future job market and the implications for education and training. Consider:
 
-- Will robots replace humans?
-- What jobs are most at risk of being replaced by robots?
-- What are the implications for learning in a digital age?
+-   Will robots replace humans?
+-   What jobs are most at risk of being replaced by robots?
+-   What are the implications for learning in a digital age?
 
 ### Activity: Impact of Automation and AI in the Workplace
 
-::: {.learning-activity}
-
-- **Read:** [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"} (2018).
-- **Watch**: [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"} (2014)
+::: learning-activity
+-   **Read:** [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"} (2018).
+-   **Watch**: [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/7Pq-S557XQU >}}
 
 Consider your chosen field of study. How can AI benefit your industry? Are there any concerns regarding how AI might be used?
-
 :::
 
 ### Activity: The Price of AI
 
-::: {.learning-activity}
-
+::: learning-activity
 In this topic we've explored AI---its possibilities for study and careers, and some concerns about using AI. This activity focuses on how AI moderates harmful content. How does AI know what is harmful? Since AI tools are built on all kinds of information, including harmful and hateful content, how is this content identified?
 
 AI systems require lots of work from humans to function correctly. A 2023 report from Time magazine showed that people in Kenya were paid poverty wages to build a safety system into ChatGPT (Perrigo, 2023). Since the platform was fed data from various places sometimes it would make racist or abusive remarks. To build a safeguard into the system workers were exposed to vile and offensive web content in order to tag it so that the platform could eventually recognize offensive speech on its own. A large portion of this content was very traumatic, and workers interviewed said they were mentally scarred from the work.
 
-- **Read:**
-  - [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} (2023)
-  - [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} (2022)
-- **Watch**: [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} (2023)
+-   **Read:**
+    -   [OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/){target="_blank"} (2023)
+    -   [Inside Facebook's African Sweatshop](https://time.com/6147458/facebook-africa-content-moderation-employee-treatment/){target="_blank"} (2022)
+-   **Watch**: [Doing Grueling Work for an AI: Data Labeling](https://www.youtube.com/watch?v=ug_p2wHhla0){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/ug_p2wHhla0 >}}
 
-- **Questions to Consider:**
-  - Is it ethical to submit Kenyan workers to trauma in order to sanitize ChatGPT for other users?
-  - What other solutions are there for training AI to moderate content?
-- **Share** your thoughts on AI by posting a comment on Discourse, for example:
-  - AI will ...
-  - I was surprised that AI ...
-  - In [insert business] AI will ...
-
+-   **Questions to Consider:**
+    -   Is it ethical to submit Kenyan workers to trauma in order to sanitize ChatGPT for other users?
+    -   What other solutions are there for training AI to moderate content?
+-   **Share** your thoughts on AI by posting a comment on Discourse, for example:
+    -   AI will ...
+    -   I was surprised that AI ...
+    -   In \[insert business\] AI will ...
 :::
 
 ## Societal Issues and the Internet
@@ -325,23 +303,21 @@ In this next topic we introduce a number of societal issues and problematic onli
 
 Choose one societal issue or antisocial behaviour associated with the internet that you would like to investigate further, and publish as an editorial in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
 
-- Website tracking
-- Online impersonation
-- Internet trolling
-- Online harassment
-- Psychological issues
-- Net neutrality
-- Digital redlining
-- Diversity, equity and inclusion
+-   Website tracking
+-   Online impersonation
+-   Internet trolling
+-   Online harassment
+-   Psychological issues
+-   Net neutrality
+-   Digital redlining
+-   Diversity, equity and inclusion
 
 ### Activity: Problematic Online Behaviours---Key Terms Quiz
 
-::: {.learning-activity}
-
+::: learning-activity
 To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click the options to find out more about the concept.
 
 How did you do? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
-
 :::
 
 ### Website Tracking {.unnumbered}
@@ -350,14 +326,12 @@ Website tracking is the practice of collecting data about a user's online activi
 
 ### Activity: The True Cost of Free Websites
 
-::: {.learning-activity}
-
+::: learning-activity
 Watch this *Matrix* parody, a comedy skit published by CollegeHumour, depicting that if you are not paying for the service, you are not the consumer but the product.
 
-- **Watch**: [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} (2016)
+-   **Watch**: [The Terrifying Cost of "Free" Websites](https://www.youtube.com/watch?v=5pFX2P7JLwA){target="_blank"} (2016)
 
 {{< video https://www.youtube-nocookie.com/embed/5pFX2P7JLwA >}}
-
 :::
 
 Were you surprised by any ideas presented in the video? Do you think this is a valid and reliable source for the topic?
@@ -365,7 +339,6 @@ Were you surprised by any ideas presented in the video? Do you think this is a v
 Next we will give an overview of how website tracking works, how your data is used, and how you can protect yourself online.
 
 ::: {.accordion title="How Does Website Tracking Work? Click/tap this banner to show/hide the content."}
-
 **Cookies**: Cookies are small text files that websites store on your device. They contain information about your online activities such as login credentials, preferences, and browsing history. Websites use cookies to recognize and remember you when you return, and they can also track your movements across the site.
 
 **IP Address Tracking**: Every device connected to the internet has a unique IP address. Websites can log and analyze these addresses to determine a user's approximate location and to track their visits.
@@ -381,11 +354,9 @@ Next we will give an overview of how website tracking works, how your data is us
 **Location Data**: Many websites request access to your device's location information. This can be used to provide location-based services, but it also allows websites to track your physical movements.
 
 **Data Brokers**: Your data may be collected, aggregated, and sold to data brokers who build detailed profiles about individuals. These profiles can include your demographic information, interests, and online behaviour.
-
 :::
 
 ::: {.accordion title="How is my Data Used When I use the Internet? Click/tap this banner to show/hide the content."}
-
 **Personalization**: Websites and online services use the data they collect to personalize your experience; for example, they may recommend products, content, or services based on your browsing history and preferences.
 
 **Targeted Advertising**: Advertisers use your data to show you ads that are more likely to be relevant to your interests. This is why you might see ads for products you've recently searched for online.
@@ -397,11 +368,9 @@ Next we will give an overview of how website tracking works, how your data is us
 **Data Profiling**: Your data may be used to build detailed profiles about you. These profiles can be used for a variety of purposes including credit scoring, job recruiting, and targeted marketing.
 
 **Security and Fraud Prevention**: Tracking data can also be used for security purposes, helping to detect and prevent fraudulent activities.
-
 :::
 
 ::: {.accordion title="What are the Privacy Concerns? Click/tap this banner to show/hide the content."}
-
 Privacy concerns regarding website tracking primarily revolve around the collection and use of personal data without the explicit consent of users. Here are some key privacy concerns and ways in which users can protect themselves from tracking:
 
 **Invasion of Privacy**: Website tracking can create a detailed profile of an individual's online behaviour, which may include sensitive information such as health concerns, financial status, or personal interests. This can be seen as an invasion of privacy.
@@ -411,11 +380,9 @@ Privacy concerns regarding website tracking primarily revolve around the collect
 **Targeted Advertising**: While some users appreciate personalized ads, others find them intrusive and a form of manipulation. The extensive tracking of online behaviour allows advertisers to deliver highly targeted ads, which can feel invasive.
 
 **Third-Party Sharing**: Data collected by websites is often shared with third-party companies, including data brokers and ad networks. Users may not be aware of who has access to their data and how it's used.
-
 :::
 
 ::: {.accordion title="How can I Protect Myself From Tracking? Click/tap this banner to show/hide the content."}
-
 **Use Privacy-Focused Browsers**: Consider using web browsers that prioritize user privacy, such as Mozilla Firefox or the Tor Browser. These browsers often include built in tracking protection features.
 
 **Browser Extensions**: Install browser extensions or add-ons such as uBlock Origin, Privacy Badger, and HTTPS Everywhere, which can block tracking cookies, scripts, and enhance your online security.
@@ -439,52 +406,47 @@ Privacy concerns regarding website tracking primarily revolve around the collect
 **Consider VPNs and Encrypted Messaging**: For heightened privacy, use end-to-end encrypted messaging apps such as Signal, and consider using a reputable VPN service to protect your online communication.
 
 It's important to note that while these steps can help reduce online tracking they might not completely eliminate it. Achieving complete anonymity on the internet is challenging, but these measures can significantly enhance your online privacy and data security. Additionally, privacy laws and regulations in your region may provide you with rights and options for controlling how your data is collected and used online.
-
 :::
 
 ### Activity: Website Tracking Resources
 
-::: {.learning-activity}
-
-- **Read**: Choose from the resources below to inform your views on website and data tracking:
-  - [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018)
-  - [*Stop Saying 'If You're not Paying, You're the Product'*](https://www.techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product/){target="_blank"} (2012)
-  - [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
+::: learning-activity
+-   **Read**: Choose from the resources below to inform your views on website and data tracking:
+    -   [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018)
+    -   [*Stop Saying 'If You're not Paying, You're the Product'*](https://www.techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product/){target="_blank"} (2012)
+    -   [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
 
 Also review these resources on corporate sponsored research:
 
-  - [Funding Bias](https://en.wikipedia.org/wiki/Funding_bias){target="_blank"} (2024)
-  - [Sponsors' Participation in Conduct and Reporting of Industry Trials: A Descriptive Study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146){target="_blank"} (2012)
-  - [Ad Blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"} (2024)
+-   [Funding Bias](https://en.wikipedia.org/wiki/Funding_bias){target="_blank"} (2024)
+-   [Sponsors' Participation in Conduct and Reporting of Industry Trials: A Descriptive Study](https://trialsjournal.biomedcentral.com/articles/10.1186/1745-6215-13-146){target="_blank"} (2012)
+-   [Ad Blocking](https://en.wikipedia.org/wiki/Ad_blocking){target="_blank"} (2024)
 
 After viewing these resources, what do you think the cost of free websites is? Do you use ad blocking software? Think about the reasons for your choice.
 
-- **Write**: Share your thoughts on Discourse or use Hypothes.is to annotate and share your comments.
-
+-   **Write**: Share your thoughts on Discourse or use Hypothes.is to annotate and share your comments.
 :::
 
 ### Activity: Forum: Philanthropy and Corporate Advertising
 
-::: {.learning-activity}
-
+::: learning-activity
 Next, let's explore and reflect on the relationship between corporate commercial interests and digital citizenship for learning in a digital age.
 
-- **Read** the following case study:
+-   **Read** the following case study:
 
 The [OERu](https://oeru.org/){target="_blank"} is a charitable organization which provides open online courses for free, using open educational resources which any educational institution can adopt, modify, and reuse. There are costs that must be covered to sustain the OERu; for example, the assembly of open online courses, hosting of server and software infrastructure, staff to coordinate and support the initiative, and so on. The OERu does not generate any revenue from corporate services; for example, it does not allow advertising on OERu course sites for a share of advertising revenue. Moreover, the OERu does not sell or generate revenue from personal data learners provide by using these free learning services, therefore users are not the product of this service.
 
-- **Discuss**: Join the discussion in Discourse on philanthropy and corporate advertising. The key question is how can nonprofit organizations sustain free educational services for those who can't afford traditional education provision?
+-   **Discuss**: Join the discussion in Discourse on philanthropy and corporate advertising. The key question is how can nonprofit organizations sustain free educational services for those who can't afford traditional education provision?
 
 Consider the following issues:
 
-- As a learner, how would you feel if course materials included corporate advertising? If advertising were to be supported, how would you feel if OERu course sites required you to switch off any ad blockers before gaining access to the course materials?
-- Is it appropriate for publicly funded institutions and charities working in education to generate revenue from corporate advertising to support and sustain free online services? What are the risks and opportunities?
-- Should education institutions and educational charities accept significant corporate sponsorship in return for profiling proprietary products?
-- The OERu has recommended that learners use free blogging services to share their learning outputs. Many of these services carry advertising. How do you feel about using these services---being the product rather than the consumer? Would it be better for OERu to recommend that learners use a paid service without advertising? How would this impact on learners who do not have sufficient funds to afford a domain of their own?
-- Other?
+-   As a learner, how would you feel if course materials included corporate advertising? If advertising were to be supported, how would you feel if OERu course sites required you to switch off any ad blockers before gaining access to the course materials?
+-   Is it appropriate for publicly funded institutions and charities working in education to generate revenue from corporate advertising to support and sustain free online services? What are the risks and opportunities?
+-   Should education institutions and educational charities accept significant corporate sponsorship in return for profiling proprietary products?
+-   The OERu has recommended that learners use free blogging services to share their learning outputs. Many of these services carry advertising. How do you feel about using these services---being the product rather than the consumer? Would it be better for OERu to recommend that learners use a paid service without advertising? How would this impact on learners who do not have sufficient funds to afford a domain of their own?
+-   Other?
 
 Remember to tag your posts using the course code: LDRS101
-
 :::
 
 #### Online Impersonation {.unnumbered}
@@ -493,71 +455,63 @@ Impersonation online refers to the act of creating an online presence in someone
 
 ### Activity: Identify the Imposter!
 
-::: {.learning-activity}
-
-- **View**: Visit the profile page of following X (Twitter) accounts:
-  - [Nelson Mandela](https://twitter.com/NelsonMandela){target="_blank"}
-  - [Mark Zuckerburg](https://twitter.com/notzuckerberg){target="_blank"}
-  - [Elon Musk](https://twitter.com/ElonMuskAOC){target="_blank"}
-  - [Darth Vader](https://twitter.com/DarthVader){target="_blank"}
+::: learning-activity
+-   **View**: Visit the profile page of following X (Twitter) accounts:
+    -   [Nelson Mandela](https://twitter.com/NelsonMandela){target="_blank"}
+    -   [Mark Zuckerburg](https://twitter.com/notzuckerberg){target="_blank"}
+    -   [Elon Musk](https://twitter.com/ElonMuskAOC){target="_blank"}
+    -   [Darth Vader](https://twitter.com/DarthVader){target="_blank"}
 
 Clearly these social media accounts are not the "real" people. In one case it's a foundation promoting the legacy of Nelson Mandela, the next two examples are parody accounts of two tech giants, and the last example is, well, Darth Vader!
 
-- **Read** the following articles on the social media response to impersonation:
-  - [*Misleading and Deceptive Identities Policy (X)*](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy){target="_blank"} (2023)
-  - [*How to Report a Facebook Account or Page That's Pretending to be me or Someone Else?*](https://www.facebook.com/help/174210519303259){target="_blank"} (n.d.)
-  - [*Reporting Impersonation on Social Media*](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media){target="_blank"} (2016)
+-   **Read** the following articles on the social media response to impersonation:
+    -   [*Misleading and Deceptive Identities Policy (X)*](https://help.twitter.com/en/rules-and-policies/x-impersonation-and-deceptive-identities-policy){target="_blank"} (2023)
+    -   [*How to Report a Facebook Account or Page That's Pretending to be me or Someone Else?*](https://www.facebook.com/help/174210519303259){target="_blank"} (n.d.)
+    -   [*Reporting Impersonation on Social Media*](https://saferinternet.org.uk/blog/reporting-impersonation-on-social-media){target="_blank"} (2016)
 
 Have you seen a fake account on social media? What clues did you have that it was not real?
-
 :::
 
-::: {.note}
-
+::: note
 ***Note:*** If interested, search on X for some parody accounts. Some can be quite entertaining, but you might notice that other accounts simply mock the person they are parodying. Would you create a parody account in order to ridicule someone---perhaps a political view you don't agree with? What should our response be to such messages on social media? How can we promote inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?
-
 :::
 
 ### Activity: How to Spot a Scammer
 
-::: {.learning-activity}
-
+::: learning-activity
 **Watch**: Check out these two videos that share signs to help you identify online impersonation.
 
-- [Watch out for Scammers Using Fake Instagram Profiles](https://www.youtube.com/watch?v=F57DE05FpgQ){target="_blank"} (2023)
+-   [Watch out for Scammers Using Fake Instagram Profiles](https://www.youtube.com/watch?v=F57DE05FpgQ){target="_blank"} (2023)
 
 <!-- Embed commmented out as embedding disabled by video owner{{< video https://www.youtube-nocookie.com/embed/F57DE05FpgQ?si=Pq7GlHGpNCbTG0xu >}} -->
 
-- [Cyber Sandra's Hacks - Social Media Impersonation](https://www.youtube.com/watch?v=Ta6qq7wnpcA){target="_blank"} (2021)
+-   [Cyber Sandra's Hacks - Social Media Impersonation](https://www.youtube.com/watch?v=Ta6qq7wnpcA){target="_blank"} (2021)
 
 {{< video https://www.youtube-nocookie.com/embed/Ta6qq7wnpcA >}}
-
 :::
 
 ### Activity: Case Study on Catfishing
 
-::: {.learning-activity}
-
+::: learning-activity
 Catfishing is the deceptive practice of creating a fictional online presence to lure somebody into a relationship, for example, a romance scam.
 
 Dr. Alec Couros is Associate Professor of Information and Communication Technologies at the University of Regina, Saskatchewan. Dr. Couros has experienced a number of scams where his personal photos have been used to lure woman into an online romantic relationship for the purpose of "borrowing" or extorting money. Check out his experiences:
 
-- **Read**:
-  - [*Your Photos can be Used in 'Catfishing' Romance Scams*](https://www.cbc.ca/radio/spark/380-phantom-traffic-jams-catfishing-scams-and-smart-speakers-1.4482967/your-photos-can-be-used-in-catfishing-romance-scams-1.4482985){target="_blank"} (2018a)
-  - [*Identity, Love, and Catfishing*](http://educationaltechnology.ca/2393/){target="_blank"} (2013)
-  - [*Would the Real 'Alec Couros' Please Stand Up*](http://educationaltechnology.ca/2466/){target="_blank"} (2014)
-  - Visit this website that reports online scams: [ScamDigger Forum](https://romancescam.com/){target="_blank"} (n.d.).
-- **Watch**:
-  - [Watch: *How to Detect a Facebook Scammer With Google Reverse Image Search*](https://www.youtube.com/watch?v=s6Q4U8DvJH8){target="_blank"} (2014)
+-   **Read**:
+    -   [*Your Photos can be Used in 'Catfishing' Romance Scams*](https://www.cbc.ca/radio/spark/380-phantom-traffic-jams-catfishing-scams-and-smart-speakers-1.4482967/your-photos-can-be-used-in-catfishing-romance-scams-1.4482985){target="_blank"} (2018a)
+    -   [*Identity, Love, and Catfishing*](http://educationaltechnology.ca/2393/){target="_blank"} (2013)
+    -   [*Would the Real 'Alec Couros' Please Stand Up*](http://educationaltechnology.ca/2466/){target="_blank"} (2014)
+    -   Visit this website that reports online scams: [ScamDigger Forum](https://romancescam.com/){target="_blank"} (n.d.).
+-   **Watch**:
+    -   [Watch: *How to Detect a Facebook Scammer With Google Reverse Image Search*](https://www.youtube.com/watch?v=s6Q4U8DvJH8){target="_blank"} (2014)
 
 {{< video https://www.youtube-nocookie.com/embed/s6Q4U8DvJH8 >}}
 
 Optional reading: (expletive warning)
 
-- [*Facebook as Catfish Paradise: Its Community Standards Wears the Cone of Shame*](https://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/){target="_blank"} (2015)
+-   [*Facebook as Catfish Paradise: Its Community Standards Wears the Cone of Shame*](https://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/){target="_blank"} (2015)
 
 Feel free to share personal reflections on the phenomenon of online impersonation by posting a comment on Discourse.
-
 :::
 
 ### Internet Trolling {.unnumbered}
@@ -572,31 +526,27 @@ In this section we explore the phenomenon of internet trolling and strategies fo
 
 ### Activity: Trolling in Social Media
 
-::: {.learning-activity}
-
-- **Quiz**: Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz (n.d.), which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
-- **Read**: As you read the following, pay particular attention to strategies for dealing with trolling behaviour.
-  - [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang){target="_blank"}) (2024)
-  - [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} (n.d.)
-  - [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} (2024)
-- **Watch**:
-  - [The Secret Confessions of an Internet Troll](https://www.youtube.com/watch?v=5BQp3V_34BE){target="_blank"} (2016)
+::: learning-activity
+-   **Quiz**: Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz (n.d.), which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
+-   **Read**: As you read the following, pay particular attention to strategies for dealing with trolling behaviour.
+    -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)%7Btarget=%22_blank%22%7D) (2024)
+    -   [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} (n.d.)
+    -   [Internet Trolling: How do you Spot a Real Troll?](https://www.lifewire.com/what-is-internet-trolling-3485891){target="_blank"} (2024)
+-   **Watch**:
+    -   [The Secret Confessions of an Internet Troll](https://www.youtube.com/watch?v=5BQp3V_34BE){target="_blank"} (2016)
 
 {{< video https://www.youtube-nocookie.com/embed/5BQp3V_34BE >}}
 
-- **Annotate**: Read the following articles and add or reply to annotations on Hypothes.is, focusing on how the research relates to your own online experience. Remember to tag your posts using the course code: LDRS101.
-  - ['Don't Feed the Trolls' Really is Good Advice -- Here's the Evidence](https://theconversation.com/dont-feed-the-trolls-really-is-good-advice-heres-the-evidence-63657){target="_blank"} (2016)
-  - [How Empathy can Make or Break a Troll](https://theconversation.com/how-empathy-can-make-or-break-a-troll-80680){target="_blank"} (2017)
+-   **Annotate**: Read the following articles and add or reply to annotations on Hypothes.is, focusing on how the research relates to your own online experience. Remember to tag your posts using the course code: LDRS101.
+    -   ['Don't Feed the Trolls' Really is Good Advice -- Here's the Evidence](https://theconversation.com/dont-feed-the-trolls-really-is-good-advice-heres-the-evidence-63657){target="_blank"} (2016)
+    -   [How Empathy can Make or Break a Troll](https://theconversation.com/how-empathy-can-make-or-break-a-troll-80680){target="_blank"} (2017)
 
 After viewing the resources, how can you spot trolls online? Share your thoughts by posting a comment on Discourse.
-
 :::
 
 ### Online Harassment {.unnumbered}
 
-> 41 % of Americans have been personally subjected to harassing behavior
-> online, and an even larger share (66 %) has witnessed these behaviors
-> directed at others (Duggan, 2017).
+> 41 % of Americans have been personally subjected to harassing behavior online, and an even larger share (66 %) has witnessed these behaviors directed at others (Duggan, 2017).
 
 Many of us associate online harassment with extreme cases such as cyberbullying and teenage suicide, or cyberstalking leading to physical sexual harassment. Notwithstanding the seriousness of these offences, antisocial behaviours associated with other forms of online harassment are more pervasive than most people realize.
 
@@ -604,43 +554,37 @@ In this section, we will review research on the state of online harassment and c
 
 ### Activity: The State of Online Harassment
 
-::: {.learning-activity}
+:::: learning-activity
+-   **Read** the following research reports on online harassment.
+    -   [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.)
+    -   [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
 
-- **Read** the following research reports on online harassment.
-  - *[Online Harassment](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"}* (2017). (Note that this is an 8-page report; click through to read it all.)
-  - [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
-
-::: {.note}
-
+::: note
 Note in particular the finding that those "who have ever experienced more severe forms of harassment -- such as physical threats, stalking, sexual harassment or sustained harassment -- or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies" (DeSilver, 2021).
-
 :::
 
-- **Questions to Consider**:
-  - What surprised you when reading these reports?
-  - Why have the forms of harassment become more severe?
-  - Have you or someone you know experienced some kind of online harassment?
-- **Annotate**: Add or reply to annotations using Hypothes.is to share personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
-
-:::
+-   **Questions to Consider**:
+    -   What surprised you when reading these reports?
+    -   Why have the forms of harassment become more severe?
+    -   Have you or someone you know experienced some kind of online harassment?
+-   **Annotate**: Add or reply to annotations using Hypothes.is to share personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
+::::
 
 ### Activity: The Response From Social Media
 
-::: {.learning-activity}
-
-- **Read**: Choose from the following resources about Facebook and X (Twitter) policies on online harassment, and responses to them.
+::: learning-activity
+-   **Read**: Choose from the following resources about Facebook and X (Twitter) policies on online harassment, and responses to them.
 
 **Suggested practices**
 
-  - *[Facebook Community Standards](https://transparency.fb.com/en-gb/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F){target="_blank"}* (n.d.)
-  - [*About Online Abuse*](https://help.twitter.com/en/safety-and-security/cyber-bullying-and-online-abuse){target="_blank"} (n.d.)
+-   [*Facebook Community Standards*](https://transparency.fb.com/en-gb/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F){target="_blank"} (n.d.)
+-   [*About Online Abuse*](https://help.twitter.com/en/safety-and-security/cyber-bullying-and-online-abuse){target="_blank"} (n.d.)
 
 **Commentary**
 
-  - [*Twitter Tries new Measures in Crackdown on Harassment*](https://money.cnn.com/2017/02/07/technology/twitter-combat-harassment-features/index.html?iid=EL){target="_blank"} (2017)
-  - [*Using Digital Fingerprints and Deep Learning to Fight Online Harassment*](https://www.forbes.com/sites/kalevleetaru/2017/02/06/using-digital-fingerprints-and-deep-learning-to-fight-online-harassment/?sh=49fc9bf06908){target="_blank"} (2017)
-  - [*At Facebook we get Things Wrong -- But we Take our Safety Role Seriously*](https://www.theguardian.com/commentisfree/2017/may/22/facebook-get-things-wrong-but-safety-role-seriously){target="_blank"} (2017). Please watch the [*video*](https://www.theguardian.com/news/video/2017/may/21/the-facebook-files-sex-violence-and-hate-speech-video-explainer){target="_blank"} in this link!
-
+-   [*Twitter Tries new Measures in Crackdown on Harassment*](https://money.cnn.com/2017/02/07/technology/twitter-combat-harassment-features/index.html?iid=EL){target="_blank"} (2017)
+-   [*Using Digital Fingerprints and Deep Learning to Fight Online Harassment*](https://www.forbes.com/sites/kalevleetaru/2017/02/06/using-digital-fingerprints-and-deep-learning-to-fight-online-harassment/?sh=49fc9bf06908){target="_blank"} (2017)
+-   [*At Facebook we get Things Wrong -- But we Take our Safety Role Seriously*](https://www.theguardian.com/commentisfree/2017/may/22/facebook-get-things-wrong-but-safety-role-seriously){target="_blank"} (2017). Please watch the [*video*](https://www.theguardian.com/news/video/2017/may/21/the-facebook-files-sex-violence-and-hate-speech-video-explainer){target="_blank"} in this link!
 :::
 
 ### Psychological Issues {.unnumbered}
@@ -651,52 +595,53 @@ In this section, we identify selected psychological issues that you may choose t
 
 ### Activity: How Online Personas Are Redefining Human Connection
 
-::: {.learning-activity}
-
+::: learning-activity
 First, consider the following questions:
 
-  - How does digital technology change what we do?
-  - How does digital technology change who we are?
-  - Do adolescents need to develop face-to-face communication skills in a digital world?
+-   How does digital technology change what we do?
 
-- **Watch**: Watch this fascinating TedTalk video:
-  - [*Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} (2012)
+-   How does digital technology change who we are?
+
+-   Do adolescents need to develop face-to-face communication skills in a digital world?
+
+-   **Watch**: Watch this fascinating TedTalk video:
+
+    -   [*Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} (2012)
 
 {{< video https://www.youtube-nocookie.com/embed/t7Xr3AsBEK4 >}}
 
-- **Write**: Jot down your thoughts in your Reflective Journal (Obsidian).
+-   **Write**: Jot down your thoughts in your Reflective Journal (Obsidian).
 
-- **Read**: Finally, read the following article which summarizes a number of psychological disorders related to our use of digital technology:
-  - [*Eight new Mental Illnesses Brought to you by the Internet*](https://www.pcworld.com/article/448085/eight-new-mental-illnesses-brought-to-you-by-wait-for-it-the-internet.html){target="_blank"} (2013)
+-   **Read**: Finally, read the following article which summarizes a number of psychological disorders related to our use of digital technology:
+
+    -   [*Eight new Mental Illnesses Brought to you by the Internet*](https://www.pcworld.com/article/448085/eight-new-mental-illnesses-brought-to-you-by-wait-for-it-the-internet.html){target="_blank"} (2013)
 
 Share your thoughts by posting a comment on Discourse, for example:
 
-- I was surprised by ...
-- I think that ...
-- I don't agree that ...
-
+-   I was surprised by ...
+-   I think that ...
+-   I don't agree that ...
 :::
 
 ### Net Neutrality {.unnumbered}
 
->The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. (Tim Berners-Lee, 2009, as cited in Medium, 2023)
+> The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. (Tim Berners-Lee, 2009, as cited in Medium, 2023)
 
 The World Wide Web was originally designed to provide universal access to a large universe of documents. To achieve universal access it was paramount to design the web as an open system without a central locus of control. However, on the internet there are an increasing number of “walled gardens” that aim to control user’s access to content and services. In this section we explore the concept of net neutrality and reflect on the risks associated with universal access to online information.
-
 
 ***Net neutrality*** is a critical concept in the realm of internet policy and regulation. It revolves around the principle that internet service providers (ISPs) should treat all data on the internet equally. In other words, they should not discriminate against, or charge differently based on user, content, website, application, or platform. The primary goal of net neutrality is to ensure that the internet remains an open and level playing field where all data and information can be accessed and transmitted freely.
 
 #### Arguments For Net Neutrality {.unnumbered}
 
-- **Preservation of open internet**: Net neutrality proponents argue that it is essential to maintain the open nature of the internet, where all content is equally accessible to users. This fosters innovation, competition, and free expression.
-- **Equal access**: Net neutrality ensures that users, regardless of their economic status, can access all online content without discrimination. It prevents ISPs from creating fast lanes for certain content, disadvantaging others.
-- **Innovation**: Without net neutrality, ISPs could prioritize certain services or websites, potentially stifling innovation by making it difficult for new, smaller players to compete on a level playing field.
+-   **Preservation of open internet**: Net neutrality proponents argue that it is essential to maintain the open nature of the internet, where all content is equally accessible to users. This fosters innovation, competition, and free expression.
+-   **Equal access**: Net neutrality ensures that users, regardless of their economic status, can access all online content without discrimination. It prevents ISPs from creating fast lanes for certain content, disadvantaging others.
+-   **Innovation**: Without net neutrality, ISPs could prioritize certain services or websites, potentially stifling innovation by making it difficult for new, smaller players to compete on a level playing field.
 
 #### Arguments Against Net Neutrality {.unnumbered}
 
-- **Investment and infrastructure**: Opponents argue that without the ability to offer paid prioritization or tiered services, ISPs may have less incentive to invest in and improve network infrastructure, potentially hindering the growth of broadband services.
-- **Regulatory overreach**: Some argue that government intervention in net neutrality is unnecessary, and that market forces should determine how ISPs manage their networks. They fear that regulation could lead to unintended consequences such as the government controlling access to online content.
-- **Quality of service**: In certain cases, ISPs claim they need the flexibility to manage network traffic to provide a better quality of service for applications such as real-time video and gaming.
+-   **Investment and infrastructure**: Opponents argue that without the ability to offer paid prioritization or tiered services, ISPs may have less incentive to invest in and improve network infrastructure, potentially hindering the growth of broadband services.
+-   **Regulatory overreach**: Some argue that government intervention in net neutrality is unnecessary, and that market forces should determine how ISPs manage their networks. They fear that regulation could lead to unintended consequences such as the government controlling access to online content.
+-   **Quality of service**: In certain cases, ISPs claim they need the flexibility to manage network traffic to provide a better quality of service for applications such as real-time video and gaming.
 
 #### Key Concerns {.unnumbered}
 
@@ -710,64 +655,56 @@ In Canada, the discussion on net neutrality is intertwined with the debate over 
 
 In addition to Bill C-10, another significant piece of legislation to consider in the Canadian context is Bill C-18, which is also known as the Online Streaming Act. This bill, introduced to the Canadian Parliament, is designed to regulate online streaming services, potentially affecting the content and accessibility of such platforms. Critics argue that Bill C-18 could raise concerns related to net neutrality by granting the government more authority over the content available on streaming platforms and potentially infringing on free expression and access to diverse content.
 
-***Questions to Consider*** 
+***Questions to Consider***
 
 As you view the resources in the activity below, consider the following questions:
 
-- How does the principle of net neutrality impact the way you access and use the internet, and how might changes in net neutrality regulations affect your online experience?
-- What is the role of government and regulatory bodies, such as the CRTC in Canada, in ensuring a balance between net neutrality and the need to regulate online content and services?
-- What measures can be taken to ensure that government regulations, while addressing valid concerns, do not lead to the overreach of power and the erosion of fundamental rights such as free speech on the internet?
-- Can net neutrality coexist with the goal of ensuring high quality internet service and fostering investment in digital infrastructure, or are these objectives inherently in conflict?
+-   How does the principle of net neutrality impact the way you access and use the internet, and how might changes in net neutrality regulations affect your online experience?
+-   What is the role of government and regulatory bodies, such as the CRTC in Canada, in ensuring a balance between net neutrality and the need to regulate online content and services?
+-   What measures can be taken to ensure that government regulations, while addressing valid concerns, do not lead to the overreach of power and the erosion of fundamental rights such as free speech on the internet?
+-   Can net neutrality coexist with the goal of ensuring high quality internet service and fostering investment in digital infrastructure, or are these objectives inherently in conflict?
 
 Consider drawing a mind map such as the following to track your understanding of the subject.
 
 ::: {#fig-4540678705xff7936561a}
-
-![](assets/u6/net_neutrality_creative_freedom.jpg){fig-alt="Whiteboard crowded with questions and comments." .lightbox fig-align="left"}
+![](assets/u6/net_neutrality_creative_freedom.jpg){.lightbox fig-alt="Whiteboard crowded with questions and comments." fig-align="left"}
 
 Net Neutrality and Creative Freedom Mind Map Illustration
-
 :::
 
-::: {.note}
-
+::: note
 *Note*: From [“Net Neutrality and Creative Freedom: Tim Wu at re:publica 2010,”](https://flickr.com/photos/frauleinschiller/4540678705/){target="_blank"} by A. L. Schiller, April 10, 2010, Flickr. CC BY-NC-ND 2.0.
-
 :::
 
 ### Activity: The Meaning of Net Neutrality
 
-::: {.learning-activity}
+::: learning-activity
+-   **Watch**: Watch the following videos that explain the importance of net neutrality.
 
-- **Watch**: Watch the following videos that explain the importance of net neutrality.
-
-[Watch: *Net Neutrality Explained*](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"} (2015)<!-- Auto title, auto embed--> 
+[Watch: *Net Neutrality Explained*](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"} (2015)<!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/p90McT24Z6w >}}
 
-[Watch: *Internet Citizens: Defend Net Neutrality*](https://www.youtube.com/watch?v=wtt2aSV8wdw){target="_blank"} (2014b) <!-- Auto title, auto embed--> 
+[Watch: *Internet Citizens: Defend Net Neutrality*](https://www.youtube.com/watch?v=wtt2aSV8wdw){target="_blank"} (2014b) <!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/wtt2aSV8wdw >}}
-
 :::
 
 ### Activity: Perspectives on Net Neutrality
 
-::: {.learning-activity}
-
-- **Read**: Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views.
-- First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} (2024).
+::: learning-activity
+-   **Read**: Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views.
+-   First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} (2024).
 
 Next, click the topics below to explore different perspectives on this issue in Canada.
 
-- [*Strengthening Net Neutrality in Canada*](https://crtc.gc.ca/eng/internet/diff.htm){target="_blank"} (2016)
-- [*Big Tech vs. Canadian News: The Battle Over C-18, Explained*](https://www.youtube.com/watch?v=k5iRopjAwm4){target="_blank"} (2023)
-- [*Bill C-18: The Fallout over Google, Meta's Plans to Block News Links in Canada*](https://www.youtube.com/watch?v=W5YLvCEd1yE){target="_blank"} (2023)
-- [*Debating Bill C-11---Internet Censorship for Canadians*](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"} (2023)
-- [*Poilievre: Warned About Justin Trudeau's Online Censorship Law*](https://www.youtube.com/watch?v=doPyNc6Sf_c){target="_blank"} (2023)
+-   [*Strengthening Net Neutrality in Canada*](https://crtc.gc.ca/eng/internet/diff.htm){target="_blank"} (2016)
+-   [*Big Tech vs. Canadian News: The Battle Over C-18, Explained*](https://www.youtube.com/watch?v=k5iRopjAwm4){target="_blank"} (2023)
+-   [*Bill C-18: The Fallout over Google, Meta's Plans to Block News Links in Canada*](https://www.youtube.com/watch?v=W5YLvCEd1yE){target="_blank"} (2023)
+-   [*Debating Bill C-11---Internet Censorship for Canadians*](https://www.youtube.com/watch?v=bmd4sASKFRw){target="_blank"} (2023)
+-   [*Poilievre: Warned About Justin Trudeau's Online Censorship Law*](https://www.youtube.com/watch?v=doPyNc6Sf_c){target="_blank"} (2023)
 
-Dr. Michael Geist is a law professor at the University of Ottawa where he holds the Canada Research Chair in Internet and e-Commerce Law and is a member of the Centre for Law, Technology and Society. Browse through his
-*[articles](https://www.michaelgeist.ca/tech-law-topics/net-neutrality/){target="_blank"}* on net neutrality.
+Dr. Michael Geist is a law professor at the University of Ottawa where he holds the Canada Research Chair in Internet and e-Commerce Law and is a member of the Centre for Law, Technology and Society. Browse through his [*articles*](https://www.michaelgeist.ca/tech-law-topics/net-neutrality/){target="_blank"} on net neutrality.
 
 Here are some key points of interest from Dr. Geist:
 
@@ -775,17 +712,17 @@ Here are some key points of interest from Dr. Geist:
 
 > It is hard to overstate how dangerous it would be for the CRTC to be vested with new powers to regularly intervene in online content or consider “conditions of service” for Internet sites and services. While the government insists that Bill C-11 is designed for large streaming services with limited regulations, it would appear that the CRTC may have other ideas. (Geist, 2022, final para.)
 
-> It is difficult to separate the government’s willingness to censor social media posts with its broader Internet regulation agenda, including Bills C-11, C-18 and online harms. Seeking to remove news links, mean tweets and other content without due process and without any apparent illegality does not bode well for the development of Charter-compliant regulations. The government may see itself as a model for others, but its willingness to muscle social media companies in an effort to remove lawful content is the very worst kind of example that should not be welcome in a democracy that prioritizes freedom of expression. (Geist, 2023, final para.) 
+> It is difficult to separate the government’s willingness to censor social media posts with its broader Internet regulation agenda, including Bills C-11, C-18 and online harms. Seeking to remove news links, mean tweets and other content without due process and without any apparent illegality does not bode well for the development of Charter-compliant regulations. The government may see itself as a model for others, but its willingness to muscle social media companies in an effort to remove lawful content is the very worst kind of example that should not be welcome in a democracy that prioritizes freedom of expression. (Geist, 2023, final para.)
 
 Another interesting perspective on the issue comes from [*Digital First Canada*](https://digitalfirstcanada.ca/){target="_blank"} a nonprofit organization that advocates on behalf of digital entrepreneurs in Canada. If you are choosing to focus on net neutrality for your blog post, browse the articles on their website.
 
 Here are a couple more resources focusing on the American debate on net neutrality.
 
-- **Read** the following on net neutrality in America:
-  - [Net Neutrality is BACK! FCC Tries to Take Away Internet Freedom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY){target="_blank"} (2023)
-  - [FCC Launches Effort to Reinstate Net Neutrality Rules --- Update](https://deadline.com/2023/10/net-neutrality-fcc-reinstate-jessica-rosenworcel-1235556493/){target="_blank"} (2023)
-  - [The Net Neutrality Debate: Twenty Five Years After United States v. AT&T and 120 Years After the Act to Regulate Commerce](https://siepr.stanford.edu/publications/working-paper/net-neutrality-debate-twenty-five-years-after-united-states-v-att-and){target="_blank"} (2007)
-- **Facebook and Big Tech**: *Facebook Zero: An Attempt to Bring Access to All?* Consider the following from Wikipedia (2024, Introduction):
+-   **Read** the following on net neutrality in America:
+    -   [Net Neutrality is BACK! FCC Tries to Take Away Internet Freedom AGAIN!](https://www.youtube.com/watch?v=DCfWzAM-JeY){target="_blank"} (2023)
+    -   [FCC Launches Effort to Reinstate Net Neutrality Rules --- Update](https://deadline.com/2023/10/net-neutrality-fcc-reinstate-jessica-rosenworcel-1235556493/){target="_blank"} (2023)
+    -   [The Net Neutrality Debate: Twenty Five Years After United States v. AT&T and 120 Years After the Act to Regulate Commerce](https://siepr.stanford.edu/publications/working-paper/net-neutrality-debate-twenty-five-years-after-united-states-v-att-and){target="_blank"} (2007)
+-   **Facebook and Big Tech**: *Facebook Zero: An Attempt to Bring Access to All?* Consider the following from Wikipedia (2024, Introduction):
 
 [Facebook Zero](https://en.wikipedia.org/wiki/Facebook_Zero){target="_blank"} is an initiative undertaken by social networking service company Facebook in collaboration with mobile phone-based Internet providers, whereby the providers waive data (bandwidth) charges (also known as zero-rate) for accessing Facebook on phones via a stripped-down text-only version of its mobile website (as opposed to the ordinary mobile website m.facebook.com that also loads pictures). The stripped-down version is available online only through providers who have entered the agreement with Facebook.
 
@@ -793,20 +730,19 @@ Here are a couple more resources focusing on the American debate on net neutrali
 
 > Facebook Zero became controversial in some countries due to several issues such as net neutrality. For instance, India’s Telecom Regulatory Authority (TRAI) bans zero-rated services on account of “discriminatory tariffs for data services on the basis of content”. A criticism also stated that Facebook is practicing digital colonialism because it is not introducing open internet but building a “little web that turns the user into a mostly passive consumer of mostly western corporate content”(“Facebook Zero,” 2024, History section).
 
-- **Read**: Choose from the following:
-  - [*Who Really Wins From Facebook's 'Free Internet' Plan for Africa?*](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-internet-plan-for-africa/){target="_blank"} (2015)
-  - *[European Regulators Just Stopped Facebook, Google and Big Telecoms' Net Neutrality Violations](https://cyberlaw.stanford.edu/blog/2022/06/european-regulators-just-stopped-facebook-google-and-big-telecoms-net-neutrality){target="_blank"}* (2022)
-  - *[Internet.org](https://en.wikipedia.org/wiki/Internet.org){target="_blank"}* (2024)
-  - *[India Bans Facebook's Basics app to Support Net Neutrality](https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/){target="_blank"}* (2016)
-  - [*Facebook's Internet.org Isn't Going Over Well in India*](https://fortune.com/2016/01/22/facebook-india-internet/){target="_blank"} (2016)
-- **Write**: Share your thoughts on net neutrality by posting a comment on Discourse. For example:
-  - Net neutrality is important because ...
-  - Net neutrality can/can't coexist with Internet.org because ...
-  - Free basics is a good thing because ...
-  - Free basics is problematic because ...
+-   **Read**: Choose from the following:
+    -   [*Who Really Wins From Facebook's 'Free Internet' Plan for Africa?*](https://www.zdnet.com/article/who-really-wins-from-facebooks-free-internet-plan-for-africa/){target="_blank"} (2015)
+    -   [*European Regulators Just Stopped Facebook, Google and Big Telecoms' Net Neutrality Violations*](https://cyberlaw.stanford.edu/blog/2022/06/european-regulators-just-stopped-facebook-google-and-big-telecoms-net-neutrality){target="_blank"} (2022)
+    -   [*Internet.org*](https://en.wikipedia.org/wiki/Internet.org){target="_blank"} (2024)
+    -   [*India Bans Facebook's Basics app to Support Net Neutrality*](https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/){target="_blank"} (2016)
+    -   [*Facebook's Internet.org Isn't Going Over Well in India*](https://fortune.com/2016/01/22/facebook-india-internet/){target="_blank"} (2016)
+-   **Write**: Share your thoughts on net neutrality by posting a comment on Discourse. For example:
+    -   Net neutrality is important because ...
+    -   Net neutrality can/can't coexist with Internet.org because ...
+    -   Free basics is a good thing because ...
+    -   Free basics is problematic because ...
 
 Remember to add a category or tag for your post using the course tag: LDRS101.
-
 :::
 
 #### Digital Redlining {.unnumbered}
@@ -831,64 +767,54 @@ Addressing digital redlining is essential to ensure equitable access to the bene
 
 ### Activity: Indigenous Communities in Canada
 
-::: {.learning-activity}
-
+::: learning-activity
 Digital redlining is a global concern, including Canada. While Canada is known for its social safety nets and relatively high internet penetration rates, digital disparities persist, particularly among marginalized communities. These disparities are evident in various aspects, such as internet access, online discrimination, and algorithmic biases.
 
-- [**Watch:**: *Seneca Nation disconnected by Redlining*](https://www.youtube.com/watch?v=J5NV9BJx1_M){target="_blank"} (2021)
+-   [**Watch:**: *Seneca Nation disconnected by Redlining*](https://www.youtube.com/watch?v=J5NV9BJx1_M){target="_blank"} (2021)
 
 {{< video https://www.youtube-nocookie.com/embed/J5NV9BJx1_M >}}
 
 This report highlights the digital disparities faced by Indigenous communities in Canada. Many Indigenous communities, especially those in remote areas, lack reliable high speed internet access, which hampers their ability to participate fully in the digital world. This limitation affects various aspects of life, including education, health care, economic opportunities, and cultural preservation.
 
 Addressing these issues in Canada requires a multifaceted approach, combining infrastructure development, antidiscrimination regulations, and community engagement. Initiatives such as the [*Connecting Families Initiative*](https://ised-isde.canada.ca/site/connecting-families/en){target="_blank"} and investments in broadband infrastructure are steps in the right direction but more work is needed to ensure equitable access to the digital world for all Canadians. This includes recognizing the unique challenges faced by Indigenous communities and implementing policies that specifically address their needs while promoting digital inclusion and addressing digital redlining for all marginalized groups.
-
 :::
 
 ### Activity: Where Do You See Digital Redlining?
 
-::: {.learning-activity}
-
+::: learning-activity
 As you explore this topic, consider where digital redlining occurs in your community. Search online, or perhaps ask community members about their experiences in accessing the internet. Is digital access fair and accessible for all?
 
 In addition to your personal research, select from the following resources for more information on digital redlining.
 
-- **Listen**: Listen to the podcast: [*Digital Redlining and Privacy*](https://teachinginhighered.com/podcast/digital-redlining-privacy/){target="_blank"} (2016) with Chris Gilliard. Gilliard is a Professor of English whose scholarship concentrates on privacy, institutional technology policy, digital redlining, and the reinventions of discriminatory practices through data mining and algorithmic decision making, especially as these apply to college students.
-- **Read**:
-  - [*Bad Algorithms are Making Racist Decisions*](https://www.cbc.ca/radio/spark/412-1.4887497/bad-algorithms-are-making-racist-decisions-1.4887504){target="_blank"} (2018b)
-  - [*What Is Digital Redlining? Experts Explain the Nuances*](https://www.govtech.com/network/what-is-digital-redlining-experts-explain-the-nuances){target="_blank"} (2022)
-  - [*What is Digital Redlining and how Does it Perpetuate Poverty?*](https://communitytechnetwork.org/blog/digital-redlining-and-how-it-perputates-poverty/){target="_blank"} (2023)
+-   **Listen**: Listen to the podcast: [*Digital Redlining and Privacy*](https://teachinginhighered.com/podcast/digital-redlining-privacy/){target="_blank"} (2016) with Chris Gilliard. Gilliard is a Professor of English whose scholarship concentrates on privacy, institutional technology policy, digital redlining, and the reinventions of discriminatory practices through data mining and algorithmic decision making, especially as these apply to college students.
+-   **Read**:
+    -   [*Bad Algorithms are Making Racist Decisions*](https://www.cbc.ca/radio/spark/412-1.4887497/bad-algorithms-are-making-racist-decisions-1.4887504){target="_blank"} (2018b)
+    -   [*What Is Digital Redlining? Experts Explain the Nuances*](https://www.govtech.com/network/what-is-digital-redlining-experts-explain-the-nuances){target="_blank"} (2022)
+    -   [*What is Digital Redlining and how Does it Perpetuate Poverty?*](https://communitytechnetwork.org/blog/digital-redlining-and-how-it-perputates-poverty/){target="_blank"} (2023)
 
 Also see the following articles that focus on racial and gender bias:
 
-- [*Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible*](http://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/){target="_blank"} (2013)
-- [*Pedagogy and the Logic of Platforms*](https://er.educause.edu/articles/2017/7/pedagogy-and-the-logic-of-platforms){target="_blank"} (2017)
-- [*Digital Redlining, Access, and Privacy*](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy){target="_blank"} (2016)
-
+-   [*Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible*](http://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/){target="_blank"} (2013)
+-   [*Pedagogy and the Logic of Platforms*](https://er.educause.edu/articles/2017/7/pedagogy-and-the-logic-of-platforms){target="_blank"} (2017)
+-   [*Digital Redlining, Access, and Privacy*](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy){target="_blank"} (2016)
 :::
 
 Diversity, Equity and Inclusion
 
-::: {.definition name="Diversity" #diversity}
-
+::: {#diversity .definition name="Diversity"}
 > Diversity: a range of many people or things that are very different from each other; the practice or quality of including or involving people from a range of different social and ethnic backgrounds and of different genders, religions, etc. (Oxford Learner's Dictionaries,n.d.-a)
-
 :::
 
 **Diversity** includes differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, physical health, mental health, genetic attributes, personality, behaviour, or political beliefs.
 
-::: {.definition name="Inclusion" #inclusion}
-
+::: {#inclusion .definition name="Inclusion"}
 > Inclusion: the fact of including somebody/something; the fact or policy of providing equal opportunities and resources for people who might otherwise not get them, for example people who are disabled or belong to minority groups. (Oxford Learner’s Dictionaries, n.d.-c)
-
 :::
 
 **Inclusion** is about a sense of belonging irrespective of national origin, age, race, ethnicity, belief, gender, gender identity, sexual orientation or socioeconomic status.
 
-::: {.definition name="Equity" #equity}
-
+::: {#equity .definition name="Equity"}
 > Equity: a situation in which everyone is treated equally. (Oxford Learner’s Dictionaries, n.d.-b)
-
 :::
 
 **Equity** is a proactive commitment to equal opportunity and practices that ensure inclusion without intentional (or unintentional) discrimination.
@@ -907,8 +833,7 @@ Let's take a look at some cases and issues involving diversity, equity, and incl
 
 ### Activity: Gender Discrimination
 
-::: {.learning-activity}
-
+::: learning-activity
 In this activity, we investigate examples of gender discrimination in a digital world, recognizing that equity and inclusion are not restricted to gender alone.
 
 As you explore the following resources, consider the following quote:
@@ -917,9 +842,9 @@ As you explore the following resources, consider the following quote:
 
 [Audrey Watters](https://audreywatters.com/){target="_blank"} is a scholar and journalist who specializes in educational technology news and analysis. Her work focuses on the interrelationships among politics, pedagogy, business, culture and educational technology. Audrey's blog [Hack Education](http://hackeducation.com/){target="_blank"} is well regarded among international peers.
 
-- **Read** the transcript of a talk Watters presented in 2014:
-  - [Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent](http://hackeducation.com/2014/11/18/gender-and-ed-tech){target="_blank"} (2014)
-- [**Watch**:Audrey Explains men Explaining Technology to her](https://www.youtube.com/watch?v=DMjP_p01foo){target="_blank"} (2017)
+-   **Read** the transcript of a talk Watters presented in 2014:
+    -   [Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent](http://hackeducation.com/2014/11/18/gender-and-ed-tech){target="_blank"} (2014)
+-   [**Watch**:Audrey Explains men Explaining Technology to her](https://www.youtube.com/watch?v=DMjP_p01foo){target="_blank"} (2017)
 
 {{< video https://www.youtube-nocookie.com/embed/DMjP_p01foo >}}
 
@@ -929,16 +854,15 @@ Next, consider the following quote from Steph Guthrie's 2013 Tedx Talk:
 
 [Guthrie](https://stephguthrie.com/){target="_blank"} is a gender justice consultant. She is a feminist advocate, organizer, and analyst focusing on the intersections of gender, culture, and technology to promote more gender inclusive civic discourse.
 
-- [**Watch**:The Problem with "Don't Feed the Trolls"](https://www.youtube.com/watch?v=_KHEkR5yb9A){target="_blank"} (2013)
+-   [**Watch**:The Problem with "Don't Feed the Trolls"](https://www.youtube.com/watch?v=_KHEkR5yb9A){target="_blank"} (2013)
 
 {{< video https://www.youtube-nocookie.com/embed/_KHEkR5yb9A >}}
 
 **Questions to Consider:**
 
-- Did anything surprise you as you watched the videos and viewed the above resources?
-- Are there any points you disagree with?
-- What are your views on discrimination in a digital world?
-
+-   Did anything surprise you as you watched the videos and viewed the above resources?
+-   Are there any points you disagree with?
+-   What are your views on discrimination in a digital world?
 :::
 
 ### What Is DEI? {.unnumbered}
@@ -950,17 +874,13 @@ Consider the graphic below. How does it portray differences? How are those diffe
 *Equity Versus Equality*
 
 ::: {#fig-31655988501x979c7b1c82}
-
-![](assets/u6/Equity_vs_Equality.jpg){fig-alt="Comparison of figures with or without supports reaching for apples on a tree" .lightbox fig-align="left"}
+![](assets/u6/Equity_vs_Equality.jpg){.lightbox fig-alt="Comparison of figures with or without supports reaching for apples on a tree" fig-align="left"}
 
 Comparison of figures with or without supports reaching for apples on a tree
-
 :::
 
 ::: {.note icon="true"}
-
 *Note*: From ["Equity vs Equality,"](https://flickr.com/photos/mpcaphotos/31655988501/){target="_blank"} by MPCA Photos, December 21, 2016, *Flickr*. [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/){target="_blank"}.
-
 :::
 
 DEI has been a hot topic for debate in recent years as organizations, including universities, have emphasized DEI in the way they conduct business, including hiring, promoting, and so on.
@@ -977,36 +897,30 @@ This one example identifies one of the "sticky points" in the DEI debate. In the
 
 ### Activity: Perspectives on DEI
 
-::: {.learning-activity}
-
+::: learning-activity
 Here are a couple of contrasting points of view. If you choose to write a social commentary on this topic be sure to explore various resources with different opinions.
 
-- **Read**:
-  - [What is Diversity, Equity, and Inclusion?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion){target="_blank"} (2022)
-  - [The Hypocrisy of Mandatory Diversity Statements](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/){target="_blank"} (2023)
-- **Watch**:
-- [Diversity, Equity & Inclusion. Learning How to Get it Right](https://www.youtube.com/watch?v=HR4wz1b54hw){target="_blank"} (2023)
-
-
+-   **Read**:
+    -   [What is Diversity, Equity, and Inclusion?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-diversity-equity-and-inclusion){target="_blank"} (2022)
+    -   [The Hypocrisy of Mandatory Diversity Statements](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/){target="_blank"} (2023)
+-   **Watch**:
+-   [Diversity, Equity & Inclusion. Learning How to Get it Right](https://www.youtube.com/watch?v=HR4wz1b54hw){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/HR4wz1b54hw >}}
 
-- [Equity: The Thief of Human Potential](https://www.youtube.com/watch?v=8WYi-64MejU){target="_blank"} (2023)
+-   [Equity: The Thief of Human Potential](https://www.youtube.com/watch?v=8WYi-64MejU){target="_blank"} (2023)
 
 {{< video https://www.youtube-nocookie.com/embed/8WYi-64MejU >}}
-
 :::
 
 ### Activity: DEI and Practising Christian Hospitality
 
-::: {.learning-activity}
-
+::: learning-activity
 As a final reflection on this topic, we invite you to read TWU's core values page on [*Practising Christian Hospitality*](https://www.twu.ca/about-us/commitments/core-values/practising-christian-hospitality){target="_blank"}.
 
 TWU explains the core value of practising Christian hospitality:
 
-> Christian hospitality welcomes, genuinely includes and consistently cares for *all* individuals. Christ taught and modeled hospitality to all, including those on the margins, as an essential element of Christian faith and practice. Hospitality is vital to our life in the Trinity Western University community and to our life in, and witness to, other communities. 
-> ... Practising Christian hospitality undergirds and promotes equity, diversity and inclusion.
+> Christian hospitality welcomes, genuinely includes and consistently cares for *all* individuals. Christ taught and modeled hospitality to all, including those on the margins, as an essential element of Christian faith and practice. Hospitality is vital to our life in the Trinity Western University community and to our life in, and witness to, other communities. ... Practising Christian hospitality undergirds and promotes equity, diversity and inclusion.
 
 **Equity** is founded in our being created in the image of God; every human being has inherent dignity and worth (Gen 1:26-28; 5:1-2; Col 1:15).
 
@@ -1016,38 +930,36 @@ TWU explains the core value of practising Christian hospitality:
 
 As you read [*Practising Christian Hospitality*](https://www.twu.ca/about-us/commitments/core-values/practising-christian-hospitality){target="_blank"}, consider the following questions, and how they relate to your identity and actions online:
 
-- How do we advocate for the dignity of all human beings and avoid any form of derogation or condescension?
-- How do we value the differences and diversity in God's creation?
-- How do we live peaceably and productively in society in the midst of enduring differences, even on very significant matters?
-- Does being inclusive demand agreement or consensus?
-- How can we practice Christian hospitality?
-
+-   How do we advocate for the dignity of all human beings and avoid any form of derogation or condescension?
+-   How do we value the differences and diversity in God's creation?
+-   How do we live peaceably and productively in society in the midst of enduring differences, even on very significant matters?
+-   Does being inclusive demand agreement or consensus?
+-   How can we practice Christian hospitality?
 :::
 
 We've explored a number of societal issues associated with the internet. In the activity below, you will choose a topic of interest relating to societal issues or problematic behaviours on the internet for further investigation. You can select one of the topics introduced in this unit or an alternate issue you find more interesting.
 
 Here are few additional topics to consider:
 
-- [*10 Forms of Online Harassment*](https://computer.howstuffworks.com/10-forms-online-harassment.htm){target="_blank"} (2015)
-- [*Cyberchondria*](https://karger.com/pps/article/86/3/129/282998/Cyberchondria-Challenges-of-Problematic-Online){target="_blank"} (2017)
-- [*The Woman Whose Phone 'Misdiagnosed HIV'*](https://www.bbc.com/news/technology-39371100){target="_blank"} (2017) (complexities of mobile ownership in the developing world)
-- [*Face-off Between MPs and Social Media Giants Over Online Hate Speech*](https://www.theguardian.com/media/2017/mar/14/face-off-mps-and-social-media-giants-online-hate-speech-facebook-twitter){target="_blank"} (2017) (hate speech online)
-- [*Keystroke Logging*](https://en.wikipedia.org/wiki/Keystroke_logging){target="_blank"} (2024)
-- [*The Price of Connection: Surveillance Capitalism*](https://theconversation.com/the-price-of-connection-surveillance-capitalism-64124){target="_blank"} (2016) (surveillance capitalism)
-- *[How Bots Took Over Twitter](https://hbr.org/2015/06/how-bots-took-over-twitter){target="_blank"}* (2015) (bot problems)
-- [*Scams and how to Avoid Them*](https://www.consumer.org.nz/articles/scams?gclid=EAIaIQobChMIrOzE7qX71AIVxBiPCh0uzAKrEAAYASAAEgIXf_D_BwE){target="_blank"} (n.d.)
-- [*Fake News*](https://en.wikipedia.org/wiki/Fake_news){target="_blank"} (2024)
+-   [*10 Forms of Online Harassment*](https://computer.howstuffworks.com/10-forms-online-harassment.htm){target="_blank"} (2015)
+-   [*Cyberchondria*](https://karger.com/pps/article/86/3/129/282998/Cyberchondria-Challenges-of-Problematic-Online){target="_blank"} (2017)
+-   [*The Woman Whose Phone 'Misdiagnosed HIV'*](https://www.bbc.com/news/technology-39371100){target="_blank"} (2017) (complexities of mobile ownership in the developing world)
+-   [*Face-off Between MPs and Social Media Giants Over Online Hate Speech*](https://www.theguardian.com/media/2017/mar/14/face-off-mps-and-social-media-giants-online-hate-speech-facebook-twitter){target="_blank"} (2017) (hate speech online)
+-   [*Keystroke Logging*](https://en.wikipedia.org/wiki/Keystroke_logging){target="_blank"} (2024)
+-   [*The Price of Connection: Surveillance Capitalism*](https://theconversation.com/the-price-of-connection-surveillance-capitalism-64124){target="_blank"} (2016) (surveillance capitalism)
+-   [*How Bots Took Over Twitter*](https://hbr.org/2015/06/how-bots-took-over-twitter){target="_blank"} (2015) (bot problems)
+-   [*Scams and how to Avoid Them*](https://www.consumer.org.nz/articles/scams?gclid=EAIaIQobChMIrOzE7qX71AIVxBiPCh0uzAKrEAAYASAAEgIXf_D_BwE){target="_blank"} (n.d.)
+-   [*Fake News*](https://en.wikipedia.org/wiki/Fake_news){target="_blank"} (2024)
 
 ### Activity: Editorial: Societal Issues on the Internet
 
-::: {.learning-activity}
-
-- **Write**: Publish an editorial (400--600 words) on your blog on a societal issue or antisocial behaviour associated with the internet. Your editorial must:
-  - Contain a minimum of four hyperlinks to supporting resources or issues. Your digital identity is connected to the internet and it is important to demonstrate how your contribution joins a networked conversation through connections in information.
-  - Include a representative image embedded in your blog post (n.b., ensure that you have legal permission to use the image).
-  - If you are not sure about copyright, source a public domain image on a site such as [*Pexels*](https://www.pexels.com/){target="_blank"}. Don't use sponsored or licensed images unless you have purchased the rights to use them.
-  - Include at least two references properly cited using APA style.
-  - Include a paragraph highlighting practical implications; for example, learning in a digital age or your current role.
+::: learning-activity
+-   **Write**: Publish an editorial (400--600 words) on your blog on a societal issue or antisocial behaviour associated with the internet. Your editorial must:
+    -   Contain a minimum of four hyperlinks to supporting resources or issues. Your digital identity is connected to the internet and it is important to demonstrate how your contribution joins a networked conversation through connections in information.
+    -   Include a representative image embedded in your blog post (n.b., ensure that you have legal permission to use the image).
+    -   If you are not sure about copyright, source a public domain image on a site such as [*Pexels*](https://www.pexels.com/){target="_blank"}. Don't use sponsored or licensed images unless you have purchased the rights to use them.
+    -   Include at least two references properly cited using APA style.
+    -   Include a paragraph highlighting practical implications; for example, learning in a digital age or your current role.
 
 <!-- //todo
 
@@ -1059,73 +971,58 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 
 Choose a topic of interest.
 
-- Conduct a search to identify reliable and credible online resources on your selected topic. Try to find resources from your own country or region, or your own area of work, and select the two best resources.
-- Read [How to Write a Notable Editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"} (2024).
-- Using the topic you selected, decide on the type of editorial to write, for example:
-  - explaining or interpreting
-  - criticizing
-  - persuading
-  - praising
-  - Get your facts straight:
-  - revisit the online sources you identified previously
-  - search for additional resources if needed
-- Prepare a thesis-like paragraph designed to catch the reader's attention and introduce what your editorial is about.
-- Prepare the body of your editorial providing an objective explanation of the issue supported by the relevant sources you have identified; for example:
-  - state the opposing argument first
-  - present reasons refuting the opposition
-  - share your solutions
-- Prepare a paragraph on practical implications, for instance, learning in a digital age or your current role.
-- Draft the conclusion.
-
+-   Conduct a search to identify reliable and credible online resources on your selected topic. Try to find resources from your own country or region, or your own area of work, and select the two best resources.
+-   Read [How to Write a Notable Editorial](https://www.wikihow.com/Write-a-Notable-Editorial){target="_blank"} (2024).
+-   Using the topic you selected, decide on the type of editorial to write, for example:
+    -   explaining or interpreting
+    -   criticizing
+    -   persuading
+    -   praising
+    -   Get your facts straight:
+    -   revisit the online sources you identified previously
+    -   search for additional resources if needed
+-   Prepare a thesis-like paragraph designed to catch the reader's attention and introduce what your editorial is about.
+-   Prepare the body of your editorial providing an objective explanation of the issue supported by the relevant sources you have identified; for example:
+    -   state the opposing argument first
+    -   present reasons refuting the opposition
+    -   share your solutions
+-   Prepare a paragraph on practical implications, for instance, learning in a digital age or your current role.
+-   Draft the conclusion.
 :::
 
 ## Digital Wisdom
 
 To conclude our course we will examine another perspective on ethics and technology. This may tap into the foundational lens with which you approach many ethical issues, so take a moment to reflect on the following:
 
-- What role does technology play in my social, academic, and spiritual life?
-- What guidance does the Bible have on our use of technology today?
-- How will my use of technology support my social, academic, and spiritual goals?
+-   What role does technology play in my social, academic, and spiritual life?
+-   What guidance does the Bible have on our use of technology today?
+-   How will my use of technology support my social, academic, and spiritual goals?
 
 ### Activity: Digital Wisdom
 
-::: {.learning-activity}
-
-- **Read**: Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
-  - [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} (2019).
+::: learning-activity
+-   **Read**: Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
+    -   [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} (2019).
 
 Here are some quotes that resonate (Paulus et al., 2019). Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.
 
-> Institutions of higher education have a crucial role and
-> responsibility at this moment of technological change to form people
-> who will flourish in our so-called digital age. (2019, para. 1)
+> Institutions of higher education have a crucial role and responsibility at this moment of technological change to form people who will flourish in our so-called digital age. (2019, para. 1)
 >
-> Within the context of Christian higher education, the need to
-> integrate new ICTs into our individual and institutional lives well
-> and wisely---as we consider what technologies are doing to us and what
-> we will do with them---is of utmost significance if we are committed
-> to the cultivation of competence, character, and wisdom. (2019, para.
-> 6)
+> Within the context of Christian higher education, the need to integrate new ICTs into our individual and institutional lives well and wisely---as we consider what technologies are doing to us and what we will do with them---is of utmost significance if we are committed to the cultivation of competence, character, and wisdom. (2019, para. 6)
 >
-> Scripture enables us look behind and beyond our and others' online
-> identities to see ourselves and others as embodied and relational
-> beings made in the image of God. (2019, para. 21)
+> Scripture enables us look behind and beyond our and others' online identities to see ourselves and others as embodied and relational beings made in the image of God. (2019, para. 21)
 >
-> Our use of technologies must be shaped by our intentions and values,
-> and we must be aware of how platform interfaces, permissions,
-> algorithms, and other design elements could interfere with our goals
-> and obligations. (2019, para. 31)
+> Our use of technologies must be shaped by our intentions and values, and we must be aware of how platform interfaces, permissions, algorithms, and other design elements could interfere with our goals and obligations. (2019, para. 31)
 
 **Questions to Consider**
 
 Answer the following questions in your journal:
 
-- How can you, as a TWU student, flourish in this digital age?
-- How do the tools you use shape you? How do you use them wisely?
-- How should we view and relate to others online---in particular those whom we disagree with?
-- How can you cultivate inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?
-- And finally, how can we use technology in a way that aligns with our intentions and values?
-
+-   How can you, as a TWU student, flourish in this digital age?
+-   How do the tools you use shape you? How do you use them wisely?
+-   How should we view and relate to others online---in particular those whom we disagree with?
+-   How can you cultivate inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality?
+-   And finally, how can we use technology in a way that aligns with our intentions and values?
 :::
 
 ## Summary {.unnumbered}
@@ -1136,27 +1033,17 @@ We began this final unit by emphasizing the value of community in online learnin
 
 Finally, we introduced the concept of digital wisdom. As you continue to integrate technology into your learning journey, we encourage you to consider how your online contributions can positively impact others. Reflect on TWU's mission and vision statements and how they resonate with you and guide your commitment to serving others and glorifying God.
 
-> The mission of Trinity Western University, as an arm of the Church, is
-> to develop godly Christian leaders: positive, goal-oriented university
-> graduates with thoroughly Christian minds; growing disciples of Jesus
-> Christ who glorify God through fulfilling the Great Commission,
-> serving God and people in the various marketplaces of life.
+> The mission of Trinity Western University, as an arm of the Church, is to develop godly Christian leaders: positive, goal-oriented university graduates with thoroughly Christian minds; growing disciples of Jesus Christ who glorify God through fulfilling the Great Commission, serving God and people in the various marketplaces of life.
 >
-> Every graduate is equipped to think truthfully, act justly, and live
-> faithfully for the good of the world and the glory of God. (Trinity
-> Western University, n.d.-d)
+> Every graduate is equipped to think truthfully, act justly, and live faithfully for the good of the world and the glory of God. (Trinity Western University, n.d.-d)
 
-
-
-::: {.check}
-
+::: check
 Before you move on to the next unit check that you are able to:
 
-- Discuss how technology has changed business practices in your field of interest or career
-- Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens
-- Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner
-- Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
-- Create a personalized narrative to document and express your learning process
-- Practice evaluative judgment to document your process of learning in complex domains of knowledge
-
+-   Discuss how technology has changed business practices in your field of interest or career
+-   Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens
+-   Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner
+-   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
+-   Create a personalized narrative to document and express your learning process
+-   Practice evaluative judgment to document your process of learning in complex domains of knowledge
 :::
