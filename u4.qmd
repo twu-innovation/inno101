@@ -42,13 +42,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Evaluate a digital tool, considering the ethical implications
 
 ::: note
-**Note**: *Working through course activities will help you to meet the course learning outcomes and successfully complete your assessments.*
+**Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
 :::
 
 ::: note
-**Assessment**
-
--   See the Assessment section in Moodle for assignment details and due dates.
+**Assessment:** *See the Assessment section in Moodle for assignment details.*
 :::
 
 ### Resources {.unnumbered}
@@ -56,9 +54,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   All resources will be provided online in the unit.
 
 ::: {.note icon="true"}
-***Resource Reminders***
-
--   Remember to continuously add resources to your Zotero library that align with your learning goals.
+***Tip:*** Remember to continuously add resources to your Zotero library that align with your learning goals.
 :::
 
 ## Personal Learning Environments

@@ -50,11 +50,14 @@ Here is a checklist of learning activities that will benefit you in completing t
 :::
 
 ::: note
-**Notes:** - *You will be directed to complete these activities as they come up in the unit.* - *The learning activities in this course are designed to prepare you for the graded assignments in this course.* - *Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*
+**Notes:** 
+- *You will be directed to complete these activities as they come up in the unit.*   
+- *The learning activities in this course are designed to prepare you for the graded assignments in this course.*   
+- *Working through course activities will help you to meet the learning outcomes and successfully complete your assessments.*  
 :::
 
 ::: note
-**Assessment** - *Please see the Assessment section in Moodle for assignment details.*
+**Assessment:** *See the Assessment section in Moodle for assignment details.*
 :::
 
 ### Resources {.unnumbered}
