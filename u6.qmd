@@ -12,10 +12,10 @@ Congratulations! You've made it to the final unit in our course, *Learning with 
 
 This unit is divided into the following topics:
 
-1.  Sharing your learning at TWU
-2.  Digital practices in the workplace
-3.  Societal issues and the internet
-4.  Digital wisdom
+1.  Sharing Your Learning at TWU
+2.  Digital Practices in the Workplace
+3.  Societal Issues and the Internet
+4.  Digital Wisdom
 
 ### Learning Outcomes {.unnumbered}
 
@@ -46,8 +46,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Read the article on digital wisdom and reflect on how technology serves both personal and communal benefits.
 
 ::: note
-***Notes**:*
-*The learning activities in this course are designed to prepare you for the graded assignments in this course. You are strongly encouraged to complete them.*
+***Note**:* *Working through course activities will help you to meet the course learning outcomes and successfully complete your assessments.*
 :::
 
 ::: note

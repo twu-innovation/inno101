@@ -2,7 +2,7 @@
 
 ## Overview {.unnumbered}
 
-In Unit 5 we engage in academic learning as a digital citizen of the internet. In this unit you will continue to develop a positive digital online identity in support of learning, while adhering to best practices for privacy, security, and interpersonal communications. We will discuss digital citizenship and how that relates to our personal and professional online identities. You'll have the opportunity to evaluate your social networks and join new online communities, including the TWU Online community. We hope you will take advantage of the opportunities to connect, build your personal and professional learning networks, and share your knowledge.
+In Unit 5 we engage in academic learning as a digital citizen of the internet. In this unit you will continue to develop a positive digital online identity in support of learning, while adhering to best practices for privacy, security, and interpersonal communications. We will discuss digital citizenship and how that relates to our personal and professional online identities. You'll have the opportunity to evaluate your social networks and join online communities, including the TWU Online community. We hope you will take advantage of the opportunities to connect, build your personal and professional learning networks, and share your knowledge.
 
 ### Topics {.unnumbered}
 
@@ -40,7 +40,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   Map your social network and consider the online communities you might join.
 
 ::: note
-**Notes:** *Working through course activities will help you to meet the course learning outcomes and successfully complete your assessments.*
+**Note:** *Working through course activities will help you to meet the course learning outcomes and successfully complete your assessments.*
 :::
 
 ::: note
@@ -131,7 +131,7 @@ Read through the following resources in order to refine your own definition of w
     -   Generate a table listing the nine elements of digital citizenship and identify a practical example of each element for your academic study. For example:
 
 | **Element** | **Academic Study Example** |
-|--------------------------|----------------------------------------------|
+|---------------------------|---------------------------------------------|
 | Digital access | Students from low income countries may not have reliable or affordable access to the Internet. |
 | Digital commerce |  |
 | Digital communication |  |
@@ -142,9 +142,8 @@ Read through the following resources in order to refine your own definition of w
 | Digital health and wellness |  |
 | Digital security |  |
 
--   **Define** digital citizenship
-    -   After completing the steps above, revise your personal description of digital citizenship. Does your new definition differ from your initial description?
--   **Share** your insights. Share a reflection on this activity by posting either in your blog or on Discourse. For example:
+-   After completing the steps above, revise your personal description of digital citizenship. Does your new definition differ from your initial description?
+-   Share a reflection on this activity by posting either in your blog or on Discourse. For example:
     -   I didn't realize the ... is part of digital citizenship because ...
     -   ... is not particularly relevant for university learners because ...
     -   ... is particularly relevant for university learners because ...
@@ -281,7 +280,7 @@ Research on the efficacy of online communities provides insights on selecting pr
 3.  Peripheral members occasionally contribute to the discussions and the periods of engagement are short and sporadic. “Lurkers”, that is individuals seeking answers without making contributions, are normally associated with this group. The nature of engagement in a community is influenced by the community’s life cycle stage [(A. Iriberri and G. Leroy 2009)](https://twu.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edscma&AN=edscma.1459356&site=eds-live&scope=site){target="_blank"}:
 
 | **Life cycle stage** | **Characteristics** |
-|-------------------------|-----------------------------------------------|
+|--------------------------|----------------------------------------------|
 | Inception stage | Focus is on determining the purpose, codes of conduct, funding and sustainability |
 | Creation stage | User-centred design and evolution including issues of privacy, anonymity, open versus closed communications |
 | Growth stage | Focus is on community building, for example, recruiting members, growth management, integrating new members, trust building, up-to-date content, interaction support, a few offline and online events and meetings |
@@ -472,7 +471,7 @@ In this unit we have discussed what it means to be a digital citizen and how we 
 
 ### Activity: TWU's Learning Community
 
-::: learning-activity
+::: {.learning-activity title="Reflect and Engage"}
 -   Take a moment to reread the course description for this course:
 
 Introduces theories and competencies related to learning and thriving in a digital world. Explores how learners are situated in “the digital” throughout their lives and how they can use digital technologies to enhance and enrich their experience of learning, working, and playing. Learners will begin to build a curated digital footprint, initiate and develop personal and professional learning networks; develop competencies to allow them to evaluate and choose digital platforms and tools that are safe and ethical; and explore how to use digital technologies to discover, curate, connect, and share knowledge with their communities.
@@ -523,5 +522,3 @@ Before you move on to the next unit check that you are able to:
 -   Develop online learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 -   Consider how you might connect, thrive, and serve in the TWU learning community :::
 :::
-
-:::::::::::::::::

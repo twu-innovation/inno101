@@ -1,0 +1,164 @@
+# Skills List {-}
+
+Below is a checklist of the technical skills, hardware, software, accessories, and other tools that may be required for study at TWU. Don't worry if you don't think you can do all these things, there are many ways for you to get help when you need it.
+
+Click on the titles below for information on the tools and skills you are most interested in:
+
+<details>
+
+<summary>**Technology Proficency**</summary>
+
+First, let's tackle what technical skills you will need as you start your studies. As you read, make a note of skills you have acquired and feel comfortable using, as well as those with which you are not familiar.
+
+1.  Basic computer skills\
+
+-   Operating system navigation (e.g., Windows, macOS, Linux)
+-   File management (creating, saving, organizing files and folders)
+-   Keyboard shortcuts (copy, paste, cut, undo, etc.)
+
+2.  Email etiquette and management:
+
+-   Composing professional emails
+-   Attaching files to emails
+-   Organizing and managing email inbox (folders, filters, labels)
+
+3.  Internet proficiency:
+
+-   Navigating websites efficiently
+-   Utilizing search engines, such as Duckduckgo, Google, or others, to locate resources.\
+-   Downloading and installing software\
+-   Being familiar with browser plug-ins, such as PDF readers, video, and audio players.\
+
+4.  Word processing and document creation:
+
+-   using templates to create APA- or MLA-formatted documents
+-   Formatting text with styles
+-   Creating and formatting tables
+-   Inserting images and other multimedia elements
+-   Spell check and grammar check
+-   Familiar with various file formats, including .pdf (Portable Document Format), .rtf (Rich Text Format), .docx (Microsoft Word Document), .md (Markdown) and .txt (Text document).
+
+Throughout this course you will have ample opportunity to practice these digital skills, and many more. As you encounter new technologies, we encourage you to seek out additional support, such as online video tutorials or instructions. The skill of being a self-directed learner is crucial, especially when encountering unfamiliar tech tools that you need to navigate.
+
+</details>
+
+<details>
+
+<summary>**Basic Hardware, Software & Accessories**</summary>
+
+This section provides an overview of fundamental hardware, software, and accessories you will likely need as a TWU student. As you go through the list, note the items you have, and/or feel comfortable using.
+
+##### Hardware {.unnumbered}
+
+-   Computer - PC, Mac, Chromebook or tablet
+    -   some academic disciplines and courses may require computers with more capabilities than are available on a Chromebook or tablet. Check with your department.
+
+##### Software {.unnumbered}
+
+-   Up-to-date versions of the operating system for your computer
+    -   Windows
+    -   macOS
+    -   Linux\
+-   Microsoft Office 365
+    -   [Office 365 is available for free if you are a TWU student.](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15119)
+
+##### Recommended Accessories {.unnumbered}
+
+-   Speakers or Headphones
+-   Microphone\
+-   Video Camera (Webcam)
+
+</details>
+
+<details>
+
+<summary>**Internet Access, Browsers & Connection Speed**</summary>
+
+-   Wi-Fi\
+-   High speed Broadband Internet Connection is Required\
+-   Internet Browser: The most recent release of Firefox is recommended.
+
+***Recommended Internet speeds:***
+
+-   Download speed of at least 25 mbps\
+-   Upload speed of at least 3 mbps\
+-   Ping response of less than 100ms
+
+```{block, type='feedback'}
+
+Test your Internet speed using [speedtest.net](speedtest.net) 
+
+```
+
+Please consider the following while participating in online/hybrid courses:
+
+-   Using a shared Internet connection, such as additional household members use of streaming TV, gaming, and other Internet usage, will impact the speed of your connection.\
+-   Wireless connections may be impacted by the distance from the router and interference from microwaves and other electronics. (Wired connections are recommended.)\
+-   Your Internet Service Provider’s performance may vary throughout the day based on community usage.
+-   If you are connecting to a web-conferencing meeting (Zoom, Teams, etc.) please make sure you are in a quiet place, not a coffee shop or other place with lots of background noise.
+    -   If you don't have a quiet place, make sure your mic is muted, and instead use the text chat.
+
+</details>
+
+<details>
+
+<summary>**Shared Drive, Sharing & Backup**</summary>
+
+[**Data & Cloud Storage and Sharing**](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=128533){target="_blank"}
+
+Cloud storage software provides web access to your online file storage, file sharing, and file synchronization. The only TWU approved Cloud Storage & Sharing services are:
+
+-   [Microsoft OneDrive](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=71260){target="_blank"}\
+-   [Microsoft SharePoint](https://mytwu.sharepoint.com/){target="_blank"}\
+-   [OwnCloud](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=15681){target="_blank"}
+
+The responsibility for storing TWU documents and files lies with the person who stores the data. Judgment is required about how and where TWU data will be stored.
+
+TWU has a formal Information Security Policy and related Information Security Guidelines. This article provides some additional direction based on this set of policy and guidelines.
+
+Different data is governed by different regulations, laws, agreements, and rules; each requires different means of protection and reporting.
+
+**What about other 3rd party cloud storage solutions (Dropbox, Google Drive, Box, WeChat etc...)?** In general, the use of unauthorized 3rd party cloud storage is not a good idea. TWU provides students, faculty, and staff with the tools needed to collaborate internally and externally. The reasons below elaborate on the reasoning behind this position.
+
+*Lack of Visibility* - Since these software systems are not integrated into our network, there is no way we can retrieve data stored in these systems if a student, employee, or faculty member leaves the institution and fails to disclose the usage of that account, or has it attached to a personal email account. If TWU data are present in those accounts, then it can be easily lost or compromised, which can lead to institutional and legal consequences.
+
+*Lack of Accountability* - There is no way to effectively manage information security if a student, faculty, or staff member is using unauthorized cloud storage. Additionally, there is no way to know if those data have been compromised and no ability for our forensics team to conduct analyses on these data in the event of a security incident.
+
+*Lack of Support* - We don't offer technical support to these services. So, if something goes wrong, is lost or compromised, IT will have no way to help users who have lost data or been locked out of accounts.
+
+*Collaboration* - We each have our own preferences when it comes to the various technologies we like to work with. There is not always a best tool for everyone. However, collaboration becomes more difficult when each individual or department selects there own collaboration platforms, prioritizing individual needs above the whole.
+
+*Student Centred* - We will put students first. These guidelines ensure we are protecting information and ultimately protecting our students. We have been entrusted with a great deal of personal and private information and must ensure the decisions we make are protecting that information.
+
+**How to Share Data** With Microsoft OneDrive and SharePoint, you can securely share files internally and externally. However, it is important to understand the different Data Classification levels and acceptable ways to share your files (Data Protection Guidelines).
+
+Guidance Table for Sharing Data
+
+| **Link Type**                        | **Confidential**             | **Sensitive**                | **Public**                                   |
+|------------------|-----------------|-----------------|---------------------|
+| **Specific People Internal User**    | Acceptable                   | Acceptable                   | Acceptable                                   |
+| **Specific People External User**    | Acceptable Use good judgment | Acceptable Use good judgment | Acceptable                                   |
+| **People in TWU (Internal Link)**    | Never                        | Acceptable Not Advisable     | Acceptable                                   |
+| **Anyone with the link (Open Link)** | Never                        | Never                        | Acceptable Use expiration date when possible |
+
+</details>
+
+<details>
+
+<summary>**Other Common Tools Supported at TWU**</summary>
+
+Some courses may require you to attend virtual class sessions, upload videos, conduct surveys, create e-portfolios, or develop other media. The following is a list of common tools that you might need to acquaint yourself with. In this course, we will utilize Zoom and WordPress, introducing these tools as they become relevant.
+
+-   [MS Teams](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17821&SIDs=11353){target="_blank"}\
+-   [MS Stream](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=23454){target="_blank"}\
+-   [Zoom](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=17478){target="_blank"}\
+-   [Survey Monkey](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=47076){target="_blank"}\
+-   [WordPress](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=4746){target="_blank"}\
+    Also see [Media Creation tutorials](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/?CategoryID=6940){target="_blank"} for Audio editing, Video editing, and other media tips.
+
+</details>
+
+```{block, type='feedback'}
+
+Note that the [***TWU Service Hub***](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/ArticleDet?ID=16267){target="_blank"} is always available to help!  Please reach out if you have any questions. TWU also has a [Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/1904/Portal/KB/){target="_blank"} website with guides on technology tools you will likely need to use. 
+```
