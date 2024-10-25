@@ -21,12 +21,12 @@ This unit is divided into the following topics:
 
 When you have completed this unit you will be able to:
 
+-   Explore social learning theories and explain how we learn through connecting with others
+-   Use technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 -   Discuss how technology has changed business practices in your field of interest or career
--   Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 -   Describe societal issues and problematic online behaviours which have emerged in the digital world, and how to deal with these challenges in an ethical manner
 -   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
 -   Create a personalized narrative to document and express your learning process
--   Practice evaluative judgment to document your process of learning in complex domains of knowledge
 
 ### Activity Checklist {.unnumbered}
 
@@ -41,12 +41,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   View the resources on AI and plagiarism.
 -   Discuss the impact of automation and AI in the workplace.
 -   View the resources on the price of AI and discuss the ethical implications.
--   Explore the topics focusing on societal issues on the internet, including website tracking, trolling, net neutrality, and equity.
--   Publish an editorial on your blog about an issue that interests you.
+-   Investigate and publish a blog post on a topic focusing on societal issues on the internet, such as website tracking, trolling, net neutrality, and digital redlining.
 -   Read the article on digital wisdom and reflect on how technology serves both personal and communal benefits.
 
 ::: note
-**Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
+**Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments. Be sure to map out your time so you can complete your learning goals for this unit. Note in Section 6.3 you are asked to choose one societal issue to focus on. You may wish to browse the other sections, but feel free to skip the activities so you have time to focus on your investigation and related learning blog.*
 :::
 
 ::: note
@@ -58,7 +57,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 -   All resources will be provided online in the unit.
 
 ::: {.note icon="true"}
-***Tip:*** Remember to continuously add resources to your Zotero library that align with your learning goals. 
+***Tip:*** Remember to continuously add resources to your Zotero library that align with your learning goals.
 :::
 
 ## Sharing Your Learning at TWU
@@ -71,7 +70,7 @@ Why is community so important to TWU, and how does it help us learn? Have a quic
 
 As for learning ... how does sharing our learning within a community help us achieve our personal and professional goals?
 
-There are several social learning theories and practices that explain how social interactions impact our learning (e.g., situated learning, social constructivism, connectivism, cooperative and collaborative learning, communities of inquiry, and so on). If you're interested, feel free to look these up online or use tools such as LitMaps.
+There are several social learning theories and practices that explain how social interactions impact our learning (e.g., situated learning, social constructivism, connectivism, cooperative and collaborative learning, communities of inquiry, and so on). If you're interested, feel free to look these up online or use tools such as LitMaps to explore the research on these theories.
 
 In this course we have promoted the use of tools that allow you to share your learning online: Discourse, Hypothes.is, and WordPress. Our goal is to help you utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens. In the next activity, we ask you to reflect on your learning experiences and your goals.
 
@@ -87,8 +86,7 @@ In this course we have promoted the use of tools that allow you to share your le
 
 {{< video https://www.youtube-nocookie.com/embed/AB-_822TRms >}}
 
-At TWU you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. Have a look at this resource that explains examples and reasons for these activities:
--   [Group Work: Using Cooperative Learning Groups Effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/){target="_blank"} (2015)
+At TWU you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. Have a look at this resource that explains examples and reasons for these activities: - [Group Work: Using Cooperative Learning Groups Effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/){target="_blank"} (2015)
 
 Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:
 
@@ -97,17 +95,16 @@ Students also have the opportunity to share their learning beyond the classroom.
 -   [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news){target="_blank"} (2017)
 
 Consider the following questions:
-- How have you experienced social learning in your educational experiences? 
-- How did it help or hinder your learning?  
-- What are your goals for sharing your learning at TWU and beyond? 
-Share your thoughts by posting a comment on Discourse, for example: "Sharing learning in academia is valuable because ..."
+
+\- How have you experienced social learning in your educational experiences?
+
+\- How did it help or hinder your learning?\
+- What are your goals for sharing your learning at TWU and beyond? Share your thoughts by posting a comment on Discourse, for example: "Sharing learning in academia is valuable because ..."
 :::
 
 ### Activity: Preparing for the Future
 
 :::: learning-activity
-Throughout your studies at TWU you will share your learning with instructors, your peers, and the community. You will also practice and master various skills including digital skills, leadership skills, communication skills, and critical thinking skills. Why are these important? How do your studies and activities at TWU prepare you to meet those necessary skills?
-
 TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} that aims to equip students for their future careers. Have a look at their Career Ready Framework in the figure below.
 
 ::: {#fig-TopxEmployeexSkillsx2025}
@@ -130,7 +127,7 @@ Feel free to share your thoughts in your Obsidian journal, Discourse, or your Wo
 
 ## Digital Practices in the Workplace
 
-Let's fast forward to a time when you graduate from Trinity---fully equipped with the knowledge, skills, character, and creativity to make a lasting impact in the world. What digital skills will you have to prepare you for your future career? In this topic we consider how changes in technology have and will continue to impact digital practices in the workplace. Pause and consider the following questions:
+In this topic we consider how changes in technology have and will continue to impact digital practices in the workplace. Pause and consider the following questions:
 
 -   How do professionals in your field of interest network online?
 -   How has technology changed business practices in your field of interest or career?
@@ -162,19 +159,24 @@ Throughout history there are technologies that have influenced change in society
 ::: learning-activity
 The readings that follow take a retrospective look at the impact of the internet on the newspaper and music industries.
 
--  [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
--   [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023)  
-Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
+-   [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
+-   [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023)\
+    Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
 :::
 
 ### Activity: Impact of Digital Technology on Business
 
 ::: learning-activity
 In this activity we invite you to join the Discourse discussion on the impact of digital technology on business.
--   First, choose any business or work environment (for example, your current career or future career).
--   Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.
--   State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:
--   Has the example contributed to a fundamental change in the way things were done, or is this a minor change?
+
+\- First, choose any business or work environment (for example, your current career or future career).
+
+\- Think about examples of how digital technology has had an impact on your chosen business over the last 30 years.
+
+\- State your business or work environment and share a practical example of how digital technology has influenced change in your chosen area:
+
+\- Has the example contributed to a fundamental change in the way things were done, or is this a minor change?
+
 -   Do you anticipate significant changes in your industry as a result of digital technology in the future? Provide an example.
 
 Like, share, and reply to posts. These are forms of engagement and a contribution to your online learning identity.
@@ -182,9 +184,9 @@ Like, share, and reply to posts. These are forms of engagement and a contributio
 
 ### Artificial Intelligence {.unnumbered}
 
-Artificial intelligence (AI) is predicted to have a significant impact on society and business. Examples include autonomous cars, computers understanding human speech, and machine learning. Consider for instance that computer chess games available for commercial desktop machines have the ability to beat accomplished chess players including grand masters. And of course, Chat GPT.
+Artificial intelligence (AI) is already transforming society and business, from self-driving cars to voice-activated assistants and advanced machine learning systems. For example, commercially available chess programs can now defeat skilled players, including grandmasters, showcasing the impressive capability of AI-driven systems.
 
-In this section we introduce a few interesting examples of artificial intelligence to provide a sense of how sophisticated these technologies are becoming.
+In this section, we'll explore a few compelling examples of AI to give you a sense of how these technologies are evolving and shaping the world around us.
 
 First, let's define AI:
 
@@ -192,16 +194,17 @@ First, let's define AI:
 
 > The capacity of a computer, robot, programmed device, or software application to perform operations and tasks analogous to learning and decision making in humans, such as speech recognition or question answering. (Dictionary.com, 2024)
 
-What is your experience with AI? Have you used an AI tool such as Grammerly or ChatGPT? How has this technology affected you as a student, and what effect do you think it has had or will have on your chosen profession?
+What is your experience with AI? Have you used AI tools such as Grammerly or ChatGPT? How has this technology affected you as a student, and what impact does it have on your chosen profession?
 
 In the next activity, we'll explore some of these questions and concerns.
 
 ### Activity: How Can I Use AI as a Student?
 
 ::: learning-activity
--   First, do a quick search online for AI tools for university students. Examples:
-    -   [How can AI be Used by University Students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"} (2023)
-    -   [10 Best AI Tools for Homework and Studying in 2024](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"} (2023)
+First, do a quick search online for AI tools for university students. Examples:
+
+-   [How can AI be Used by University Students?](https://www.timeshighereducation.com/student/advice/how-can-ai-be-used-university-students){target="_blank"} (2023)
+-   [10 Best AI Tools for Homework and Studying in 2024](https://mystudylife.com/10-best-ai-tools-to-help-students-learn-faster/){target="_blank"} (2023)
 
 Intrigued? Do you find any tech tools that would be useful in understanding course topics, studying, generating flashcards, transcribing lectures and voice notes, correcting grammar, writing an essay, creating a slideshow presentation, drafting a forum discussion post, and so on?
 
@@ -263,9 +266,9 @@ In this section we consider the impact of automation on the future job market an
 
 ::: learning-activity
 -   Read [*Collaborative Intelligence: Humans and AI are Joining Forces*](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"} (2018).
--   Watch [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU){target="_blank"} (2014)
+-   Watch [AI Automation And The Future Of The Workforce](https://www.youtube.com/watch?v=NBLeWpOqhAo){target="_blank"} (2022)
 
-{{< video https://www.youtube-nocookie.com/embed/7Pq-S557XQU >}}
+{{< video https://www.youtube-nocookie.com/embed/NBLeWpOqhAo >}}
 
 Consider your chosen field of study. How can AI benefit your industry? Are there any concerns regarding how AI might be used?
 :::
@@ -283,13 +286,18 @@ AI systems require lots of work from humans to function correctly. A 2023 report
 {{< video https://www.youtube-nocookie.com/embed/ug_p2wHhla0 >}}
 
 **Questions to Consider:**
--   Is it ethical to submit Kenyan workers to trauma in order to sanitize ChatGPT for other users?
--   What other solutions are there for training AI to moderate content?
+
+\- Is it ethical to submit Kenyan workers to trauma in order to sanitize ChatGPT for other users?
+
+\- What other solutions are there for training AI to moderate content?
 
 Share your thoughts on AI by posting a comment on Discourse, for example:
-    -   AI will ...
-    -   I was surprised that AI ...
-    -   In \[insert business\] AI will ...
+
+\- AI will ...
+
+\- I was surprised that AI ...
+
+\- In \[insert business\] AI will ...
 :::
 
 ## Societal Issues and the Internet
@@ -305,8 +313,7 @@ In this next topic we introduce a number of societal issues and problematic onli
 -   Digital redlining
 -   Diversity, equity and inclusion
 
-Choose one societal issue or antisocial behaviour associated with the internet that you would like to investigate further, and publish as an editorial in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
-
+Choose one societal issue or antisocial behaviour associated with the internet that you would like to investigate further. You may wish to browse the other sections, but each topic can be time-consuming, so be sure to map out your time so you can complete your learning goals. Your task will be to publish an editorial on your chosen topic in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
 
 ### Activity: Problematic Online Behaviours---Key Terms Quiz
 
@@ -318,7 +325,7 @@ How did you do? Have you encountered any of these behaviours online? Share your 
 
 ### Website Tracking {.unnumbered}
 
-Website tracking is the practice of collecting data about a user's online activities when they visit websites or use web services. This data is gathered primarily for marketing and analytical purposes, allowing website owners, advertisers, and service providers to better understand user behaviour, tailor their services, and deliver targeted content and advertisements. 
+Website tracking is the practice of collecting data about a user's online activities when they visit websites or use web services. This data is gathered primarily for marketing and analytical purposes, allowing website owners, advertisers, and service providers to better understand user behaviour, tailor their services, and deliver targeted content and advertisements.
 
 ### Activity: The True Cost of Free Websites
 
@@ -407,10 +414,9 @@ It's important to note that while these steps can help reduce online tracking th
 ### Activity: Website Tracking Resources
 
 ::: learning-activity
-Choose from the resources below to inform your views on website and data tracking:
--   [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018)
--   [*Stop Saying 'If You're not Paying, You're the Product'*](https://www.techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product/){target="_blank"} (2012)
--   [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
+Choose from the resources below to inform your views on website and data tracking: 
+- [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018) 
+- [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
 
 Also review these resources on corporate sponsored research:
 
@@ -422,6 +428,8 @@ After viewing these resources, what do you think the cost of free websites is? D
 
 Share your thoughts on Discourse or use Hypothes.is to annotate and share your comments.
 :::
+
+```{=html}
 <!-- deleting activity
 ### Activity: Forum: Philanthropy and Corporate Advertising
 
@@ -445,6 +453,8 @@ Consider the following issues:
 Remember to tag your posts using the course code: LDRS101
 :::
 -->
+```
+
 #### Online Impersonation {.unnumbered}
 
 Impersonation online refers to the act of creating an online presence in someone else's name. This is potentially a complex issue as some social media sites permit parody accounts or accounts that are intended to represent real individuals. It is not necessarily illegal to impersonate someone per se, for example in comedy, but online impersonation is a growing problem. Many social media sites have anti-impersonation policies, but this is not sufficient guarantee or protection against the risks of online impersonation.
@@ -452,7 +462,7 @@ Impersonation online refers to the act of creating an online presence in someone
 ### Activity: Identify the Imposter!
 
 ::: learning-activity
--   Visit the profile page of following X (Twitter) accounts:
+-   Visit the profile page of following X (formerly Twitter) accounts:
     -   [Nelson Mandela](https://twitter.com/NelsonMandela){target="_blank"}
     -   [Mark Zuckerburg](https://twitter.com/notzuckerberg){target="_blank"}
     -   [Elon Musk](https://twitter.com/ElonMuskAOC){target="_blank"}
@@ -512,7 +522,7 @@ Feel free to share personal reflections on the phenomenon of online impersonatio
 
 > Sometimes trolls live under bridges. But not everyone living under a bridge is a troll. (Wikimedia Foundations, n.d.)
 
-It is estimated that that the internet has about 5.473 billion users, almost half the population of the world (Tsvetkova, 2023). With the growing number of internet and social media users we are witnessing an increase in antisocial behaviour online.
+It is estimated that that the internet has about 5.35 billion users, almost half the population of the world (Tsvetkova, 2023). With the growing number of internet and social media users we are witnessing an increase in antisocial behaviour online.
 
 In this section we explore the phenomenon of internet trolling and strategies for managing disruptive online behaviour, taking the communication context into account.
 
@@ -521,7 +531,7 @@ In this section we explore the phenomenon of internet trolling and strategies fo
 ### Activity: Trolling in Social Media
 
 ::: learning-activity
--  Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz (n.d.), which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
+-   Take the [Spot the Troll](https://spotthetroll.org/){target="_blank"} quiz (n.d.), which uses images of real social media content. How did you do? Did some of the profiles surprise you? Have you encountered these types of profiles on social media?
 -   As you read the following, pay particular attention to strategies for dealing with trolling behaviour.
     -   [Troll (Slang)](https://en.wikipedia.org/wiki/Troll_(slang)%7Btarget=%22_blank%22%7D) (2024)
     -   [What is a Troll?](https://meta.wikimedia.org/wiki/What_is_a_troll){target="_blank"} (n.d.)
@@ -548,19 +558,20 @@ In this section, we will review research on the state of online harassment and c
 ### Activity: The State of Online Harassment
 
 :::: learning-activity
-Read the following research reports on online harassment.
--   [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.)
--   [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
+Read the following research reports on online harassment. 
+- [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.) 
+- [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021) 
 
 ::: note
 Note in particular the finding that those "who have ever experienced more severe forms of harassment -- such as physical threats, stalking, sexual harassment or sustained harassment -- or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies" (DeSilver, 2021).
 :::
 
-**Questions to Consider**:
--   What surprised you when reading these reports?
--   Why have the forms of harassment become more severe?
--   Have you or someone you know experienced some kind of online harassment?
-**Annotate**: Add or reply to annotations using Hypothes.is to share personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
+**Questions to Consider**: 
+- What surprised you when reading these reports? 
+- Why have the forms of harassment become more severe? 
+- Have you or someone you know experienced some kind of online harassment? 
+
+Add or reply to annotations using Hypothes.is to share personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
 ::::
 
 ### Activity: The Response From Social Media
@@ -598,10 +609,11 @@ First, consider the following questions:
 -   Do adolescents need to develop face-to-face communication skills in a digital world?
 
 Watch this fascinating TedTalk video:
-
-    -   [*Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} (2012)
+      
+-   [*Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} (2012)
 
 {{< video https://www.youtube-nocookie.com/embed/t7Xr3AsBEK4 >}}
+
 
 -   Jot down your thoughts in your Reflective Journal (Obsidian).
 
@@ -674,11 +686,11 @@ Net Neutrality and Creative Freedom Mind Map Illustration
 ::: learning-activity
 Watch the following videos that explain the importance of net neutrality.
 
-*Net Neutrality Explained*](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"} (2015)<!-- Auto title, auto embed-->
+[*Net Neutrality Explained*](https://www.youtube.com/watch?v=p90McT24Z6w){target="_blank"} (2015)<!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/p90McT24Z6w >}}
 
-*Internet Citizens: Defend Net Neutrality*](https://www.youtube.com/watch?v=wtt2aSV8wdw){target="_blank"} (2014b) <!-- Auto title, auto embed-->
+[*Internet Citizens: Defend Net Neutrality*](https://www.youtube.com/watch?v=wtt2aSV8wdw){target="_blank"} (2014b) <!-- Auto title, auto embed-->
 
 {{< video https://www.youtube-nocookie.com/embed/wtt2aSV8wdw >}}
 :::
@@ -686,8 +698,7 @@ Watch the following videos that explain the importance of net neutrality.
 ### Activity: Perspectives on Net Neutrality
 
 ::: learning-activity
-Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views.
--   First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} (2024).
+Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views. - First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} (2024).
 
 Next, click the topics below to explore different perspectives on this issue in Canada.
 
@@ -884,9 +895,9 @@ Other teaching methods they might employ are [culturally responsive teaching](ht
 
 Key question: *Should instructors treat all students the same regardless of background, gender, beliefs, and so on?*
 
-Many academics in higher education hold this value of equality. Others promote equity, which "takes into consideration a person's unique circumstances, adjusting treatment accordingly so that the end result is equal (McKinsey & Company, 2022, Equity section)." What does it mean that the "end result is equal?" An equal opportunity to access and succeed in academia? Or an equal outcome in which all students receive the same grade?
+Many in higher education uphold the value of equality, treating each student identically. Others advocate for equity, which "takes into consideration a person's unique circumstances, adjusting treatment accordingly so that the end result is equal (McKinsey & Company, 2022, Equity section)." But what does it mean for the “end result” to be equal? Does it suggest equal opportunity for access and success in academia? Or is it about ensuring all students achieve the same academic outcomes, such as receiving the same grades?
 
-This one example identifies one of the "sticky points" in the DEI debate. In the next activity, we'll introduce some views on the DEI topic.
+This example highlights one of the complex issues in the DEI debate. In the next activity, we’ll explore various perspectives on DEI.
 
 ### Activity: Perspectives on DEI
 
@@ -947,16 +958,18 @@ Here are few additional topics to consider:
 ### Activity: Editorial: Societal Issues on the Internet
 
 ::: learning-activity
--   **Write**: Publish an editorial (400--600 words) on your blog on a societal issue or antisocial behaviour associated with the internet. Your editorial must:
+-   Publish an editorial (400--600 words) on your blog on a societal issue or antisocial behaviour associated with the internet. Your editorial must:
     -   Contain a minimum of four hyperlinks to supporting resources or issues. Your digital identity is connected to the internet and it is important to demonstrate how your contribution joins a networked conversation through connections in information.
     -   Include a representative image embedded in your blog post (n.b., ensure that you have legal permission to use the image).
     -   If you are not sure about copyright, source a public domain image on a site such as [*Pexels*](https://www.pexels.com/){target="_blank"}. Don't use sponsored or licensed images unless you have purchased the rights to use them.
     -   Include at least two references properly cited using APA style.
     -   Include a paragraph highlighting practical implications; for example, learning in a digital age or your current role.
 
+```{=html}
 <!-- //todo
 
 Prote: Does course code described below need any changes?-->
+```
 
 Remember to add a category or tag for your post using the course tag: LDRS101.
 
@@ -994,7 +1007,7 @@ To conclude our course we will examine another perspective on ethics and technol
 ### Activity: Digital Wisdom
 
 ::: learning-activity
--   **Read**: Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
+-   Skim the following article in which the authors present a framework for digital wisdom, as well as practical practices that can help navigate the digital in our daily lives.
     -   [*A Framework for Digital Wisdom in Higher Education*](https://christianscholars.com/a-framework-for-digital-wisdom-in-higher-education/){target="_blank"} (2019).
 
 Here are some quotes that resonate (Paulus et al., 2019). Feel free to highlight your quotes using Hypothes.is, or in your personal Obsidian notes.
@@ -1033,10 +1046,10 @@ Finally, we introduced the concept of digital wisdom. As you continue to integra
 ::: check
 Before you move on to the next unit check that you are able to:
 
+-   Explore social learning theories and explain how we learn through connecting with others
+-   Use technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens
 -   Discuss how technology has changed business practices in your field of interest or career
--   Utilize technology to discover and share knowledge, collaborate with others, and become engaged digital global citizens
--   Describe societal issues and problematic online behaviours which have emerged in the digital world and how to deal with these challenges in an ethical manner
+-   Describe societal issues and problematic online behaviours which have emerged in the digital world, and how to deal with these challenges in an ethical manner
 -   Create inclusive digital communities which embody a sense of belonging, connection, and Christian hospitality
 -   Create a personalized narrative to document and express your learning process
--   Practice evaluative judgment to document your process of learning in complex domains of knowledge
 :::
