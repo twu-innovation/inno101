@@ -311,7 +311,8 @@ In this next topic we introduce a number of societal issues and problematic onli
 -   Psychological issues
 -   Net neutrality
 -   Digital redlining
--   Diversity, equity and inclusion
+<!--
+-   Diversity, equity and inclusion-->
 
 Choose one societal issue or antisocial behaviour associated with the internet that you would like to investigate further. You may wish to browse the other sections, but each topic can be time-consuming, so be sure to map out your time so you can complete your learning goals. Your task will be to publish an editorial on your chosen topic in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
 
@@ -414,9 +415,7 @@ It's important to note that while these steps can help reduce online tracking th
 ### Activity: Website Tracking Resources
 
 ::: learning-activity
-Choose from the resources below to inform your views on website and data tracking: 
-- [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018) 
-- [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
+Choose from the resources below to inform your views on website and data tracking: - [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018) - [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
 
 Also review these resources on corporate sponsored research:
 
@@ -558,18 +557,13 @@ In this section, we will review research on the state of online harassment and c
 ### Activity: The State of Online Harassment
 
 :::: learning-activity
-Read the following research reports on online harassment. 
-- [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.) 
-- [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021) 
+Read the following research reports on online harassment. - [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.) - [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
 
 ::: note
 Note in particular the finding that those "who have ever experienced more severe forms of harassment -- such as physical threats, stalking, sexual harassment or sustained harassment -- or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies" (DeSilver, 2021).
 :::
 
-**Questions to Consider**: 
-- What surprised you when reading these reports? 
-- Why have the forms of harassment become more severe? 
-- Have you or someone you know experienced some kind of online harassment? 
+**Questions to Consider**: - What surprised you when reading these reports? - Why have the forms of harassment become more severe? - Have you or someone you know experienced some kind of online harassment?
 
 Add or reply to annotations using Hypothes.is to share personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
 ::::
@@ -609,11 +603,10 @@ First, consider the following questions:
 -   Do adolescents need to develop face-to-face communication skills in a digital world?
 
 Watch this fascinating TedTalk video:
-      
+
 -   [*Connected, but Alone?*](https://www.youtube.com/watch?v=t7Xr3AsBEK4){target="_blank"} (2012)
 
 {{< video https://www.youtube-nocookie.com/embed/t7Xr3AsBEK4 >}}
-
 
 -   Jot down your thoughts in your Reflective Journal (Obsidian).
 
@@ -803,6 +796,7 @@ Also see the following articles that focus on racial and gender bias:
 -   [*Digital Redlining, Access, and Privacy*](https://www.commonsense.org/education/articles/digital-redlining-access-and-privacy){target="_blank"} (2016)
 :::
 
+<!--
 Diversity, Equity and Inclusion
 
 ::: {#diversity .definition name="Diversity"}
@@ -940,6 +934,7 @@ As you read [*Practising Christian Hospitality*](https://www.twu.ca/about-us/com
 -   Does being inclusive demand agreement or consensus?
 -   How can we practice Christian hospitality?
 :::
+-->
 
 We've explored a number of societal issues associated with the internet. In the activity below, you will choose a topic of interest relating to societal issues or problematic behaviours on the internet for further investigation. You can select one of the topics introduced in this unit or an alternate issue you find more interesting.
 

@@ -92,6 +92,7 @@ The top result shows some promise though. Notice a few things about it:
 
 One of the easiest ways to find literature reviews in Google searches is to include "literature review" in your search. When we do that, we get a better list. This time, there are more results (97,000), but they are better results. Notice the third item ...
 
+```{=html}
 <!-- !!! Comment(s) from Werd:
 
 Reference: review
@@ -101,6 +102,7 @@ required (TWU?)
 Deb Troendle-Scott | 2024-08-22T21:01:00Z
 
 -->
+```
 
 <div>
 
@@ -117,6 +119,7 @@ Screenshot, Results Page of Google Scholar search for "Transformational Servant 
 
 This is the only article you need for now. Though search results are always changing, we will use this example [(Eva et al., 2019)](https://linkinghub.elsevier.com/retrieve/pii/S1048984317307774){target="_blank"} in our upcoming activity.
 
+```{=html}
 <!-- 
 (KM - deleting Click the link as students can do this later with the doi)
 
@@ -134,6 +137,7 @@ that's fine, please revise as necessary.
 Deb Troendle-Scott | 2024-08-17T13:58:00Z
 
 -->
+```
 
 ::: {#fig-googlexsearch3}
 ![](assets/u2/google-search3.png){fig-alt="Screenshot, article landing page"" .lightbox fig-align="left"}
@@ -143,6 +147,7 @@ Screenshot of an Article Landing Page
 
 In fact, you don't even need to read this article yet. All you need is the DOI---the *digital object identifier*. A DOI is a critical piece of information about an article that provides a piece of evidence that this is a legitimate article published in a legitimate journal. A DOI will always start with 10. . Sometimes it is included as part of an URL, as in this case, but you only need the code that follows '10.'. The DOI for this article is `10.1016/j.leaqua.2018.07.004`
 
+```{=html}
 <!-- !!! Comment(s) from Werd:
 
 Reference: In
@@ -151,11 +156,13 @@ Comment: Transitional text missing here?
 Deb Troendle-Scott | 2024-07-31T15:33:00Z
 
 -->
+```
 
 Copy the DOI. Sometimes you need to copy the whole URL, and that is ok.
 
 Log in to [Litmaps.com](https://www.litmaps.com/){target="_blank"} and paste the DOI.
 
+```{=html}
 <!-- !!! Comment(s) from Werd:
 
 Reference: Log
@@ -164,6 +171,7 @@ Comment: Start the activity here?
 Deb Troendle-Scott | 2024-07-31T15:39:00Z
 
 -->
+```
 
 ::: {#fig-litmaps1}
 ![](assets/u2/litmaps1.png){.lightbox fig-alt="Screenshot of Litmaps search bar populated with DOI from text above" fig-align="left"}
@@ -193,6 +201,7 @@ Screenshot of Litmaps Seed Map with Edit Collections Popup (Circled)
 
 Next, add Hoch, 2018, to your new collection (it is closest to the upper right quadrant), and finally add Greenleaf, 1979 (all the articles seem to cite this article, so it is likely very important in the field, sometimes called a seminal article).
 
+```{=html}
 <!-- !!! Comment(s) from Werd:
 
 Reference: Next
@@ -203,6 +212,7 @@ those generated when these images were created)
 Deb Troendle-Scott | 2024-08-20T17:52:00Z
 
 -->
+```
 
 Notice that the articles you added to your new collection are all coloured the same as the collection.
 
@@ -341,6 +351,7 @@ Improving search skills will save you time and result in more productive searche
 
 -   Read the [*Google Search Cheatsheet*](https://www.webfx.com/blog/seo/google-advanced-search-operators-cheat-sheet/){target="_blank"} for a more comprehensive list. Also see the [*Google Advanced Search Operators Cheat Sheet*](https://quickref.me/google-search.html){target="_blank"} (n.d.) and try a few searches using the operators.
 
+```{=html}
 <!-- !!! Comment(s) from Werd:
 
 Reference: see the
@@ -355,6 +366,7 @@ for me
 Kelly Marjanovic | 2024-09-06T14:43:05
 
 -->
+```
 
 -   Use the Google search operators (enter these directly into the search text area) to:
     -   identify at least 10 PDF documents which have open educational resources in their title (are they all accessible for download?)
@@ -664,6 +676,7 @@ Before you move on to the next unit check that you are able to:
 -   describe how to protect yourself, and other students and colleagues, to stay safe in the digital environment
 :::
 
+```{=html}
 <!-- @cmadland - flagging 3 sections that I'm pretty sure I used chat gpt to complete. Please review the unit Overview & Unit Summary and perhaps "Colinize" it? ;)...or perhaps add a SME video? Also - the Why use OER? section, although that is less obvious.  
 
 Other items for review:
@@ -671,3 +684,4 @@ Other items for review:
 - adding graphics (5 Rs, etc.)
 
 -->
+```
