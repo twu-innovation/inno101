@@ -1,11 +1,10 @@
-# version 2.2
-
+# version 2.6
 
 project:
   type: book
   output-dir: docs
 
-# Changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
+# Info on changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
 published-title: "Last Modified"
 #author-title: "Authors"
 
@@ -35,17 +34,23 @@ csl: https://twuonline.github.io/course-materials/quarto/apa.csl
 link-bibliography: true
 link-citations: true
 
+# Lua Filters
 filters:
-  - custom.lua
+  - at: pre-ast
+    path: yml-assets/pre.lua
+  - at: post-render
+    path: yml-assets/post.lua
 
 # Add templete for block
 title-block-banner: true
-# Formats
+
+# ------- Format Specific Settings -------
+
 format:
 # Format - HTML
   html:
     template-partials:
-      header-assets/title-block.html
+      yml-assets/title-block.html
       
     sidebar:
       style: "docked"
@@ -54,16 +59,18 @@ format:
     toc-depth: 4
     toc: true
     toc-title: On This Page
-    # theme: cosmo
-    theme: [cosmo, custom.scss]
+    theme: cosmo
+    # The line below  should only be enabled to locally test css before moving it to the main css file in course materials.
+    #theme: [cosmo, yml-assets/test.scss]
     include-in-header:
     - text: |
         <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
         <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
         
-# Format - PDF
-  pdf:
-    documentclass: scrreprt
+# # Format - PDF
+#   pdf:
+#     documentclass: scrreprt
+
 # Format - Doc
   docx:
     toc: false
@@ -74,4 +81,3 @@ format:
 fig-cap-location: top
 lightbox:
   desc-position: top
-

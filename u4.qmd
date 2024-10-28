@@ -29,11 +29,9 @@ When you have completed this unit you will be able to:
 -   Describe how to protect yourself and other students and colleagues to stay safe in the digital environment
 -   Practice evaluative judgment to document your process of learning in complex domains of knowledge
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-
-**Learning Activities**
+Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
 -   Reflect on your personal learning environment (PLE) as you engage with the resources on PLEs
 -   Create a new blog on WordPress and personalize your blog site
