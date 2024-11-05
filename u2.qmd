@@ -40,6 +40,7 @@ Here is a list of learning activities that will benefit you in completing this u
 -   Discuss the reasons you should or should not use Wikipedia, and for what purposes.
 -   Download and install Zotero and explore how you can use this tool.
 -   Explore open educational resources and reflect on how you might advocate for these.
+-   Write a paragraph on a research topic using Zotero features to integrate citations and references.
 -   Create an annotated bibliography.
 
 ::: note
@@ -321,14 +322,13 @@ For more tutorials on using Litmaps, search online. For example, the Litmaps You
 :::
 
 ::: note
-**Note** 
+**Note**
 
 This activity allows you to demonstrate your proficiency in the following course learning outcomes, as evaluated through the assignments:
 
-- Build and customize technology-integrated workflows to enhance and enrich your learning journey;
-- Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study;
-- Practice evaluative judgment to document your process of learning in complex domains of knowledge;
-- Create a personalized narrative to document and express your learning process;
+-   Build and customize technology-integrated workflows to enhance and enrich your learning journey;
+-   Apply digital literacy skills to evaluate the legitimacy, credibility and reliability of online resources for academic study;
+-   Create a personalized narrative to document and express your learning process;
 :::
 
 ### Activity: The TWU Library

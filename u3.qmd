@@ -29,6 +29,7 @@ Here is a list of learning activities that will benefit you in completing this u
 -   Practice using links and tags to connect your ideas in Obsidian
 -   Write a reflective post on your learning experiences
 -   Practice various note taking skills
+-   Create a mind map to connect and engage with ideas in Units 1-3
 
 ::: note
 **Note:** *Working through unit learning activities will help you to meet the course learning outcomes and successfully complete your assessments.*
@@ -157,11 +158,14 @@ Tags and links in Obsidian can be visualized using graph view, but as this is an
 ### Activity: Obsidian Concept Map
 
 ::: learning-activity
--   Watch [*Mind Mapping in Obsidian Canvas*](https://www.youtube.com/watch?v=eHI-Szjpafk){target="_blank"} (2023). As you watch, follow the directions and to create a concept map in Obsidian. You will use this in the next activity.
+-   Watch [*Mind Mapping in Obsidian Canvas*](https://www.youtube.com/watch?v=eHI-Szjpafk){target="_blank"} (2023). As you watch, follow the directions to create a concept map in Obsidian. At the end of this unit, you will create a concept map for Units 1-3.  Practice using notes, media, cards, and grouping features in a mind map.
 
 {{< video https://www.youtube-nocookie.com/embed/eHI-Szjpafk >}}
+
 :::
 
+
+<!-- hiding activity 
 ### Activity: Open Source Video and Audio Lectures
 
 ::: learning-activity
@@ -176,6 +180,8 @@ Tags and links in Obsidian can be visualized using graph view, but as this is an
     -   remember to include a link to the source of the information
     -   use tags and links to connect your ideas
 :::
+
+-->
 
 ## Reading and Note Taking
 
@@ -234,6 +240,21 @@ There is a plethora of other learning tools out there. We encourage you to explo
     -   writing tools
 -   In Discourse, share some tools that you've used or that you plan to use to help in your studies.
 :::
+
+### Activity: Mapping Out Your Learning
+
+::: learning-activity
+As a final reflective activity, take some time to map out the concepts in Units 1-3. Use the mind mapping tool in Obsidian, including the features of grouping to make connections between concepts.
+
+Here are a couple of resources to guide you as you create your mind map 
+    -   [*Mind Mapping*](https://subjectguides.york.ac.uk/note-taking/mind-map){target="_blank"} (2024) 
+    -   [*Getting Started with Obsidian Canvas*](https://obsidian.rocks/getting-started-with-canvas-in-obsidian/){target="_blank"} (2024) 
+
+***Note:*** This is a key activity you will use in Assignments 1 and 3 to demonstrate your understanding of the course learning outcomes.
+
+:::
+
+<!-- hide comment //todo  - Kelly to add above activity resources to Zotero  -->
 
 ## Summary {.unnumbered}
 
