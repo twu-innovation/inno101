@@ -622,7 +622,7 @@ So how can we protect ourselves if new threats are emerging all the time?
 ::: learning-activity
 Use the [*Terms of Service: Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.) site to look up each of the apps we will learn in this course. Each tool currently has its own file in your Obsidian vault with a template ready to go for you. Fill out the template for each tool based on what is available on tosdr.org and your own examination of the ToS for each tool.
 
-Feel free to add components to the template.
+Feel free to add components to the template. Note we're return to this website at the end of Unit 4 as we evaluate digital tools.
 :::
 
 ### Activity: Introduction To Reflective Journaling

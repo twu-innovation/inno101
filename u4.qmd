@@ -63,9 +63,11 @@ This unit aims to guide you in creating your Learning Blog, the central componen
 
 Personal Learning Environments \[are\] systems that help learners take control of and manage their own learning. This includes providing support for learners to set their own learning goals, manage their learning; managing both content and process, communicate with others in the process of learning, and thereby achieve learning goals. A PLE may be composed of one or more sub-systems: As such it may be a desktop application, or composed of one or more web-based services. (van Harmelen, 2007, as cited in Edutech Wiki, 2014, Definitions, para. 2)
 
+```{=html}
 <!-- //todo #15 As described by Casteneda et al.,
 
 A Personal Learning Environment is … a structure and process that helps learners organize the influx of information, resources and interactions that they are faced with on a daily basis into a personalized learning space or experience. In a PLE, the learner develops an individualized digital identity through the perceptual cues and cognitive affordances that the personal learning environment provides, such as what information to share and when, who to share it with, and how to effectively merge formal and informal learning experiences. (2017, para. 2) -->
+```
 
 Which aspects of the two definitions do you find most meaningful? How do you structure your daily interactions and manage the flow of information? In what ways do you communicate your learning experiences to others? Lastly, what specific goals are you aiming to accomplish through your learning journey?
 
@@ -144,11 +146,13 @@ To get started on creating your site we suggest the following steps:
 
 **Help Tips:** When you are in the site administration area of your site, you can get tips on what you are doing by clicking the "Help" menu on the top righthand corner. Click "Help" and read through the Overview describing the elements of the dashboard.
 
+```{=html}
 <!--//todo
 
 Prote: This section will need to be updated after wordpress guides have been updated.
 
 insert - Animation showing location of WordPress help tab - from [Sign in to your account](https://create.twu.ca/eportfolios/wordpress/)-->
+```
 :::
 
 ::: {.accordion title="3. Review your settings"}
@@ -176,6 +180,7 @@ Pages and posts are where your content is housed on WordPress. The biggest diffe
 
 -   To add a new Page or Post, click the Pages or Posts menu option and then click "Add New Link" underneath. Another way is to hover your cursor over Pages or Posts and click the add new link in the drop-down menu.
 
+```{=html}
 <!-- !!! Comment(s) from Werd:
 
 Reference: drop-down
@@ -185,6 +190,7 @@ I'm not sure what's used)
 Deb Troendle-Scott | 2024-08-02T10:08:00Z
 
 -->
+```
 
 ***BLOG CHALLENGE!***
 
@@ -229,9 +235,11 @@ Here is a tutorial on how to add a YouTube video or embed one of your own videos
 :::
 
 :::: {.accordion title="9. Additional Customizations"}
+```{=html}
 <!--//todo
 
 Prote: This section will need to be updated after wordpress guides have been updated.-->
+```
 
 When you're ready to start customizing your blog and adding content, check out some tutorials available to you:
 
@@ -353,8 +361,9 @@ These crucial questions highlight the importance of privacy, data ownership, and
 ### Activity: What Are My Criteria?
 
 ::: learning-activity
--   **Read** the following [Tool Evaluation Criteria](https://workforceedtech.org/tool-evaluation-criteria/){target="_blank"}. Note some criteria may not apply to the tool you choose to evaluate. Also see the [Tool Evaluation Scoring Rubric and Notepad](https://docs.google.com/spreadsheets/d/1-zIw01FI0N6NKY2SdOO2PuniUxDxAG-beeTsmxRQru0/edit?usp=sharing/){target="_blank"} (an editable Google Sheet).
+-   Read the following [Tool Evaluation Criteria](https://workforceedtech.org/tool-evaluation-criteria/){target="_blank"}. Note some criteria may not apply to the tool you choose to evaluate. Also see the [Tool Evaluation Scoring Rubric and Notepad](https://docs.google.com/spreadsheets/d/1-zIw01FI0N6NKY2SdOO2PuniUxDxAG-beeTsmxRQru0/edit?usp=sharing/){target="_blank"} (an editable Google Sheet).
 
+```{=html}
 <!-- !!! Comment(s) from Werd:
 
 Reference: following
@@ -363,8 +372,9 @@ Comment: TWU link, please verify and add to Zotero
 Deb Troendle-Scott | 2024-08-03T11:59:00Z
 
 -->
+```
 
--   **Write:** Create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you. To help you select your criteria, read the following:
+-   Create your own criteria for evaluating digital tools. Set up a spreadsheet or notepad (in Obsidian for example) and as you list your criteria, consider why that detail is important to you. To help you select your criteria, read the following:
     -   [*Policy Brief: Privacy*](https://www.internetsociety.org/policybriefs/privacy/){target="_blank"} (2015)
 
 This next website might be a bit of an eye-opener. You may want to browse through some common tech examples and see their score. - [*Terms of Service. Didn't Read*](https://tosdr.org/){target="_blank"} (n.d.)
@@ -441,7 +451,7 @@ In this activity, you are invited to critically evaluate an online tool.
     -   Include a comment on the extent to which the tool would be useful for learning in a digital age
     -   Add a category or tag for your post using the course tag: LDRS101
 
-**Optional:** On Discourse, let us know what tool you selected and why. Share the link of your review blog.
+On Discourse, let us know what tool you selected and why. Share the link of your review blog.
 :::
 
 ## Summary {.unnumbered}
