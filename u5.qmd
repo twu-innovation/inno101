@@ -70,7 +70,7 @@ If good citizenship means fulfilling your role as citizen, can you think of five
     -   In a digital world, what does it mean to be a global citizen? Read the Wikipedia article on [*Global Citizenship Education*](https://en.wikipedia.org/wiki/Global_citizenship_education){target="_blank"} (2024), where learners engage in solving real world problems.
     -   Has the concept of good citizenship changed over time? In what ways?
     -   Does citizenship require active community engagement? Read this post by Kristen Mattson, director of a high school library media center: [*John Dewey Would Hate Your Digital Citizenship Curriculum*](https://drkmattson.wordpress.com/2016/08/03/john-dewey-would-hate-your-digital-citizenship-curriculum/){target="_blank"} (2016). Why has the concept *digital* been linked with *citizenship* or should we drop the word *digital* and just talk about *good citizenship*?
--   Write your thoughts in your Reflective Journal (using Obsidian or WordPress). Conclude by writing a description of digital citizenship in your own words. (You will need this later for your Digital Citizenship Blog assessment. It does not need to be a scholarly definition---just your personal thoughts on the concept.)
+-   Write your thoughts in your journal (using Obsidian or WordPress). Conclude by writing a description of digital citizenship in your own words. (You will need this later for your Digital Citizenship Blog assessment. It does not need to be a scholarly definition---just your personal thoughts on the concept.)
 :::
 
 #### Defining Digital Citizenship {.unnumbered}
@@ -125,7 +125,7 @@ Read through the following resources in order to refine your own definition of w
     -   Generate a table listing the nine elements of digital citizenship and identify a practical example of each element for your academic study. For example:
 
 | **Element** | **Academic Study Example** |
-|---------------------------|---------------------------------------------|
+|----------------------------|--------------------------------------------|
 | Digital access | Students from low income countries may not have reliable or affordable access to the Internet. |
 | Digital commerce |  |
 | Digital communication |  |
@@ -145,7 +145,7 @@ Read through the following resources in order to refine your own definition of w
 
 #### Rights and Responsibilities {.unnumbered}
 
-The concept of citizenship encompasses the rights and responsibilities of individuals. We need to consider what rights and responsibilities come with digital citizenship. In this mini challenge, we explore this topic with particular emphasis on the rights and responsibilities associated with learning in a digital age.
+The concept of citizenship encompasses the rights and responsibilities of individuals. We need to consider what rights and responsibilities come with digital citizenship. In this next activity, we explore this topic with particular emphasis on the rights and responsibilities associated with learning in a digital age.
 
 Following the hype of massive open online courses (MOOC) and the New York Times declaring 2012 the "[year of the MOOC](https://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html){target="_blank"}," a small group of educators drafted *A Bill of Rights and Principles for Learning in a Digital Age* (Ng, 2013). This document forms the basis for a course discussion on the rights and responsibilities of digital citizens.
 
@@ -155,18 +155,26 @@ Following the hype of massive open online courses (MOOC) and the New York Times 
 -   Conduct a general search for rights and responsibilities of digital citizenship to assist in refining your own list for university online study. Your search is likely to generate many results developed for the school sector, so you need to evaluate whether these rights and responsibilities are appropriate for you.
 -   Read the following and then conduct a search through the TWU library for digital rights and responsibilities.
     -   [*A Bill of Rights and Principles for Learning in the Digital Age*](https://www.udacity.com/blog/2013/01/a-bill-of-rights-and-principles-for.html){target="_blank"} (2013)
-    -   [*'Bill of Rights' Seeks to Protect Students' Interests as Online Learning Rapidly Expands*](https://www.chronicle.com/article/bill-of-rights-seeks-to-protect-students-interests-as-online-learning-rapidly-expands/){target="_blank"} (2013)
-    -   [*Critique of 'Bill of Rights and Principles for Learning in the Digital Age*](https://www.insidehighered.com/blogs/law-policy-and-it/critique-bill-rights-and-principles-learning-digital-age){target="_blank"} (2013)
+    -   [Digital Rights and Responsibility in Education: A Scoping Review](https://epaa.asu.edu/index.php/epaa/article/view/7899/3340){target="_blank"} (2024)
 -   Prepare a table summarizing the primary rights and responsibilities for university learning in a digital age.
 -   Drawing on your knowledge and experience, join the discussion on Discourse regarding rights and responsibilities for learning in a digital age at TWU. You can discuss the topical issues listed below or add new ones to the forum. In each case, justify your position, taking opposing views into account.
+
+```         
+<!-- deleting 'Bill of Rights' Seeks to Protect Students' Interests as Online Learning Rapidly Expands (2013) & Critique of 'Bill of Rights and Principles for Learning in the Digital Age (2013)
+@chloe how does this work with Zotero?  Should I delete from the library? 
+
+On another issue - I want to add this video to the beginning of this activity, but the formatting isn't quite working.  please embed https://www.youtube.com/watch?v=QpNeavL0Dfw
+
+- Watch the Your Digital Rights and Responsibilities| Being a Good Digital Citizen
+
+-->
+```
 
 **Topical Issues**
 
 -   Should higher education institutions have the right to determine what software applications learners should use for their studies?
 -   Data generated by learners belongs to the learners, therefore should they have the right to access their data (for example forum discussion contributions) even after the course is completed?
--   Should higher education institutions reserve the right to ban disruptive learners from their learning platforms?
 -   Where legally permissible, should learners have the right to access all course materials without the need to register a password?
--   Should higher education institutions have the right to limit the time required for completing a course?
 -   Others?
 
 We encourage you to reply and to "like" posts on Discourse. Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
@@ -204,10 +212,16 @@ In this activity we will explore professional online identity and networking in 
 After completing the activities above answer the following questions:
 
 -   How do like-minded professionals in your career or future career, field, or discipline network online (e.g., X, LinkedIn groups, other websites)?
+
 -   What hashtags, if any, are being used for conversations in your chosen field?
+
 -   What are the topical areas of discussion at the moment?
+
 -   How could your field of interest improve professional networking online?
--   Do organizations in your field place restrictions on employees participating in social networks? (See for example *Corporate Social Media Policies: The Good, the Mediocre, and the Ugly* (2010a), and *More Social Media Policies: LA Times, Harvard Law, Microsoft, and Cisco* (2010b)*.*
+
+    \<!-- delete bullet point. Delete in Zotero too?
+
+-   Do organizations in your field place restrictions on employees participating in social networks? (See for example *Corporate Social Media Policies: The Good, the Mediocre, and the Ugly* (2010a), and *More Social Media Policies: LA Times, Harvard Law, Microsoft, and Cisco* (2010b)*.*--\>
 :::
 
 ### Activity: Blog: Professional Online Identity and Digital Citizenship
@@ -394,13 +408,21 @@ In this activity, we will practice using Hypothes.is by annotating an article on
 
 -   Read the Hypothes.is [*Quick-Start Guide for Students*](https://web.hypothes.is/quick-start-guide-for-students/){target="_blank"} (2023b) and create an account on Hypothes.is. We recommend that you use the Chrome browser and install the Hypothes.is extension. Alternatively, you can annotate web pages directly from the Hypothes.is website by pasting the link into the text area after you have logged into the site. If you are working on a mobile device, please follow these instructions: [*How to use Hypothes.is on Mobile Devices*](https://web.hypothes.is/help/how-to-use-hypothesis-on-mobile-devices/){target="_blank"} (2023a).
 
--   Read [*Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both*](https://www.literacyworldwide.org/blog/literacy-now/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both){target="_blank"} (2016)
+-   Re-read [*Nine Themes of Digital Citizenship*](https://www.digitalcitizenship.net/nine-elements.html){target="_blank"} (2023) and be sure to have your Hypothes.is extension activated so you can see others comments.
 
 -   Activate annotations after logging in to Hypothes.is---click the search icon () and enter the course code (LDRS101) to filter posts for this course from the public feed.
 
 -   Annotate or reply to posts by visiting the annotation page (you will need to be logged into the Hypothes.is site to post).
 
 We encourage you to reply and to “like” posts on Discourse. (Remember to tag your posts using key words to facilitate searches (e.g. digital-rights).
+
+\<!-- deleted bullet point. Delete in Zotero too?
+
+-   Read [*Knowing the Difference Between Digital Skills and Digital Literacies, and Teaching Both*](https://www.literacyworldwide.org/blog/literacy-now/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both) (2016)
+
+    ```         
+    -->
+    ```
 :::
 
 ### Activity: Hypothes.is Challenge!
@@ -493,12 +515,12 @@ Here are some other websites you might want to check out for more about the TWU 
 
 -   Instagram
 
--   Jot down your responses to the following questions in your reflective journal (Obsidian):
+Jot down your responses to the following questions in your reflective journal (Obsidian):
 
-    -   What are your personal and academic goals for making connections at TWU?
-    -   What steps will you take to make those connections?
-    -   What technology or digital skills will you need to fully engage?
-    -   How can connecting to the TWU community enhance your understanding of digital citizenship and online networking?
+-   What are your personal and academic goals for making connections at TWU?
+-   What steps will you take to make those connections?
+-   What technology or digital skills will you need to fully engage?
+-   How can connecting to the TWU community enhance your understanding of digital citizenship and online networking?
 :::
 
 ## Summary {.unnumbered}
