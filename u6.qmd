@@ -12,7 +12,7 @@ Congratulations! You've made it to the final unit in our course, *Learning with 
 
 This unit is divided into the following topics:
 
-1.  Sharing Your Learning at TWU
+1.  Community Learning
 2.  Digital Practices in the Workplace
 3.  Societal Issues and the Internet
 4.  Digital Wisdom
@@ -58,7 +58,7 @@ Here is a list of learning activities that will benefit you in completing this u
 ***Tip:*** Remember to continuously add resources to your Zotero library that align with your learning goals.
 :::
 
-## Sharing Your Learning at TWU
+## Community Learning
 
 Community is an essential component of Trinity Western University. Just have a look at the [TWU website](https://www.twu.ca/){target="_blank"} and you will find several references to learning within a community. For example:
 
@@ -75,34 +75,49 @@ In this course we have promoted the use of tools that allow you to share your le
 ### Activity: Learning in Community
 
 ::: learning-activity
--   Select from the following resources that explain how we learn in community.
-    -   [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.)
-    -   [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)%7Btarget=%22_blank%22%7D/02%3A_Social_Learning_Theories) (2021)
-    -   [Social Networking, Knowledge Sharing, and Student Learning: The Case of University Students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872){target="_blank"} (2016)
-    -   [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/){target="_blank"} (2016)
--   Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} (2017)
+Watch [What is Social Learning?](https://www.youtube.com/watch?v=AB-_822TRms){target="_blank"} (2017)
 
 {{< video https://www.youtube-nocookie.com/embed/AB-_822TRms >}}
 
-At TWU you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. Have a look at this resource that explains examples and reasons for these activities: - [Group Work: Using Cooperative Learning Groups Effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/){target="_blank"} (2015)
+```{=html}
+<!-- deleted the following:
 
-Students also have the opportunity to share their learning beyond the classroom. Here are some examples highlighting student collaboration and sharing at TWU:
+-   [Social Learning Theories](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Teaching_Crowds_-_Learning_and_Social_Media_(Dron_and_Anderson)%7Btarget=%22_blank%22%7D/02%3A_Social_Learning_Theories) (2021)
+
+-   [Social Networking, Knowledge Sharing, and Student Learning: The Case of University Students](https://www.sciencedirect.com/science/article/abs/pii/S0360131516300872){target="_blank"} (2016)
+
+-   [Collaborative Learning in Higher Education: Evoking Positive Interdependence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132366/){target="_blank"} (2016)
+
+-   ::: learning-activity
+    \- [Group Work: Using Cooperative Learning Groups Effectively](https://cft.vanderbilt.edu/guides-sub-pages/setting-up-and-facilitating-group-work-using-cooperative-learning-groups-effectively/){target="_blank"} (2015)
+    :::
 
 -   [TWU Media + Communications Students Showcase Their Work at Student Film Festival, Cinergy 2023](https://www.twu.ca/news-events/news/twu-media-communications-students-showcase-their-work-student-film-festival){target="_blank"} (2023)
 
 -   [Students Attend the Western Division of Canadian Association of Geographers](https://www.twu.ca/research/student-research/news){target="_blank"} (2017)
 
+-   Delete in Zotero too?
+-->
+```
+
+-   Read [Social Learning in Online Environments](https://openpress.usask.ca/humanmooc/chapter/social-learning-in-online-environments/){target="_blank"} (n.d.) on how we learn in community.
+-   Read [Social Learning vs. Community Based Learning: What’s the Difference?](https://www.corporatelearningnetwork.com/learning-design/articles/social-learning-vs-community-based-learning-whats-the-difference) {target="\_blank"} (2022) from a corporate HR Learning and Development perspective.
+
+At TWU and in your workplace you may be asked to participate in various group activities, such as group work, partner projects, team presentations, and so on. What are the benefits of working with others?
+
 Consider the following questions:
 
--   How have you experienced social learning in your educational experiences?
--   How did it help or hinder your learning?
--   What are your goals for sharing your learning at TWU and beyond? Share your thoughts by posting a comment on Discourse, for example: "Sharing learning in academia is valuable because ..."
+-   How have you experienced social or community learning in your educational or professional experiences?
+-   How did it help or hinder your learning, productivity, creativity, etc.?
+-   What are your goals for sharing your learning at TWU and beyond?
+
+Share your thoughts by posting a comment on Discourse, for example: "Sharing learning is valuable because ..." "Community learning in the workplace is valuable because ..."
 :::
 
 ### Activity: Preparing for the Future
 
 :::: learning-activity
-TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} that aims to equip students for their future careers. Have a look at their Career Ready Framework in the figure below.
+TWU has a [Centre for Calling & Career Development](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} that aims to equip students for their future careers. Have a look at their Career Ready Framework in the figure below and look specifically for the competencies related to social learning and digital skills? Be sure to click on the image and zoom in to read the details.
 
 ::: {#fig-TopxEmployeexSkillsx2025}
 ![](assets/u6/Competency_Framework.png){.lightbox fig-alt="3-column list of career skills categories" fig-align="left"}
@@ -112,11 +127,11 @@ Career Ready Framework
 
 *Source*: From ["Centre for Calling & Career Development,"](https://www.twu.ca/academics/academic-professional-support/centre-calling-career-development){target="_blank"} by Trinity Western University. (n.d.)
 
-What competencies do you see that relate to social learning and digital skills? As this course aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
+As LDRS 101 aims to prepare you for the technology skills that are needed in this digital age, we also want to encourage you to develop personal and professional learning networks to discover and share knowledge, collaborate with others, and become engaged digital global citizens.
 
 Consider the following questions:
 
--   What skills and competencies do you want to practice to be successful in your future career?
+-   What skills and competencies will benefit you in your career?
 -   How does collaborative learning and sharing your learning contribute to your learning journey?
 
 Feel free to share your thoughts in your Obsidian journal, Discourse, or your WordPress blog.
@@ -130,18 +145,31 @@ In this topic we consider how changes in technology have and will continue to im
 -   How has technology changed business practices in your field of interest or career?
 -   What are the implications for learning and skills development in your future career precipitated by changes in digital technology?
 
+Below we'll briefly explore technology and change, artificial intelligence, and jobs and automation. There are several other topics related to digital practices in the workplace you may choose to explore. As you engage with the learning activities, consider how your participation can demonstrate your understanding and proficiency of our course learning outcomes (applying technology-integrated workflows, using digital literacy skills, documenting your learning process, evaluating tools, and sharing your knowledge.
+
 ### Activity: The Future of Work
 
 ::: learning-activity
-In the following short video, [Ken Steele](http://eduvation.ca/bio/){target="_blank"} from Eduvation speculates about the future of the labour market and the value of higher education in a digital age.
+Watch [What is the Future of Work?](https://www.youtube.com/watch?v=EuDnSqAo784){target="_blank"} (2022) from the World Economic Forum
+
+{{< video https://www.youtube-nocookie.com/embed/EuDnSqAo784 >}}
+
+```{=html}
+<!-- deleted 
+In the following video, [Ken Steele](http://eduvation.ca/bio/){target="_blank"} What is the Future of Work? | World Economic Forum
+speculates about the future of the labour market and the value of higher education in a digital age.
+https://www.youtube.com/watch?v=EuDnSqAo784
 
 -   Watch [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} (2015)
 
 {{< video https://www.youtube-nocookie.com/embed/iY4UhfQefdU >}}
 
+-->
+```
+
 What do you think? Share your thoughts by posting a comment on Discourse, for example:
 
--   Higher education is valuable because ...
+-   The future of work is ...
 -   In a digital age ...
 -   I am confident that ...
 -   I am concerned about ...
@@ -151,6 +179,9 @@ What do you think? Share your thoughts by posting a comment on Discourse, for ex
 
 Throughout history there are technologies that have influenced change in society. Consider, for example, the invention of the steam engine and its contribution to the Industrial Revolution. In more recent times, the advent of digital photography displaced Kodachrome (at one time, the market leader in colour film sales) which ceased production in 2009.
 
+```{=html}
+<!-- deleted 
+
 ### Activity: Newspaper and Music Industry in a Digital Age
 
 ::: learning-activity
@@ -159,6 +190,9 @@ The readings that follow take a retrospective look at the impact of the internet
 -   [The age of Digital; Music Executive Reacts to the Impact of Digitalization in the Music Industry](https://www.forbes.com/sites/joshwilson/2022/09/14/the-age-of-digital-music-executive-reacts-to-the-impact-of-digitalization-in-the-music-industry/?sh=1ca7f385537b){target="_blank"} (2022)
 -   [The Future of Newspapers in the Digital Age: Embracing the Change!](https://medium.com/@kumarpriyanshu025/the-future-of-newspapers-in-the-digital-age-embracing-the-change-fe835bd8d52f){target="_blank"} (2023) Add or reply to annotations using [Hypothes.is](https://web.hypothes.is/){target="_blank"}, sharing personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
 :::
+
+-->
+```
 
 ### Activity: Impact of Digital Technology on Business
 
@@ -231,7 +265,9 @@ Here is one more article that discusses the pros and cons of English learners us
 ### Activity: How to Identify AI Generated Text
 
 ::::: learning-activity
-Explore the infographic below by Ryan Morrison. *Tip: You may want to view the resource full screen (Click on the three dots on the bottom right, and then select the full screen arrows.)*
+Explore the infographic below by Ryan Morrison.
+
+*Tip: View the resource in full screen by clicking on the three dots on the bottom right, and then selecting the full screen arrows.*
 
 :::: {style="width: 100%;"}
 ::: {style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"}
@@ -304,14 +340,18 @@ In this next topic we introduce a number of societal issues and problematic onli
 -   Psychological issues
 -   Net neutrality
 -   Digital redlining <!--
-    -   Diversity, equity and inclusion-->
+                                    -   Diversity, equity and inclusion-->
 
-Choose one societal issue or antisocial behaviour associated with the internet that you would like to investigate further. You may wish to browse the other sections, but each topic can be time-consuming, so be sure to map out your time so you can complete your learning goals. Your task will be to publish an editorial on your chosen topic in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
+***Choose one*** societal issue or antisocial behaviour associated with the internet that you would like to investigate further. You may wish to browse the other sections, but each topic can be time-consuming, so be sure to map out your time so you can complete your learning goals.
+
+Your task will be to publish an editorial on your chosen topic in your course blog. You will base your focus on your reading of open access resources you find online. Your blog post will also help you build your online identity.
 
 ### Activity: Problematic Online Behaviours---Key Terms Quiz
 
 ::: learning-activity
 To test your knowledge of concepts associated with problematic behaviours online, we provide a short orientation quiz below. Once you have attempted your first answer, and in the event that you are not familiar or not sure what the alternatives mean, click the options to find out more about the concept.
+
+<!-- prote - the H5P is missing. note this may be a glitch in the Quarto\>Word\>editor\>Quarto workflow. @chloecwh let's discuss! -->
 
 How did you do? Have you encountered any of these behaviours online? Share your thoughts by posting a comment on Discourse.
 :::
@@ -332,7 +372,11 @@ Watch this *Matrix* parody, a comedy skit published by CollegeHumour, depicting 
 
 Were you surprised by any ideas presented in the video? Do you think this is a valid and reliable source for the topic?
 
-Next we will give an overview of how website tracking works, how your data is used, and how you can protect yourself online.
+In the next activity you will be asked to search online for credible sources on how website tracking works, how your data is used, and how you can protect yourself online.
+
+
+
+<!-- deleting accordions & info
 
 ::: {.accordion title="How does website tracking work? Click/tap this banner to show/hide the content."}
 **Cookies**: Cookies are small text files that websites store on your device. They contain information about your online activities such as login credentials, preferences, and browsing history. Websites use cookies to recognize and remember you when you return, and they can also track your movements across the site.
@@ -402,12 +446,19 @@ Privacy concerns regarding website tracking primarily revolve around the collect
 **Consider VPNs and Encrypted Messaging**: For heightened privacy, use end-to-end encrypted messaging apps such as Signal, and consider using a reputable VPN service to protect your online communication.
 
 It's important to note that while these steps can help reduce online tracking they might not completely eliminate it. Achieving complete anonymity on the internet is challenging, but these measures can significantly enhance your online privacy and data security. Additionally, privacy laws and regulations in your region may provide you with rights and options for controlling how your data is collected and used online.
+ -->
+
 :::
 
 ### Activity: Website Tracking Resources
 
 ::: learning-activity
-Choose from the resources below to inform your views on website and data tracking: - [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018) - [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
+Choose from the resources below to inform your views on website and data tracking: 
+
+- [Get Cyber Safe](https://www.getcybersafe.gc.ca/en) {target="_blank"} (2024) is a national public awareness campaign created to inform Canadians about cyber security and the simple steps they can take to protect themselves online. 
+- [Protecting your information and data when using applications- ITSAP.40.200](https://www.cyber.gc.ca/en/protecting-your-information-and-data-when-using-applications-itsap40200) {target="_blank"} (2023) 
+from [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en) 
+- [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018) - [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
 
 Also review these resources on corporate sponsored research:
 
