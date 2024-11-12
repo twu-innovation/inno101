@@ -32,14 +32,13 @@ When you have completed this unit you will be able to:
 
 Here is a list of learning activities that will benefit you in completing this unit. You may find it useful for planning your work.
 
--   Watch the video [Higher Ed Trends: Student Career Anxiety and the Future of Work](https://www.youtube.com/watch?v=iY4UhfQefdU){target="_blank"} (2015)
--   Read the articles on how the internet impacted the newspaper and music industries.
+-   View the resources on social learning and consider how learning in community could support your goals.
+-   Examine the Career Ready Framework from TWU's Centre for Calling and Career Development
+-   Watch the video on the future of work and share your views with your peers.
 -   Discuss the impact of digital technology on business.
--   Explore AI tools for university students and view the resources provided.
--   View the resources on AI and plagiarism.
--   Discuss the impact of automation and AI in the workplace.
--   View the resources on the price of AI and discuss the ethical implications.
--   Investigate and publish a blog post on a topic focusing on societal issues on the internet, such as website tracking, trolling, net neutrality, and digital redlining.
+-   Explore AI tools for university students and view the resources on AI and plagiarism.
+-   Discuss the impact of automation and AI in the workplace, as well as the ethical implications of using AI.
+-   Select a topic focusing on societal issues on the internet to investigate and publish an editorial on your blog.
 -   Read the article on digital wisdom and reflect on how technology serves both personal and communal benefits.
 
 ::: note
@@ -340,7 +339,7 @@ In this next topic we introduce a number of societal issues and problematic onli
 -   Psychological issues
 -   Net neutrality
 -   Digital redlining <!--
-                                    -   Diversity, equity and inclusion-->
+                                                -   Diversity, equity and inclusion-->
 
 ***Choose one*** societal issue or antisocial behaviour associated with the internet that you would like to investigate further. You may wish to browse the other sections, but each topic can be time-consuming, so be sure to map out your time so you can complete your learning goals.
 
@@ -374,8 +373,7 @@ Were you surprised by any ideas presented in the video? Do you think this is a v
 
 In the next activity you will be asked to search online for credible sources on how website tracking works, how your data is used, and how you can protect yourself online.
 
-
-
+```{=html}
 <!-- deleting accordions & info
 
 ::: {.accordion title="How does website tracking work? Click/tap this banner to show/hide the content."}
@@ -447,18 +445,18 @@ Privacy concerns regarding website tracking primarily revolve around the collect
 
 It's important to note that while these steps can help reduce online tracking they might not completely eliminate it. Achieving complete anonymity on the internet is challenging, but these measures can significantly enhance your online privacy and data security. Additionally, privacy laws and regulations in your region may provide you with rights and options for controlling how your data is collected and used online.
  -->
+```
 
 :::
 
 ### Activity: Website Tracking Resources
 
 ::: learning-activity
-Choose from the resources below to inform your views on website and data tracking: 
+Choose from the resources below to inform your views on website and data tracking:
 
-- [Get Cyber Safe](https://www.getcybersafe.gc.ca/en) {target="_blank"} (2024) is a national public awareness campaign created to inform Canadians about cyber security and the simple steps they can take to protect themselves online. 
-- [Protecting your information and data when using applications- ITSAP.40.200](https://www.cyber.gc.ca/en/protecting-your-information-and-data-when-using-applications-itsap40200) {target="_blank"} (2023) 
-from [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en) 
-- [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018) - [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
+-   [Get Cyber Safe](https://www.getcybersafe.gc.ca/en) {target="\_blank"} (2024) is a national public awareness campaign created to inform Canadians about cyber security and the simple steps they can take to protect themselves online.
+-   [Protecting your information and data when using applications- ITSAP.40.200](https://www.cyber.gc.ca/en/protecting-your-information-and-data-when-using-applications-itsap40200) {target="\_blank"} (2023) from [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en)
+-   [*The Real Cost of the 'Free' Internet*](http://mediashift.org/2018/01/real-cost-free-internet/){target="_blank"} (2018) - [*Don't Be Evil: Should we use Google in Schools?*](https://link.springer.com/article/10.1007/s11528-021-00599-4){target="_blank"} (2021)
 
 Also review these resources on corporate sponsored research:
 
@@ -600,32 +598,36 @@ In this section, we will review research on the state of online harassment and c
 ### Activity: The State of Online Harassment
 
 :::: learning-activity
-Read the following research reports on online harassment. - [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.) - [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
+Read the following research reports on online harassment.
+
+\- [*Online Harassment*](https://www.pewresearch.org/internet/2014/10/22/online-harassment/){target="_blank"} (2017). (Note that this is an 8-page report; click through to read it all.)
+
+\- [*Q&A: What We've Learned About Online Harassment*](https://www.pewresearch.org/short-reads/2021/01/13/qa-what-weve-learned-about-online-harassment/){target="_blank"} (2021)
 
 ::: note
 Note in particular the finding that those "who have ever experienced more severe forms of harassment -- such as physical threats, stalking, sexual harassment or sustained harassment -- or multiple forms of harassing behaviors online have both risen substantially in the past three years. This is not the pattern we saw in prior surveys. There has been a markedly steeper rise in these measures since 2017, compared with the change between our 2014 and 2017 studies" (DeSilver, 2021).
 :::
 
-**Questions to Consider**: - What surprised you when reading these reports? - Why have the forms of harassment become more severe? - Have you or someone you know experienced some kind of online harassment?
+**Questions to Consider**:
+
+\- What surprised you when reading these reports?
+
+\- Why have the forms of harassment become more severe?
+
+\- Have you or someone you know experienced some kind of online harassment?
 
 Add or reply to annotations using Hypothes.is to share personal insights and experiences. Remember to tag your posts using the course code: LDRS101.
 ::::
 
-### Activity: The Response From Social Media
+### Activity: Social Media Policies and Practices
 
 ::: learning-activity
-Choose from the following resources about Facebook and X (Twitter) policies on online harassment, and responses to them.
+View the the following policy resources on online harassment from X and Meta (Facebook, Instagram, Messenger and Threads).
 
-*Suggested practices*
-
--   [*Facebook Community Standards*](https://transparency.fb.com/en-gb/policies/community-standards/?source=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F){target="_blank"} (n.d.)
+-   [*Meta Community Standards*](https://transparency.meta.com/policies/community-standards/){target="_blank"} (n.d.)
 -   [*About Online Abuse*](https://help.twitter.com/en/safety-and-security/cyber-bullying-and-online-abuse){target="_blank"} (n.d.)
 
-*Commentary*
-
--   [*Twitter Tries new Measures in Crackdown on Harassment*](https://money.cnn.com/2017/02/07/technology/twitter-combat-harassment-features/index.html?iid=EL){target="_blank"} (2017)
--   [*Using Digital Fingerprints and Deep Learning to Fight Online Harassment*](https://www.forbes.com/sites/kalevleetaru/2017/02/06/using-digital-fingerprints-and-deep-learning-to-fight-online-harassment/?sh=49fc9bf06908){target="_blank"} (2017)
--   [*At Facebook we get Things Wrong -- But we Take our Safety Role Seriously*](https://www.theguardian.com/commentisfree/2017/may/22/facebook-get-things-wrong-but-safety-role-seriously){target="_blank"} (2017). Please watch the [*video*](https://www.theguardian.com/news/video/2017/may/21/the-facebook-files-sex-violence-and-hate-speech-video-explainer){target="_blank"} in this link!
+Search online for current events related to social media platforms and harassment. What are the companies doing to prevent bullying, child exploitation, hate speech, etc.?
 :::
 
 ### Psychological Issues {.unnumbered}
@@ -734,7 +736,7 @@ Watch the following videos that explain the importance of net neutrality.
 ### Activity: Perspectives on Net Neutrality
 
 ::: learning-activity
-Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views. - First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} (2024).
+Explore the issue of net neutrality. Here are some sample resources, but please search for additional resources that interest you. Seek out different perspectives on the topic to inform your views. First, have a look at a summary of [*Net Neutrality by Country*](https://en.wikipedia.org/wiki/Net_neutrality_by_country#:~:text=source%20or%20ownership.-,China,is%20available%20to%20their%20citizens){target="_blank"} (2024).
 
 Next, click the topics below to explore different perspectives on this issue in Canada.
 
@@ -746,6 +748,8 @@ Next, click the topics below to explore different perspectives on this issue in 
 
 Dr. Michael Geist is a law professor at the University of Ottawa where he holds the Canada Research Chair in Internet and e-Commerce Law and is a member of the Centre for Law, Technology and Society. Browse through his [*articles*](https://www.michaelgeist.ca/tech-law-topics/net-neutrality/){target="_blank"} on net neutrality.
 
+```{=html}
+<!-- deleting content
 Here are some key points of interest from Dr. Geist:
 
 > First, while the focus of net neutrality is typically on telecom companies, Bill C-10 envisions a different intermediary or third party – the Canadian government via the CRTC – choosing which content Canadians see by prioritizing or de-prioritizing content that appears in Canadians’ feeds. Internet sites and services will still be available to Canadians (assuming the sites aren’t blocked given the onerous regulations), but the government’s Internet regulatory framework will mean that Internet content will not be treated in a neutral, equal fashion. The mandated Canadian content discoverability requirements will mean that a government regulator will influence what Canadians see when they access Internet services, invoking the same concerns regarding interfering with content and user choice. The intermediary may have changed, but the principle is largely the same. (Geist, 2021, para. 9)
@@ -776,11 +780,11 @@ Here are a couple more resources focusing on the American debate on net neutrali
     -   [*Internet.org*](https://en.wikipedia.org/wiki/Internet.org){target="_blank"} (2024)
     -   [*India Bans Facebook's Basics app to Support Net Neutrality*](https://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/){target="_blank"} (2016)
     -   [*Facebook's Internet.org Isn't Going Over Well in India*](https://fortune.com/2016/01/22/facebook-india-internet/){target="_blank"} (2016)
--   Share your thoughts on net neutrality by posting a comment on Discourse. For example:
-    -   Net neutrality is important because ...
-    -   Net neutrality can/can't coexist with Internet.org because ...
-    -   Free basics is a good thing because ...
-    -   Free basics is problematic because ...
+
+-->
+```
+
+Share your thoughts on net neutrality by posting a comment on Discourse. For example: - Net neutrality is important because ... - Net neutrality can/can't coexist with Internet.org because ... - Free basics is a good thing because ... - Free basics is problematic because ...
 
 Remember to add a category or tag for your post using the course tag: LDRS101.
 :::
@@ -791,17 +795,12 @@ Remember to add a category or tag for your post using the course tag: LDRS101.
 
 In the context of the digital age, digital redlining manifests in various ways:
 
-**Limited internet access**: Some areas, often low income neighborhoods or rural regions, may lack access to high speed internet or affordable data plans. This limits people's ability to access online education, job opportunities, government services, and other online resources.
-
-**Discriminatory algorithms**: Algorithms used in various online services such as lending, housing, and employment platforms may inadvertently or intentionally discriminate against certain groups. For example, an algorithm may give preferential treatment to job applicants from specific demographics.
-
-**Targeted advertising and privacy concerns**: Certain demographics may be disproportionately exposed to predatory or harmful online advertisements, while more privileged individuals receive personalized, less invasive content. This can lead to manipulation and exploitation.
-
-**Educational disparities**: Inadequate access to technology and online educational resources can limit learning opportunities for students in underserved communities.
-
-**Healthcare access**: Some communities may have limited access to telehealth services, which have become increasingly important, especially, for example, during the COVID-19 pandemic.
-
-**Data collection and surveillance**: Vulnerable populations are often subject to more extensive data collection and surveillance, leading to privacy concerns and potential discrimination based on the data collected.
+-   Limited internet access or affordable data plans
+-   Discriminatory algorithms
+-   Targeted advertising and privacy concerns
+-   Educational disparities due to inadequate access to technology and online resources
+-   Healthcare access (e.g. telehealth services)
+-   Data collection and surveillance
 
 Addressing digital redlining is essential to ensure equitable access to the benefits of the digital age. Efforts to combat digital redlining include policies aimed at closing the digital divide, regulating algorithms to prevent discriminatory outcomes, promoting net neutrality, and protecting data privacy. These measures aim to create a more inclusive and fair digital environment for all individuals, regardless of their socioeconomic status, race, or location.
 
@@ -998,12 +997,13 @@ Here are few additional topics to consider:
 ### Activity: Editorial: Societal Issues on the Internet
 
 ::: learning-activity
--   Publish an editorial (400--600 words) on your blog on a societal issue or antisocial behaviour associated with the internet. Your editorial must:
-    -   Contain a minimum of four hyperlinks to supporting resources or issues. Your digital identity is connected to the internet and it is important to demonstrate how your contribution joins a networked conversation through connections in information.
-    -   Include a representative image embedded in your blog post (n.b., ensure that you have legal permission to use the image).
-    -   If you are not sure about copyright, source a public domain image on a site such as [*Pexels*](https://www.pexels.com/){target="_blank"}. Don't use sponsored or licensed images unless you have purchased the rights to use them.
-    -   Include at least two references properly cited using APA style.
-    -   Include a paragraph highlighting practical implications; for example, learning in a digital age or your current role.
+In this activity you are asked to publish an editorial (400--600 words) on your blog on a societal issue or antisocial behaviour associated with the internet. Your editorial must:
+
+-   Contain a minimum of four hyperlinks to supporting resources or issues. Your digital identity is connected to the internet and it is important to demonstrate how your contribution joins a networked conversation through connections in information.
+-   Include a representative image embedded in your blog post (n.b., ensure that you have legal permission to use the image).
+-   If you are not sure about copyright, source a public domain image on a site such as [*Pexels*](https://www.pexels.com/){target="_blank"}. Don't use sponsored or licensed images unless you have purchased the rights to use them.
+-   Include at least two references properly cited using APA style.
+-   Include a paragraph highlighting practical implications; for example, learning in a digital age or your current role.
 
 ```{=html}
 <!-- //todo
@@ -1034,6 +1034,8 @@ Choose a topic of interest.
     -   share your solutions
 -   Prepare a paragraph on practical implications, for instance, learning in a digital age or your current role.
 -   Draft the conclusion.
+
+Post your editorial on your blog and be sure to share with your peers.
 :::
 
 ## Digital Wisdom
